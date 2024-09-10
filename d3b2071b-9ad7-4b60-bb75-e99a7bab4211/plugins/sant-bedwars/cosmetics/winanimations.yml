@@ -1,0 +1,101 @@
+# Animação padrão
+fireworks:
+  name: 'Fogos de Artíficio'
+  icon: 'FIREWORK : 1 : desc>&7Celebre a vitória com um show\n&7de fogos de artíficio.'
+ender_dragon:
+  # ID único, não utilize IDs repetidos.
+  id: 1
+  coins: 20000.0
+  cash: 200
+  rarity: DIVINO
+  permission: 'role.mvpplus'
+  name: 'Dragão do Fim'
+  icon: 'DRAGON_EGG : 1 : desc>&7Pegue aquela carona divertida\n&7com um Dragão do Fim.'
+cowboy:
+  id: 2
+  coins: 5000.0
+  cash: 50
+  rarity: COMUM
+  permission: ''
+  name: 'Cowboy'
+  icon: 'SADDLE : 1 : desc>&7Galope um cavalo no estilo\n&7do velho oeste.'
+thor:
+  id: 3
+  coins: 5000.0
+  cash: 75
+  rarity: DIVINO
+  permission: ''
+  name: 'Thor'
+  icon: 'IRON_AXE : 1 : esconder>tudo : desc>&7Comemore com o deus do trovão!\n&7Raios cairam sobre você\n&7ao fim da partida.'
+cart:
+  id: 4
+  coins: 10000.0
+  cash: 75
+  rarity: EPICO
+  permission: ''
+  name: 'Trem'
+  icon: 'MINECART : 1 : desc>&7Viaje pelo trem voador\n&7após seu triunfo.'
+rainbow:
+  id: 5
+  coins: 10000.0
+  cash: 75
+  rarity: RARO
+  permission: ''
+  name: 'Arco-íris'
+  icon: 'WOOL:2 : 1 : desc>&7Um arco-íris de ovelhas surgirá após a\n&7batalha para reconhecer sua vitória.'
+victoryheat:
+  id: 6
+  coins: 10000.0
+  cash: 75
+  rarity: DIVINO
+  permission: ''
+  name: 'Calor da Vítoria'
+  icon: 'LAVA_BUCKET : 1 : desc>&7Os ânimos esquentaram e você também!\n&7Ao vencer, os blocos ao seu redor\n&7começará a pegar fogo.'
+cake:
+  id: 7
+  coins: 10000.0
+  cash: 75
+  rarity: RARO
+  permission: ''
+  name: 'Tá chovendo bolo!'
+  icon: 'CAKE : 1 : desc>&7Vários bolos irão cair do seu para\n&7você comemorar seu incrível feito.'
+wither:
+  id: 8
+  coins: 20000.0
+  cash: 200
+  rarity: DIVINO
+  permission: 'role.mvpplus'
+  name: 'Wither'
+  icon: 'SKULL_ITEM:1 : 1 : desc>&7Pegue aquela carona divertida\n&7com um Wither.'
+zombie:
+  id: 9
+  coins: 20000.0
+  cash: 200
+  rarity: DIVINO
+  permission: 'role.mvpplus'
+  name: 'Cemitério'
+  icon: '383:54 : 1 : desc>&7Traga suas vítimas de volta como\n&7zumbis para ver sua vitória!'
+tnt:
+  id: 10
+  coins: 10000.0
+  cash: 75
+  rarity: RARO
+  permission: ''
+  name: 'Explosões'
+  icon: 'TNT : 1 : desc>&7Se divirta após sua vitória\n&7com explosões loucas!'
+you:
+  id: 11
+  coins: 15000.0
+  cash: 60
+  rarity: EPICO
+  permission: 'role.vip'
+  name: 'Você'
+  icon: 'SKULL_ITEM:3 : 1 : desc>&7Vários de você aparecerá apertando\n&7shift após sua vitória! : skin>eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGEyODRkOTc4MDViZTUzMWNhZGYwNjI3YzVjMjllOTAzNWUxNzEyMTU4MWRjYWJjZjk1MTBmZmQ5ZDQ2MDdmZiJ9fX0='
+anvil:
+  id: 12
+  coins: 15000.0
+  cash: 55
+  rarity: EPICO
+  permission: 'role.vip'
+  name: 'Bigornas'
+  icon: 'ANVIL : 1 : desc>&7Faça ao final da partida\n&7ter uma chuva de bigornas!'

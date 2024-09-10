@@ -1,0 +1,150 @@
+[14:06:49 INFO]: 	Engine Mode: 1
+[14:06:49 INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[14:06:49 INFO]: 	Replace Blocks: [1, 5]
+[14:06:49 INFO]: Nerfing mobs spawned from spawners: false
+[14:06:49 INFO]: Cactus Growth Modifier: 100%
+[14:06:49 INFO]: Cane Growth Modifier: 100%
+[14:06:49 INFO]: Melon Growth Modifier: 100%
+[14:06:49 INFO]: Mushroom Growth Modifier: 100%
+[14:06:49 INFO]: Pumpkin Growth Modifier: 100%
+[14:06:49 INFO]: Sapling Growth Modifier: 100%
+[14:06:49 INFO]: Wheat Growth Modifier: 100%
+[14:06:49 INFO]: NetherWart Growth Modifier: 100%
+[14:06:49 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[14:06:49 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:06:49 INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[14:06:49 INFO]: Random Lighting Updates: false
+[14:06:49 INFO]: Structure Info Saving: true
+[14:06:49 INFO]: Sending up to 10 chunks per packet
+[14:06:49 INFO]: Item Despawn Rate: 6000
+[14:06:49 INFO]: Item Merge Radius: 2.5
+[14:06:49 INFO]: Arrow Despawn Rate: 1200
+[14:06:49 INFO]: View Distance: 10
+[14:06:49 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:06:49 INFO]: Zombie Aggressive Towards Villager: true
+[14:06:49 INFO]: Chunks to Grow per Tick: 650
+[14:06:49 INFO]: Clear tick list: false
+[14:06:49 INFO]: Experience Merge Radius: 3.0
+[14:06:49 INFO]: Preparing start region for level 5 (Seed: 0)
+[14:08:57 INFO]: UUID of player augustoYT is f333426e-0a81-3625-86c3-d8ec263df338
+[14:08:57 INFO]: augustoYT[/45.186.88.108:59629] logged in with entity id 2040 at ([world]387.5, 113.0, 1375.5)
+[14:10:19 INFO]: augustoYT lost connection: Disconnected
+[14:10:51 INFO]: AmorSocial issued server command: /fly
+[14:10:54 INFO]: -------- World Settings For [dark] --------
+[14:10:54 INFO]: Max Entity Collisions: 8
+[14:10:54 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[14:10:54 INFO]: Max TNT Explosions: 100
+[14:10:54 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:10:54 INFO]: Mob Spawn Range: 4
+[14:10:54 INFO]: Anti X-Ray: true
+[14:10:54 INFO]: 	Engine Mode: 1
+[14:10:54 INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[14:10:54 INFO]: 	Replace Blocks: [1, 5]
+[14:10:54 INFO]: Nerfing mobs spawned from spawners: false
+[14:10:54 INFO]: Cactus Growth Modifier: 100%
+[14:10:54 INFO]: Cane Growth Modifier: 100%
+[14:10:54 INFO]: Melon Growth Modifier: 100%
+[14:10:54 INFO]: Mushroom Growth Modifier: 100%
+[14:10:54 INFO]: Pumpkin Growth Modifier: 100%
+[14:10:54 INFO]: Sapling Growth Modifier: 100%
+[14:10:54 INFO]: Wheat Growth Modifier: 100%
+[14:10:54 INFO]: NetherWart Growth Modifier: 100%
+[14:10:54 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[14:10:54 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:10:54 INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[14:10:54 INFO]: Random Lighting Updates: false
+[14:10:54 INFO]: Structure Info Saving: true
+[14:10:54 INFO]: Sending up to 10 chunks per packet
+[14:10:54 INFO]: Item Despawn Rate: 6000
+[14:10:54 INFO]: Item Merge Radius: 2.5
+[14:10:54 INFO]: Arrow Despawn Rate: 1200
+[14:10:54 INFO]: View Distance: 10
+[14:10:54 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:10:54 INFO]: Zombie Aggressive Towards Villager: true
+[14:10:54 INFO]: Chunks to Grow per Tick: 650
+[14:10:54 INFO]: Clear tick list: false
+[14:10:54 INFO]: Experience Merge Radius: 3.0
+[14:10:54 INFO]: Preparing start region for level 5 (Seed: 0)
+[14:11:08 INFO]: AmorSocial issued server command: /fly
+[14:11:11 INFO]: AmorSocial issued server command: /fly
+[14:13:24 INFO]: Leo_1v1 lost connection: Disconnected
+[14:13:26 INFO]: UUID of player Leo_1v1 is 8186b329-5a86-388a-95fa-b8914b28b774
+[14:13:26 INFO]: Leo_1v1[/38.43.101.224:41613] logged in with entity id 2870 at ([world]387.5, 113.0, 1375.5)
+[14:13:35 INFO]: AmorSocial issued server command: /fly
+[14:13:37 INFO]: AmorSocial issued server command: /fly
+[14:13:44 INFO]: -------- World Settings For [dark] --------
+[14:13:44 INFO]: Max Entity Collisions: 8
+[14:13:44 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[14:13:44 INFO]: Max TNT Explosions: 100
+[14:13:44 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:13:44 INFO]: Mob Spawn Range: 4
+[14:13:44 INFO]: Anti X-Ray: true
+[14:13:44 INFO]: 	Engine Mode: 1
+[14:13:44 INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[14:13:44 INFO]: 	Replace Blocks: [1, 5]
+[14:13:44 INFO]: Nerfing mobs spawned from spawners: false
+[14:13:44 INFO]: Cactus Growth Modifier: 100%
+[14:13:44 INFO]: Cane Growth Modifier: 100%
+[14:13:44 INFO]: Melon Growth Modifier: 100%
+[14:13:44 INFO]: Mushroom Growth Modifier: 100%
+[14:13:44 INFO]: Pumpkin Growth Modifier: 100%
+[14:13:44 INFO]: Sapling Growth Modifier: 100%
+[14:13:44 INFO]: Wheat Growth Modifier: 100%
+[14:13:44 INFO]: NetherWart Growth Modifier: 100%
+[14:13:44 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[14:13:44 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:13:44 INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[14:13:44 INFO]: Random Lighting Updates: false
+[14:13:44 INFO]: Structure Info Saving: true
+[14:13:44 INFO]: Sending up to 10 chunks per packet
+[14:13:44 INFO]: Item Despawn Rate: 6000
+[14:13:44 INFO]: Item Merge Radius: 2.5
+[14:13:44 INFO]: Arrow Despawn Rate: 1200
+[14:13:44 INFO]: View Distance: 10
+[14:13:44 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:13:44 INFO]: Zombie Aggressive Towards Villager: true
+[14:13:44 INFO]: Chunks to Grow per Tick: 650
+[14:13:44 INFO]: Clear tick list: false
+[14:13:44 INFO]: Experience Merge Radius: 3.0
+[14:13:44 INFO]: Preparing start region for level 5 (Seed: 0)
+[14:17:17 INFO]: AmorSocial lost connection: Disconnected
+[14:17:31 INFO]: Leo_1v1 lost connection: Disconnected
+[14:17:34 INFO]: -------- World Settings For [dark] --------
+[14:17:34 INFO]: Max Entity Collisions: 8
+[14:17:34 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[14:17:34 INFO]: Max TNT Explosions: 100
+[14:17:34 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:17:34 INFO]: Mob Spawn Range: 4
+[14:17:34 INFO]: Anti X-Ray: true
+[14:17:34 INFO]: 	Engine Mode: 1
+[14:17:34 INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[14:17:34 INFO]: 	Replace Blocks: [1, 5]
+[14:17:34 INFO]: Nerfing mobs spawned from spawners: false
+[14:17:34 INFO]: Cactus Growth Modifier: 100%
+[14:17:34 INFO]: Cane Growth Modifier: 100%
+[14:17:34 INFO]: Melon Growth Modifier: 100%
+[14:17:34 INFO]: Mushroom Growth Modifier: 100%
+[14:17:34 INFO]: Pumpkin Growth Modifier: 100%
+[14:17:34 INFO]: Sapling Growth Modifier: 100%
+[14:17:34 INFO]: Wheat Growth Modifier: 100%
+[14:17:34 INFO]: NetherWart Growth Modifier: 100%
+[14:17:34 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[14:17:34 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:17:34 INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[14:17:34 INFO]: Random Lighting Updates: false
+[14:17:34 INFO]: Structure Info Saving: true
+[14:17:34 INFO]: Sending up to 10 chunks per packet
+[14:17:34 INFO]: Item Despawn Rate: 6000
+[14:17:34 INFO]: Item Merge Radius: 2.5
+[14:17:34 INFO]: Arrow Despawn Rate: 1200
+[14:17:34 INFO]: View Distance: 10
+[14:17:34 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:17:34 INFO]: Zombie Aggressive Towards Villager: true
+[14:17:34 INFO]: Chunks to Grow per Tick: 650
+[14:17:34 INFO]: Clear tick list: false
+[14:17:34 INFO]: Experience Merge Radius: 3.0
+[14:17:34 INFO]: Preparing start region for level 5 (Seed: 0)
+[14:22:42 INFO]: UUID of player MuriloDR is 2765220a-da1f-395e-8ee6-1fcc0ac11b3b
+[14:22:42 INFO]: MuriloDR[/138.36.251.155:60949] logged in with entity id 3761 at ([world]387.5, 113.0, 1375.5)
+[14:23:08 INFO]: MuriloDR issued server command: /kl
+[14:23:11 INFO]: MuriloDR lost connection: Disconnected

@@ -1,0 +1,16 @@
+# BungeeGuard Configuration
+
+# Allowed authentication tokens.
+allowed-tokens:
+  - "aE3c9jyynaghVJFL4YmUV9N5XstUaiavWlF8PAyUDTpDxW0M24uVJwUSNl7TN9yK"
+
+# Messages
+
+# Kick message sent to connections without any forwarded data from the proxy.
+# Most likely a vanilla client connecting directly to the server, bypassing the proxy.
+no-data-kick-message: "&6&lSantMC &7➜ &fVocê está tentando acessar &cpor um servidor fora do proxy."
+
+# Kick message sent to connections with forwarding data, but without a correct BungeeGuard token
+# included in their handshake. Assuming BungeeGuard is installed correctly on all proxies,
+# this is most likely a client trying to exploit the BungeeCord protocol to spoof their uuid.
+invalid-token-kick-message: "&6&lSantMC &7➜ &fVocê está tentando acessar &cpor um servidor fora do proxy."

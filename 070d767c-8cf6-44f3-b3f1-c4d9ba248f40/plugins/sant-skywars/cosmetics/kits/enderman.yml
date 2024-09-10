@@ -1,0 +1,25 @@
+# ID único, não utilize IDs repetidos.
+id: 22
+especial: 'Enderman'
+name: 'Enderman'
+rarity: DIVINO
+permission: ''
+# Lista de slots que irão ser os padrões dos itens.
+slots: [1, 2, 3, 4, 5]
+icon: '368 : 1 : desc>&7Receba pérolas do fim ao\n&7decorrer do tempo e se\n&7movimente pelo mapa com mais rapidez.'
+levels:
+  # Esse número representa o nível do kit
+  1:
+    name: 'Enderman I'
+    coins: 7000.0
+    cash: 80
+    items: []
+    description: '&7Você receberá uma pérola do fim\n&7a cada 60 segundos.'
+    time: 60
+  2:
+    name: 'Enderman I'
+    coins: 10000.0
+    cash: 50
+    items: []
+    description: '&7Você receberá uma pérola do fim\n&7a cada 45 segundos.'
+    time: 45

@@ -1,0 +1,25 @@
+cash: true
+bungeecord: true
+queue: false
+fake-refresh: false
+fake:
+  role:
+    - 'Membro'
+    - 'VIP'
+    - 'MVP'
+    - 'MVP+'
+    - 'Plus+'
+    - 'Plus'
+    - 'Mestre'
+  randoms:
+    - 'beta'
+    - 'overlord'
+    - 'pombest'
+    - 'deathopen'
+    - 'Ban0909'
+  kick-apply: '&aSeu nick foi alterado para: {fake}'
+  kick-remove: '&aSeu nick foi resetado!'
+party:
+  size:
+    role_direcao: 10
+    role_partner: 50

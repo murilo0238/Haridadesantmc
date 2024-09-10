@@ -1,0 +1,17 @@
+lobby:
+ bussola:
+  slot: 1
+  execute: 'CORE>jogos'
+  icon: 'COMPASS : 1 : nome>&eMinigames'
+ perfil:
+  slot: 2
+  execute: 'CORE>perfil'
+  icon: '%perfil%SKULL_ITEM:3 : 1 : nome>&eMeu Perfil'
+ jogadores:
+  slot: 8
+  execute: 'CORE>jogadores'
+  icon: 'INK_SACK:%santmc-commons_status_jogadores_inksack% : 1 : nome>&fJogadores: %santmc-commons_status_jogadores_nome%'
+ lobbies:
+  slot: 9
+  execute: 'LOBBY>lobbies'
+  icon: 'NETHER_STAR : 1 : nome>&eLobbies'

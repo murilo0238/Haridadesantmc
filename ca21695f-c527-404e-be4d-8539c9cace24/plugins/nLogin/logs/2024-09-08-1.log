@@ -1,0 +1,22 @@
+[09/08/2024 01:36:07]:           __             _       
+[09/08/2024 01:36:07]:   _ __   / /  ___   __ _(_)_ __  
+[09/08/2024 01:36:07]:  | '_ \ / /  / _ \ / _` | | '_ \ 
+[09/08/2024 01:36:07]:  | | | / /__| (_) | (_| | | | | |
+[09/08/2024 01:36:07]:  |_| |_\____/\___/ \__, |_|_| |_|
+[09/08/2024 01:36:07]:                   |___/            
+[09/08/2024 01:36:07]:  By: www.nickuc.com - V 10.2.7 DEVELOPMENT
+[09/08/2024 01:36:07]:  
+[09/08/2024 01:36:08]: [nLogin] [DEBUG] All settings were loaded in 286 ms.
+[09/08/2024 01:36:08]: [nLogin] [DEBUG] Loading the messages_br.yml message file...
+[09/08/2024 01:36:08]: [nLogin] [DEBUG] All plugin messages were loaded in 287 ms (languageByClient=false).
+[09/08/2024 01:36:10]: [nLogin] [DEBUG] [Discord] Connected guilds: SantMC - Vinculação 🚒#1438 (1)
+[09/08/2024 01:36:10]: [nLogin] [DEBUG]  - Sant MC ☀ (1266127147110502511)
+[09/08/2024 01:36:10]: [nLogin] [Discord] Conexão com o Discord foi realizada com sucesso!
+[09/08/2024 01:36:10]: [nLogin] [DEBUG] All proxy settings were loaded in 6 ms.
+[09/08/2024 01:36:10]: [nLogin] [DEBUG] Loading database...
+[09/08/2024 01:36:12]: [nLogin] [DEBUG] Starting logger filter...
+[09/08/2024 01:36:31]: [nLogin] [DEBUG] [MySQL] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'HaridadeGANG', `unique_id` = 943d65a769fb3e36a36d92534e337b4a,  `mojang_id` = 3f5b4f849c3c42d2afed31463c1311e0,  `bedrock_id` = null,  `password` = null, `last_address` = '138.219.241.27', `creation_date` = 2024-09-06 01:25:32.0, `last_login` = 2024-09-08 01:36:30.991, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"lobby","key":"last-server"},{"value":"pt","key":"language"}],"version":0}' WHERE `ai` = 1"
+[09/08/2024 01:36:31]: [nLogin] [DEBUG] [MySQL] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'HaridadeGANG', `unique_id` = 943d65a769fb3e36a36d92534e337b4a,  `mojang_id` = 3f5b4f849c3c42d2afed31463c1311e0,  `bedrock_id` = null,  `password` = null, `last_address` = '138.219.241.27', `creation_date` = 2024-09-06 01:25:32.0, `last_login` = 2024-09-08 01:36:30.991, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"lobby","key":"last-server"},{"value":"pt","key":"language"}],"version":0}' WHERE `ai` = 1"
+[09/08/2024 01:36:31]: [nLogin] O usuário HaridadeGANG logou automaticamente (conta original)
+[09/08/2024 01:37:41]: [nLogin] [DEBUG] [MySQL] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'HaridadeGANG', `unique_id` = 943d65a769fb3e36a36d92534e337b4a,  `mojang_id` = 3f5b4f849c3c42d2afed31463c1311e0,  `bedrock_id` = null,  `password` = null, `last_address` = '138.219.241.27', `creation_date` = 2024-09-06 01:25:32.0, `last_login` = 2024-09-08 01:36:30.991, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"lobby","key":"last-server"},{"value":"pt","key":"language"}],"version":0}' WHERE `ai` = 1"
+[09/08/2024 01:37:44]: [nLogin] Successful plugin core shutdown (took 0.00s)

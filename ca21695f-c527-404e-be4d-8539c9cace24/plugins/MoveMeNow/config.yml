@@ -1,0 +1,6 @@
+message: "%kickmsg%"
+servername: "lobby"
+mode: whitelist
+list:
+- ban
+- kick

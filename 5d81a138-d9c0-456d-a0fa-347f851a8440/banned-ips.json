@@ -1,0 +1,23 @@
+[
+  {
+    "ip": "103.88.233.200",
+    "created": "2024-09-08 17:52:17 +0000",
+    "source": "HaridadeGANG",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "ip": "45.168.153.192",
+    "created": "2024-09-08 20:35:14 +0000",
+    "source": "HaridadeGANG",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "ip": "198.145.147.74",
+    "created": "2024-09-08 17:52:23 +0000",
+    "source": "HaridadeGANG",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  }
+]

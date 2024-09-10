@@ -1,0 +1,36 @@
+[09/07/2024 00:16:32]:           __             _       
+[09/07/2024 00:16:32]:   _ __   / /  ___   __ _(_)_ __  
+[09/07/2024 00:16:32]:  | '_ \ / /  / _ \ / _` | | '_ \ 
+[09/07/2024 00:16:32]:  | | | / /__| (_) | (_| | | | | |
+[09/07/2024 00:16:32]:  |_| |_\____/\___/ \__, |_|_| |_|
+[09/07/2024 00:16:32]:                   |___/            
+[09/07/2024 00:16:32]:  By: www.nickuc.com - V 10.2.7 DEVELOPMENT
+[09/07/2024 00:16:32]:  
+[09/07/2024 00:16:33]: [nLogin] [DEBUG] All settings were loaded in 375 ms.
+[09/07/2024 00:16:33]: [nLogin] [DEBUG] Loading the messages_br.yml message file...
+[09/07/2024 00:16:33]: [nLogin] [DEBUG] All plugin messages were loaded in 213 ms (languageByClient=false).
+[09/07/2024 00:16:35]: [nLogin] [DEBUG] [Discord] Connected guilds: SantMC - Vinculação 🚒#1438 (1)
+[09/07/2024 00:16:35]: [nLogin] [DEBUG]  - Sant MC ☀ (1266127147110502511)
+[09/07/2024 00:16:35]: [nLogin] [Discord] Conexão com o Discord foi realizada com sucesso!
+[09/07/2024 00:16:35]: [nLogin] [DEBUG] All proxy settings were loaded in 6 ms.
+[09/07/2024 00:16:35]: [nLogin] [DEBUG] Loading database...
+[09/07/2024 00:16:37]: [nLogin] [DEBUG] Starting logger filter...
+[09/07/2024 00:16:42]: [nLogin] 
+[09/07/2024 00:16:42]: [nLogin]  Muito obrigado por escolher o nLogin! <3
+[09/07/2024 00:16:42]: [nLogin] 
+[09/07/2024 00:16:42]: [nLogin]  Para sua segurança, leia a mensagem abaixo:
+[09/07/2024 00:16:42]: [nLogin]   Nunca baixe o nLogin de fontes desconhecidas.
+[09/07/2024 00:16:42]: [nLogin]   Uma versão modificada pode conter softwares maliciosos.
+[09/07/2024 00:16:42]: [nLogin] 
+[09/07/2024 00:16:42]: [nLogin]  Fontes confiáveis:
+[09/07/2024 00:16:42]: [nLogin]   www.nickuc.com
+[09/07/2024 00:16:42]: [nLogin]   www.github.com/nickuc
+[09/07/2024 00:16:42]: [nLogin]   Instalador do OpeNLogin (do Spigot ou GitHub)
+[09/07/2024 00:16:42]: [nLogin] 
+[09/07/2024 00:16:42]: [nLogin]  Canais oficiais para suporte:
+[09/07/2024 00:16:42]: [nLogin]   Grupo do Discord: www.nickuc.com/discord
+[09/07/2024 00:16:42]: [nLogin]   Documentação: docs.nickuc.com/nlogin/
+[09/07/2024 00:16:42]: [nLogin]   E-mail: support@nickuc.com
+[09/07/2024 00:16:42]: [nLogin]   YouTube: youtube.com/nickuc
+[09/07/2024 00:16:42]: [nLogin] 
+[09/07/2024 00:18:38]: [nLogin] Successful plugin core shutdown (took 0.00s)

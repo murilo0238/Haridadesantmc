@@ -1,0 +1,38 @@
+[09/06/2024 00:01:20]:           __             _       
+[09/06/2024 00:01:20]:   _ __   / /  ___   __ _(_)_ __  
+[09/06/2024 00:01:20]:  | '_ \ / /  / _ \ / _` | | '_ \ 
+[09/06/2024 00:01:20]:  | | | / /__| (_) | (_| | | | | |
+[09/06/2024 00:01:20]:  |_| |_\____/\___/ \__, |_|_| |_|
+[09/06/2024 00:01:20]:                   |___/            
+[09/06/2024 00:01:20]:  By: www.nickuc.com - V 10.2.7 DEVELOPMENT
+[09/06/2024 00:01:20]:  
+[09/06/2024 00:01:20]: [nLogin] [DEBUG] The config.yml file was created successfully.
+[09/06/2024 00:01:25]: [nLogin] [DEBUG] All settings were loaded in 4816 ms.
+[09/06/2024 00:01:25]: [nLogin] [DEBUG] Loading the messages_ru.yml message file...
+[09/06/2024 00:01:25]: [nLogin] [DEBUG] All plugin messages were loaded in 104 ms (languageByClient=false).
+[09/06/2024 00:01:25]: [nLogin] [DEBUG] The file discord.yml was created successfully.
+[09/06/2024 00:01:25]: [nLogin] [DEBUG] The file email.yml was created successfully.
+[09/06/2024 00:01:25]: [nLogin] [DEBUG] All proxy settings were loaded in 5 ms.
+[09/06/2024 00:01:25]: [nLogin] [DEBUG] Loading database...
+[09/06/2024 00:01:25]: [nLogin] Generating RSA keypair... (this may take a while)
+[09/06/2024 00:01:27]: [nLogin] The RSA key pair was successfully generated. Took 1.76s
+[09/06/2024 00:01:27]: [nLogin] [DEBUG] Starting logger filter...
+[09/06/2024 00:01:32]: [nLogin] 
+[09/06/2024 00:01:32]: [nLogin]  Thank you so much for choosing nLogin! <3
+[09/06/2024 00:01:32]: [nLogin] 
+[09/06/2024 00:01:32]: [nLogin]  For your safety, please read the message below:
+[09/06/2024 00:01:32]: [nLogin]   Never download nLogin from unknown sources.
+[09/06/2024 00:01:32]: [nLogin]   A modified version may contain malicious software.
+[09/06/2024 00:01:32]: [nLogin] 
+[09/06/2024 00:01:32]: [nLogin]  Trusted sources:
+[09/06/2024 00:01:32]: [nLogin]   www.nickuc.com
+[09/06/2024 00:01:32]: [nLogin]   www.github.com/nickuc
+[09/06/2024 00:01:32]: [nLogin]   OpeNLogin installer (from Spigot or GitHub)
+[09/06/2024 00:01:32]: [nLogin] 
+[09/06/2024 00:01:32]: [nLogin]  Official support channels:
+[09/06/2024 00:01:32]: [nLogin]   Discord group: www.nickuc.com/discord
+[09/06/2024 00:01:32]: [nLogin]   Documentation: docs.nickuc.com/nlogin/
+[09/06/2024 00:01:32]: [nLogin]   Email: support@nickuc.com
+[09/06/2024 00:01:32]: [nLogin]   YouTube: youtube.com/nickuc
+[09/06/2024 00:01:32]: [nLogin]   VK: www.nickuc.com/vk
+[09/06/2024 00:01:32]: [nLogin] 

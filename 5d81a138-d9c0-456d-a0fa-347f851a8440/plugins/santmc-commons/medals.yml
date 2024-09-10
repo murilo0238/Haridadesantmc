@@ -1,0 +1,86 @@
+medals:
+  prime:
+    name: '&3Prime'
+    suffix: '&3❖'
+    permission: 'medal.prime'
+    description: '&7Está e a primera medalha do servidor.'
+  pascoa:
+    name: '&ePascoa'
+    suffix: '&e✝'
+    permission: 'medal.pascoa'
+    description: '&7Está medalha e homenagem a pascóa.'
+  amedrontador:
+    name: '&cAmedrontador'
+    suffix: '&c☠'
+    permission: 'medal.amedrontador'
+    description: '&7Está afim de deixar seus alvo com medo?.'
+  guerreiro:
+    name: '&cGuerreiro'
+    suffix: '&c⚔'
+    permission: 'medal.guerreiro'
+    description: '&7Está afim de deixar seus alvo com medo?.'
+  carniceiro:
+    name: '&cCarniceiro'
+    suffix: '&cΩ'
+    permission: 'medal.carniceiro'
+    description: '&7Está afim de deixar seus alvo com medo?.'
+  coelhada:
+    name: '&eCoelhada'
+    suffix: '&e❊'
+    permission: 'medal.coelhada'
+    description: '&7Está medalha e homenagem a pascóa.'
+  heart:
+    name: '&4Heart'
+    suffix: '&4❤'
+    permission: 'medal.heart'
+    description: '&cO AMOR ESTÁ NO AMOR!!.'
+  paz:
+    name: '&bPaz'
+    suffix: '&b✌'
+    permission: 'medal.paz'
+    description: '&7Está tudo em paz.'
+  oni:
+    name: '&5Oni'
+    suffix: '&5鬼'
+    permission: 'medal.oni'
+    description: '&dDemon slayer, hmmm.'
+  equilibro:
+    name: '&fEquilibro'
+    suffix: '&f☯'
+    permission: 'medal.equilibro'
+    description: '&7Seja igual um balança.'
+  estrela:
+    name: '&eEstrela'
+    suffix: '&e✡'
+    permission: 'medal.estrela'
+    description: '&eComo estrelas no céu...'
+  flocodeneve:
+    name: '&bFlocos'
+    suffix: '&b❄'
+    permission: 'medal.flocos'
+    description: '&7Está muito frio aqui..'
+  ez:
+    name: '&eEZ'
+    suffix: '&eⒺⓏ'
+    permission: 'medal.ez'
+    description: '&7Mostre pro jogadores como e EZ matar eles'
+  toxico:
+    name: '&bToxico'
+    suffix: '&2☢'
+    permission: 'medal.toxico'
+    description: '&7Demonstre-se que você é tóxico.'
+  cafe:
+    name: '&bCafe'
+    suffix: '&b☕'
+    permission: 'medal.cafe'
+    description: '&7Vai um café?'
+  vip:
+    name: '&aVip'
+    suffix: '&a✪'
+    permission: 'medal.vip'
+    description: '&7Medalha inclusa no pacote de VIPs'
+  default:
+    name: '&7Normal'
+    suffix: ''
+    permission: ''
+    description: 'Apenas para remover.'

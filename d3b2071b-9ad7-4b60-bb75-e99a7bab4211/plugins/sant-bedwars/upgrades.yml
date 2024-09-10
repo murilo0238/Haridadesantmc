@@ -1,0 +1,48 @@
+sharpnedswords:
+  slot: 10
+  type: SHARPENED_SWORDS
+  icon: 'DIAMOND_SWORD : 1 : esconder>tudo : nome>{color}Espadas Afiadas : desc>&7Seus aliados ganham Afiação I\n&7permanentemente em espadas e machados.\n \n&7Nível I: Afiação I, &b4 Diamantes'
+  tiers:
+    I: 'DIAMOND : 4'
+reinforcedarmor:
+  slot: 11
+  type: REINFORCED_ARMOR
+  icon: 'DIAMOND_CHESTPLATE : 1 : nome>{color}Armadura Reforçada {tier} : desc>&7Todas as armaduras de seus aliados\n&7irão receber proteção extra.\n \n&7Nível I: Proteção I, &b2 Diamantes\n&7Nível II: Proteção II, &b4 Diamantes\n&7Nível III: Proteção III, &b8 Diamantes\n&7Nível IV: Proteção IV, &b16 Diamantes'
+  tiers:
+    I: 'DIAMOND : 2'
+    II: 'DIAMOND : 4'
+    III: 'DIAMOND : 8'
+    IV: 'DIAMOND : 16'
+maniacminer:
+  slot: 12
+  type: MANIAC_MINER
+  icon: 'GOLD_PICKAXE : 1 : esconder>tudo : nome>{color}Minerador Louco {tier} : desc>&7Todos os seus aliados ganham Pressa\n&7permanentemente\n \n&7Nível I: Pressa I, &b2 Diamantes\n&7Nível II: Pressa I, &b4 Diamantes'
+  tiers:
+    I: 'DIAMOND : 2'
+    II: 'DIAMOND : 4'
+ironforge:
+  slot: 13
+  type: IRON_FORGE
+  icon: 'FURNACE : 1 : nome>{color}Forja de Ferro {tier} : desc>&7Aumenta a qualidade de recursos que\n&7aparecem em sua ilha.\n \n&7Nível I: +50%, &b2 Diamantes\n&7Nível II: +100%, &b4 Diamantes\n&7Nível III: Esmeraldas, &b6 Diamantes\n&7Nível IV: 200%, &b8 Diamantes'
+  tiers:
+    I: 'DIAMOND : 2'
+    II: 'DIAMOND : 4'
+    III: 'DIAMOND : 6'
+    IV: 'DIAMOND : 8'
+heal:
+  slot: 14
+  type: REGENERATION
+  icon: 'BEACON : 1 : nome>{color}Campo de regeneração : desc>&7Cria um campo de regeneração\n&7para aliados em sua ilha\n \n&7Nível I: Regeneração I, &b2 Diamantes'
+  tiers:
+    I: 'DIAMOND : 2'
+    II: 'DIAMOND : 4'
+life_points:
+  slot: 15
+  type: LIFE_POINTS
+  icon: 'GOLDEN_APPLE : 1 : nome>{color}Pontos de Vida : desc>&7Os aliados de sua ilha\n&7irão receber corações a mais.\n \n&7Nível I: +1 Coração, &b2 Diamantes\n&7Nível II: +2 Corações, &b4 Diamantes'
+  tiers:
+    I: 'DIAMOND : 2'
+    II: 'DIAMOND : 4'
+trap:
+  slot: 16
+  icon: 'LEATHER : 1 : nome>&aComprar Armadilhas : desc>&7Armadilhas compradas serão colocadas\n&7na fila abaixo.\n \n&eClique para comprar!'

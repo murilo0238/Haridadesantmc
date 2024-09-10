@@ -1,0 +1,86 @@
+[00:05:48] [Thread-92/INFO]: UUID of player 0xsyntaxx is 7ff460c0-fdd8-3752-8c2c-13a021de02cf
+[00:05:48] [Server thread/INFO]: 0xsyntaxx[/131.255.144.144:57057] logged in with entity id 69 at ([login]-1.5, 60.0, 10.5)
+[00:06:09] [Server thread/INFO]: 0xsyntaxx lost connection: Disconnected
+[00:06:11] [Thread-94/INFO]: UUID of player 0xsyntaxx is 7ff460c0-fdd8-3752-8c2c-13a021de02cf
+[00:06:11] [Server thread/INFO]: 0xsyntaxx[/131.255.144.144:43329] logged in with entity id 70 at ([login]-1.5, 60.0, 10.5)
+[00:06:48] [Server thread/INFO]: 0xsyntaxx lost connection: Disconnected
+[00:22:00] [Thread-95/INFO]: UUID of player streypc is 9306c6b9-2020-374f-a476-b78643549f02
+[00:22:00] [Server thread/INFO]: streypc[/170.254.73.206:60567] logged in with entity id 71 at ([login]-1.5, 60.0, 10.5)
+[00:22:13] [Server thread/INFO]: streypc lost connection: Disconnected
+[01:14:18] [Server thread/INFO]: [0;33;1m[ProtocolLib] The updater found an update: 5.2.0 (Running 4.5.1). Download at https://www.spigotmc.org/resources/protocollib.1997/[m
+[03:16:05] [Thread-103/INFO]: UUID of player Estimada_ is 450b34fb-afd9-3b68-9df9-a026d8dfa6dd
+[03:16:05] [Server thread/INFO]: Estimada_[/186.224.143.241:43007] logged in with entity id 72 at ([login]-1.5, 60.0, 10.5)
+[03:16:14] [Server thread/INFO]: Estimada_ lost connection: Disconnected
+[12:09:43] [Thread-122/INFO]: UUID of player streypc is 9306c6b9-2020-374f-a476-b78643549f02
+[12:09:43] [Server thread/INFO]: streypc[/190.111.150.250:54323] logged in with entity id 74 at ([login]-1.5, 60.0, 10.5)
+[12:09:51] [Server thread/INFO]: streypc lost connection: Disconnected
+[13:14:19] [Server thread/INFO]: [0;33;1m[ProtocolLib] The updater found an update: 5.2.0 (Running 4.5.1). Download at https://www.spigotmc.org/resources/protocollib.1997/[m
+[13:15:08] [Thread-126/INFO]: UUID of player flix_pojav is b38efd00-b581-39f4-9dbd-fe1b1bd8045f
+[13:15:08] [Server thread/INFO]: flix_pojav[/177.203.166.39:57955] logged in with entity id 75 at ([login]-1.5, 60.0, 10.5)
+[13:15:24] [Server thread/INFO]: flix_pojav lost connection: Disconnected
+[13:19:05] [Thread-127/INFO]: UUID of player _Zrax is a5047cec-410e-350d-8c2f-f6138f975671
+[13:19:05] [Server thread/INFO]: _Zrax[/45.167.81.65:35235] logged in with entity id 76 at ([login]-1.5, 60.0, 10.5)
+[13:19:30] [Server thread/INFO]: _Zrax lost connection: Disconnected
+[13:23:47] [Thread-128/INFO]: UUID of player flix_pojav is b38efd00-b581-39f4-9dbd-fe1b1bd8045f
+[13:23:47] [Server thread/INFO]: flix_pojav[/177.203.166.39:58507] logged in with entity id 77 at ([login]-1.5, 60.0, 10.5)
+[13:23:58] [Server thread/INFO]: flix_pojav lost connection: Disconnected
+[13:31:15] [Thread-130/INFO]: UUID of player Leo_1v1 is 8186b329-5a86-388a-95fa-b8914b28b774
+[13:31:15] [Server thread/INFO]: Leo_1v1[/38.43.101.224:49399] logged in with entity id 78 at ([login]-1.5212963363155723, 60.0, 11.268481824386964)
+[13:31:21] [Server thread/INFO]: Leo_1v1 lost connection: Disconnected
+[13:39:02] [Thread-131/INFO]: UUID of player Kiinquis is 2efeee7a-0ff4-3960-a25c-fa3ee61e9212
+[13:39:02] [Server thread/INFO]: Kiinquis[/189.121.203.178:35019] logged in with entity id 79 at ([login]-1.5, 60.0, 10.5)
+[13:39:15] [Server thread/INFO]: Kiinquis lost connection: Disconnected
+[13:43:42] [Thread-132/INFO]: UUID of player swqzzl is 610b314c-7105-3029-9db3-ccad413d2d10
+[13:43:42] [Server thread/INFO]: swqzzl[/186.230.122.250:54921] logged in with entity id 81 at ([login]-1.5, 60.0, 10.5)
+[13:43:46] [Server thread/INFO]: swqzzl lost connection: Disconnected
+[13:58:55] [Thread-134/INFO]: UUID of player Leo_1v1 is 8186b329-5a86-388a-95fa-b8914b28b774
+[13:58:55] [Server thread/INFO]: Leo_1v1[/38.43.101.224:54045] logged in with entity id 82 at ([login]-1.5212963363155723, 60.0, 11.268481824386964)
+[13:59:00] [Server thread/INFO]: Leo_1v1 lost connection: Disconnected
+[14:08:44] [Thread-135/INFO]: UUID of player augustoYT is f333426e-0a81-3625-86c3-d8ec263df338
+[14:08:44] [Server thread/INFO]: augustoYT[/45.186.88.108:48937] logged in with entity id 83 at ([login]-1.5, 60.0, 10.5)
+[14:08:54] [Server thread/INFO]: augustoYT lost connection: Disconnected
+[14:09:58] [Thread-136/INFO]: UUID of player flix_pojav is b38efd00-b581-39f4-9dbd-fe1b1bd8045f
+[14:09:58] [Server thread/INFO]: flix_pojav[/177.203.166.39:57567] logged in with entity id 84 at ([login]-3.9656883550718374, -217.20750223752313, 28.34826889124121)
+[14:10:14] [Server thread/INFO]: flix_pojav lost connection: Disconnected
+[14:22:34] [Thread-137/INFO]: UUID of player MuriloDR is 2765220a-da1f-395e-8ee6-1fcc0ac11b3b
+[14:22:34] [Server thread/INFO]: MuriloDR[/138.36.251.155:36147] logged in with entity id 85 at ([login]-1.5, 60.0, 10.5)
+[14:22:36] [Server thread/INFO]: MuriloDR lost connection: Disconnected
+[14:49:06] [Thread-139/INFO]: UUID of player HipperBT is 35045be4-9303-38d9-bef4-c09e54f8a5d4
+[14:49:06] [Server thread/INFO]: HipperBT[/45.71.13.9:46443] logged in with entity id 86 at ([login]-1.5, 60.0, 10.5)
+[14:49:15] [Server thread/INFO]: HipperBT lost connection: Disconnected
+[15:07:47] [Thread-141/INFO]: UUID of player kaua4689 is 64e7c6a6-3dc6-38b7-9656-b20b3b2422a7
+[15:07:47] [Server thread/INFO]: kaua4689[/177.97.209.210:50781] logged in with entity id 87 at ([login]-1.5, 60.0, 10.5)
+[15:07:55] [Server thread/INFO]: kaua4689 lost connection: Disconnected
+[15:09:06] [Thread-142/INFO]: UUID of player streypc is 9306c6b9-2020-374f-a476-b78643549f02
+[15:09:06] [Server thread/INFO]: streypc[/190.111.150.250:56355] logged in with entity id 88 at ([login]-1.5, 60.0, 10.5)
+[15:09:14] [Server thread/INFO]: streypc lost connection: Disconnected
+[15:25:12] [Thread-144/INFO]: UUID of player unknoy is 0475a377-41de-3861-b989-0deedd2ce47a
+[15:25:12] [Server thread/INFO]: unknoy[/186.204.61.163:38547] logged in with entity id 89 at ([login]-1.5, 60.0, 10.5)
+[15:25:19] [Server thread/INFO]: unknoy lost connection: Disconnected
+[15:25:26] [Thread-145/INFO]: UUID of player unknoy is 0475a377-41de-3861-b989-0deedd2ce47a
+[15:25:26] [Server thread/INFO]: unknoy[/186.204.61.163:60849] logged in with entity id 90 at ([login]-1.5, 60.0, 10.5)
+[15:25:45] [Server thread/INFO]: unknoy lost connection: Disconnected
+[16:12:01] [Thread-147/INFO]: UUID of player TurTur321 is 1e065f87-ba2e-3558-b7a6-f00091b5a2a9
+[16:12:01] [Server thread/INFO]: TurTur321[/179.247.230.82:39001] logged in with entity id 91 at ([login]-1.5, 60.0, 10.5)
+[16:12:13] [Server thread/INFO]: TurTur321 lost connection: Disconnected
+[17:17:13] [Thread-150/INFO]: UUID of player Volantgamer_13 is 6d476f68-6869-3950-8b85-88b33f365435
+[17:17:13] [Server thread/INFO]: Volantgamer_13[/179.117.15.97:44357] logged in with entity id 93 at ([login]-0.996669762033318, 60.0, 13.081445274170598)
+[17:17:29] [Server thread/INFO]: Volantgamer_13 lost connection: Disconnected
+[17:47:16] [Thread-152/INFO]: UUID of player Volantgamer_13 is 6d476f68-6869-3950-8b85-88b33f365435
+[17:47:16] [Server thread/INFO]: Volantgamer_13[/179.117.15.97:43637] logged in with entity id 94 at ([login]10.560369540836529, 60.0, 16.507937294707318)
+[17:47:19] [Server thread/INFO]: Volantgamer_13 lost connection: Disconnected
+[18:42:54] [Thread-155/INFO]: UUID of player KITKET_Z is c9eb7f3d-30a5-3f10-bcca-8eaff0031f8b
+[18:42:54] [Server thread/INFO]: KITKET_Z[/191.223.6.97:60759] logged in with entity id 95 at ([login]-1.5, 60.0, 10.5)
+[18:43:37] [Server thread/INFO]: KITKET_Z lost connection: Disconnected
+[18:52:18] [Thread-156/INFO]: UUID of player KITKET_Z is c9eb7f3d-30a5-3f10-bcca-8eaff0031f8b
+[18:52:18] [Server thread/INFO]: KITKET_Z[/191.223.6.97:60509] logged in with entity id 96 at ([login]-1.5, 60.0, 10.5)
+[18:52:49] [Server thread/INFO]: KITKET_Z lost connection: Disconnected
+[19:01:26] [Thread-158/INFO]: UUID of player Leo_1v1 is 8186b329-5a86-388a-95fa-b8914b28b774
+[19:01:26] [Server thread/INFO]: Leo_1v1[/38.43.101.224:52571] logged in with entity id 97 at ([login]-1.5212963363155723, 60.0, 11.268481824386964)
+[19:02:12] [Server thread/INFO]: Leo_1v1 lost connection: Disconnected
+[20:54:07] [Thread-162/INFO]: UUID of player endsopie is e84cc5d4-7552-3269-a2e8-e3c1c972e7ad
+[20:54:07] [Server thread/INFO]: endsopie[/179.0.118.12:38139] logged in with entity id 98 at ([login]-1.5, 60.0, 10.5)
+[20:54:28] [Server thread/INFO]: endsopie lost connection: Disconnected
+[21:29:43] [Thread-165/INFO]: UUID of player MAO01BW is 9412e0e4-c948-33a8-b32f-32e7aafd6900
+[21:29:43] [Server thread/INFO]: MAO01BW[/177.20.216.165:34809] logged in with entity id 99 at ([login]-1.5, 60.0, 10.5)
+[21:29:51] [Server thread/INFO]: MAO01BW lost connection: Disconnected

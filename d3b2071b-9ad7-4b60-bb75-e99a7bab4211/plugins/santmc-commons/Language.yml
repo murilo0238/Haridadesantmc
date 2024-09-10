@@ -1,0 +1,6 @@
+# Sant Commons - Criado por isSync_
+# Versão da configuração: 1.0
+options:
+ tell:
+  sender: '&8Mensagem para {player}&8: &6{message}'
+  target: '&8Mensagem de {player}&8: &6{message}'

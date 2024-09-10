@@ -1,0 +1,518 @@
+preparativos:
+  enabled: true
+  name: Preparativos
+  rarity: COMUM
+  permission: role.campeao
+  points: 2
+  icon: 'BREAD : 1 : desc>&7Verdadeiros guerreiros vão à batalha\n&7preparados para
+    o combate.\n \n&8{description}'
+  levels:
+    '1':
+      coins: 5000.0
+      gold: 25
+      description: Você não sentirá fome durante a partida.
+insanidade:
+  enabled: true
+  name: Assassino
+  rarity: EPICO
+  permission: ''
+  points: 4
+  icon: 'WOOD_SWORD : 1 : esconder>tudo : desc>&7Após abater um oponente você perde
+    o\n&7controle e se torna cada vez mais forte.\n \n&8Após abater um oponente você
+    receberá\n&8{description}.'
+  levels:
+    '1':
+      coins: 10000.0
+      gold: 50
+      level: 1
+      time: 60
+      description: Força I por 3 segundos
+      mensagem: §a[Insanidade] §fVocê recebeu força por ter feito 1 abate!
+    '2':
+      coins: 5000.0
+      gold: 25
+      level: 1
+      time: 100
+      description: Força I por 5 segundos
+      mensagem: §a[Insanidade] §fVocê recebeu força por ter feito 1 abate!
+    '3':
+      coins: 5000.0
+      gold: 25
+      level: 2
+      time: 60
+      description: Força II por 3 segundos
+      mensagem: §a[Insanidade] §fVocê recebeu força por ter feito 1 abate!
+    '4':
+      coins: 5000.0
+      gold: 25
+      level: 2
+      time: 100
+      description: Força II por 5 segundos
+      mensagem: §a[Insanidade] §fVocê recebeu força por ter feito 1 abate!
+maestria_com_arcos:
+  enabled: true
+  name: Maestria com Arcos
+  rarity: RARO
+  permission: ''
+  points: 2
+  icon: 'BOW : 1 : desc>&7Você dominou completamente os arcos,\n&7sua eficiência te
+    traz vantagens únicas.\n \n&8Você tem uma chance de {description}\n&8de recuperar
+    sua flecha ao atirá-la.'
+  levels:
+    '1':
+      coins: 10000.0
+      gold: 50
+      percentage: 20
+      description: 20%
+      mensagem: §a[Maestria com arcos] §fVocê recebeu sua flecha de volta!
+    '2':
+      coins: 5000.0
+      gold: 25
+      percentage: 30
+      description: 30%
+      mensagem: §a[Maestria com arcos] §fVocê recebeu sua flecha de volta!
+    '3':
+      coins: 5000.0
+      gold: 25
+      percentage: 40
+      description: 40%
+      mensagem: §a[Maestria com arcos] §fVocê recebeu sua flecha de volta!
+    '4':
+      coins: 5000.0
+      gold: 25
+      percentage: 50
+      description: 50%
+      mensagem: §a[Maestria com arcos] §fVocê recebeu sua flecha de volta!
+feiticeiro:
+  enabled: true
+  name: Mago
+  rarity: COMUM
+  permission: role.lendario
+  points: 2
+  icon: '374 : 1 : desc>&7Você é um mago com uma habilidade\n&7perspiscaz e digna
+    de notoriedade.\n \n&8{description}.'
+  levels:
+    '1':
+      coins: 5000.0
+      gold: 25
+      level: 1
+      tempo_delay: 800
+      description: 1 Nível de EXP, 40 segundos
+      mensagem: §a[Mago] §fVocê recebeu experiência adicional!
+    '2':
+      coins: 5000.0
+      gold: 25
+      level: 2
+      tempo_delay: 600
+      description: 2 Níveis de EXP, 30 segundos
+      mensagem: §a[Mago] §fVocê recebeu experiência adicional!
+    '3':
+      coins: 5000.0
+      gold: 25
+      level: 3
+      tempo_delay: 500
+      description: 3 Níveis de EXP, 25 segundos
+      mensagem: §a[Mago] §fVocê recebeu experiência adicional!
+    '4':
+      coins: 5000.0
+      gold: 25
+      level: 4
+      tempo_delay: 400
+      description: 4 Níveis de EXP, 20 segundos
+      mensagem: §a[Mago] §fVocê recebeu experiência adicional!
+piromaniaco:
+  enabled: true
+  name: Piromaníaco
+  rarity: RARO
+  permission: ''
+  points: 2
+  icon: 'MAGMA_CREAM : 1 : desc>&7Você adora atear fogo em seus oponentes,\n&7por
+    isso conhece alguns truques com fogo.\n \n&8Ao atingir um oponente com uma flecha,
+    você\n&8tem a chance de {description} de atear fogo nele.'
+  levels:
+    '1':
+      coins: 5000.0
+      gold: 25
+      percentage: 10
+      description: 10%
+      mensagem: §a[Piromaníaco] §fVocê deixou seu inimigo em chamas!
+    '2':
+      coins: 5000.0
+      gold: 25
+      percentage: 20
+      description: 20%
+      mensagem: §a[Piromaníaco] §fVocê deixou seu inimigo em chamas!
+    '3':
+      coins: 5000.0
+      gold: 25
+      percentage: 30
+      description: 30%
+      mensagem: §a[Piromaníaco] §fVocê deixou seu inimigo em chamas!
+resistente_a_quedas:
+  enabled: true
+  name: Resistente a quedas
+  rarity: EPICO
+  permission: ''
+  points: 4
+  icon: 'FEATHER : 1 : desc>&7Você aprendeu uma técnica que permite com\n&7que você
+    controle melhor as quedas.\n \n&8{description}'
+  levels:
+    '1':
+      coins: 10000.0
+      gold: 50
+      description: Seu dano será reduzido em 25%.
+      percentage: 25
+      mensagem: §a[Resistente a quedas] §fVocê teve seu dano de queda reduzido!
+    '2':
+      coins: 10000.0
+      gold: 50
+      description: Seu dano será reduzido em 50%.
+      percentage: 50
+      mensagem: §a[Resistente a quedas] §fVocê teve seu dano de queda reduzido!
+    '3':
+      coins: 10000.0
+      gold: 50
+      description: Seu dano será reduzido em 75%.
+      percentage: 75
+      mensagem: §a[Resistente a quedas] §fVocê teve seu dano de queda reduzido!
+    '4':
+      coins: 10000.0
+      gold: 50
+      description: Você não receberá dano de queda.
+      percentage: 100
+      mensagem: §a[Resistente a quedas] §fVocê teve seu dano de queda anulado!
+mestre_do_fim:
+  enabled: true
+  name: Mestre do Fim
+  rarity: EPICO
+  permission: ''
+  points: 4
+  icon: 'ENDER_PEARL : 1 : desc>&7Você é um mestre das terras do fim,\n&7teleporte-se
+    tranquilo.\n \n&8O dano causado por pérolas do\n&8fim será reduzido em {description}&8.'
+  levels:
+    '1':
+      coins: 5000.0
+      gold: 25
+      percentage: 50
+      description: 50%
+      mensagem: §a[Mestre do fim] §fVocê teve seu dano reduzido!
+    '2':
+      coins: 5000.0
+      gold: 25
+      percentage: 100
+      description: 100%
+      mensagem: §a[Mestre do fim] §fVocê teve seu dano reduzido!
+frio_no_combate:
+  enabled: true
+  name: Frio no Combate
+  rarity: RARO
+  permission: role.imperador
+  points: 2
+  icon: 'YELLOW_FLOWER : 1 : desc>&7Você está sempre focado e concentrado no\n&7combate
+    com seus oponentes.\n \n&8Após abater um oponente você receberá\n&8{description}.'
+  levels:
+    '1':
+      coins: 10000.0
+      gold: 50
+      level: 1
+      time: 100
+      description: Regeneração I por 5 segundos
+      mensagem: §a[Frio no combate] §fVocê recebeu regeneração por ter feito 1 abate!
+    '2':
+      coins: 5000.0
+      gold: 25
+      level: 1
+      time: 200
+      description: Regeneração I por 10 segundos
+      mensagem: §a[Frio no combate] §fVocê recebeu regeneração por ter feito 1 abate!
+    '3':
+      coins: 5000.0
+      gold: 25
+      level: 2
+      time: 100
+      description: Regeneração II por 5 segundos
+      mensagem: §a[Frio no combate] §fVocê recebeu regeneração por ter feito 1 abate!
+    '4':
+      coins: 5000.0
+      gold: 25
+      level: 2
+      time: 200
+      description: Regeneração II por 10 segundos
+      mensagem: §a[Frio no combate] §fVocê recebeu regeneração por ter feito 1 abate!
+vingança:
+  enabled: true
+  name: Vingança
+  rarity: COMUM
+  permission: role.lendariop
+  points: 4
+  icon: 'TNT : 1 : desc>&7Você não desiste fácil, tenha uma última\n&7chance de tentar
+    abater seu oponente.\n \n&8{description}'
+  levels:
+    '1':
+      coins: 10000.0
+      gold: 50
+      description: Após ser abatido você causa uma explosão.
+ocultista:
+  enabled: false
+  name: Viajante
+  rarity: DIVINO
+  permission: role.campeao
+  kills_para_ativar: 2
+  points: 2
+  icon: 'EYE_OF_ENDER : 1 : desc>&7Você sabe alguns segredinhos sobre\n&7a terra do
+    fim.\n \n&8Após abater dois oponentes você irá\n&8receber uma pérola\n&8do fim.'
+  levels:
+    '1':
+      coins: 10000.0
+      gold: 50
+      mensagem: §a[Viajante] §fVocê recebeu uma peróla do fim por ter feito 2 abates!
+    '2':
+      coins: 5000.0
+      gold: 25
+      mensagem: §a[Viajante] §fVocê recebeu uma peróla do fim por ter feito 2 abates!
+    '3':
+      coins: 5000.0
+      gold: 25
+      mensagem: §a[Viajante] §fVocê recebeu uma peróla do fim por ter feito 2 abates!
+trevo_da_sorte:
+  enabled: true
+  name: Trevo da Sorte
+  rarity: EPICO
+  permission: role.campeao
+  points: 4
+  icon: 'WATER_LILY : 1 : desc>&7Você é um grande sortudo!\n \n&8Após entrar em pvp,
+    você tem\n&8a chance de {description} de receber uma maçã\n&8dourada dos escombros.'
+  levels:
+    '1':
+      coins: 10000.0
+      gold: 50
+      percentage: 5
+      description: 5%
+      mensagem: §a[Trevo da Sorte] §fVocê ganhou uma Maçã Dourada!
+    '2':
+      coins: 5000.0
+      gold: 25
+      percentage: 7
+      description: 7%
+      mensagem: §a[Trevo da Sorte] §fVocê ganhou uma Maçã Dourada!
+    '3':
+      coins: 5000.0
+      gold: 25
+      percentage: 10
+      description: 10%
+      mensagem: §a[Trevo da Sorte] §fVocê ganhou uma Maçã Dourada!
+blindado:
+  enabled: true
+  name: Blindado
+  rarity: DIVINO
+  points: 2
+  permission: ''
+  icon: 'DIAMOND_CHESTPLATE : 1 : desc>&7Para que mesa de encantamentos?\n \n&8A cada
+    2 abates realizados toda sua\n&8armadura irá receber 1 nível de Proteção\n&8até
+    o nível limite de {description}.'
+  kills_para_ativar: 2
+  levels:
+    '1':
+      coins: 10000.0
+      gold: 50
+      description: '3'
+      mensagem: §a[Blindado] §fVocê recebeu proteção extra em toda sua armadura!
+foguete:
+  enabled: true
+  cooldawnaoiniciar: false
+  name: Foguete
+  rarity: DIVINO
+  points: 4
+  permission: ''
+  icon: 'FIREWORK : 1 : desc>&7Receba um foguete que te impulsiona\n&7para cima sempre
+    que você precisar!'
+  levels:
+    '1':
+      coins: 10000.0
+      gold: 50
+      delay: 45
+      description: 45s
+    '2':
+      coins: 5000.0
+      gold: 25
+      delay: 40
+      description: 40s
+    '3':
+      coins: 5000.0
+      gold: 100
+      delay: 35
+      description: 35s
+    '4':
+      coins: 10000.0
+      gold: 150
+      delay: 30
+      description: 30s
+vidaextra:
+  enabled: true
+  name: Vida Extra
+  rarity: RARO
+  permission: ''
+  points: 2
+  icon: '260 : 1 : desc>&7Vida não será um problema! Receba\n&7corações de vida extra
+    para te\n&7ajudar em sua batalha.'
+  levels:
+    '1':
+      coins: 10000.0
+      gold: 50
+      extra_health: 1
+      description: 1 Coração Extra
+    '2':
+      coins: 5000.0
+      gold: 25
+      extra_health: 2
+      description: 2 Corações Extra
+headshot:
+  enabled: true
+  name: Headshot
+  rarity: EPICO
+  points: 2
+  permission: role.campeao
+  icon: '314 : 1 : desc>&7Tenha chance de deixar seu inimigo\n&7com naúsea ao acertar
+    uma flecha\n&7em sua cabeça.'
+  levels:
+    '1':
+      coins: 10000.0
+      gold: 50
+      level: 2
+      time: 200
+      percentage: 10
+      description: 10% de Chance
+      mensagem: §a[Headshot] §fVocê deixou seu inimigo tonto!
+    '2':
+      coins: 15000.0
+      gold: 75
+      level: 2
+      time: 200
+      percentage: 20
+      description: 20% de Chance
+      mensagem: §a[Headshot] §fVocê deixou seu inimigo tonto!
+necromante:
+  enabled: true
+  name: Necromante
+  rarity: DIVINO
+  points: 2
+  permission: Necromante
+  icon: 'ROTTEN_FLESH : 1 : desc>&7Nasce um Zumbi amigo\n&7quando você morrer.'
+  levels:
+    '1':
+      coins: 20000.0
+      gold: 75
+      description: 1 Zumbi
+magma:
+  enabled: true
+  name: Magma
+  rarity: DIVINO
+  points: 4
+  permission: role.lendario
+  icon: 'BLAZE_ROD : 1 : desc>&7Ao tomar qualquer dano de fogo\n&7você não será queimado.'
+  levels:
+    '1':
+      coins: 20000.0
+      gold: 75
+      description: '&8Você será imune ao fogo.'
+      mensagem: §a[Magma] §fSeu dano de fogo foi anulado!
+imparavel:
+  enabled: true
+  name: Imparável
+  rarity: DIVINO
+  permission: ''
+  points: 2
+  icon: 'DIAMOND_SWORD : 1 : desc>&8Habilidade\n \n&7Para que mesa de encantamentos?\n
+    \n&8A cada 2 abates realizados toda sua\n&8espada irá receber 1 nível de Afiação\n&8até
+    o nível limite de {description}.'
+  kills_para_ativar: 2
+  levels:
+    '1':
+      coins: 10000.0
+      gold: 50
+      description: '3'
+      mensagem: §a[Imparável] §fVocê recebeu afiação extra na sua espada!
+mortovivo:
+  enabled: true
+  name: Morto Vivo
+  points: 4
+  rarity: EPICO
+  permission: role.campeao
+  icon: '383:54 : 1 : desc>&7Ao eliminar um oponente, um\n&7zumbi bebê surge para
+    te\n&7ajudar no combate!'
+  levels:
+    '1':
+      coins: 20000.0
+      gold: 75
+      description: '&8Você irá invocar um bebê zumbi\n&8ao fazer uma eliminação e
+        você\n&8será imune aos zumbis.'
+      tempo_maximo: 100
+    '2':
+      coins: 20000.0
+      gold: 75
+      description: '&8Você irá invocar um bebê zumbi\n&8ao fazer uma eliminação e
+        você\n&8será imune aos zumbis.'
+      tempo_maximo: 200
+ultima_chance:
+  enabled: true
+  name: Segunda Chance
+  rarity: EPICO
+  points: 4
+  permission: role.campeao
+  icon: 'GOLDEN_APPLE : 1 : desc>&7Quando estiver preste a morrer,\n&7utilize suas
+    últimas forças para\n&7se tornar mais resistente'
+  levels:
+    '1':
+      coins: 20000.0
+      gold: 75
+      delay: 10
+      description: '&8Receba resistência por 3\n&8segundos quando estiver com 3\n&8corações.'
+      mensagem: §a[Segunda Chance] §fVocê recebeu resistência por 3 segundos!
+escudo_reforcado:
+  enabled: true
+  name: Escudo Reforçado
+  rarity: EPICO
+  points: 4
+  permission: role.campeao
+  icon: '315 : 1 : desc>&7Não seja derrotado tão facilmente! Você pode\n&7usar sua
+    habilidade especial para se proteger.\n&7Fique invencível por 3 segundos,\n&7aonde
+    o seu dano e o dano do jogador atacante será cancelado.'
+  levels:
+    '1':
+      coins: 20000.0
+      gold: 75
+      description: '&8Receba resistência por 3\n&8segundos quando estiver com 3\n&8corações.'
+      mensagem_player: §a[Escudo Reforçado] §fVocê recebeu uma proteção divina por alguns segundos!
+      mensagem_atacante: §a[Escudo Reforçado] §fO jogador {player}§f está protegido no momento.
+fenix:
+  enabled: true
+  name: Fênix
+  rarity: EPICO
+  permission: ''
+  points: 4
+  icon: 'BLAZE_POWDER : 1 : desc>&7Tenha uma segunda chance de\n&7provar que você
+    é realmente bom!\n&7Receba uma vida extra após matar\n&73 inimigos em uma partida.'
+  mensagem_global: §e[Fênix] §aO jogador {player} §amorreu, porém estava utilizando a habilidade §eFênix§a, com isso, ele poderá renascer.
+  kills_para_ativar: 3
+  levels:
+    '1':
+      coins: 20000.0
+      gold: 75
+      description: '&8Você poderá renascer após ser abatido.'
+      mensagem: §e[Fênix] §fVocê recebeu uma vida extra, após ser abatido, poderá renascer!
+super_pulo:
+  enabled: true
+  name: Super Pulo
+  rarity: DIVINO
+  points: 4
+  permission: ''
+  icon: 'SLIME_BLOCK : 1 : desc>&7Ao iniciar a partida, receba\n&7blocos de slime
+    que podem\n&7te arremesar pra longe!'
+  receber_ao_iniciar: true
+  levels:
+    '1':
+      coins: 20000.0
+      gold: 75
+      description: '&8Você receberá 3 blocos de slime ao iniciar a partida.'
+      mensagem: §a[Super Pulo] §fVocê recebeu uma slime mágica!
+      quatidade: 3

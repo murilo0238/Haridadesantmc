@@ -1,0 +1,12 @@
+pvp:
+  id: 1
+  name: Batalhador
+  rarity: EPICO
+  permission: ''
+  icon: 'DIAMOND_SWORD : 1 : esconder>tudo'
+  coins: 10000.0
+  gold: 25
+  holograms:
+  - '{colored} §efoi morto, mas ele é'
+  - §eum grande batalhador para chegar
+  - §eaté aqui!

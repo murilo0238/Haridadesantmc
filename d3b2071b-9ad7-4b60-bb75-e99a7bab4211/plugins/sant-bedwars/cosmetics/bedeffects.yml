@@ -1,0 +1,19 @@
+chamas:
+  # ID único, não utilize IDs repetidos.
+  id: 1
+  coins: 10000.0
+  cash: 35
+  rarity: RARO
+  permission: ''
+  name: 'Chamas'
+  icon: 'BLAZE_POWDER : 1'
+  particle: FLAME
+villager:
+  id: 2
+  coins: 15000.0
+  cash: 75
+  rarity: DIVINO
+  permission: ''
+  name: 'Villager Feliz'
+  icon: 'EMERALD : 1'
+  particle: VILLAGER_HAPPY

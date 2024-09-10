@@ -1,0 +1,287 @@
+[21:05:48] [Server thread/INFO]: Starting minecraft server version 1.8.8
+[21:05:48] [Server thread/INFO]: Loading properties
+[21:05:48] [Server thread/INFO]: Default game type: SURVIVAL
+[21:05:49] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-db6de12-18fbb24 (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
+[21:05:49] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[21:05:49] [Server thread/INFO]: Using 4 threads for Netty based IO
+[21:05:49] [Server thread/INFO]: Debug logging is disabled
+[21:05:49] [Server thread/INFO]: Generating keypair
+[21:05:49] [Server thread/INFO]: Starting Minecraft server on 0.0.0.0:25569
+[21:05:49] [Server thread/INFO]: Using epoll channel type
+[21:05:49] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[21:05:49] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.4.141
+[21:05:49] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.7;dd00bb1
+[21:05:49] [Server thread/INFO]: [Skript] Loading Skript v2.2-dev36
+[21:05:49] [Server thread/INFO]: [PlaceholderAPI] Loading PlaceholderAPI v2.10.5
+[21:05:49] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v4.5.1
+[21:05:49] [Server thread/INFO]: [0;32;1m[santmc-commons] Loading santmc-commons v1.0[m
+[21:05:49] [Server thread/INFO]: [BungeeGuard] Loading BungeeGuard v1.4.5
+[21:05:49] [Server thread/INFO]: [0;32;1m[sant-skywars] Loading sant-skywars v2.2[m
+[21:05:49] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.141
+[21:05:49] [Server thread/INFO]: [0;36;1m       [0;36;22m __    [m
+[21:05:49] [Server thread/INFO]: [0;36;1m  |    [0;36;22m|__)   [0;32;22mLuckPerms[m [0;36;1mv5.4.141[m
+[21:05:49] [Server thread/INFO]: [0;36;1m  |___ [0;36;22m|      [0;30;1mRunning on Bukkit - CraftBukkit[m
+[21:05:49] [Server thread/INFO]: [m
+[21:05:49] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[21:05:50] [Server thread/INFO]: [LuckPerms] Loading storage provider... [MYSQL]
+[21:05:50] [Server thread/WARN]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+[21:05:50] [Server thread/WARN]: SLF4J: Defaulting to no-operation (NOP) logger implementation
+[21:05:50] [Server thread/WARN]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[21:05:50] [Server thread/INFO]: [LuckPerms] Loading messaging service... [SQL]
+[21:05:50] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[21:05:50] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[21:05:50] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 969ms)
+[21:05:50] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v4.5.1
+[21:05:50] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[21:05:50] [Server thread/INFO]: [BungeeGuard] Enabling BungeeGuard v1.4.5
+[21:05:50] [Server thread/INFO]: [BungeeGuard] Using ProtocolLib to listen for connections.
+[21:05:50] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:05:50] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:05:50] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
+[21:05:50] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
+[21:05:50] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:05:50] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[21:05:50] [Server thread/INFO]: Preparing level "world"
+[21:05:50] [Server thread/INFO]: -------- World Settings For [world] --------
+[21:05:50] [Server thread/INFO]: Mob Spawn Range: 4
+[21:05:50] [Server thread/INFO]: Anti X-Ray: true
+[21:05:50] [Server thread/INFO]: 	Engine Mode: 1
+[21:05:50] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[21:05:50] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[21:05:50] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[21:05:50] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[21:05:50] [Server thread/INFO]: Cane Growth Modifier: 100%
+[21:05:50] [Server thread/INFO]: Melon Growth Modifier: 100%
+[21:05:50] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[21:05:50] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[21:05:50] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[21:05:50] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[21:05:50] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[21:05:50] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[21:05:50] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[21:05:50] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[21:05:50] [Server thread/INFO]: Random Lighting Updates: false
+[21:05:50] [Server thread/INFO]: Structure Info Saving: true
+[21:05:50] [Server thread/INFO]: Sending up to 10 chunks per packet
+[21:05:50] [Server thread/INFO]: Max Entity Collisions: 8
+[21:05:50] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[21:05:50] [Server thread/INFO]: Max TNT Explosions: 100
+[21:05:50] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[21:05:50] [Server thread/INFO]: Item Despawn Rate: 6000
+[21:05:50] [Server thread/INFO]: Item Merge Radius: 2.5
+[21:05:50] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[21:05:50] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[21:05:50] [Server thread/INFO]: View Distance: 10
+[21:05:50] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[21:05:50] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[21:05:50] [Server thread/INFO]: Clear tick list: false
+[21:05:50] [Server thread/INFO]: Experience Merge Radius: 3.0
+[21:05:50] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[21:05:50] [Server thread/INFO]: Mob Spawn Range: 4
+[21:05:50] [Server thread/INFO]: Anti X-Ray: true
+[21:05:50] [Server thread/INFO]: 	Engine Mode: 1
+[21:05:50] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[21:05:50] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[21:05:50] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[21:05:50] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[21:05:50] [Server thread/INFO]: Cane Growth Modifier: 100%
+[21:05:50] [Server thread/INFO]: Melon Growth Modifier: 100%
+[21:05:50] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[21:05:50] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[21:05:50] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[21:05:50] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[21:05:50] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[21:05:50] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[21:05:50] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[21:05:50] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[21:05:50] [Server thread/INFO]: Random Lighting Updates: false
+[21:05:50] [Server thread/INFO]: Structure Info Saving: true
+[21:05:50] [Server thread/INFO]: Sending up to 10 chunks per packet
+[21:05:50] [Server thread/INFO]: Max Entity Collisions: 8
+[21:05:50] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[21:05:50] [Server thread/INFO]: Max TNT Explosions: 100
+[21:05:50] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[21:05:50] [Server thread/INFO]: Item Despawn Rate: 6000
+[21:05:50] [Server thread/INFO]: Item Merge Radius: 2.5
+[21:05:50] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[21:05:50] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[21:05:50] [Server thread/INFO]: View Distance: 10
+[21:05:50] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[21:05:50] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[21:05:50] [Server thread/INFO]: Clear tick list: false
+[21:05:50] [Server thread/INFO]: Experience Merge Radius: 3.0
+[21:05:50] [Server thread/INFO]: Preparing start region for level 0 (Seed: -8482119122171673178)
+[21:05:51] [Server thread/INFO]: Preparing start region for level 1 (Seed: -8482119122171673178)
+[21:05:52] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.7;dd00bb1
+[21:05:52] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[21:05:52] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[21:05:52] [Server thread/INFO]: [Skript] Enabling Skript v2.2-dev36
+[21:05:52] [Server thread/WARN]: [Skript] Using this version of Skript on 1.8 is highly discouraged.
+[21:05:52] [Server thread/WARN]: [Skript] Some features have been disabled; use older Skript to restore them.
+[21:05:52] [Server thread/WARN]: [Skript] Also, there are probably bugs. And since 1.8 is not supported, they will not be fixed
+[21:05:52] [Server thread/INFO]: [Skript] Starting updater thread
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 235! (aliases-english.sk, line 277: [white(_| )]glazed(_| )terracotta¦s = 235')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 236! (aliases-english.sk, line 278: orange(_| )glazed(_| )terracotta¦s = 236')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 237! (aliases-english.sk, line 279: magenta(_| )glazed(_| )terracotta¦s = 237')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 238! (aliases-english.sk, line 280: light(_| )blue(_| )glazed(_| )terracotta¦s = 238')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 239! (aliases-english.sk, line 281: yellow(_| )glazed(_| )terracotta¦s = 239')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 240! (aliases-english.sk, line 282: (lime|light(_| )green)(_| )glazed(_| )terracotta¦s = 240')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 241! (aliases-english.sk, line 283: pink(_| )glazed(_| )terracotta¦s = 241')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 242! (aliases-english.sk, line 284: gray(_| )glazed(_| )terracotta¦s = 242')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 243! (aliases-english.sk, line 285: light(_| )gray(_| )glazed(_| )terracotta¦s = 243')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 244! (aliases-english.sk, line 286: cyan(_| )glazed(_| )terracotta¦s = 244')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 245! (aliases-english.sk, line 287: purple(_| )glazed(_| )terracotta¦s = 245')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 246! (aliases-english.sk, line 288: blue(_| )glazed(_| )terracotta¦s = 246')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 247! (aliases-english.sk, line 289: brown(_| )glazed(_| )terracotta¦s = 247')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 248! (aliases-english.sk, line 290: green(_| )glazed(_| )terracotta¦s = 248')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 249! (aliases-english.sk, line 291: red(_| )glazed(_| )terracotta¦s = 249')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 250! (aliases-english.sk, line 292: black(_| )glazed(_| )terracotta¦s = 250')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 235! (aliases-english.sk, line 293: [<any>](_| )glazed(_| )terracotta¦s = 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 251! (aliases-english.sk, line 295: [white(_| )]concrete¦s = 251')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 251! (aliases-english.sk, line 296: orange(_| )concrete¦s = 251:1')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 251! (aliases-english.sk, line 297: magenta(_| )concrete¦s = 251:2')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 251! (aliases-english.sk, line 298: light(_| )blue(_| )concrete¦s = 251:3')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 251! (aliases-english.sk, line 299: yellow(_| )concrete¦s = 251:4')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 251! (aliases-english.sk, line 300: (lime|light(_| )green)(_| )concrete¦s = 251:5')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 251! (aliases-english.sk, line 301: pink(_| )concrete¦s = 251:6')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 251! (aliases-english.sk, line 302: gray(_| )concrete¦s = 251:7')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 251! (aliases-english.sk, line 303: light(_| )gray(_| )concrete¦s = 251:8')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 251! (aliases-english.sk, line 304: cyan(_| )concrete¦s = 251:9')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 251! (aliases-english.sk, line 305: purple(_| )concrete¦s = 251:10')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 251! (aliases-english.sk, line 306: blue(_| )concrete¦s = 251:11')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 251! (aliases-english.sk, line 307: brown(_| )concrete¦s = 251:12')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 251! (aliases-english.sk, line 308: green(_| )concrete¦s = 251:13')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 251! (aliases-english.sk, line 309: red(_| )concrete¦s = 251:14')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 251! (aliases-english.sk, line 310: black(_| )concrete¦s = 251:15')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 251! (aliases-english.sk, line 311: [<any>](_| )concrete¦s = 251, 251:1, 251:2, 251:3, 251:4, 251:5, 251:6, 251:7, 251:8, 251:9, 251:10, 251:11, 251:12, 251:13, 251:14, 251:15')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 252! (aliases-english.sk, line 313: [white(_| )]concrete(_| )powder¦s = 252')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 252! (aliases-english.sk, line 314: orange(_| )concrete(_| )powder¦s = 252:1')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 252! (aliases-english.sk, line 315: magenta(_| )concrete(_| )powder¦s = 252:2')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 252! (aliases-english.sk, line 316: light(_| )blue(_| )concrete(_| )powder¦s = 252:3')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 252! (aliases-english.sk, line 317: yellow(_| )concrete(_| )powder¦s = 252:4')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 252! (aliases-english.sk, line 318: (lime|light(_| )green)(_| )concrete(_| )powder¦s = 252:5')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 252! (aliases-english.sk, line 319: pink(_| )concrete(_| )powder¦s = 252:6')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 252! (aliases-english.sk, line 320: gray(_| )concrete(_| )powder¦s = 252:7')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 252! (aliases-english.sk, line 321: light(_| )gray(_| )concrete(_| )powder¦s = 252:8')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 252! (aliases-english.sk, line 322: cyan(_| )concrete(_| )powder¦s = 252:9')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 252! (aliases-english.sk, line 323: purple(_| )concrete(_| )powder¦s = 252:10')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 252! (aliases-english.sk, line 324: blue(_| )concrete(_| )powder¦s = 252:11')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 252! (aliases-english.sk, line 325: brown(_| )concrete(_| )powder¦s = 252:12')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 252! (aliases-english.sk, line 326: green(_| )concrete(_| )powder¦s = 252:13')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 252! (aliases-english.sk, line 327: red(_| )concrete(_| )powder¦s = 252:14')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 252! (aliases-english.sk, line 328: black(_| )concrete(_| )powder¦s = 252:15')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 252! (aliases-english.sk, line 329: [<any>](_| )concrete(_| )powder¦s = 252, 252:1, 252:2, 252:3, 252:4, 252:5, 252:6, 252:7, 252:8, 252:9, 252:10, 252:11, 252:12, 252:13, 252:14, 252:15')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 252! (aliases-english.sk, line 331: [white(_| )]bed(_| )item¦s = 252')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 453! (aliases-english.sk, line 350: knowledge(_| )book¦s = 453')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 218! (aliases-english.sk, line 353: observer¦s = 218')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 219! (aliases-english.sk, line 355: white(_| )shulker(_| )(box|chest)¦s = 219')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 220! (aliases-english.sk, line 356: orange(_| )shulker(_| )(box|chest)¦s = 220')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 221! (aliases-english.sk, line 357: magenta(_| )shulker(_| )(box|chest)¦s = 221')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 222! (aliases-english.sk, line 358: light(_| )blue(_| )shulker(_| )(box|chest)¦s = 222')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 223! (aliases-english.sk, line 359: yellow(_| )shulker(_| )(box|chest)¦s = 223')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 224! (aliases-english.sk, line 360: (lime|light(_| )green)(_| )shulker(_| )(box|chest)¦s = 224')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 225! (aliases-english.sk, line 361: pink(_| )shulker(_| )(box|chest)¦s = 225')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 226! (aliases-english.sk, line 362: gray(_| )shulker(_| )(box|chest)¦s = 226')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 227! (aliases-english.sk, line 363: light(_| )gray(_| )shulker(_| )(box|chest)¦s = 227')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 228! (aliases-english.sk, line 364: cyan(_| )shulker(_| )(box|chest)¦s = 228')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 229! (aliases-english.sk, line 365: [purple(_| )]shulker(_| )(box|chest)¦s = 229')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 230! (aliases-english.sk, line 366: blue(_| )shulker(_| )(box|chest)¦s = 230')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 231! (aliases-english.sk, line 367: brown(_| )shulker(_| )(box|chest)¦s = 231')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 232! (aliases-english.sk, line 368: green(_| )shulker(_| )(box|chest)¦s = 232')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 233! (aliases-english.sk, line 369: red(_| )shulker(_| )(box|chest)¦s = 233')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 234! (aliases-english.sk, line 370: black(_| )shulker(_| )(box|chest)¦s = 234')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 219! (aliases-english.sk, line 371: [<any>](_| )shulker(_| )(box|chest)¦s = 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 449! (aliases-english.sk, line 374: totem(_| )of(_| )undying¦s = 449')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 450! (aliases-english.sk, line 375: shulker(_| )shell¦s = 450')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 452! (aliases-english.sk, line 376: iron(_| )nugget¦s = 452')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 213! (aliases-english.sk, line 379: magma(_| )block¦s = 213')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 214! (aliases-english.sk, line 380: nether(_| )wart(_| )block¦s = 214')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 215! (aliases-english.sk, line 381: red(_| )nether(_| )brick¦s = 215')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 216! (aliases-english.sk, line 382: bone(_| )block¦s = 216')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 217! (aliases-english.sk, line 383: structure(_| )void¦s = 217')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 198! (aliases-english.sk, line 386: end[er](_| )rod¦s = 198')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 199! (aliases-english.sk, line 387: chorus(_| )plant¦s = 199')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 200! (aliases-english.sk, line 388: chorus(_| )flower¦s = 200')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 201! (aliases-english.sk, line 389: purpur(_| )block¦s = 201')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 202! (aliases-english.sk, line 390: purpur(_| )pillar¦s = 202')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 203! (aliases-english.sk, line 391: purpur(_| )stairs = 203')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 204! (aliases-english.sk, line 392: purpur(_| )double(_| )slab¦s = 204')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 205! (aliases-english.sk, line 393: purpur(_| )slab¦s = 205')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 206! (aliases-english.sk, line 394: endstone(_| )bricks = 206')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 207! (aliases-english.sk, line 395: beetroot(_| )block¦s = 207')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 208! (aliases-english.sk, line 396: grass(_| )path¦s = 208')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 209! (aliases-english.sk, line 397: ender(_| )gateway¦s = 209')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 210! (aliases-english.sk, line 398: repeating(_| )command(_| )block¦s = 210')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 211! (aliases-english.sk, line 399: chain(_| )command(_| )block¦s = 211')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 212! (aliases-english.sk, line 400: frosted(_| )ice¦s = 212')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 255! (aliases-english.sk, line 402: structure(_| )block¦s = 255')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 426! (aliases-english.sk, line 405: ender(_| )crystal¦s = 426')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 432! (aliases-english.sk, line 406: chorus(_| )fruit¦s = 432')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 433! (aliases-english.sk, line 407: popped(_| )chorus(_| )fruit¦s = 433')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 434! (aliases-english.sk, line 408: beetroot¦s = 434')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 435! (aliases-english.sk, line 409: beetroot(_| )seeds = 435')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 436! (aliases-english.sk, line 410: beetroot(_| )soup¦s = 436')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 437! (aliases-english.sk, line 411: dragon(_| )breath¦s = 437')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 438! (aliases-english.sk, line 412: splash(_| )water(_| )bottle¦s = 438')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 439! (aliases-english.sk, line 413: spectral(_| )arrow¦s = 439')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 440! (aliases-english.sk, line 414: tipped(_| )arrow¦s = 440')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 441! (aliases-english.sk, line 415: lingering(_| )water(_| )bottle¦s = 441')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 442! (aliases-english.sk, line 416: shield¦s = 442')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 443! (aliases-english.sk, line 417: elytra¦s = 443')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 444! (aliases-english.sk, line 418: spruce(_| )boat¦s = 444')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 445! (aliases-english.sk, line 419: birch(_| )boat¦s = 445')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 446! (aliases-english.sk, line 420: jungle(_| )boat¦s = 446')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 447! (aliases-english.sk, line 421: acacia(_| )boat¦s = 447')
+[21:05:52] [Server thread/ERROR]: [Skript] There doesn't exist a material with id 448! (aliases-english.sk, line 422: dark(_| )oak(_| )boat¦s = 448')
+[21:05:53] [Server thread/INFO]: [Skript] Loaded a total of 78602 english aliases
+[21:05:53] [Server thread/INFO]: [Skript]  ~ created by & © Peter Güttinger aka Njol ~
+[21:05:53] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.10.5
+[21:05:53] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[21:05:53] [Server thread/INFO]: [0;32;1m[santmc-commons] Enabling santmc-commons v1.0[m
+[21:05:53] [Server thread/INFO]: [0;32;1m[santmc-commons] Conectado ao MySQL![m
+[21:05:53] [Server thread/INFO]: [0;32;1m[santmc-commons] O plugin foi ativado.[m
+[21:05:53] [Server thread/INFO]: [0;32;1m[sant-skywars] Enabling sant-skywars v2.2[m
+[21:05:53] [Server thread/INFO]: [0;32;1m[sant-skywars] GAME: 0 salas carregadas.[m
+[21:05:54] [Server thread/INFO]: [0;32;1m[sant-skywars] GAME: 0 salas carregadas.[m
+[21:05:54] [Server thread/INFO]: [0;32;1m[sant-skywars] ANGELS: Loaded 0 Angels.[m
+[21:05:54] [Server thread/WARN]: Could not register alias icanhasbukkit because it contains commands that do not exist: version $1-
+[21:05:54] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:05:54] [Server thread/INFO]: Done (3.523s)! For help, type "help" or "?"
+[21:05:54] [Server thread/INFO]: [Skript] Loading variables...
+[21:05:54] [Server thread/INFO]: [Skript] Loaded 0 variables in 0.0 seconds
+[21:05:54] [Server thread/ERROR]: [Skript] A command with the name /plugins is already defined in Bloqueio_maximo_2.5.5Alpha.sk
+[21:05:54] [Server thread/ERROR]: [Skript] A command with the name /me is already defined in Bloqueio_maximo_2.5.5Alpha.sk
+[21:05:54] [Server thread/INFO]: [Skript] Loaded 1 script with a total of 0 triggers and 23 commands in 0.05 seconds
+[21:05:54] [Server thread/INFO]: [Skript] Finished loading.
+[21:05:54] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[21:05:54] [Craft Scheduler Thread - 5/INFO]: [PlaceholderAPI] 151 placeholder expansions are available on the cloud.
+[21:05:54] [Server thread/INFO]: [PlaceholderAPI] An update for PlaceholderAPI (v2.11.6) is available at:
+[21:05:54] [Server thread/INFO]: [PlaceholderAPI] https://www.spigotmc.org/resources/placeholderapi.6245/
+[21:05:54] [Craft Scheduler Thread - 1/INFO]: [0;37;22m[[0;33;22mSkript[0;37;22m][m You're currently running custom Skript version. No updates will be automatically installed.[m
+[21:08:20] [Thread-14/INFO]: UUID of player HaridadeGANG is 943d65a7-69fb-3e36-a36d-92534e337b4a
+[21:08:20] [Server thread/INFO]: HaridadeGANG[/138.219.242.193:50971] logged in with entity id 23 at ([world]-188.0, 64.0, 40.0)
+[21:09:01] [Server thread/INFO]: HaridadeGANG lost connection: Disconnected
+[21:12:45] [Thread-16/INFO]: UUID of player MuriloHR is 299e945e-4e5c-3be2-bb9f-efca85331f83
+[21:12:46] [Server thread/INFO]: MuriloHR[/45.134.141.133:38809] logged in with entity id 3634 at ([world]-188.0, 64.0, 40.0)
+[21:13:05] [Server thread/INFO]: Stopping the server
+[21:13:05] [Server thread/INFO]: Stopping server
+[21:13:05] [Server thread/INFO]: [0;32;1m[sant-skywars] Disabling sant-skywars v2.2[m
+[21:13:05] [Server thread/INFO]: [0;32;1m[sant-skywars] O plugin foi desativado.[m
+[21:13:05] [Server thread/INFO]: [BungeeGuard] Disabling BungeeGuard v1.4.5
+[21:13:05] [Server thread/INFO]: [0;32;1m[santmc-commons] Disabling santmc-commons v1.0[m
+[21:13:05] [Server thread/INFO]: [0;32;1m[santmc-commons] O plugin foi desativado.[m
+[21:13:05] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v4.5.1
+[21:13:05] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.10.5
+[21:13:05] [Server thread/INFO]: [Skript] Disabling Skript v2.2-dev36
+[21:13:05] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1.7;dd00bb1
+[21:13:05] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.141
+[21:13:05] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[21:13:05] [Server thread/INFO]: [LuckPerms] Closing messaging service...
+[21:13:05] [Server thread/INFO]: [LuckPerms] Closing storage...
+[21:13:05] [Server thread/INFO]: [LuckPerms] Goodbye!
+[21:13:05] [Server thread/INFO]: Saving players
+[21:13:05] [Server thread/INFO]: MuriloHR lost connection: Server closed
+[21:13:05] [Server thread/INFO]: MuriloHR left the game.
+[21:13:05] [Server thread/INFO]: Saving worlds
+[21:13:05] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[21:13:05] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether

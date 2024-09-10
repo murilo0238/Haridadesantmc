@@ -1,0 +1,56 @@
+####################################################################################################
+# +----------------------------------------------------------------------------------------------+ #
+# |                                          __             _                                    | #
+# |                                 _ __   / /  ___   __ _(_)_ __                                | #
+# |                                | '_ \ / /  / _ \ / _` | | '_ \                               | #
+# |                                | | | / /__| (_) | (_| | | | | |                              | #
+# |                                |_| |_\____/\___/ \__, |_|_| |_|                              | #
+# |                                                    |___/                                     | #
+# |                                                                                              | #
+# |                      A practical, secure and friendly authentication plugin                  | #
+# |                                                                                              | #
+# |                                © 2023 - Powered by nickuc.com                                | #
+# |                                                                                              | #
+# |                                                                                              | #
+# |  Para um melhor entendimento deste arquivo acesse nossa documentação:                        | #
+# |   ==> https://docs.nickuc.com/nlogin/                                                        | #
+# |                                                                                              | #
+# |  Novas opções não são adicionadas automaticamente neste arquivo. Valores padrões são usados  | #
+# |  caso uma opção não seja encontrada.                                                         | #
+# +----------------------------------------------------------------------------------------------+ #
+####################################################################################################
+
+# Define a versão do arquivo.
+file-version: 1
+
+# Define se o Discord poderá ser usado como um segundo fator.
+enabled: true
+
+authentication:
+  # Define o token utilizado na API do Discord.
+  #
+  # - Para mais informações, acesse a documentação:
+  #    * https://docs.nickuc.com/nlogin/discord
+  #
+  token: "MTI3ODA1MDcyMjM3Nzg5NTk0Ng.GJ6prj.fR-vo6Ge84yqjSFBwTF8mbLKKh9QNU97P7qMqg"
+
+options:
+  link-required:
+    # Define se vincular uma conta do Discord será exigido para se autenticar.
+    enabled: false
+
+    # Define se jogadores originais também precisarão vincular uma conta do Discord para se autenticar.
+    required-for-premium: false
+
+  # Define o número máximo de contas que podem ter o mesmo Discord vinculado.
+  account-limit: 1
+
+  # Define se a vinculação deverá ser recomendada para os jogadores.
+  recommend-linking: false
+
+  # Define a URL de convite do servidor do Discord.
+  # - Esta opção é necessária para concluir uma vinculação.
+  invite-url: "discord.santmc.com"
+
+  # Define a mensagem de status do bot.
+  presence: "na SantMC!"

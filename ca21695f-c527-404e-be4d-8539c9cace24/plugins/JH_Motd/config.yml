@@ -1,0 +1,15 @@
+# Versao fake isso e mostrado a frente dos slots pode ser usado como 3° linha para o motd
+fakeVersion:
+  ligado: false
+  versions:
+  - "&eVenha jogar"
+
+# Motd aleatorio cada vez que o jogador atualizar a lista ira aparecer um
+motds:
+- "             &e&lSANTMC &7↝ &bloja.santmc.com {newline}         &6&l NOVIDADES EM BREVE..."
+
+# Lista de jogadores mostrados quando se passa o mouse em cima dos slots
+playerList:
+  ligado: false
+  fakePlayers:
+  - "Servidor de ?"

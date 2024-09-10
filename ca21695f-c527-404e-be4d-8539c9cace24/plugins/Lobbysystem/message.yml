@@ -1,0 +1,40 @@
+message:
+  nopermission: '&cNo tienes permisos para ejecutar este comando.'
+  prefix: '&b&lSANTMC '
+  lobby:
+    denied: '&cNo puedes usar este comando aqui.'
+    tp: '&fVocê foi pro lobby corretamente!'
+    error: '&cNo hay ninguna lobby establecida.'
+    create: '&aLobby agregada correctamente.'
+    islobby: '&cEste servidor ya esta establecido como lobby'
+    already: '&fVocê foi pro lobby corretamente..'
+    reload: '&aConfiguracion recargada correctamente'
+    remove:
+      message: ' &aLobby eliminada correctamente.'
+      arguments: '&cFaltan argumentos, usa /lobbyremove <lobby>'
+      error: '&cEse servidor no existe o no es una lobby'
+    waiting: '&aTeletransportando a la lobby en %time% segundos.'
+    cancel: '&cHas cancelado el teleporte.'
+    transport:
+      sucess: '&a%target_amount% jugadores de %target% fueron transportados a %objetive%'
+      equals: '&cLos servidores no pueden ser iguales'
+      error: '&cEl servidor %server% no esta establecido como lobby.'
+      arguments: '&cUsa /lobbytransport <server> <server>'
+    list:
+      header: '&6&m==================='
+      message: '&6%lobby%  - %amount% players'
+      footer: '&6====================='
+    server:
+      sucess: '&aHas ingresado a la lobby %server%'
+      error: '&cEse servidor no está establecido como lobby'
+      arguments: '&cUsa /lobbyserver <server>'
+    teleport:
+      sucess: '&aEl jugador %player% ha sido transportado a la lobby: %server%'
+      player: '&aUn admin te ha transportado a la lobby.'
+      error: '&cEl jugador no está conectado'
+      arguments: '&cUsa /lobbytp <player>'
+    mode:
+      arguments: '&cUsa /lobbymode <mode>'
+      sucess: '&aEl modo de transporte ha cambiado a: %mode%'
+    delay:
+      message: '&cEspera unos segundos para ejecutar este comando.'

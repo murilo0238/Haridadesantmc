@@ -1,0 +1,379 @@
+####################################################################################################
+# +----------------------------------------------------------------------------------------------+ #
+# |                                          __             _                                    | #
+# |                                 _ __   / /  ___   __ _(_)_ __                                | #
+# |                                | '_ \ / /  / _ \ / _` | | '_ \                               | #
+# |                                | | | / /__| (_) | (_| | | | | |                              | #
+# |                                |_| |_\____/\___/ \__, |_|_| |_|                              | #
+# |                                                    |___/                                     | #
+# |                                                                                              | #
+# |                      A practical, secure and friendly authentication plugin                  | #
+# |                                                                                              | #
+# |                                © 2023 - Powered by nickuc.com                                | #
+# |                                                                                              | #
+# |                                                                                              | #
+# |  Новые опции не добавляются автоматически в этот файл. Если опция не найдена,                | #
+# |  используются значения по умолчанию.                                                         | #
+# |                                                                                              | #
+# |  Сообщество в VK:                                                                            | #
+# |   ==> https://www.nickuc.com/vk                                                              | #
+# |                                                                                              | #
+# |  Translators:                                                                                | #
+# |   - Vadimus 2.0#8694                                                                         | #
+# |   - _OfTeN_#0001 (some fixes)                                                                | #
+# |   - Energobro#2975 (translation issues)                                                      | #
+# +----------------------------------------------------------------------------------------------+ #
+####################################################################################################
+
+pending:
+  login: '&fИспользование: &7/&6login <пароль>'
+  register: '&fИспользование: &7/&6register <пароль> <повтор пароля>'
+  action-bar:
+    singular: '&fУ вас есть &6{0} &fсекунда {для входа/на регистрацию}.'
+    plural: '&fУ вас есть &6{0} &fсекунд(-ы) на {вход/регистрацию}.'
+success:
+  login: '&fВы &aуспешно &Fвошли в аккаунт.'
+  register: '&fВы &6успешно &fзарегистрировались.'
+  session: '&fСессия активна.'
+  premium: '&fВы автоматически зашли, так как используете &6лицензию&f.'
+  bedrock: '&fВы автоматически входите в систему, поскольку осуществляете вход из учетной записи &6Bedrock&f.'
+  change-password: '&fВаш пароль был &aуспешно &fизменён.'
+  reload: '&fПлагин &aуспешно&f перезагружен.'
+  kick:
+    unregister: '&fРегистрация аккаунта &aуспешно &fотозвана.'
+    marked-offline: '&7Your account has been marked as &6offline&7. Please rejoin.'
+    challenge-premium: '&7Чтобы подтвердить, что вы используете &6лицензию&7, пожалуйста, войдите на сервер еще раз.'
+error:
+  not-registered: '&fЭтот ник ещё &cне зарегистрирован&f.'
+  offline: '&fИгрок сейчас &cне в сети&f.'
+  address-limit: '&fВы &cисчерпали &fлимит регистрации аккаунтов.'
+  database: '&fК сожалению, нам &cне удалось &fвыполнить эту операцию. Пожалуйста, попробуйте еще раз. &8[&6SQL FAIL&8]'
+  command:
+    usage: '&fИспользуйте &6{0}.'
+    no-permission: '&fУ вас &cнет прав&f для использования этой команды.'
+    player-required: '&fЭту команду &cнельзя &fиспользовать в консоли.'
+    console-required: '&fЭту команду &6можно&f использовать &cтолько &fиз консоли.'
+    arguments:
+      password: password
+      current-password: current password
+      new-password: new password
+  already:
+    login: '&fВы &cуже&f вошли в аккаунт.'
+    login-other: '&fЭтот игрок &cуже &fвошёл в аккаунт.'
+    registered: '&fЭто имя пользователя &cуже &fзарегистрировано.'
+    premium: '&fВаш аккаунт уже отмечен как &6лицензионый.'
+  password:
+    same-as-current: '&fВведённый пароль должен отличаться от предыдущего.'
+    too-large: '&fВы ввели &cслишком &fдлинный пароль.'
+    too-small: '&fВы ввели &cслишком &fкороткий пароль.'
+    do-not-match: '&fПароли &cне совпадают&f.'
+    require-confirmation: '&fВы должны &6подтвердить &fсвой пароль.'
+    incorrect: '&cНеправильный &fпароль! Попробуйте снова.'
+  kick:
+    incorrect-password: '&fВы слишком много раз ввели &cнеправильный &fпароль.'
+    wait-server-start: |-
+      &fСервер в процессе запуска.
+      &fПодождите его полной загрузки.
+    account-blocked: |-
+      &fВаш IP-вдрес подозревается в &cатаке &fи был &cзаблокирован&f.&r
+      &r&fОставшееся время до разблокировки: &e{0}
+    invalid-nickname: '&fВаш никнейм содержит недопустимые символы. Примеры недопустимых символов:&e<|}-+#$@.'
+    already-online: '&fЭтот игрок &cуже &fзашёл на сервер.'
+    unknown-hostname: |-
+      &4[nLogin] Используемое имя хоста &f({0}) &4не определено в конфигурации.
+      &r
+      &r&cЕсли это действительный IP-адрес, добавьте его в наиболее подходящую категорию в разделе конфигурации &f"premium.username-appender"&c.
+      &r
+      &r&eДля получения более подробной информации ознакомьтесь с руководством по работе с аппендером имени пользователя:
+      &r&bhttps://docs.nickuc.com/nlogin/username-appender
+    timeout:
+      login: '&fВы слишком &cдолго &fвходили в аккаунт.'
+      register: '&fВремя регистрации &cистекло&f.'
+notification:
+  all-viewed: '&fВсе уведомления были &2просмотрены&f.'
+  premium-question:
+  - ''
+  - ' &eИспользуете ли вы лицензию?'
+  - ' &7(&fпосле принятия вам нужно будет переподключиться к серверу&f).'
+  - ''
+  select-language:
+  - ''
+  - ' &7Мы обнаружили, что вы используете русский язык.'
+  - ''
+  - ' &eХотите ли вы изменить язык nLogin?'
+  - ''
+  button:
+    confirm-read:
+      text: '&6Подтвердить прочтение'
+      hover: null
+    yes-btn:
+      text: '&aДа'
+      hover: null
+    no-btn:
+      text: '&cНет'
+      hover: null
+2fa:
+  not-registered: '&fУ вас &cнет &fаккаунта &6{0}.'
+  already-registered: '&fВы &cуже&f зарегистрировали свой &6{0}.'
+  register-limit: '&cВы исчерпали лимит учетных записей с одинаковыми {0}.'
+  unregistered: '&fВаш аккаунт&6 {0}&f был удален'
+  incorrect-code: '&fВы ввели &cневерный &fпароль. Попробуйте снова.'
+  rate-limit: '&cLimit exceeded. Please wait {0} minutes to try again.'
+  confirmed-account: '&fВаш аккаунт&6 {0} &fбыл успешно создан'
+  confirmation-message-sent: |-
+    &fКод подтверждения был отправлен на ваш &6&6{0}&7.
+    &8(&f{1}&8).
+  command-delay: '&fПодождите некоторое время, прежде чем снова выполнять эту команду.'
+  help-command:
+  - ''
+  - ' &fСтатус: [&6{2} подключен//&c{2} не подключен]&f.'
+  - ''
+  - ' [&8⋆ &7/&6{0} add &7- &fПривязать {1}]'
+  - ' [&8⋆ &7/&6{0} remove &7- &fОтвязать {1}]'
+  - ' [&8⋆ &7/&6{0} recover &7- &fВосстановить аккаунт]'
+  - ' [&8⋆ &7/&6{0} 2fa &7- &fВключить/Отключить 2FA]'
+  - ''
+  recover-command:
+  - ''
+  - ' &eChoose a recovery method:'
+  - ' [&8⋆ &7{0}: &f/{1} recover]'
+  - ''
+  switch:
+    enabled: '&f2FA был &2активирован&f.'
+    disabled: '&f2FA был &cотключен&f.'
+  recover:
+    not-equal: '&fДанный &e{0}&f не совпадает с зарегистрированным.'
+    message-sent: '&fНа ваш &6привязанный аккаунт&f было отправлено сообщение о восстановлении.'
+    change-password: '&fВаш пароль был автоматически изменен на &e''{0}''&f.'
+  discord:
+    account-linked: |-
+      &aПоздравляем, ваш аккаунт успешно привязан.
+      &fВы привязались к &6{0}&f.
+    confirm-account:
+    - ''
+    - ' &fДля завершения, вам требуется подтвердить&a Дискорд-аккаунт&f.'
+    - ' &fПрисоединитесь к Дискорду &8(&6{0}&8) &fи '
+    - ' &7напишите нашему боту: &e{1}'
+    - ''
+    - ' [&2Нажмите сюда&f, чтобы получить команду.]'
+    - ''
+    warn-message:
+    - ''
+    - ' &6Система безопасности Discord'
+    - ' &fНапишите &7/&6discord add &fи следуйте инструкциям.'
+    - ' &fС привязкой к &aDiscord&f, вы максимально защитите свой аккаунт.'
+    - ''
+    discord-required:
+    - ''
+    - ' &7The current server requires you to link a'
+    - ' &aDiscord account &7to complete registration.'
+    - ''
+    - ' &6Please run &f/discord add&6.'
+    - ''
+    address-changed:
+    - ''
+    - ' &7You need to confirm your account login.'
+    - ' &7A security message has been sent to your registered Discord.'
+    - ''
+    - ' &aClick the message button to confirm your identity.'
+    - ''
+    dm:
+      configure:
+        invalid:
+          title: Invalid code
+          description: Sorry, but the token you entered is invalid or does not exist.
+          image: https://www.nickuc.com/static/assets/img/2fa-lock-default.png
+        success:
+          title: Discord linked
+          description: Your Discord has been linked successfully.
+          image: https://www.nickuc.com/static/assets/img/2fa-lock-default.png
+      verify:
+        title: Confirm your account authentication.
+        description: |-
+          Authentication confirmation is required to access your @player account.
+
+          If it wasn't you, deny the operation and change your password immediately.
+        image: https://www.nickuc.com/static/assets/img/2fa-lock-default.png
+        allow: Allow
+        deny: Deny
+      recover:
+        title: Password recovery requested.
+        description: |-
+          A password recovery request has been requested from your @player account.
+
+          If it wasn't you, deny the operation and change your password immediately.
+        image: https://www.nickuc.com/static/assets/img/2fa-lock-default.png
+        allow: Allow
+        deny: Deny
+  email:
+    invalid-email: '&cВведена неверная почта.'
+    server-email: '&cВы не можете использовать адрес почты сервера.'
+    warn-message:
+    - ''
+    - ' &aСистема безопасности email'
+    - ' &aИспользйте команду &f/email associate <ваш email> &aчтобы улучшить вашу безопасность.'
+    - ' &aС привязкой к email, вы избежите взлома своего аккаунта.'
+    - ''
+    email-required:
+    - ''
+    - ' &7The current server requires you to link a'
+    - ' &avalid email &7to complete registration.'
+    - ''
+    - ' &6Please run &f/email add <your email>&6.'
+    - ''
+    address-changed:
+    - ''
+    - ' &7You need to confirm your account login.'
+    - ' &7A security message has been sent to your registered email.'
+    - ''
+    - ' &aUse the command §f/email <code> §ato complete the authentication.'
+    - ''
+    stmp:
+      configure:
+        subject: Подтверждение учетной записи @player
+        content:
+        - <h1>
+        - ' Здравствуйте, @player!'
+        - </h1>
+        - <p>
+        - ' Чтобы завершить процесс регистрации email, используйте команду <strong>"/email @code"</strong>.'
+        - </p>
+        - <p>
+        - ' Если это были не Вы, проигнорируйте это письмо.'
+        - </p>
+      verify:
+        subject: Подтверждение входа в аккаунт @player
+        content:
+        - <h1>
+        - ' Здравствуйте, @player!'
+        - </h1>
+        - <p>
+        - ' Чтобы авторизироваться на сервере, используйте команду <strong>"/email @code"</strong>.'
+        - </p>
+        - <p>
+        - ' Если это были не Вы, смените пароль <strong>НЕМЕДЛЕННО</strong>.'
+        - </p>
+      recover:
+        subject: Восстановление аккаунта @player
+        content:
+        - <h1>
+        - ' Привет, @player!'
+        - </h1>
+        - <p>
+        - ' Для восстановления учетной записи воспользуйтесь командой <strong>"/email <new password> @code"</strong>.'
+        - </p>
+        - <p>
+        - ' Если это были не Вы, проигнорируйте это письмо.'
+        - </p>
+bedrock:
+  forms:
+    login:
+      title: Авторизация
+      content:
+      - Приветствую, @player!
+      - 'Для входа на сервер, введите ваш пароль ниже:'
+      - ''
+      - '[Пароль//Введите ваш пароль]'
+      - ''
+    register:
+      title: Регистрация
+      content:
+      - Приветствую, @player!
+      - Для игры на сервере, требуется зарегистрироваться.
+      - Пожалуйста введите ваш пароль ниже.
+      - ''
+      - '[Пароль//Введите ваш пароль]'
+      - '[Подтверждение//Введите ещё раз ваш пароль]'
+      - ''
+title:
+  before-login:
+    title: '&6&lДобро пожаловать!'
+    subtitle: '&fАвторизация: &7/&6login &8<&fпароль&8>'
+    delays:
+      fadeIn: 2
+      stay: 9999
+      fadeOut: 6
+  before-register:
+    title: '&6&lДобро пожаловать!'
+    subtitle: '&fЗарегистрируйтесь: &7/&6register &8<&fпароль&8> &8<&fповтор пароля&8>'
+    delays:
+      fadeIn: 2
+      stay: 9999
+      fadeOut: 6
+  after-login:
+    title: ''
+    subtitle: '&6Вы успешно зашли!'
+    delays:
+      fadeIn: 2
+      stay: 60
+      fadeOut: 6
+  after-register:
+    title: ''
+    subtitle: '&6Вы успешно зарегистрировались!'
+    delays:
+      fadeIn: 2
+      stay: 60
+      fadeOut: 6
+  incorrect-password:
+    title: ''
+    subtitle: '&cНеправильный пароль!'
+    delays:
+      fadeIn: 2
+      stay: 60
+      fadeOut: 6
+  already-login:
+    title: ''
+    subtitle: '&fВы &cуже &fвошли в аккаунт!'
+    delays:
+      fadeIn: 2
+      stay: 60
+      fadeOut: 6
+  already-registered:
+    title: ''
+    subtitle: '&fВы &6уже &fзарегистрированы!'
+    delays:
+      fadeIn: 2
+      stay: 60
+      fadeOut: 6
+  passwords-dont-match:
+    title: ''
+    subtitle: '&fПароль &cне совпадает &fс предыдущим!'
+    delays:
+      fadeIn: 2
+      stay: 60
+      fadeOut: 6
+  session-login:
+    title: ''
+    subtitle: '&fВаша сессия &aактивна&f.'
+    delays:
+      fadeIn: 2
+      stay: 60
+      fadeOut: 6
+  premium-login:
+    title: ''
+    subtitle: '&fВаш аккаунт &6лицензионный&f, вы успешно зашли.'
+    delays:
+      fadeIn: 2
+      stay: 60
+      fadeOut: 6
+  bedrock-login:
+    title: ''
+    subtitle: '&eДоступ через Bedrock, успешно вошел в систему.'
+    delays:
+      fadeIn: 2
+      stay: 60
+      fadeOut: 6
+  security-warning:
+    title: ''
+    subtitle: '&fСообщение с &cпредупреждением&f безопасности отправлено в чат'
+    delays:
+      fadeIn: 2
+      stay: 60
+      fadeOut: 6
+  answer-required:
+    title: ''
+    subtitle: '&eПожалуйста, ответьте на вопрос, присланный в чате.'
+    delays:
+      fadeIn: 2
+      stay: 9999
+      fadeOut: 6

@@ -1,0 +1,17 @@
+config:
+  countdown: 'false'
+  time: '3'
+  command_delay: 'false'
+  delay_time: '3'
+  tp_mode: lessplayers
+  lobbys:
+  - lobby
+  commands:
+    lobby:
+      command: lobby
+      permission: lobby.use
+      aliases:
+      - hub
+      - leave
+      - l
+      denied_servers: null

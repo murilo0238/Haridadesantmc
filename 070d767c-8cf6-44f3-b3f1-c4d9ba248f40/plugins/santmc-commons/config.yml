@@ -1,0 +1,12 @@
+database:
+ tipo: 'MySQL'
+ mysql:
+  hikari: false
+  mariadb: false
+  host: 'mysql.starhost.online'
+  porta: '3306'
+  nome: 's3_painelperm'
+  usuario: 'u3_kYqYyRaviw'
+  senha: 'gqP.8VHzwJ.iPUuUr7a0wVI5'
+ mongodb:
+   url: ''

@@ -1,0 +1,73 @@
+####################################################################################################
+# +----------------------------------------------------------------------------------------------+ #
+# |                                          __             _                                    | #
+# |                                 _ __   / /  ___   __ _(_)_ __                                | #
+# |                                | '_ \ / /  / _ \ / _` | | '_ \                               | #
+# |                                | | | / /__| (_) | (_| | | | | |                              | #
+# |                                |_| |_\____/\___/ \__, |_|_| |_|                              | #
+# |                                                    |___/                                     | #
+# |                                                                                              | #
+# |                      A practical, secure and friendly authentication plugin                  | #
+# |                                                                                              | #
+# |                                © 2023 - Powered by nickuc.com                                | #
+# |                                                                                              | #
+# |                                                                                              | #
+# |  Novas opções não são adicionadas automaticamente neste arquivo. Valores padrões são usados  | #
+# |  caso uma opção não seja encontrada.                                                         | #
+# +----------------------------------------------------------------------------------------------+ #
+####################################################################################################
+
+# Define a versão do arquivo.
+file-version: 1
+
+#     ___            _                  _
+#    / __\ __ _  ___| | _____ _ __   __| |
+#   /__\/// _` |/ __| |/ / _ \ '_ \ / _` |
+#  / \/  \ (_| | (__|   <  __/ | | | (_| |
+#  \_____/\__,_|\___|_|\_\___|_| |_|\__,_|
+
+# Configurações relacionadas aos servidores de backend.
+backend:
+  # Define a lista de servidores de autenticação.
+  # - Você deve insira nesta lista TODOS os servidores que o nLogin está instalado.
+  # - A maioria dos servidores utiliza um servidor de autenticação ou um lobby principal.
+  # - Para mais informações, acesse o tutorial:
+  #  ==> https://docs.nickuc.com/nlogin/proxy
+  auth-servers:
+    - 'login'
+
+  # Define se o proxy deve verificar se os servidores de autenticação estão configurados corretamente.
+  # - Se você usa um servidor sem o nLogin (ex.: servidores limbo não baseados no Spigot)
+  #   é recomendável desativar esta opção.
+  check-ack-message: true
+
+#     __          _ _               _
+#    /__\ ___  __| (_)_ __ ___  ___| |_
+#   / \/// _ \/ _` | | '__/ _ \/ __| __|
+#  / _  \  __/ (_| | | | |  __/ (__| |_
+#  \/ \_/\___|\__,_|_|_|  \___|\___|\__|
+
+# Configurações do redirecionamento de servidores.
+redirect:
+  # Define se o redirecionamento do primeiro servidor deve ser sobrescrito pelo nLogin.
+  # - Esta opção evita que jogadores não autenticados burlem o servidor de autenticação.
+  override-first-server: true
+
+  # Define se o plugin deverá redirecionar os jogadores para o último servidor conectado.
+  # - Se o último servidor conectado não existir mais, um servidor aleatório da opção "redirect-servers" será escolhido.
+  redirect-to-last-server: false
+
+  after-auth:
+    # Define se jogadores deverão ser encaminhados automaticamente para outros servidores ao se autenticarem.
+    enabled: true
+
+    # Define a quais servidores os jogadores deverão ser encaminhados.
+    # - Ao inserir mais de um item, o servidor será escolhido randomicamente.
+    servers:
+      - "lobby"
+
+    # Define o tempo de espera (em milissegundos) ao trocar o servidor.
+    connect-delay: 500
+
+    # Define o tempo de espera (em milissegundos) para reconectar ao servidor após falhar a conexão.
+    retry-delay: 5000

@@ -1,0 +1,75 @@
+forge_support: false
+enforce_secure_profile: false
+remote_ping_cache: -1
+player_limit: -1
+permissions:
+  admin:
+  - bungeecord.command.alert
+  - bungeecord.command.end
+  - bungeecord.command.ip
+  - bungeecord.command.reload
+  - bungeecord.command.kick
+  - bungeecord.command.send
+  - bungeecord.command.find
+  default:
+  - bungeecord.command.server
+  - bungeecord.command.list
+timeout: 30000
+log_commands: false
+server_connect_timeout: 5000
+online_mode: false
+servers:
+  bedwars:
+    address: br.starhost.online:25568
+    motd: '&1Just another BungeeCord - Forced Host'
+    restricted: false
+  lobby:
+    address: br.starhost.online:25567
+    motd: '&1Just another BungeeCord - Forced Host'
+    restricted: false
+  login:
+    address: 134.65.238.165:25566
+    motd: '&1Just another BungeeCord - Forced Host'
+    restricted: false
+  skywars:
+    address: br.starhost.online:25569
+    motd: '&1Just another BungeeCord - Forced Host'
+    restricted: false
+  thebridge:
+    address: br.starhost.online:25570
+    motd: '&1Just another BungeeCord - Forced Host'
+    restricted: false
+  treino:
+    address: br.starhost.online:25571
+    motd: '&1Just another BungeeCord - Forced Host'
+    restricted: false
+listeners:
+- bind_local_address: true
+  force_default_server: false
+  forced_hosts:
+    br.starhost.online:25566: login
+  host: 0.0.0.0:25565
+  max_players: 200
+  motd: '&1Another Bungee server'
+  ping_passthrough: false
+  priorities:
+  - lobby
+  proxy_protocol: false
+  query_enabled: false
+  query_port: 25565
+  tab_list: GLOBAL_PING
+  tab_size: 60
+remote_ping_timeout: 5000
+ip_forward: true
+network_compression_threshold: 256
+reject_transfers: false
+prevent_proxy_connections: false
+disabled_commands:
+- disabledcommandhere
+connection_throttle: 4000
+stats: 4d87a29a-ce9b-4340-8ac6-4aaf10b9d604
+connection_throttle_limit: 3
+groups:
+  md_5:
+  - admin
+log_pings: false

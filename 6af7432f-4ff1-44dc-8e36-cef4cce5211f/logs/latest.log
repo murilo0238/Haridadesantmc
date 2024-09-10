@@ -1,0 +1,136 @@
+[22:15:55] [Server thread/INFO]: Starting minecraft server version 1.8.8
+[22:15:55] [Server thread/INFO]: Loading properties
+[22:15:55] [Server thread/INFO]: Default game type: SURVIVAL
+[22:15:56] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-db6de12-18fbb24 (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
+[22:15:56] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[22:15:56] [Server thread/INFO]: Using 4 threads for Netty based IO
+[22:15:56] [Server thread/INFO]: Debug logging is disabled
+[22:15:56] [Server thread/INFO]: Generating keypair
+[22:15:56] [Server thread/INFO]: Starting Minecraft server on 0.0.0.0:25575
+[22:15:56] [Server thread/INFO]: Using epoll channel type
+[22:15:56] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[22:15:56] [Server thread/INFO]: [FastAsyncWorldEdit] Loading FastAsyncWorldEdit v21.03.09-a5e5590-1285-22.3.8
+[22:15:56] [Server thread/INFO]: [PlaceholderAPI] Loading PlaceholderAPI v2.10.5
+[22:15:56] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v4.5.1
+[22:15:56] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.7;dd00bb1
+[22:15:56] [Server thread/INFO]: [FastAsyncWorldEdit] Enabling FastAsyncWorldEdit v21.03.09-a5e5590-1285-22.3.8
+[22:15:56] [Server thread/INFO]: [0;35;1mVault is used for persistent `/wea` toggles.[m
+[22:15:56] [Server thread/INFO]: ====== USE PAPER ======[m
+[22:15:56] [Server thread/INFO]: DOWNLOAD: https://ci.destroystokyo.com/job/PaperSpigot/[m
+[22:15:56] [Server thread/INFO]: GUIDE: https://www.spigotmc.org/threads/21726/[m
+[22:15:56] [Server thread/INFO]:  - This is only a recommendation[m
+[22:15:56] [Server thread/INFO]: ==============================[m
+[22:15:56] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v4.5.1
+[22:15:56] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[22:15:56] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[22:15:56] [Server thread/INFO]: Preparing level "world"
+[22:15:56] [Server thread/INFO]: -------- World Settings For [world] --------
+[22:15:56] [Server thread/INFO]: Mob Spawn Range: 4
+[22:15:56] [Server thread/INFO]: Anti X-Ray: true
+[22:15:56] [Server thread/INFO]: 	Engine Mode: 1
+[22:15:56] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[22:15:56] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[22:15:56] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[22:15:56] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[22:15:56] [Server thread/INFO]: Cane Growth Modifier: 100%
+[22:15:56] [Server thread/INFO]: Melon Growth Modifier: 100%
+[22:15:56] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[22:15:56] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[22:15:56] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[22:15:56] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[22:15:56] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[22:15:56] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[22:15:56] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:15:56] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[22:15:56] [Server thread/INFO]: Random Lighting Updates: false
+[22:15:56] [Server thread/INFO]: Structure Info Saving: true
+[22:15:56] [Server thread/INFO]: Sending up to 10 chunks per packet
+[22:15:56] [Server thread/INFO]: Max Entity Collisions: 8
+[22:15:56] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[22:15:56] [Server thread/INFO]: Max TNT Explosions: 100
+[22:15:56] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[22:15:56] [Server thread/INFO]: Item Despawn Rate: 6000
+[22:15:56] [Server thread/INFO]: Item Merge Radius: 2.5
+[22:15:56] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[22:15:56] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:15:56] [Server thread/INFO]: View Distance: 10
+[22:15:56] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[22:15:56] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[22:15:56] [Server thread/INFO]: Clear tick list: false
+[22:15:56] [Server thread/INFO]: Experience Merge Radius: 3.0
+[22:15:56] [Server thread/INFO]: Preparing start region for level 0 (Seed: -4216530450634206070)
+[22:15:57] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.10.5
+[22:15:57] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[22:15:57] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.7;dd00bb1
+[22:15:57] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[22:15:57] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[22:15:57] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:15:57] [Server thread/INFO]: Done (0.968s)! For help, type "help" or "?"
+[22:15:58] [Server thread/INFO]: [0;30;1m([0;31;22m[21mFAWE[0;30;1m)[m[0;37;22m Detected class org.bukkit.event.block.BlockExplodeEvent[m
+[22:15:58] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[22:15:58] [Server thread/INFO]: [PlaceholderAPI] An update for PlaceholderAPI (v2.11.6) is available at:
+[22:15:58] [Server thread/INFO]: [PlaceholderAPI] https://www.spigotmc.org/resources/placeholderapi.6245/
+[22:15:58] [Craft Scheduler Thread - 3/INFO]: [PlaceholderAPI] 151 placeholder expansions are available on the cloud.
+[22:15:58] [Server thread/INFO]: [0;33;1m[ProtocolLib] The updater found an update: 5.2.0 (Running 4.5.1). Download at https://www.spigotmc.org/resources/protocollib.1997/[m
+[22:16:08] [User Authenticator #1/INFO]: UUID of player HaridadeGANG is 3f5b4f84-9c3c-42d2-afed-31463c1311e0
+[22:16:08] [Server thread/INFO]: HaridadeGANG[/138.219.242.27:26556] logged in with entity id 0 at ([world]97.85373221215963, 46.010413278370706, -114.8326253300112)
+[22:16:24] [Server thread/INFO]: HaridadeGANG issued server command: //pos1
+[22:16:42] [Server thread/INFO]: HaridadeGANG issued server command: //pos2
+[22:16:43] [Server thread/INFO]: HaridadeGANG issued server command: //set 0
+[22:16:45] [Server thread/INFO]: HaridadeGANG issued server command: /wea
+[22:16:47] [Server thread/INFO]: HaridadeGANG issued server command: //set 0
+[22:16:55] [Server thread/INFO]: HaridadeGANG issued server command: /tp 0 50 0
+[22:16:55] [Server thread/INFO]: [HaridadeGANG: Teleported HaridadeGANG to 0.5, 50.0, 0.5]
+[22:16:59] [Server thread/INFO]: HaridadeGANG issued server command: /up 20
+[22:17:02] [Server thread/INFO]: HaridadeGANG issued server command: //schematic load
+[22:17:06] [Server thread/INFO]: HaridadeGANG issued server command: //schematic load town
+[22:17:08] [Server thread/INFO]: HaridadeGANG issued server command: //paste
+[22:17:40] [Server thread/INFO]: HaridadeGANG issued server command: //undo
+[22:17:50] [Server thread/INFO]: HaridadeGANG issued server command: //schematic load oeste
+[22:17:52] [Server thread/INFO]: HaridadeGANG issued server command: //paste
+[22:18:09] [Server thread/INFO]: HaridadeGANG issued server command: //undo
+[22:18:17] [Server thread/INFO]: HaridadeGANG issued server command: /up 20
+[22:18:19] [Server thread/INFO]: HaridadeGANG issued server command: //paste
+[22:19:05] [Server thread/INFO]: HaridadeGANG issued server command: //undo
+[22:19:16] [Server thread/INFO]: HaridadeGANG issued server command: //schematic load ocean
+[22:19:20] [Server thread/INFO]: HaridadeGANG issued server command: //paste
+[22:19:40] [Server thread/INFO]: HaridadeGANG has just earned the achievement [Taking Inventory]
+[22:20:04] [Server thread/INFO]: HaridadeGANG issued server command: //undo
+[22:20:15] [Server thread/INFO]: HaridadeGANG issued server command: //schematic load jungle
+[22:20:16] [Server thread/INFO]: HaridadeGANG issued server command: //paste
+[22:20:50] [Server thread/INFO]: HaridadeGANG issued server command: //undo
+[22:21:00] [Server thread/INFO]: HaridadeGANG issued server command: //schematic load hallowen
+[22:21:02] [Server thread/INFO]: HaridadeGANG issued server command: //paste
+[22:21:52] [Server thread/INFO]: HaridadeGANG issued server command: //undo
+[22:22:00] [Server thread/INFO]: HaridadeGANG issued server command: //schematic load fantasy
+[22:22:02] [Server thread/INFO]: HaridadeGANG issued server command: //paste
+[22:22:12] [Server thread/INFO]: HaridadeGANG issued server command: /time set day
+[22:22:12] [Server thread/INFO]: [HaridadeGANG: Set the time to 1000]
+[22:22:36] [Server thread/INFO]: HaridadeGANG issued server command: //undo
+[22:26:07] [Server thread/INFO]: HaridadeGANG issued server command: //schematic load mine1
+[22:26:09] [Server thread/INFO]: HaridadeGANG issued server command: //paste
+[22:26:36] [Server thread/INFO]: HaridadeGANG issued server command: //undo
+[22:26:45] [Server thread/INFO]: HaridadeGANG issued server command: //schematic load mine2
+[22:26:46] [Server thread/INFO]: HaridadeGANG issued server command: //paste
+[22:26:55] [Server thread/INFO]: HaridadeGANG issued server command: //undo
+[22:27:06] [Server thread/INFO]: HaridadeGANG issued server command: //schematic load spawn
+[22:27:16] [Server thread/INFO]: HaridadeGANG issued server command: //schematic load Spawn
+[22:27:18] [Server thread/INFO]: HaridadeGANG issued server command: //paste
+[22:27:46] [Server thread/INFO]: HaridadeGANG issued server command: //undo
+[22:27:53] [Server thread/INFO]: HaridadeGANG issued server command: //schematic Crates
+[22:27:56] [Server thread/INFO]: HaridadeGANG issued server command: //schematic load Crates
+[22:28:03] [Server thread/INFO]: HaridadeGANG issued server command: //paste
+[22:28:05] [Server thread/INFO]: HaridadeGANG issued server command: //undo
+[22:28:06] [Server thread/INFO]: HaridadeGANG issued server command: //paste
+[22:28:14] [Server thread/INFO]: HaridadeGANG issued server command: /gm 3
+[22:28:26] [Server thread/INFO]: HaridadeGANG issued server command: //undo
+[22:28:32] [Server thread/INFO]: HaridadeGANG issued server command: //schematic load mine5
+[22:28:32] [Server thread/INFO]: HaridadeGANG issued server command: //paste
+[22:28:41] [Server thread/INFO]: HaridadeGANG issued server command: //undo
+[22:29:58] [Server thread/INFO]: HaridadeGANG issued server command: //schematic load skyblocksnap0
+[22:30:02] [Server thread/INFO]: HaridadeGANG issued server command: //paste
+[22:30:18] [Server thread/INFO]: HaridadeGANG issued server command: //undo
+[22:30:21] [Server thread/INFO]: HaridadeGANG issued server command: //paste
+[22:31:15] [Server thread/INFO]: HaridadeGANG issued server command: //undo
+[22:33:14] [Server thread/INFO]: HaridadeGANG issued server command: /tp 0 50 0
+[22:33:14] [Server thread/INFO]: [HaridadeGANG: Teleported HaridadeGANG to 0.5, 50.0, 0.5]

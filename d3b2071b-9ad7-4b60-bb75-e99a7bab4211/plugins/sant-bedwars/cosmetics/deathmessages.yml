@@ -1,0 +1,127 @@
+alien:
+  # ID único, não utilize IDs repetidos.
+  id: 1
+  name: 'Alienígenas'
+  rarity: EPICO
+  permission: ''
+  icon: 'SKULL_ITEM:3 : 1 : desc>&7Abduza seus inimigos usando\n&7estas mensagens de outro mundo! : skin>eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2RlN2I4YmFmNzg1ODdiNzQ0MjdlYjBjNzMxMzc0N2Y1OGM0MTgzMDVhMTQ3Mjc4Yjc3MzE1YTljOTdmZDkifX19'
+  coins: 10000.0
+  cash: 25
+  messages:
+    - '{name} &efoi abduzido por {killer}'
+amongus:
+  id: 2
+  name: 'Among Us'
+  rarity: EPICO
+  permission: ''
+  icon: 'SKULL_ITEM:3 : 1 : desc>&7Você não é Impostor, mas com estas\n&7mensagens suspeitas se tornará um. : skin>eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjdjMTRlYjg3ZGM2NDQ0YWU2MjVmMTIyY2YzYWU5NmZjOGEyODZhYmI2OWRjYzc4ZWU5NWNkNDQzMjMyYTA1YyJ9fX0='
+  coins: 15000.0
+  cash: 75
+  messages:
+    - '{name} &efoi morto pelo impostor {killer}'
+    - '{name} &efoi morto de surpresa pelo impostor {killer}'
+alex:
+  id: 3
+  name: 'Alex Assassino'
+  rarity: EPICO
+  permission: ''
+  icon: 'SKULL_ITEM:3 : 1 : desc>&7Você usa seus truques de alex\n&7assassino contra seu inimigo : skin>eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjNiMDk4OTY3MzQwZGFhYzUyOTI5M2MyNGUwNDkxMDUwOWIyMDhlN2I5NDU2M2MzZWYzMWRlYzdiMzc1MCJ9fX0='
+  coins: 15000.0
+  cash: 75
+  messages:
+    - '{killer} &efez {name} &ecair no conto do alex assasino...'
+    - '{killer} &eusou seus poderes alex contra {name}'
+    - '{killer} &enão teve piedade para matar {name}'
+churrasco:
+  id: 4
+  name: 'Churrasco'
+  rarity: COMUM
+  permission: ''
+  icon: 'COOKED_BEEF : 1 : desc>&7Faça churrasco até\n&7mesmo com seu inimigo.'
+  coins: 10000.0
+  cash: 25
+  messages:
+    - '{killer} &efez churrasco de {name}'
+    - '{killer} &eesquentou {name} &etanto que ele morreu!'
+trapaça:
+  id: 5
+  name: 'Trapaça'
+  rarity: RARO
+  permission: ''
+  icon: 'LAVA_BUCKET : 1 : desc>&7Mostre suas traquinagens para\n&7seus inimigos e faça eles temerem.'
+  coins: 12000.0
+  cash: 55
+  messages:
+    - '{killer} &ematou {name} &ecom suas traquinagens'
+Luta:
+  id: 6
+  name: 'Luta'
+  rarity: RARO
+  permission: ''
+  icon: 'IRON_SWORD : 1 : esconder>tudo : desc>&7Decida no ringue de luta\n&7quem é o vencedor.'
+  coins: 15000.0
+  cash: 75
+  messages:
+    - '{killer} &evenceu a luta contra {name}'
+    - '{killer} &echamou {name} &ede LIXO!'
+    - '{name} &efoi solado por {killer}'
+feiticeiro:
+  id: 7
+  name: 'Feiticeiro'
+  rarity: EPICO
+  permission: ''
+  icon: '379 : 1 : desc>&7A magia do Sky Wars é eliminar\n&7o seu oponente com feitiços.'
+  coins: 10000.0
+  cash: 25
+  messages:
+    - '{killer} &efez feitiços para matar {name}'
+    - '{killer} &eusou poderes para conseguir matar {name}'
+    - '{name} &enão aguentou os feitiços de {killer}'
+counterstrike:
+  id: 8
+  name: 'Counter-Strike'
+  rarity: RARO
+  permission: ''
+  icon: '294 : 1 : desc>&7A mire e a cooperação são fundamentais\n&7nesse jogo, siga o mestre e aprenda!'
+  coins: 10000.0
+  cash: 25
+  messages:
+    - '{name} &etomou um headshot de {killer}'
+    - '{name} &etomou um strike {killer}'
+    - '{killer} &edeu um headshot em {name} &esem piedade.'
+distração:
+  id: 9
+  name: 'Distração'
+  rarity: RARO
+  permission: ''
+  icon: '86 : 1 : desc>&7Estar destraído em uma batalha\n&7não significa perder a mesma.'
+  coins: 10000.0
+  cash: 25
+  messages:
+    - '{killer} &ematou {name} &edestraído'
+    - '{name} &emorreu de tanto susto por {killer}'
+    - '{name} &ese destraiu e {killer} &epegou ele de surpresa!'
+susto:
+  id: 10
+  name: 'Susto'
+  rarity: COMUM
+  permission: ''
+  icon: '332 : 1 : desc>&7Ai que susto! Estas mensagens\n&7demostram seu medo e sua força!'
+  coins: 10000.0
+  cash: 25
+  messages:
+    - '{name} &etomou um susto e foi morto por {killer}'
+    - '{name} &emorreu assustador por {killer}'
+    - '{name} &etomou um susto de {killer} &etão grande que não aguentou...'
+radiação:
+  id: 11
+  name: 'Radiação'
+  rarity: DIVINO
+  permission: ''
+  icon: 'INK_SACK:5 : 1 : desc>&7O mundo já não é mais o mesmo.\n&7a radiação está por todo lugar. Use\n&7estas mensagens radioativas em jogo!'
+  coins: 10000.0
+  cash: 25
+  messages:
+    - '{name} &epegou radioatividade de {killer} &ee morreu'
+    - '{name} &enão aguentou a radioatividade excessiva de {killer}'
+    - '{name} &eteve uma radioatividade extrema feita por {killer} &ee não aguentou e morreu.'

@@ -1,0 +1,110 @@
+roles:
+# Cargos de Staff
+ direcao:
+  name: '&4Dire&4ção'
+  prefix: '&4&lDIREÇÃO&4 '
+  permission: 'role.direção'
+  alwaysvisible: true
+ gerente:
+  name: '&cGerente'
+  prefix: '&c&lGERENTE&c '
+  permission: 'role.gerente'
+  alwaysvisible: false
+ admin:
+  name: '&cAdmin'
+  prefix: '&c&lADMIN&c '
+  permission: 'role.admin'
+  alwaysvisible: false
+ builder:
+  name: '&aBuilder'
+  prefix: '&a&lBUILDER&a '
+  permission: 'role.builder'
+  alwaysvisible: false
+ moderador+:
+  name: '&bMod+'
+  prefix: '&b&lMOD&6+&b '
+  permission: 'role.moderador+'
+  alwaysvisible: false
+ moderador:
+  name: '&2Mod'
+  prefix: '&2&lMOD&2 '
+  permission: 'role.moderador'
+  alwaysvisible: false
+ auxiliar:
+  name: '&eAuxiliar'
+  prefix: '&e&lAUXILIAR&e '
+  permission: 'role.auxiliar'
+  alwaysvisible: false
+
+# Cargos de YouTubers
+ partner:
+  name: '&bPartner'
+  prefix: '&b&lPARTNER&b '
+  permission: 'role.partner'
+  alwaysvisible: false
+ youtuber:
+  name: '&bYT'
+  prefix: '&b&lYT&b '
+  permission: 'role.youtuber'
+  alwaysvisible: false
+ streamer:
+  name: '&dStreamer'
+  prefix: '&d&lSTREAMER&d '
+  permission: 'role.streamer'
+  alwaysvisible: false
+ tiktok:
+  name: '&5TikTok'
+  prefix: '&5&lTIKTOK&5 '
+  permission: 'role.tiktok'
+  alwaysvisible: false
+
+# Cargos de VIPs - Do Servidor
+ tropical:
+  name: '&6Tropical'
+  prefix: '&6&lTROPICAL&6 '
+  permission: 'role.tropical'
+  broadcast: true
+ sunset:
+  name: '&eSunset'
+  prefix: '&e&lSUNSET&e '
+  permission: 'role.sunset'
+  broadcast: true
+ oasis:
+  name: '&2Oásis'
+  prefix: '&2&lOÁSIS&2 '
+  permission: 'role.oasis'
+  broadcast: true
+ 2025:
+  name: '&42025'
+  prefix: '&4&l2025&4 '
+  permission: 'role.2025'
+  broadcast: false
+ verão:
+  name: '&6Verão'
+  prefix: '&6&lVerão '
+  permission: 'role.verão'
+  broadcast: false
+ natal:
+  name: '&cNatal'
+  prefix: '&2&lNATAL&2 '
+  permission: 'role.natal'
+  broadcast: false
+ beta:
+  name: '&9Beta'
+  prefix: '&9&lBETA&9 '
+  permission: 'role.beta'
+  broadcast: true
+
+# Cargos de VIP Promocional
+ vip:
+  name: '&1VIP'
+  prefix: '&1&lVIP&1 '
+  permission: 'role.vip'
+  broadcast: true
+  
+# Cargos de Membro
+ membro:
+  name: '&7Membro'
+  prefix: '&7'
+  permission: ''
+  broadcast: false

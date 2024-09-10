@@ -1,0 +1,52 @@
+invisivel:
+  id: 1
+  coins: 15000.0
+  cash: 75
+  rarity: EPICO
+  name: 'Invisível'
+  permission: ''
+  icon: 'POTION:8270 : 1 : esconder>tudo'
+  blocks: '["-1.0; 0.0; 0.0; BARRIER; 0","-1.0; 0.0; 1.0; BARRIER; 0","-1.0; 0.0;
+    2.0; BARRIER; 0","0.0; 0.0; 0.0; BARRIER; 0","0.0; 0.0; 1.0; BARRIER; 0","0.0;
+    0.0; 2.0; BARRIER; 0","1.0; 0.0; 0.0; BARRIER; 0","1.0; 0.0; 1.0; BARRIER; 0","1.0;
+    0.0; 2.0; BARRIER; 0","-2.0; 1.0; 0.0; BARRIER; 0","-2.0; 1.0; 1.0; BARRIER; 0","-2.0;
+    1.0; 2.0; BARRIER; 0","-1.0; 1.0; -1.0; BARRIER; 0","0.0; 1.0; -1.0; BARRIER;
+    0","1.0; 1.0; -1.0; BARRIER; 0","2.0; 1.0; 0.0; BARRIER; 0","2.0; 1.0; 1.0; BARRIER;
+    0","2.0; 1.0; 2.0; BARRIER; 0","-2.0; 2.0; 0.0; BARRIER; 0","-2.0; 2.0; 1.0; BARRIER;
+    0","-2.0; 2.0; 2.0; BARRIER; 0","-1.0; 2.0; -1.0; BARRIER; 0","0.0; 2.0; -1.0;
+    BARRIER; 0","1.0; 2.0; -1.0; BARRIER; 0","2.0; 2.0; 0.0; BARRIER; 0","2.0; 2.0;
+    1.0; BARRIER; 0","2.0; 2.0; 2.0; BARRIER; 0","-2.0; 3.0; 0.0; BARRIER; 0","-2.0;
+    3.0; 1.0; BARRIER; 0","-2.0; 3.0; 2.0; BARRIER; 0","-1.0; 3.0; -1.0; BARRIER;
+    0","0.0; 3.0; -1.0; BARRIER; 0","1.0; 3.0; -1.0; BARRIER; 0","2.0; 3.0; 0.0; BARRIER;
+    0","2.0; 3.0; 1.0; BARRIER; 0","2.0; 3.0; 2.0; BARRIER; 0","-1.0; 4.0; 0.0; BARRIER;
+    0","-1.0; 4.0; 1.0; BARRIER; 0","-1.0; 4.0; 2.0; BARRIER; 0","0.0; 4.0; 0.0; BARRIER;
+    0","0.0; 4.0; 1.0; BARRIER; 0","0.0; 4.0; 2.0; BARRIER; 0","1.0; 4.0; 0.0; BARRIER;
+    0","1.0; 4.0; 1.0; BARRIER; 0","1.0; 4.0; 2.0; BARRIER; 0"]'
+Selva:
+  id: 2
+  coins: 5000.0
+  cash: 25
+  rarity: COMUM
+  name: 'Selva'
+  permission: ''
+  icon: 'LEAVES : 1'
+  blocks: '["-1.0; 0.0; -1.0; LEAVES; 12","-1.0; 0.0; 0.0; LEAVES; 12","-1.0; 0.0;
+    1.0; LEAVES; 12","0.0; 0.0; -1.0; LEAVES; 4","0.0; 0.0; 0.0; LEAVES; 4","0.0;
+    0.0; 1.0; LEAVES; 4","1.0; 0.0; -1.0; LEAVES; 12","1.0; 0.0; 0.0; LEAVES; 4","1.0;
+    0.0; 1.0; LEAVES; 12","-2.0; 1.0; -1.0; LEAVES; 12","-2.0; 1.0; 0.0; LEAVES; 4","-2.0;
+    1.0; 1.0; LEAVES; 12","-1.0; 1.0; -2.0; LEAVES; 12","-1.0; 1.0; 2.0; LEAVES; 4","0.0;
+    1.0; -2.0; LEAVES; 4","0.0; 1.0; 2.0; LEAVES; 4","1.0; 1.0; -2.0; LEAVES; 12","1.0;
+    1.0; 2.0; LEAVES; 12","2.0; 1.0; -1.0; LEAVES; 12","2.0; 1.0; 0.0; LEAVES; 12","2.0;
+    1.0; 1.0; LEAVES; 12","-2.0; 2.0; -1.0; STAINED_GLASS; 13","-2.0; 2.0; 0.0; STAINED_GLASS;
+    13","-2.0; 2.0; 1.0; STAINED_GLASS; 13","-1.0; 2.0; -2.0; STAINED_GLASS; 13","-1.0;
+    2.0; 2.0; STAINED_GLASS; 13","0.0; 2.0; -2.0; STAINED_GLASS; 13","0.0; 2.0; 2.0;
+    STAINED_GLASS; 13","1.0; 2.0; -2.0; STAINED_GLASS; 13","1.0; 2.0; 2.0; STAINED_GLASS;
+    13","2.0; 2.0; -1.0; STAINED_GLASS; 13","2.0; 2.0; 0.0; STAINED_GLASS; 13","2.0;
+    2.0; 1.0; STAINED_GLASS; 13","-2.0; 3.0; -1.0; LEAVES; 4","-2.0; 3.0; 0.0; LEAVES;
+    12","-2.0; 3.0; 1.0; LEAVES; 12","-1.0; 3.0; -2.0; LEAVES; 4","-1.0; 3.0; 2.0;
+    LEAVES; 12","0.0; 3.0; -2.0; LEAVES; 4","0.0; 3.0; 2.0; LEAVES; 12","1.0; 3.0;
+    -2.0; LEAVES; 12","1.0; 3.0; 2.0; LEAVES; 12","2.0; 3.0; -1.0; LEAVES; 12","2.0;
+    3.0; 0.0; LEAVES; 12","2.0; 3.0; 1.0; LEAVES; 12","-1.0; 4.0; -1.0; LEAVES; 12","-1.0;
+    4.0; 0.0; LEAVES; 12","-1.0; 4.0; 1.0; LEAVES; 12","0.0; 4.0; -1.0; LEAVES; 12","0.0;
+    4.0; 0.0; LEAVES; 4","0.0; 4.0; 1.0; LEAVES; 12","1.0; 4.0; -1.0; LEAVES; 12","1.0;
+    4.0; 0.0; LEAVES; 12","1.0; 4.0; 1.0; LEAVES; 12"]'

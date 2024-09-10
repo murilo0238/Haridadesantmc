@@ -1,0 +1,42 @@
+# ID único, não utilize IDs repetidos.
+id: 3
+name: 'Mago'
+rarity: EPICO
+permission: ''
+# Lista de slots que irão ser os padrões dos itens.
+slots: [1]
+icon: 'POTION : 1 : desc>&7Você acredita em magia? Se sim, este kit é\n&7a escolha certa. Utilize de todos os\n&7seus conhecimentos sobrenaturais para\n&7abater seus inimigos com facilidade.\n \n&eItens:\n{items}'
+levels:
+  # Esse número representa o nível do kit
+  1:
+    name: 'Mago I'
+    coins: 7000.0
+    cash: 80
+    items:
+      - 'POTION : 2 : efeito>REGENERATION:0:900'
+      - 'GOLDEN_APPLE : 1'
+    description: '&72 Poções (Regeneração I - 45s)\n&71 Maçã Dourada'
+  2:
+    name: 'Mago II'
+    coins: 10000.0
+    cash: 50
+    items:
+      - 'POTION : 2 : efeito>REGENERATION:0:900'
+      - 'GOLDEN_APPLE : 2'
+    description: '&72 Poções (Regeneração I - 45s)\n&72 Maçãs Douradas'
+  3:
+    name: 'Mago III'
+    coins: 10000.0
+    cash: 50
+    items:
+      - 'POTION : 2 : efeito>REGENERATION:1:440'
+      - 'GOLDEN_APPLE : 3'
+    description: '&72 Poções (Regeneração II - 22s)\n&73 Maçãs Douradas'
+  4:
+    name: 'Mago IV'
+    coins: 10000.0
+    cash: 50
+    items:
+      - 'POTION : 3 : efeito>REGENERATION:1:440'
+      - 'GOLDEN_APPLE : 3'
+    description: '&73 Poções (Regeneração II - 22s)\n&73 Maçãs Douradas'

@@ -1,0 +1,117 @@
+
+command /minecraft:me [<text>]:
+	trigger:
+		send "&cComando não encontrado."
+		stop
+
+command /? [<text>]:
+	trigger:
+		send "&cComando não encontrado."
+		stop
+command /me [<text>]:
+	trigger:
+		send "&cComando não encontrado."
+		stop
+        
+command /skript [<text>]:
+	trigger:
+		send "&cComando não encontrado."
+		stop
+
+command /minecraft:help [<text>]:
+	trigger:
+		send "&cComando não encontrado."
+		stop
+
+
+command /plugins [<text>]:
+	trigger:
+		send "&cComando não encontrado."
+		stop
+
+command /bukkit:pl [<text>]:
+	trigger:
+		send "&cComando não encontrado."
+		stop
+
+command /bukkit:plugins [<text>]:
+	trigger:
+		send "&cComando não encontrado."
+		stop
+
+command /pl [<text>]:
+	trigger:
+		send "&cComando não encontrado."
+		stop
+
+command /help [<text>]:
+	trigger:
+		send "&cComando não encontrado."
+		stop
+
+command /bukkit:help [<text>]:
+	trigger:
+		send "&cComando não encontrado."
+		stop
+
+
+command /bukkit:version [<text>]:
+	trigger:
+		send "&cComando não encontrado."
+		stop
+
+command /version [<text>]:
+	trigger:
+		send "&cComando não encontrado."
+		stop
+
+command /ver [<text>]:
+	trigger:
+		send "&cComando não encontrado."
+		stop
+
+command /bukkit:ver [<text>]:
+	trigger:
+		send "&cComando não encontrado."
+		stop		
+
+command /bukkit:about [<text>]:
+	trigger:
+		send "&cComando não encontrado."
+		stop
+		
+command /about [<text>]:
+	trigger:
+		send "&cComando não encontrado."
+		stop
+
+
+command /kbedwars [<text>]:
+	trigger:
+		send "&cComando não encontrado."
+		stop
+        
+command /plugins [<text>]:
+	trigger:
+		send "&cComando não encontrado."
+		stop
+
+command /about:kbw [<text>]:
+	trigger:
+		send "&cComando não encontrado."
+		stop
+
+command /bukkit:? [<text>]:
+	trigger:
+		send "&cComando não encontrado."
+		stop
+
+command /bukkit [<text>]:
+	trigger:
+		send "&cComando não encontrado."
+		stop
+
+command /me [<text>]:
+	trigger:
+		send "&cComando não encontrado."
+		stop

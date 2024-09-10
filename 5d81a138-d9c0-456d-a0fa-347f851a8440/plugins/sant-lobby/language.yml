@@ -1,0 +1,80 @@
+# SantLobby - Criado por SantMC
+# Versão da configuração: 1.0
+lobby:
+ coracoesdojogador: 10
+ broadcast: '{player} &6entrou no lobby!'
+ tab:
+  enabled: true
+  header: ' \n&b&lSANT MC\n  &fwww.santmc.com\n '
+  footer: ' \n   &eDiscord: &bdc.santmc.com  \n &eSite: &bloja.santmc.com \n &eForúm: &bforum.santmc.com \n'
+ npc:
+  pacotemariano:
+   hologram:
+   - '&e&lPACOTE &b&lMARIANO'
+   - '&e&lCLIQUE PARA VER!'
+   skin:
+    value: 'ewogICJ0aW1lc3RhbXAiIDogMTY3MTAwMjIzNDQ0MiwKICAicHJvZmlsZUlkIiA6ICIzY2MxMTY3MWU0MTM0ODM0YjhjMmZjMTY1OGE4OWU3OCIsCiAgInByb2ZpbGVOYW1lIiA6ICJSb3NzaTU2IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzY3Njk4MTdjMzJlYzRiMGQzYjNjZGM1MDhhNGQ2YzhhMTkxYTI1MjMwNjM0ZDFmMDBlNTdhNzc0ZDRjYjg4YTgiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=='
+    signature: 'ftRGb4wInZKMBFQbyo+P2BKx4FZE0whSaoshSiHbJ/KfvlM+xyMJ3sTGmLKvm37EwnOvq+93YHmHcUl978gel6EFEfauAcY1Z9jWQulX1xMSoVZ4PK9gkxRJfxEAf1OyQEPsO6KkcxKc95X6twpimXdqla76q6mXzqM7MBe7hoBvmebS74GugfyUbvXTskKnDHjNvmnurbu6Ny54nDJr4PWsDk+t83UzzFvB9AzXUdfc+vF040we4aqEwv5pFoN+yapIk/Ak5FP+9d/OA0oXCXfFxGQcKMbfy4i3Hcgw72khPfjnnQE8ufBq0iE8Wv5OxRQlOyF4EIvjTwEcFvuRKStlJC8O/rnn5H78r4jRk2LaNrySPdG7uwkUgvFJp+HA1C7wxVDMn6PKMn0BLFmrBKXKFdHnnFLU1bLdp41X5TgbuibO76qXlSRmXikhhZiWhghI9csTpf6bPNVAwqD81oVTNfzxxI4t0IvMCQ4FJcSqvsx7pi9w0zCYD/P5HVvatmhq3v9ZeKczKEWnE/mKiYkO2e7pZCvrSq/gLv7LW7hNR9VmBFt1UWGhlr8/7xpacJwgJZRooEp2LhFVmIOtX+D/JanA1Ku+8bdrb1t+BO7koMG7+rwUNB7dSH1xoNHP1M9NOUnXf0zxxZHl3OQyrBIl9l1RLK8QV0K97enFjU0='
+  pacotenether:
+   hologram:
+   - '&e&lPACOTE &c&lNETHER'
+   - '&e&lCLIQUE PARA VER!'
+   skin:
+    signature: 'SN+Sy3wfDRakm6XnUAdsNuPFEvaVbgVfk6DTRvnYDBIs2Nj6pyk9rAjrNOPQ1YPNZKFs6gEoRCtkd2d08zdlUi0zU8hTG+uTaU2IM//v+mk8huTBpqIjiXYAVux6+Cx9q2gwmlato3Yq7gf2lEYvQD6NI92Kdb93qVxDVqw/tkKtycY3pXiz1bsGbcf1tplPpCfKQgLKxlqHAXjco+NL169zTgrG056CSSEf4fgx94+0Mii64a4pP2pKn4TR02wOuwy0w11J8dJ8K/TAdGBlTK/d0pBEkD9BheYVC5pXrbNR+6K5ZlLbbCs/wyLlUnvBN3Zp4Qm7V6lp5jwYru1Td8E2UscFUaGgdsiMCV/CI+TAeJs8QbVjSfQ4i9O2EHuExcXhPsGre7XUhpuxp14HT0OIJs0YfqdaOs514RqwjFyvIb7HZsa/Me0CPJ6X3IoNhFWAwe22K6cwtXekE4fBGgiPVvkRXAhKBAJMdqmeDgD6RIsl6DVHxD0eRygCSfLXSFxTcLawuSefxsZ2EyjgPQb/eSPWU0vp48tnbLdy5z2qoo1lrn8Flr1s2xKjJp+knQ23OW9QFmFutaBBLUEfUOt6MFrOgm/yHRiQkftY1/V+18jxySQ7BTvLblmY3p+Z4qKoIesTznS0JN++2SmA8vQoBZ0zLiiTd8RPq0kfsNY='
+    value: 'ewogICJ0aW1lc3RhbXAiIDogMTY2NTc5NTcwOTc1NSwKICAicHJvZmlsZUlkIiA6ICJkNzU2OTc4MWUyYjY0OWIyYjVlMjVlYTJhNDZkOGQxOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJEckthcGRvciIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xM2Y0NGI0YjQ4OTNmNmU0ZDQyZTQ0MjY2Mjc4ZmU4NGIwODU5NzdlYTQwNDRkMzM0M2MzMzVkOTMyNGU1ZTVjIgogICAgfQogIH0KfQ=='
+  plus:
+   hologram:
+   - '&b&lCLIQUE PARA COMPRAR'
+   - '&a50,00 R$ &7via &bPIX'
+   - '&bCARGO - &1&lBETA'
+   skin:
+    signature: 'gb3jUcuDGM5E0bLGu8dZc9vDoPADqxtlNvx3aSOBBPjXMQr4c2YINu9z5o6aHCouT+u5OVj5qNJBDLu7JH/L4e9vNSDynSLYwfsRp2c5Fj7vl/PN27smKe3xAuvqYKpSSWL4gt6jN91c8uoy30oS9UmTGJ5TFarjinc3OhQES4H5dHDkQU+X6j80GDrF9QEr3fegxRY1Wrg1Ghb9ZKPUL09F754lzppWSmhUjET2eo394w8rF2P2v0Am2YZAK4mBzXRTNXQGwenZMHKftadXDZN2MH+wvk3lRlIVjLeFmx8hfdIqLZq11OoqxieVhqTg8FLztzFnPeqadpCQLbk6f75z9ufiL8wVO1FsySa18W8oRb2P1wPwfMWwfcM6p9XbdyEH8rje3CtYDYHfWElHfMH7QVUYLfqQjxo64MBQ1iVw5fsiWJOZxzH7qhEPfrXlxnRTylMPmUtTtFnZBoz+C5LYTo1AtKURSoHSGbbbELMPn0OKtQsbFUnvj70f6Fz1EqCP6Cl6FrKwpZbIk3RuJwJRnAup2r1HtftFVXetGtNV4irxdL9U049QhYZk5Bt90SVkch90payNGY8T+9xxH2aWwllS+C5bc38pOikdmlzGQ4i0l1TsDScpklXu3MbOC9S/eH7bbeeCRJ0+dd0vaPSfojlKoU9T8ZibQOWWvKE='
+    value: 'ewogICJ0aW1lc3RhbXAiIDogMTcwODAzMDA2NzYwMSwKICAicHJvZmlsZUlkIiA6ICIzMjQ4M2M4YmNiNDk0N2Y0OTA2ZGM1NjgxMmVmZDA0NSIsCiAgInByb2ZpbGVOYW1lIiA6ICJZYXJPMTcwMzAzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzI3Y2M2MGRmNzY3YzI5ZDdiMmQ5NDRjMzRlZjcxYmEzNTJlOWQ4MjBlZGMyYWE2NWRmMmJlMjlmMzEzNWQ5N2EiCiAgICB9CiAgfQp9'
+  mestre:
+   hologram:
+   - '&b&lCLIQUE PARA COMPRAR'
+   - '&a12,00 R$ &7via &bPIX'
+   - '&eCARGO - &1&lVIP'
+   skin:
+    signature: 'rHU6fQZK11Rk24KtF+PTrCB6cCqXNIfyek5VrJTg2gnvcm/brrw8B4Ahz2G0YRkKe40oNkJH15KcuvH8HyQTN+Ngf1tmNOoiXY9TQYsTnLKh7QGD+OB+Ac9Ldg2dWbjPJirsPiM7ZlrHGXO7SefgP8uobrYEXKn97t0cYbqHfUcD8x6/QJi7K6Y98/cAo/MH9A9kDfVOclcarQ3TCk2FikDb606s/O3xww3FLNdL/ugk3G1miWvOWi1XMn2fReb49kQ/QnObQJ4M3COzR40NTER9EpefuiPiyKFKQNIGHnsGx7mVVhA4aA33G84iHduS/Vjlh2euRcITrxMx3dv8hM50WarmU06anzBQLnEdzGJ4+7fMbS0WZPshIv4pxHclDoH7S6Lm1t26b4AIlsSo3fIPcz1Gbi8PTJ8oe2hsxrfR+JLaKmR9wUxaXGILLUBNe1iEZJreFr4ku+KR4F4R8CMIqRTwdSyQeSXLjB/HNJJsED2PE06TSOhT/UmVYksDuQ0+hablJaXvCqhBrXFU/0ZKWOdPJ4ccXIP8q8wuJV6QbsbQsmgWf7orLS+94zc1MYGetDcmVsiWjcR9LSnMPRbV8cb2iTuTQ49wvzV41EZgFeOqGjTXvETow8x1pb3ZNcjidEn+sAWGRvUdlK/wFcH0xxpSTdHKbFsjkfffnuI='
+    value: 'ewogICJ0aW1lc3RhbXAiIDogMTcyNDExNDIzOTAxOSwKICAicHJvZmlsZUlkIiA6ICJmZmU5MzczY2YyMDM0OWFhYTJlN2NiYzJkZmY2M2I5MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWxvblR1bmExIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzZhODBhOGU0YjA5NTg2ZGExNzg0YWEyYTc5ZGRiZmQ2ZjY1ZTNlMmQxYmNjMTQ1NTE0ZDY0M2Y5MDZmNWZlMDUiCiAgICB9CiAgfQp9'
+  jumper:
+   hologram:
+   - '&b&lCLIQUE PARA COMPRAR'
+   - '&a58,00 R$ &7via &bPIX'
+   - '&eCARGO - &6&lTROPICAL'
+   skin:
+    signature: 'YYv8M8Nc60JNF5I8dseZPm4uO+W9b7ef0l7GqeNYnn6TFCCFoXjxyBCYSHNmZv0yWVE2wuLgyFSwlCjPBtH49PhGzYyIB25Hcs7JUb4YYoBnqjjmXRA3Lz+NACy5i0fGSj6b+urX7B46T6WOrOvbsKmwqTlLtWxjNVSk/XrixlwlMnUsss5Hpc5tBWjHorgfSZ2JZj/Xj+PsJV+tCP719Sa68TrgiSSJ75JYjgiW5vI6RfdNg1T5+PIyBm5KjEQVkVnNtvrguhrOGQHqLHpPCA0pPzumQbdghdKyHTgRBxrY9Uvl8KoMHZhJ6GoXSD41SNHwET0/ueuNoBP3c7GQKMTlQ9KaRLBjJskmK2KEEEzj82j1dobrkTK3ZjIdJGwnen22uFZizT6Jfz/ic+B4Pub5THQz9NBdgRs6p0uanA2DlkJ+ulJkqdofPLekkE+wqPSu8U6Is8KXHssKMIlWfTNWqV5MxjZHVXEfaQiGU7F2TCNSmLQSCXrFjMcni/bdR3Icd0SRo8DkddyEWGQ9ecJR+EeqXwnLYUT6++8bVdGTGSIPdVFWmtRYpAaDgk2AwQlJEl+TEdkeTSclugfao0/UP8Rg3QMjr1bFYfpAcwrtlETeTpmeKglVhFbxwvQU3CatcwfgX5bbxa/DFuE+tGTprbyRQKn7vZq07YRo4ZA='
+    value: 'ewogICJ0aW1lc3RhbXAiIDogMTY4MjI4MzM4MjUxMywKICAicHJvZmlsZUlkIiA6ICJjMTNkYzkxZjg1YjA0ZWM4OGU2NDk5YzdjZDc4Zjk3MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJjYXNzdGhlY3J5cHRpZCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kYTZiMmM3MTY2MjljYzQ4ZTMzMTg3MzY1NmJmYTJlNTAyYjA1Mjk3MDMyMWIwOWJjZTQ1MTUxNjA5OTMwYjBiIgogICAgfQogIH0KfQ=='
+  deliveries:
+   deliveries: '&c{deliveries} Entrega{s}'
+   hologram:
+   - '{deliveries}'
+   - '&5Entregador'
+   - '&e&lCLIQUE DIREITO'
+   skin:
+    value: 'eyJ0aW1lc3RhbXAiOjE1ODM0NTc4OTkzMTksInByb2ZpbGVJZCI6IjIxMWNhN2E4ZWFkYzQ5ZTVhYjBhZjMzMTBlODY0M2NjIiwicHJvZmlsZU5hbWUiOiJNYXh0ZWVyIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85MWU0NTc3OTgzZjEzZGI2YTRiMWMwNzQ1MGUyNzQ2MTVkMDMyOGUyNmI0MGQ3ZDMyMjA3MjYwOWJmZGQ0YTA4IiwibWV0YWRhdGEiOnsibW9kZWwiOiJzbGltIn19fX0='
+    signature: 'SXnMF3f9x90fa+FdP2rLk/V6/zvMNuZ0sC4RQpPHF9JxdVWYRZm/+DhxkfjCHWKXV/4FSTN8LPPsxXd0XlYSElpi5OaT9/LGhITSK6BbeBfaYhLZnoD0cf9jG9nl9av38KipnkNXI+cO3wttB27J7KHznAmfrJd5bxdO/M0aGQYtwpckchYUBG6pDzaxN7tr4bFxDdxGit8Tx+aow/YtYSQn4VilBIy2y/c2a4PzWEpWyZQ94ypF5ZojvhaSPVl88Fbh+StdgfJUWNN3hNWt31P68KT4Jhx+SkT2LTuDj0jcYsiuxHP6AzZXtOtPPARqM0/xd53CUHCK+TEF5mkbJsG/PZYz/JRR1B1STk4D2cgbhunF87V4NLmCBtF5WDQYid11eO0OnROSUbFduCLj0uJ6QhNRRdhSh54oES7vTi0ja3DftTjdFhPovDAXQxCn+ROhTeSxjW5ZvP6MpmJERCSSihv/11VGIrVRfj2lo9MaxRogQE3tnyMNKWm71IRZQf806hwSgHp+5m2mhfnjYeGRZr44j21zqnSKudDHErPyEavLF83ojuMhNqTTO43ri3MVbMGix4TbIOgB2WDwqlcYLezENBIIkRsYO/Y1r5BWCA7DJ5IlpxIr9TCu39ppVmOGReDWA/Znyox5GP6JIM53kQoTOFBM3QWIQcmXll4='
+ title:
+  header: '&b&lSANT MC'
+  footer: '&eA jornada iniciou!'
+scoreboards:
+ scroller:
+  every-tick: 10
+  titles:
+  - '&b&lSANT'
+ lobby:
+ - ''
+ - 'Rank: &a%santmc-commons_role%'
+ - ''
+ - 'Lobby: &a#1'
+ - 'Jogadores: &b%santmc-commons_online_lobby%'
+ - ''
+ - '&aww.santmc.com'
+chat:
+ delay: '&c&lSPAM! &cAguarde mais {time}s para falar novamente.'
+ color:
+  default: '&7'
+  custom: '&f'
+ format:
+  lobby: '{medal}{player}{color} &7» &f{message}'

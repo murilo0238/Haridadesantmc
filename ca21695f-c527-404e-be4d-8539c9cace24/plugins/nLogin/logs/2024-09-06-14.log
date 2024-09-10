@@ -1,0 +1,40 @@
+[09/06/2024 10:49:06]:           __             _       
+[09/06/2024 10:49:06]:   _ __   / /  ___   __ _(_)_ __  
+[09/06/2024 10:49:06]:  | '_ \ / /  / _ \ / _` | | '_ \ 
+[09/06/2024 10:49:06]:  | | | / /__| (_) | (_| | | | | |
+[09/06/2024 10:49:06]:  |_| |_\____/\___/ \__, |_|_| |_|
+[09/06/2024 10:49:06]:                   |___/            
+[09/06/2024 10:49:06]:  By: www.nickuc.com - V 10.2.7 DEVELOPMENT
+[09/06/2024 10:49:06]:  
+[09/06/2024 10:49:06]: [nLogin] [DEBUG] All settings were loaded in 363 ms.
+[09/06/2024 10:49:06]: [nLogin] [DEBUG] Loading the messages_br.yml message file...
+[09/06/2024 10:49:06]: [nLogin] [DEBUG] All plugin messages were loaded in 118 ms (languageByClient=false).
+[09/06/2024 10:49:08]: [nLogin] [DEBUG] [Discord] Connected guilds: SantMC - Vinculação 🚒#1438 (1)
+[09/06/2024 10:49:08]: [nLogin] [DEBUG]  - Sant MC ☀ (1266127147110502511)
+[09/06/2024 10:49:08]: [nLogin] [Discord] Conexão com o Discord foi realizada com sucesso!
+[09/06/2024 10:49:08]: [nLogin] [DEBUG] All proxy settings were loaded in 5 ms.
+[09/06/2024 10:49:08]: [nLogin] [DEBUG] Loading database...
+[09/06/2024 10:49:10]: [nLogin] [DEBUG] Starting logger filter...
+[09/06/2024 10:49:15]: [nLogin] 
+[09/06/2024 10:49:15]: [nLogin]  Muito obrigado por escolher o nLogin! <3
+[09/06/2024 10:49:15]: [nLogin] 
+[09/06/2024 10:49:15]: [nLogin]  Para sua segurança, leia a mensagem abaixo:
+[09/06/2024 10:49:15]: [nLogin]   Nunca baixe o nLogin de fontes desconhecidas.
+[09/06/2024 10:49:15]: [nLogin]   Uma versão modificada pode conter softwares maliciosos.
+[09/06/2024 10:49:15]: [nLogin] 
+[09/06/2024 10:49:15]: [nLogin]  Fontes confiáveis:
+[09/06/2024 10:49:15]: [nLogin]   www.nickuc.com
+[09/06/2024 10:49:15]: [nLogin]   www.github.com/nickuc
+[09/06/2024 10:49:15]: [nLogin]   Instalador do OpeNLogin (do Spigot ou GitHub)
+[09/06/2024 10:49:15]: [nLogin] 
+[09/06/2024 10:49:15]: [nLogin]  Canais oficiais para suporte:
+[09/06/2024 10:49:16]: [nLogin]   Grupo do Discord: www.nickuc.com/discord
+[09/06/2024 10:49:16]: [nLogin]   Documentação: docs.nickuc.com/nlogin/
+[09/06/2024 10:49:16]: [nLogin]   E-mail: support@nickuc.com
+[09/06/2024 10:49:16]: [nLogin]   YouTube: youtube.com/nickuc
+[09/06/2024 10:49:16]: [nLogin] 
+[09/06/2024 10:50:26]: [nLogin] [DEBUG] [MySQL] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'HaridadeGANG', `unique_id` = 943d65a769fb3e36a36d92534e337b4a,  `mojang_id` = 3f5b4f849c3c42d2afed31463c1311e0,  `bedrock_id` = null,  `password` = null, `last_address` = '170.78.82.155', `creation_date` = 2024-09-06 01:25:32.0, `last_login` = 2024-09-06 10:50:26.388, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"lobby","key":"last-server"},{"value":"pt","key":"language"}],"version":0}' WHERE `ai` = 1"
+[09/06/2024 10:50:26]: [nLogin] [DEBUG] [MySQL] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'HaridadeGANG', `unique_id` = 943d65a769fb3e36a36d92534e337b4a,  `mojang_id` = 3f5b4f849c3c42d2afed31463c1311e0,  `bedrock_id` = null,  `password` = null, `last_address` = '170.78.82.155', `creation_date` = 2024-09-06 01:25:32.0, `last_login` = 2024-09-06 10:50:26.388, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"lobby","key":"last-server"},{"value":"pt","key":"language"}],"version":0}' WHERE `ai` = 1"
+[09/06/2024 10:50:26]: [nLogin] O usuário HaridadeGANG logou automaticamente (conta original)
+[09/06/2024 10:50:57]: [nLogin] [DEBUG] [MySQL] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'HaridadeGANG', `unique_id` = 943d65a769fb3e36a36d92534e337b4a,  `mojang_id` = 3f5b4f849c3c42d2afed31463c1311e0,  `bedrock_id` = null,  `password` = null, `last_address` = '170.78.82.155', `creation_date` = 2024-09-06 01:25:32.0, `last_login` = 2024-09-06 10:50:26.388, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"lobby","key":"last-server"},{"value":"pt","key":"language"}],"version":0}' WHERE `ai` = 1"
+[09/06/2024 10:51:00]: [nLogin] Successful plugin core shutdown (took 0.00s)

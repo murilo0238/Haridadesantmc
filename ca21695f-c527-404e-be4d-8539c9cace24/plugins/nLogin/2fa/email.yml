@@ -1,0 +1,70 @@
+####################################################################################################
+# +----------------------------------------------------------------------------------------------+ #
+# |                                          __             _                                    | #
+# |                                 _ __   / /  ___   __ _(_)_ __                                | #
+# |                                | '_ \ / /  / _ \ / _` | | '_ \                               | #
+# |                                | | | / /__| (_) | (_| | | | | |                              | #
+# |                                |_| |_\____/\___/ \__, |_|_| |_|                              | #
+# |                                                    |___/                                     | #
+# |                                                                                              | #
+# |                      A practical, secure and friendly authentication plugin                  | #
+# |                                                                                              | #
+# |                                © 2023 - Powered by nickuc.com                                | #
+# |                                                                                              | #
+# |                                                                                              | #
+# |  Para um melhor entendimento deste arquivo acesse nossa documentação:                        | #
+# |   ==> https://docs.nickuc.com/nlogin/                                                        | #
+# |                                                                                              | #
+# |  Novas opções não são adicionadas automaticamente neste arquivo. Valores padrões são usados  | #
+# |  caso uma opção não seja encontrada.                                                         | #
+# +----------------------------------------------------------------------------------------------+ #
+####################################################################################################
+
+# Define a versão do arquivo.
+file-version: 1
+
+# Define se o e-mail poderá ser usado como um segundo fator.
+enabled: false
+
+authentication:
+  # Email
+  email: "yourserver@domain.com"
+  # Usuário
+  user: ""
+  # Senha
+  password: ""
+
+  # Charset
+  charset: "UTF-8"
+  # Mimetype
+  mimetype: "text/html"
+
+  # Host SMTP
+  host: "smtp.gmail.com"
+  # Porta SMTP
+  port: 587
+
+  # Tipo de criptografia.
+  #
+  # - Opções disponíveis:
+  #  |=> AUTO
+  #  |=> TLS
+  #  |=> SSL
+  encryption: auto
+
+  # Debug mode
+  debug: false
+
+options:
+  link-required:
+    # Define se vincular um e-mail será exigido para se autenticar.
+    enabled: false
+
+    # Define se jogadores originais também precisarão vincular um e-mail para se autenticar.
+    required-for-premium: true
+
+  # Define o número máximo de contas que podem ter o mesmo e-mail vinculado.
+  account-limit: 1
+
+  # Define se a vinculação deverá ser recomendada para os jogadores.
+  recommend-linking: true

@@ -1,0 +1,34 @@
+[09/06/2024 00:17:32]:           __             _       
+[09/06/2024 00:17:32]:   _ __   / /  ___   __ _(_)_ __  
+[09/06/2024 00:17:32]:  | '_ \ / /  / _ \ / _` | | '_ \ 
+[09/06/2024 00:17:32]:  | | | / /__| (_) | (_| | | | | |
+[09/06/2024 00:17:32]:  |_| |_\____/\___/ \__, |_|_| |_|
+[09/06/2024 00:17:32]:                   |___/            
+[09/06/2024 00:17:32]:  By: www.nickuc.com - V 10.2.7 DEVELOPMENT
+[09/06/2024 00:17:32]:  
+[09/06/2024 00:17:32]: [nLogin] [DEBUG] All settings were loaded in 281 ms.
+[09/06/2024 00:17:33]: [nLogin] [DEBUG] Loading the messages_ru.yml message file...
+[09/06/2024 00:17:33]: [nLogin] [DEBUG] All plugin messages were loaded in 289 ms (languageByClient=false).
+[09/06/2024 00:17:33]: [nLogin] [DEBUG] All proxy settings were loaded in 86 ms.
+[09/06/2024 00:17:33]: [nLogin] [DEBUG] Loading database...
+[09/06/2024 00:17:33]: [nLogin] [DEBUG] Starting logger filter...
+[09/06/2024 00:17:38]: [nLogin] 
+[09/06/2024 00:17:38]: [nLogin]  Thank you so much for choosing nLogin! <3
+[09/06/2024 00:17:38]: [nLogin] 
+[09/06/2024 00:17:38]: [nLogin]  For your safety, please read the message below:
+[09/06/2024 00:17:38]: [nLogin]   Never download nLogin from unknown sources.
+[09/06/2024 00:17:38]: [nLogin]   A modified version may contain malicious software.
+[09/06/2024 00:17:38]: [nLogin] 
+[09/06/2024 00:17:38]: [nLogin]  Trusted sources:
+[09/06/2024 00:17:38]: [nLogin]   www.nickuc.com
+[09/06/2024 00:17:38]: [nLogin]   www.github.com/nickuc
+[09/06/2024 00:17:38]: [nLogin]   OpeNLogin installer (from Spigot or GitHub)
+[09/06/2024 00:17:38]: [nLogin] 
+[09/06/2024 00:17:38]: [nLogin]  Official support channels:
+[09/06/2024 00:17:38]: [nLogin]   Discord group: www.nickuc.com/discord
+[09/06/2024 00:17:38]: [nLogin]   Documentation: docs.nickuc.com/nlogin/
+[09/06/2024 00:17:38]: [nLogin]   Email: support@nickuc.com
+[09/06/2024 00:17:38]: [nLogin]   YouTube: youtube.com/nickuc
+[09/06/2024 00:17:38]: [nLogin]   VK: www.nickuc.com/vk
+[09/06/2024 00:17:38]: [nLogin] 
+[09/06/2024 00:18:08]: [nLogin] Successful plugin core shutdown (took 0.00s)

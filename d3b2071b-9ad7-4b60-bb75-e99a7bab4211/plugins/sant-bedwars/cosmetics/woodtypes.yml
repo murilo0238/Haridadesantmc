@@ -1,0 +1,12 @@
+carvalho:
+  name: 'Tábuas de Carvalho'
+  item: 'WOOD : 1'
+pinheiro:
+  # ID único, não utilize IDs repetidos.
+  id: 1
+  coins: 10000.0
+  cash: 25
+  rarity: RARO
+  permission: ''
+  name: 'Tábuas de Pinheiro'
+  item: 'WOOD:1 : 1'

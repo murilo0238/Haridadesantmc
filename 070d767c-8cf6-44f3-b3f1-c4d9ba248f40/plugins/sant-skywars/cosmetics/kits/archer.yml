@@ -1,0 +1,42 @@
+# ID único, não utilize IDs repetidos.
+id: 1
+name: 'Arqueiro'
+rarity: COMUM
+permission: ''
+# Lista de slots que irão ser os padrões dos itens.
+slots: [1, 2]
+icon: 'BOW : 1 : desc>&7Este kit é para aqueles que possuem\n&7habilidades incomparáveis com um\n&7arco. &7Será necessário muita concentração\n&7e destreza para atingir os inimigos.\n \n&eItens:\n{items}'
+levels:
+  # Esse número representa o nível do kit
+  1:
+    name: 'Arqueiro I'
+    coins: 4000.0
+    cash: 40
+    items:
+      - 'BOW : 1'
+      - 'ARROW : 12'
+    description: '&71 Arco\n&712 Flechas'
+  2:
+    name: 'Arqueiro II'
+    coins: 10000.0
+    cash: 50
+    items:
+      - 'BOW : 1 : encantar>ARROW_DAMAGE:1'
+      - 'ARROW : 12'
+    description: '&71 Arco (Força I)\n&712 Flechas'
+  3:
+    name: 'Arqueiro III'
+    coins: 10000.0
+    cash: 50
+    items:
+      - 'BOW : 1 : encantar>ARROW_DAMAGE:2'
+      - 'ARROW : 18'
+    description: '&71 Arco (Força II)\n&718 Flechas'
+  4:
+    name: 'Arqueiro IV'
+    coins: 10000.0
+    cash: 50
+    items:
+      - 'BOW : 1 : encantar>ARROW_DAMAGE:3\nARROW_KNOCKBACK:1'
+      - 'ARROW : 24'
+    description: '&71 Arco (Força III, Impacto I)\n&724 Flechas'

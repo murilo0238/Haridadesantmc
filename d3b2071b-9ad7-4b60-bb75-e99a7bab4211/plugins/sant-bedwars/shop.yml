@@ -1,0 +1,213 @@
+categories:
+  blocks:
+    name: 'Blocos'
+    icon: 'STAINED_CLAY:5 : 1 : nome>&aBlocos : desc>&eClique para ver!'
+    items:
+      wool:
+        icon: 'WOOL : 16 : nome>{color}Lã : desc>&7Custo: &f4 Ferros\n \n&7Ótimo para fazer uma ponte entre\n&7ilhas. Se transforma de acordo\n&7com a cor do seu time.'
+        price: 'IRON_INGOT : 4'
+        content: [ 'WOOL : 16' ]
+      clay:
+        icon: 'STAINED_CLAY : 16 : nome>{color}Argila endurecida : desc>&7Custo: &f12 Ferros\n \n&7Bloco básico para defender sua cama.'
+        price: 'IRON_INGOT : 12'
+        content: [ 'STAINED_CLAY : 16' ]
+      blastproofglass:
+        icon: 'GLASS : 4 : nome>{color}Vidro à prova de explosão : desc>&7Custo: &f12 Ouros\n \n&7Imune a explosões.'
+        price: 'IRON_INGOT : 14'
+        content: [ 'STAINED_GLASS : 4' ]
+      endstone:
+        icon: 'ENDER_STONE : 12 : nome>{color}Pedra do Fim : desc>&7Custo: &f24 Ferros\n \n&7Bloco sólido para defender sua cama.'
+        price: 'IRON_INGOT : 24'
+        content: [ 'ENDER_STONE : 12' ]
+      ladder:
+        icon: 'LADDER : 16 : nome>{color}Escadas : desc>&7Custo: &f4 Ferros\n \n&7Útil para salvar gatos presos em\n&7árvores.'
+        price: 'IRON_INGOT : 4'
+        content: [ 'LADDER : 16' ]
+      oakwoodplanks:
+        icon: 'WOOD : 16 : nome>{color}Tábuas de madeira de carvalho : desc>&7Custo: &62 Ouros\n \n&7Bom bloco para defender sua cama.\n&7Forte contra picaretas.'
+        price: 'GOLD_INGOT : 2'
+        content: [ 'WOOD : 16' ]
+      obsidian:
+        icon: 'OBSIDIAN : 4 : nome>{color}Obsidian : desc>&7Custo: &24 Esmeraldas\n \n&7Proteção extrema para sua cama.'
+        price: 'EMERALD : 4'
+        content: [ 'OBSIDIAN : 4' ]
+  melee:
+    name: 'Corpo a Corpo'
+    icon: 'DIAMOND_SWORD : 1 : esconder>tudo : nome>&aCorpo a Corpo : desc>&eClique para ver!'
+    items:
+      stone:
+        lostOnDie: false
+        icon: 'STONE_SWORD : 1 : esconder>tudo : nome>{color}Espada de Pedra : desc>&7Custo: &f10 Ferros'
+        price: 'IRON_INGOT : 10'
+        content: [ 'STONE_SWORD : 1' ]
+      iron:
+        lostOnDie: false
+        icon: 'IRON_SWORD : 1 : esconder>tudo : nome>{color}Espada de Ferro : desc>&7Custo: &67 Ouros'
+        price: 'GOLD_INGOT : 7'
+        content: [ 'IRON_SWORD : 1' ]
+        block: [ 'stone' ]
+      diamond:
+        lostOnDie: false
+        icon: 'DIAMOND_SWORD : 1 : esconder>tudo : nome>{color}Espada de Diamante : desc>&7Custo: &24 Esmeraldas'
+        price: 'EMERALD : 4'
+        content: [ 'DIAMOND_SWORD : 1' ]
+        block: [ 'stone', 'iron' ]
+      stick:
+        lostOnDie: false
+        icon: 'STICK : 1 : esconder>tudo : nome>{color}Graveto (Knockback I) : desc>&7Custo: &65 Ouros'
+        price: 'GOLD_INGOT : 5'
+        content: [ 'STICK : 1 : encantar>KNOCKBACK:1' ]
+  armors:
+    name: 'Armaduras'
+    icon: 'DIAMOND_BOOTS : 1 : nome>&aArmaduras : desc>&eClique para ver!'
+    items:
+      chainmail:
+        lostOnDie: false
+        icon: 'CHAINMAIL_BOOTS : 1 : nome>{color}Armadura de Malha Permanente : desc>&7Custo: &f40 Ferros\n \n&7Botas e Calças de Malha, com as\n&7quais você sempre irá aparecer.'
+        price: 'IRON_INGOT : 40'
+        content: [ 'CHAINMAIL_LEGGINGS : 1', 'CHAINMAIL_BOOTS : 1' ]
+        block: [ 'chainmail' ]
+      iron:
+        lostOnDie: false
+        icon: 'IRON_BOOTS : 1 : nome>{color}Armadura de Ferro Permanente : desc>&7Custo: &612 Ouros\n \n&7Botas e Calças de Ferro, com as\n&7quais você sempre irá aparecer.'
+        price: 'GOLD_INGOT : 12'
+        content: [ 'IRON_LEGGINGS : 1', 'IRON_BOOTS : 1' ]
+        block: [ 'chainmail', 'iron' ]
+      diamond:
+        lostOnDie: false
+        icon: 'DIAMOND_BOOTS : 1 : nome>{color}Armadura de Diamante Permanente : desc>&7Custo: &26 Esmeraldas\n \n&7Botas e Calças de Diamante, com as\n&7quais você sempre irá aparecer.'
+        price: 'EMERALD : 6'
+        content: [ 'DIAMOND_LEGGINGS : 1', 'DIAMOND_BOOTS : 1' ]
+        block: [ 'chainmail', 'iron', 'diamond' ]
+  tools:
+    name: 'Ferramentas'
+    icon: 'DIAMOND_PICKAXE : 1 : esconder>tudo : nome>&aFerramentas : desc>&eClique para ver!'
+    items:
+      shears:
+        lostOnDie: false
+        icon: 'SHEARS : 1 : nome>{color}Tesoura Permanente : desc>&7Custo: &f20 Ferros\n \n&7Bom para pegar lã. Você\n&7sempre irá aparecer com essas\n&7tesouras.'
+        price: 'IRON_INGOT : 20'
+        content: [ 'SHEARS : 1' ]
+      pickaxe:
+        lostOnDie: false
+        icon: 'WOOD_PICKAXE : 1 : esconder>tudo : nome>{color}Picareta (Eficiência {tier}) : desc>&7Custo: &f{price} Ferros\n&7Nível: &a{tier}\n \n&8Este é um item com nível.\n \n&7Irá ser debitado 1 nível\n&7a cada morte!\n \n&7Você sempre irá aparecer\n&7com pelo menos o nível\n&7mais baixo do item.'
+        tiers:
+          1:
+            icon: 'WOOD_PICKAXE : 1 : esconder>tudo : nome>{color}Picareta (Eficiência {tier}) : desc>&7Custo: &f{price} Ferros\n&7Nível: &a{tier}\n \n&8Este é um item com nível.\n \n&7Irá ser debitado 1 nível\n&7a cada morte!\n \n&7Você sempre irá aparecer\n&7com pelo menos o nível\n&7mais baixo do item.'
+            price: 'IRON_INGOT : 10'
+            content: [ 'WOOD_PICKAXE : 1 : encantar>DIG_SPEED:1' ]
+          2:
+            icon: '285 : 1 : esconder>tudo : nome>{color}Picareta (Eficiência {tier}) : desc>&7Custo: &f{price} Ferros\n&7Nível: &a{tier}\n \n&8Este é um item com nível.\n \n&7Irá ser debitado 1 nível\n&7a cada morte!\n \n&7Você sempre irá aparecer\n&7com pelo menos o nível\n&7mais baixo do item.'
+            price: 'IRON_INGOT : 20'
+            content: [ '285 : 1 : encantar>DIG_SPEED:2' ]
+          3:
+            icon: '257 : 1 : esconder>tudo : nome>{color}Picareta (Eficiência {tier}) : desc>&7Custo: &f{price} Ferros\n&7Nível: &a{tier}\n \n&8Este é um item com nível.\n \n&7Irá ser debitado 1 nível\n&7a cada morte!\n \n&7Você sempre irá aparecer\n&7com pelo menos o nível\n&7mais baixo do item.'
+            price: 'IRON_INGOT : 20'
+            content: [ '257 : 1 : encantar>DIG_SPEED:3' ]
+          4:
+            icon: '278 : 1 : esconder>tudo : nome>{color}Picareta (Eficiência {tier}) : desc>&7Custo: &f{price} Ferros\n&7Nível: &a{tier}\n \n&8Este é um item com nível.\n \n&7Irá ser debitado 1 nível\n&7a cada morte!\n \n&7Você sempre irá aparecer\n&7com pelo menos o nível\n&7mais baixo do item.'
+            price: 'IRON_INGOT : 30'
+            content: [ '278 : 1 : encantar>DIG_SPEED:4' ]
+      axe:
+        lostOnDie: false
+        icon: 'WOOD_AXE : 1 : esconder>tudo : nome>{color}Machado (Eficiência {tier}) : desc>&7Custo: &f{price} Ferros\n&7Nível: &a{tier}\n \n&8Este é um item com nível.\n \n&7Irá ser debitado 1 nível\n&7a cada morte!\n \n&7Você sempre irá aparecer\n&7com pelo menos o nível\n&7mais baixo do item.'
+        tiers:
+          1:
+            icon: 'WOOD_AXE : 1 : esconder>tudo : nome>{color}Machado (Eficiência {tier}) : desc>&7Custo: &f{price} Ferros\n&7Nível: &a{tier}\n \n&8Este é um item com nível.\n \n&7Irá ser debitado 1 nível\n&7a cada morte!\n \n&7Você sempre irá aparecer\n&7com pelo menos o nível\n&7mais baixo do item.'
+            price: 'IRON_INGOT : 10'
+            content: [ 'WOOD_AXE : 1 : encantar>DIG_SPEED:1' ]
+          2:
+            icon: '286 : 1 : esconder>tudo : nome>{color}Machado (Eficiência {tier}) : desc>&7Custo: &f{price} Ferros\n&7Nível: &a{tier}\n \n&8Este é um item com nível.\n \n&7Irá ser debitado 1 nível\n&7a cada morte!\n \n&7Você sempre irá aparecer\n&7com pelo menos o nível\n&7mais baixo do item.'
+            price: 'IRON_INGOT : 20'
+            content: [ '286 : 1 : encantar>DIG_SPEED:2' ]
+          3:
+            icon: '258 : 1 : esconder>tudo : nome>{color}Machado (Eficiência {tier}) : desc>&7Custo: &f{price} Ferros\n&7Nível: &a{tier}\n \n&8Este é um item com nível.\n \n&7Irá ser debitado 1 nível\n&7a cada morte!\n \n&7Você sempre irá aparecer\n&7com pelo menos o nível\n&7mais baixo do item.'
+            price: 'IRON_INGOT : 20'
+            content: [ '258 : 1 : encantar>DIG_SPEED:3' ]
+          4:
+            icon: '279 : 1 : esconder>tudo : nome>{color}Machado (Eficiência {tier}) : desc>&7Custo: &f{price} Ferros\n&7Nível: &a{tier}\n \n&8Este é um item com nível.\n \n&7Irá ser debitado 1 nível\n&7a cada morte!\n \n&7Você sempre irá aparecer\n&7com pelo menos o nível\n&7mais baixo do item.'
+            price: 'IRON_INGOT : 30'
+            content: [ '279 : 1 : encantar>DIG_SPEED:4' ]
+  ranged:
+    name: 'Projéteis'
+    icon: 'BOW : 1 : nome>&aProjéteis : desc>&eClique para ver!!'
+    items:
+      arrow:
+        icon: 'ARROW : 1 : nome>{color}Flechas : desc>&7Custo: &62 Ouros'
+        price: 'GOLD_INGOT : 2'
+        content: [ 'ARROW : 1' ]
+      bow:
+        icon: 'BOW : 1 : nome>{color}Arco : desc>&7Custo: &612 Ouros'
+        price: 'GOLD_INGOT : 12'
+        content: [ 'BOW : 1' ]
+        block: [ 'bow' ]
+      bowp1:
+        icon: 'BOW : 1 : nome>{color}Arco (Força I) : desc>&7Custo: &624 Ouros'
+        price: 'GOLD_INGOT : 24'
+        content: [ 'BOW : 1 : encantar>ARROW_DAMAGE:1' ]
+        block: [ 'bow', 'bowp1' ]
+      bowp1p1:
+        icon: 'BOW : 1 : nome>{color}Arco (Força I, Impulso I) : desc>&7Custo: &26 Esmeraldas'
+        price: 'EMERALD : 6'
+        content: [ 'BOW : 1 : encantar>ARROW_DAMAGE:1\nARROW_KNOCKBACK:1' ]
+        block: [ 'bow', 'bowp1', 'bowp1p1' ]
+  potions:
+    name: 'Poções'
+    icon: 'BREWING_STAND_ITEM : 1 : nome>&aPoções : desc>&eClique para ver!'
+    items:
+      speed2:
+        icon: 'POTION : 1 : efeito>SPEED:2:900 : nome>{color}Poção de Speed II (45 segundos) : desc>&7Custo: &21 Esmeralda'
+        price: 'EMERALD : 1'
+        content: [ 'POTION : 1 : efeito>SPEED:2:900 : nome>&aPoção de Speed II (45 segundos)' ]
+      invisibility1:
+        icon: 'POTION : 1 : efeito>INVISIBILITY:1:600 : nome>{color}Poção de Invisibilidade (30 segundos) : desc>&7Custo: &22 Esmeraldas'
+        price: 'EMERALD : 2'
+        content: [ 'POTION : 1 : efeito>INVISIBILITY:1:600 : nome>&aPoção de Invisibilidade (30 segundos)' ]
+      jump5:
+        icon: 'POTION : 1 : efeito>JUMP:5:900 : nome>{color}Poção de Super Pulo V (45 segundos) : desc>&7Custo: &21 Esmeraldas'
+        price: 'EMERALD : 1'
+        content: [ 'POTION : 1 : efeito>JUMP:5:900 : nome>&aPoção de Super Pulo V (45 segundos)' ]
+  utility:
+    name: 'Utilidade'
+    icon: 'TNT : 1 : nome>&aUtilidade : desc>&eClique para ver!'
+    items:
+      goldenapple:
+        icon: 'GOLDEN_APPLE : 1 : nome>{color}Maçã dourada : desc>&7Custo: &63 Ouro\n \n&7Cura bem arrendondada.'
+        price: 'GOLD_INGOT : 3'
+        content: [ 'GOLDEN_APPLE : 1' ]
+      estilingue:
+        icon: 'MAGMA_CREAM : 1 : nome>{color}Estilingue : desc>&7Custo: &8 Ouros\n \n&7Clique botão direito para lançar! É bom para\n&7retornar igual um estilingue.'
+        price: 'GOLD_INGOT : 8'
+        content: [ 'MAGMA_CREAM : 1' ]
+      fireball:
+        icon: 'FIREBALL : 1 : nome>{color}Bola de fogo : desc>&7Custo: &f40 Ferros\n \n&7Clique botão direito para lançar! É bom para\n&7derrubar inimigos em pontes.'
+        price: 'IRON_INGOT : 40'
+        content: [ 'FIREBALL : 1' ]
+      tnt:
+        icon: 'TNT : 1 : nome>{color}TNT : desc>&7Custo: &64 Ouro\n \n&7Queima instataneamente, apropriado\n&7para explodir coisas.'
+        price: 'GOLD_INGOT : 4'
+        content: [ 'TNT : 1' ]
+      enderpearl:
+        icon: 'ENDER_PEARL : 1 : nome>{color}Pérola do fim : desc>&7Custo: &24 Esmeraldas\n \n&7A maneira mais rapida de invadir a\n&7base inimiga..'
+        price: 'EMERALD : 4'
+        content: [ 'ENDER_PEARL : 1' ]
+      waterbucket:
+        icon: 'WATER_BUCKET : 1 : nome>{color}Balde de agua : desc>&7Custo: &63 Ouros\n \n&7É ótimo desacelerar a aproximação\n&7dos inimigos. Também pode proteger\n&7contra TNT.'
+        price: 'GOLD_INGOT : 3'
+        content: [ 'WATER_BUCKET : 1' ]
+      sponge:
+        icon: 'SPONGE : 4 : nome>{color}Esponja : desc>&7Custo: &63 Ouro\n \n&7Água? perdeu otário.'
+        price: 'GOLD_INGOT : 3'
+        content: [ 'SPONGE : 4' ]
+      tower:
+          icon: 'CHEST : 1 : nome>{color}Torre compacta : desc>&7Custo:§f 24 Ferros\n \n&7Use esta torre compacta para se \n&7defender'
+          price: 'IRON_INGOT : 24'
+          content: [ 'CHEST : 1 : nome>&aTorre compacta' ]
+      IronGolem:
+      icon: '383:56 : 1 : nome>{color}IronGolem : desc>&7Custo:§f 120 Ferros\n \n&7Um Otimo Defensor \n&7para sua Ilha'
+      price: 'IRON_INGOT : 120'
+      content: [ '383:56 : 1 : nome>&aIronGolem' ]
+      SilverFish:
+        icon: 'EGG : 1 : nome>{color}SilverFish : desc>&7Custo:§f 40 Ferros\n \n&7Use esse Bixo chato para \n&7defender'
+        price: 'IRON_INGOT : 40'
+        content: [ 'EGG : 1 : nome>&aSilverFish' ]

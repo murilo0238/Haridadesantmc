@@ -1,0 +1,41 @@
+deliveries:
+  bgeral:
+    slot: 13
+    days: 7
+    permission: 'discord.verificado'
+    icon: 'POTION:8261 : 1 : : esconder>tudo : nome>{color}1 Booster de Coins : desc>&7Gratuito para você! Colete semanalmente\n&7para ganhar mais coins em minigames.\n \n&fTipo: &7Discord\n&fMultiplicador: &72x\n&fDuração: &77d'
+    message: '&aVocê coletou sua entrega semanal de 1 Booster de Coins!'
+    rewards:
+      - 'PRIVATE_BOOSTER>1:2.0:168'
+  mbmembro:
+    slot: 28
+    days: 30
+    permission: 'role.membro'
+    icon: 'ENDER_CHEST : 1 : nome>{color}1x Caixa Misteriosa : desc>&7Gratuito para você! Colete mensalmente\n&7e desbloquei itens épicos\n \n &8▪ &f&l1x &bCaixa Misteriosa de Colecionáveis'
+    message: '&aVocê coletou sua entrega mensal de 1 Caixa Misteriosa!'
+    rewards:
+      - 'COMANDO>mb dar {name} 1'
+  mbvip:
+    slot: 30
+    days: 30
+    permission: 'role.vip'
+    icon: 'ENDER_CHEST : 1 : nome>{color}3x Caixas Misteriosas : desc>&7Gratuito para você! Colete mensalmente\n&7e desbloquei itens épicos\n \n &8▪ &f&l3x &bCaixa Misteriosa de Colecionáveis'
+    message: '&aVocê coletou sua entrega mensal de 3 Caixas Misteriosas!'
+    rewards:
+      - 'COMANDO>mb dar {name} 3'
+  mbmvp:
+    slot: 32
+    days: 30
+    permission: 'role.mvp'
+    icon: 'ENDER_CHEST : 1 : nome>{color}4x Caixas Misteriosas : desc>&7Gratuito para você! Colete mensalmente\n&7e desbloquei itens épicos\n \n &8▪ &f&l4x &bCaixa Misteriosa de Colecionáveis'
+    message: '&aVocê coletou sua entrega mensal de 4 Caixas Misteriosas!'
+    rewards:
+      - 'COMANDO>mb dar {name} 4'
+  mbmvpplus:
+    slot: 34
+    days: 30
+    permission: 'role.mvpplus'
+    icon: 'ENDER_CHEST : 1 : nome>{color}5x Caixa Misteriosas : desc>&7Gratuito para você! Colete mensalmente\n&7e desbloquei itens épicos\n \n &8▪ &f&l5x &bCaixa Misteriosa de Colecionáveis'
+    message: '&aVocê coletou sua entrega mensal de 5 Caixas Misteriosas!'
+    rewards:
+      - 'COMANDO>mb dar {name} 5'

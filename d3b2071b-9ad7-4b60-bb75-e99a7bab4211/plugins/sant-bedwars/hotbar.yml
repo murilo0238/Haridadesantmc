@@ -1,0 +1,50 @@
+# Executáveis:
+# CORE>jogos
+# CORE>perfil
+# CORE>jogadores
+# BEDWARS>loja
+# BEDWARS>lobbies
+# BEDWARS>espectar
+# BEDWARS>jogar
+# BEDWARS>sair
+# COMANDO>exemplo
+# MENSAGEM>&aExemplo
+lobby:
+  bussola:
+    slot: 1
+    execute: 'CORE>jogos'
+    icon: 'COMPASS : 1 : nome>&aModo de Jogo'
+  perfil:
+    slot: 2
+    execute: 'CORE>perfil'
+    icon: '%perfil%SKULL_ITEM:3 : 1 : nome>&aMeu Perfil'
+  jogadores:
+    slot: 8
+    execute: 'CORE>jogadores'
+    icon: 'INK_SACK:%santmc-commons_status_jogadores_inksack% : 1 : nome>&fJogadores: %santmc-commons_status_jogadores_nome%'
+  lobbies:
+    slot: 9
+    execute: 'BEDWARS>lobbies'
+    icon: 'NETHER_STAR : 1 : nome>&aLobbies'
+  loja:
+    slot: 5
+    execute: 'BEDWARS>loja'
+    icon: 'CHEST : 1 : nome>&aLoja do BedWars'
+waiting:
+  sair:
+    slot: 9
+    execute: 'BEDWARS>sair'
+    icon: 'BED : 1 : nome>&cVoltar ao Lobby'
+spectator:
+  compass:
+    slot: 2
+    execute: 'BEDWARS>espectar'
+    icon: 'COMPASS : 1 : nome>&aAssistir Jogadores'
+  jogar:
+    slot: 3
+    execute: 'BEDWARS>jogar'
+    icon: 'PAPER : 1 : nome>&bJogar Novamente'
+  sair:
+    slot: 8
+    execute: 'BEDWARS>sair'
+    icon: 'BED : 1 : nome>&cVoltar ao Lobby'

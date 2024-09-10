@@ -1,0 +1,19 @@
+Settings:
+  messagesOrder: NORMAL
+  interval: 60
+  minOnlineCountForWork: 1
+  noPermMessage: §cYou don't have permissions!
+  enableVariables: true
+  debugJsonErrors: false
+Messages:
+  '1':
+    SHOWMODE: ONLYFOR
+    SERVERS:
+    - exampleServer1
+    LINES:
+    - '&7--------------------------------------------------------------------'
+    - ''
+    - ' Hey &e&l%player%! &fThanks for using my plugin!'
+    - ' Have a nice auto-messaging!'
+    - ''
+    - '&7--------------------------------------------------------------------'

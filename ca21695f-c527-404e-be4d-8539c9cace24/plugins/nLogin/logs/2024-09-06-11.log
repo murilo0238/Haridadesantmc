@@ -1,0 +1,46 @@
+[09/06/2024 01:23:30]:           __             _       
+[09/06/2024 01:23:30]:   _ __   / /  ___   __ _(_)_ __  
+[09/06/2024 01:23:30]:  | '_ \ / /  / _ \ / _` | | '_ \ 
+[09/06/2024 01:23:30]:  | | | / /__| (_) | (_| | | | | |
+[09/06/2024 01:23:30]:  |_| |_\____/\___/ \__, |_|_| |_|
+[09/06/2024 01:23:30]:                   |___/            
+[09/06/2024 01:23:30]:  By: www.nickuc.com - V 10.2.7 DEVELOPMENT
+[09/06/2024 01:23:30]:  
+[09/06/2024 01:23:31]: [nLogin] [DEBUG] All settings were loaded in 392 ms.
+[09/06/2024 01:23:31]: [nLogin] [DEBUG] Loading the messages_br.yml message file...
+[09/06/2024 01:23:31]: [nLogin] [DEBUG] All plugin messages were loaded in 218 ms (languageByClient=false).
+[09/06/2024 01:23:33]: [nLogin] [DEBUG] [Discord] Connected guilds: SantMC - Vinculação 🚒#1438 (1)
+[09/06/2024 01:23:33]: [nLogin] [DEBUG]  - Sant MC ☀ (1266127147110502511)
+[09/06/2024 01:23:33]: [nLogin] [Discord] Conexão com o Discord foi realizada com sucesso!
+[09/06/2024 01:23:33]: [nLogin] [DEBUG] All proxy settings were loaded in 6 ms.
+[09/06/2024 01:23:33]: [nLogin] [DEBUG] Loading database...
+[09/06/2024 01:23:35]: [nLogin] [DEBUG] Starting logger filter...
+[09/06/2024 01:23:40]: [nLogin] 
+[09/06/2024 01:23:40]: [nLogin]  Muito obrigado por escolher o nLogin! <3
+[09/06/2024 01:23:40]: [nLogin] 
+[09/06/2024 01:23:40]: [nLogin]  Para sua segurança, leia a mensagem abaixo:
+[09/06/2024 01:23:40]: [nLogin]   Nunca baixe o nLogin de fontes desconhecidas.
+[09/06/2024 01:23:40]: [nLogin]   Uma versão modificada pode conter softwares maliciosos.
+[09/06/2024 01:23:40]: [nLogin] 
+[09/06/2024 01:23:40]: [nLogin]  Fontes confiáveis:
+[09/06/2024 01:23:40]: [nLogin]   www.nickuc.com
+[09/06/2024 01:23:40]: [nLogin]   www.github.com/nickuc
+[09/06/2024 01:23:40]: [nLogin]   Instalador do OpeNLogin (do Spigot ou GitHub)
+[09/06/2024 01:23:41]: [nLogin] 
+[09/06/2024 01:23:41]: [nLogin]  Canais oficiais para suporte:
+[09/06/2024 01:23:41]: [nLogin]   Grupo do Discord: www.nickuc.com/discord
+[09/06/2024 01:23:41]: [nLogin]   Documentação: docs.nickuc.com/nlogin/
+[09/06/2024 01:23:41]: [nLogin]   E-mail: support@nickuc.com
+[09/06/2024 01:23:41]: [nLogin]   YouTube: youtube.com/nickuc
+[09/06/2024 01:23:41]: [nLogin] 
+[09/06/2024 01:25:02]: [nLogin] [DEBUG] [MySQL] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'HaridadeGANG', `unique_id` = 943d65a769fb3e36a36d92534e337b4a,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$SHA512$4d06aa224a04c53bd47f0f22dcc656df855c54db4ac399dc1bed117425b32461036f8a0bdc934cad562fb49441f893a359cc823e5626b4c2bbb26b796f0273d0$MQVIdwQORJIsCMDsBKOVTfxz', `last_address` = '177.223.17.17', `creation_date` = 2024-09-06 01:17:54.0, `last_login` = 2024-09-06 01:17:54.0, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"Ek8DKopT1IvwnloiYy+smkv5DwmqRzIB9hp8RJGvxDlIm0Z0FyBQx8/RZbnwR/scIjzXA35QAmzQUKlNHGodOQH+kdE/ImjBgEuJxd1rAbuiZczXWR1AjS2zoBEAcoMG/JFco6mZ5n26PKS/JxrFOhDKfrTAYM/KuVJu9d+J8nlGolPMWcCXa+7FAc0uenHiAYZfchH/eNgY0c5MqAxfIoS+V62aVCGPMy0TX5nShl0FPR2nbEgUtFi9C+ZK15t5B9PlIwn6jcQn+RYRSuR8wr4bWbU/YEqGDGnIYgmPUaUte+r8leFYby+VUOlMUWC4L9QCm46kBW7f5aTKB92RiDgD4gGMNU/09HMh9ZFfFyoyN/ZkDLUdmOMBlBxjs0LqyVDdqj9Rjm3SpZ8K4kTOf2PPiitCP21ddBLoUylOpz6N6NwFV/96i9poyubgen69Nctk36Onl2dSeldbKFSkBz/Pp4zHWMrHSwJyEOr6LrS7Lmz18l6WgkY7rLrTmN8lP2hutQAsMTVAUO8UYeyM5S9AXXXI1CiE3ZyrnySyYGUO1mQNQHESxTt47a5G1PuLHWuj9oC4WeDZJ0ADRl4+8zUIVtaH0OvenI3TztW6aEbfDYyEi4pzqcT7kcsXvZ6fi50zuhvT3u2vpIoX2yHD5OMWwe6dEFchnRLN/pSmsxY=:QrU/R7rzgs78wbhOM05esBrBCeau3OQokPQuu8Ia779PXAalZGLX56HWo2SuHED5itVR7h83","key":"encrypted"},{"value":"login","key":"last-server"},{"value":"pt","key":"language"}],"version":0}' WHERE `ai` = 1"
+[09/06/2024 01:25:04]: [nLogin] [DEBUG] [MySQL] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'HaridadeGANG', `unique_id` = 943d65a769fb3e36a36d92534e337b4a,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$SHA512$4d06aa224a04c53bd47f0f22dcc656df855c54db4ac399dc1bed117425b32461036f8a0bdc934cad562fb49441f893a359cc823e5626b4c2bbb26b796f0273d0$MQVIdwQORJIsCMDsBKOVTfxz', `last_address` = '177.223.17.17', `creation_date` = 2024-09-06 01:17:54.0, `last_login` = 2024-09-06 01:17:54.0, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"Ek8DKopT1IvwnloiYy+smkv5DwmqRzIB9hp8RJGvxDlIm0Z0FyBQx8/RZbnwR/scIjzXA35QAmzQUKlNHGodOQH+kdE/ImjBgEuJxd1rAbuiZczXWR1AjS2zoBEAcoMG/JFco6mZ5n26PKS/JxrFOhDKfrTAYM/KuVJu9d+J8nlGolPMWcCXa+7FAc0uenHiAYZfchH/eNgY0c5MqAxfIoS+V62aVCGPMy0TX5nShl0FPR2nbEgUtFi9C+ZK15t5B9PlIwn6jcQn+RYRSuR8wr4bWbU/YEqGDGnIYgmPUaUte+r8leFYby+VUOlMUWC4L9QCm46kBW7f5aTKB92RiDgD4gGMNU/09HMh9ZFfFyoyN/ZkDLUdmOMBlBxjs0LqyVDdqj9Rjm3SpZ8K4kTOf2PPiitCP21ddBLoUylOpz6N6NwFV/96i9poyubgen69Nctk36Onl2dSeldbKFSkBz/Pp4zHWMrHSwJyEOr6LrS7Lmz18l6WgkY7rLrTmN8lP2hutQAsMTVAUO8UYeyM5S9AXXXI1CiE3ZyrnySyYGUO1mQNQHESxTt47a5G1PuLHWuj9oC4WeDZJ0ADRl4+8zUIVtaH0OvenI3TztW6aEbfDYyEi4pzqcT7kcsXvZ6fi50zuhvT3u2vpIoX2yHD5OMWwe6dEFchnRLN/pSmsxY=:QrU/R7rzgs78wbhOM05esBrBCeau3OQokPQuu8Ia779PXAalZGLX56HWo2SuHED5itVR7h83","key":"encrypted"},{"value":"login","key":"last-server"},{"value":"pt","key":"language"}],"version":0}' WHERE `ai` = 1"
+[09/06/2024 01:25:10]: [nLogin] [DEBUG] [MySQL] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'HaridadeGANG', `unique_id` = 943d65a769fb3e36a36d92534e337b4a,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$SHA512$4d06aa224a04c53bd47f0f22dcc656df855c54db4ac399dc1bed117425b32461036f8a0bdc934cad562fb49441f893a359cc823e5626b4c2bbb26b796f0273d0$MQVIdwQORJIsCMDsBKOVTfxz', `last_address` = '177.223.17.17', `creation_date` = 2024-09-06 01:17:54.0, `last_login` = 2024-09-06 01:17:54.0, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"Ek8DKopT1IvwnloiYy+smkv5DwmqRzIB9hp8RJGvxDlIm0Z0FyBQx8/RZbnwR/scIjzXA35QAmzQUKlNHGodOQH+kdE/ImjBgEuJxd1rAbuiZczXWR1AjS2zoBEAcoMG/JFco6mZ5n26PKS/JxrFOhDKfrTAYM/KuVJu9d+J8nlGolPMWcCXa+7FAc0uenHiAYZfchH/eNgY0c5MqAxfIoS+V62aVCGPMy0TX5nShl0FPR2nbEgUtFi9C+ZK15t5B9PlIwn6jcQn+RYRSuR8wr4bWbU/YEqGDGnIYgmPUaUte+r8leFYby+VUOlMUWC4L9QCm46kBW7f5aTKB92RiDgD4gGMNU/09HMh9ZFfFyoyN/ZkDLUdmOMBlBxjs0LqyVDdqj9Rjm3SpZ8K4kTOf2PPiitCP21ddBLoUylOpz6N6NwFV/96i9poyubgen69Nctk36Onl2dSeldbKFSkBz/Pp4zHWMrHSwJyEOr6LrS7Lmz18l6WgkY7rLrTmN8lP2hutQAsMTVAUO8UYeyM5S9AXXXI1CiE3ZyrnySyYGUO1mQNQHESxTt47a5G1PuLHWuj9oC4WeDZJ0ADRl4+8zUIVtaH0OvenI3TztW6aEbfDYyEi4pzqcT7kcsXvZ6fi50zuhvT3u2vpIoX2yHD5OMWwe6dEFchnRLN/pSmsxY=:QrU/R7rzgs78wbhOM05esBrBCeau3OQokPQuu8Ia779PXAalZGLX56HWo2SuHED5itVR7h83","key":"encrypted"},{"value":"login","key":"last-server"},{"value":"pt","key":"language"}],"version":0}' WHERE `ai` = 1"
+[09/06/2024 01:25:21]: [nLogin] [DEBUG] [MySQL] [UNREGISTER]: Removing the HaridadeGANG's account...
+[09/06/2024 01:25:21]: [nLogin] [DEBUG] [MySQL] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'HaridadeGANG', `unique_id` = 943d65a769fb3e36a36d92534e337b4a,  `mojang_id` = null,  `bedrock_id` = null,  `password` = null, `last_address` = null, `creation_date` = 1970-01-01 00:00:00.0, `last_login` = 1970-01-01 00:00:00.0, `email` = null, `discord` = null, `settings` = null WHERE `ai` = 1"
+[09/06/2024 01:25:21]: [nLogin] [DEBUG] The HaridadeGANG player had his account unregistered by CONSOLE.
+[09/06/2024 01:25:28]: [nLogin] [DEBUG] [MySQL] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'HaridadeGANG', `unique_id` = 943d65a769fb3e36a36d92534e337b4a,  `mojang_id` = null,  `bedrock_id` = null,  `password` = null, `last_address` = null, `creation_date` = 2024-09-06 01:25:21.0, `last_login` = 2024-09-06 01:25:21.0, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":1725585928844,"key":"premium.challenge"}],"version":0}' WHERE `ai` = 1"
+[09/06/2024 01:25:28]: [nLogin] [DEBUG] [MySQL] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'HaridadeGANG', `unique_id` = 943d65a769fb3e36a36d92534e337b4a,  `mojang_id` = null,  `bedrock_id` = null,  `password` = null, `last_address` = null, `creation_date` = 2024-09-06 01:25:21.0, `last_login` = 2024-09-06 01:25:21.0, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"login","key":"last-server"},{"value":1725585928844,"key":"premium.challenge"}],"version":0}' WHERE `ai` = 1"
+[09/06/2024 01:25:31]: [nLogin] [DEBUG] [MySQL] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'HaridadeGANG', `unique_id` = 943d65a769fb3e36a36d92534e337b4a,  `mojang_id` = null,  `bedrock_id` = null,  `password` = null, `last_address` = null, `creation_date` = 2024-09-06 01:25:21.0, `last_login` = 2024-09-06 01:25:21.0, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"login","key":"last-server"}],"version":0}' WHERE `ai` = 1"
+[09/06/2024 01:25:32]: [nLogin] [DEBUG] [MySQL] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'HaridadeGANG', `unique_id` = 943d65a769fb3e36a36d92534e337b4a,  `mojang_id` = 3f5b4f849c3c42d2afed31463c1311e0,  `bedrock_id` = null,  `password` = null, `last_address` = '177.223.17.17', `creation_date` = 2024-09-06 01:25:32.305, `last_login` = 2024-09-06 01:25:32.305, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"login","key":"last-server"}],"version":0}' WHERE `ai` = 1"
+[09/06/2024 01:32:56]: [nLogin] Successful plugin core shutdown (took 0.00s)

@@ -1,0 +1,44 @@
+# ID único, não utilize IDs repetidos.
+id: 7
+name: 'Rusher'
+rarity: EPICO
+permission: ''
+# Lista de slots que irão ser os padrões dos itens.
+slots: [1, 2, 3, 4]
+icon: '267 : 1 : desc>&7Velocidade é a palavra chave para este kit.\n \n&eItens:\n{items}'
+levels:
+  # Esse número representa o nível do kit
+  1:
+    name: 'Rusher I'
+    coins: 7000.0
+    cash: 80
+    items:
+      - '373:8194 : 1 : efeito>SPEED:1:200'
+      - '267 : 1 : encantar>DAMAGE_ALL:1'
+    description: '&71x Poção (Velocidade II - 00:10\n&71x Espada de Ferro (Afiação I)'
+  1:
+    name: 'Rusher II'
+    coins: 10000.0
+    cash: 50
+    items:
+      - '373:8194 : 1 : efeito>SPEED:1:300'
+      - '267 : 1 : encantar>DAMAGE_ALL:2'
+    description: '&71x Poção (Velocidade II - 00:15\n&71x Espada de Ferro (Afiação II)'
+  3:
+    name: 'Rusher III'
+    coins: 10000.0
+    cash: 50
+    items:
+      - '373:8194 : 1 : efeito>SPEED:2:200'
+      - '373:8194 : 1 : efeito>SPEED:2:200'      
+      - '267 : 1 : encantar>DAMAGE_ALL:2'
+    description: '&72x Poção (Velocidade III - 00:10\n&71x Espada de Ferro (Afiação II)'
+  4:
+    name: 'Rusher IV'
+    coins: 10000.0
+    cash: 50
+    items:
+      - '373:8194 : 1 : efeito>SPEED:2:300'
+      - '373:8194 : 1 : efeito>SPEED:2:300'      
+      - '276 : 1 : encantar>DAMAGE_ALL:1'
+    description: '&72x Poção (Velocidade III - 00:15\n&71x Espada de Diamante (Afiação I)'

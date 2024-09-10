@@ -1,0 +1,431 @@
+# SantMC - BedWars - Criado por SantMC
+# Versão da configuração: 1.0
+options:
+ coins:
+  wins: 50
+  beds: 25
+  kills: 5
+ start:
+  waiting: 29
+  full: 10
+  lobbywaiting: 15
+ events:
+  all:
+   # Se você não definir o evento FIM a partida não terá fim por tempo.
+   # Eventos disponíveis:
+   # FIM:tempo_em_segundos
+   # BEDDESTROY:tempo_em_segundos
+   # EMERALD:tempo_em_segundos
+   # DIAMOND:tempo_em_segundos
+   timings:
+   - 'DIAMOND:280'
+   - 'EMERALD:480'
+   - 'DIAMOND:680'
+   - 'EMERALD:880'
+   - 'BEDDESTROY:1240'
+   - 'FIM:16840'
+  diamond: 'Diamante {tier}'
+  emerald: 'Esmeralda {tier}'
+  beddestroy: 'Destruição de Camas'
+  end: 'Fim de Jogo'
+ regen:
+  block-regen:
+   # Quantos blocos serão regenerados por tick no BlockRegen
+   per-tick: 10000
+  # Existem dois tipos de Regeneração de Arena: WorldReload e BlockRegen.
+  # É recomendável que teste os dois e veja qual se sai melhor.
+  world-reload: true
+ exp:
+  beds: 25
+  kills: 30
+  wins: 60
+ generator:
+  diamond:
+   countdown-tier-1: 30
+   countdown-tier-2: 23
+   countdown-tier-3: 15
+  emerald:
+   countdown-tier-1: 65
+   countdown-tier-2: 50
+   countdown-tier-3: 35
+ team-generator:
+  emerald:
+   countdown: 7.0
+  gold:
+   countdown: 6.0
+  iron:
+   countdown: 3.0
+scoreboards:
+ time:
+  waiting: 'Inicia em &a30s'
+  starting: 'Inicia em &a{time}s'
+ scroller:
+  every-tick: 1
+  titles:
+  - '&b&lBED WARS'
+ lobby:
+ - ''
+ - ' Seu Nivel: {level}'
+ - ' {progress}'
+ - ' Progresso: &b{currentxp}&7/&a{nextxp}'
+ - ''
+ - ' &8┃ &fAbates&e: &a%santmc-commons_BedWars_kills%'
+ - ' &8┃ &fVitórias&e: &a%santmc-commons_BedWars_wins%'
+ - ' &8┃ &fCama dest.&e: &a%santmc-commons_BedWars_bedsdestroyeds%'
+ - ''
+ - ' &8┃ &fCoins&e: &b%santmc-commons_BedWars_coins%'
+ - ' &8┃ &fGems&e: &b%santmc-commons_cash%'
+ - ''
+ - '&asantmc.com'
+ waiting:
+ - '&7   {date}'
+ - ''
+ - 'Mapa: &a{map}'
+ - 'Jogadores: &a{players}/{max_players}'
+ - 'Modo: &a{mode}'
+ - ''
+ - '{time}'
+ - ''
+ - '&esantmc.com'
+ ingame:
+ - '&7  {date} - {map}'
+ - ''
+ - '&a{next_event}'
+ - ''
+ - '&8┃ {Vermelho}'
+ - '&8┃ {Azul}'
+ - '&8┃ {Amarelo}'
+ - '&8┃ {Verde}'
+ - '&8┃ {Branco}'
+ - '&8┃ {Ciano}'
+ - '&8┃ {Cinza}'
+ - '&8┃ {Rosa}'
+ - ''
+ - '&asantmc.com'
+lobby:
+ npc:
+  deliveries:
+   hologram:
+   - '{deliveries}'
+   - '&bEntregador'
+   - '&e&lCLIQUE DIREITO'
+   skin:
+    value: 'eyJ0aW1lc3RhbXAiOjE1ODM0NTc4OTkzMTksInByb2ZpbGVJZCI6IjIxMWNhN2E4ZWFkYzQ5ZTVhYjBhZjMzMTBlODY0M2NjIiwicHJvZmlsZU5hbWUiOiJNYXh0ZWVyIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85MWU0NTc3OTgzZjEzZGI2YTRiMWMwNzQ1MGUyNzQ2MTVkMDMyOGUyNmI0MGQ3ZDMyMjA3MjYwOWJmZGQ0YTA4IiwibWV0YWRhdGEiOnsibW9kZWwiOiJzbGltIn19fX0='
+    signature: 'SXnMF3f9x90fa+FdP2rLk/V6/zvMNuZ0sC4RQpPHF9JxdVWYRZm/+DhxkfjCHWKXV/4FSTN8LPPsxXd0XlYSElpi5OaT9/LGhITSK6BbeBfaYhLZnoD0cf9jG9nl9av38KipnkNXI+cO3wttB27J7KHznAmfrJd5bxdO/M0aGQYtwpckchYUBG6pDzaxN7tr4bFxDdxGit8Tx+aow/YtYSQn4VilBIy2y/c2a4PzWEpWyZQ94ypF5ZojvhaSPVl88Fbh+StdgfJUWNN3hNWt31P68KT4Jhx+SkT2LTuDj0jcYsiuxHP6AzZXtOtPPARqM0/xd53CUHCK+TEF5mkbJsG/PZYz/JRR1B1STk4D2cgbhunF87V4NLmCBtF5WDQYid11eO0OnROSUbFduCLj0uJ6QhNRRdhSh54oES7vTi0ja3DftTjdFhPovDAXQxCn+ROhTeSxjW5ZvP6MpmJERCSSihv/11VGIrVRfj2lo9MaxRogQE3tnyMNKWm71IRZQf806hwSgHp+5m2mhfnjYeGRZr44j21zqnSKudDHErPyEavLF83ojuMhNqTTO43ri3MVbMGix4TbIOgB2WDwqlcYLezENBIIkRsYO/Y1r5BWCA7DJ5IlpxIr9TCu39ppVmOGReDWA/Znyox5GP6JIM53kQoTOFBM3QWIQcmXll4='
+   deliveries: '&c{deliveries} Entrega{s}'
+  battlepass:
+   hologram:
+   - '&bPasse de Batalha'
+   - '&e&lCLIQUE PARA ABRIR'
+   skin:
+    value: 'ewogICJ0aW1lc3RhbXAiIDogMTcwNDU0MTM5Nzc4NCwKICAicHJvZmlsZUlkIiA6ICI1OWZmOTU1YzMxYjk0MWI0YWQwNDg4NDk0ODkzNzUzOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdhMzQ5IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzEzNzVlNzZjZDFkZDIyMzE3ZTVjNmY4ZTFlNzk1NDE0OWNlMTQ1YTg3ODg2NDZmNTQxOWEwNDUyMDJiY2I3Y2MiCiAgICB9CiAgfQp9'
+    signature: 'TxbVFfFuD/U97oKGXpCg0mtEPaR6etA1GtC73xDw4YZXFPW4nf7iLkrF43YrjsCdDiWSgDV3QPmf5WBhm3bzUnXPilRnmkt+P9tBactxqQRN//Dxebe+nEpmtUMFN5J0nubINNJF/zh+nofyOvXzf1AM6y/EA5Sa51qj+lGW32SBAY9SIFSkVyWWeRPmXRKeWlegGGy456TBYSk3M2g2FqXdlTkOdXzKI1j6ev+JYRI/g4DPS8ARJFeFH07oTssWc08kgiznQmr4OwBxWEa5TO8nm49Ryxgd3IFmu8bGdkals/IAJvQp9Eex7jEvxwjEuVmYYLjz+ZuwEM31x6DCyttIxma/8CT3uUBPyT/s/km21F5FSr3wHB4ZE+TY6cZ5bN5tdwL3vYo0jQc1oGG+L5OhKOMi8mWZm3JdpBnJ6hkk7j2SiLX8mzGysHynTLmZz2H2p1EKkOKsoqPVLsiXgAwcAIKLBvYbsm5hqgxgZp40aKw/oz1rsQmvvfmlVN9r9yqkHKSQ8DY8GEbSToyMON8cZ1zHMdAkJqvXp7QQSmzdlSYNKDNEMFh0OlY4xCL0/xAybm9KUixEPoGyPcWlkXW3khsf4LkxH54pLw5cXVIqxujEmhjmL5TNiBj1QzHbuWFKX5LDBc2jPd+0K9zpGHeAuEt10kFrIAg9JDOfZXI='
+  stats:
+   hologram:
+   - '&6Estatísticas'
+   - 'Total de Eliminações: &7%santmc-commons_BedWars_kills%'
+   - 'Total de Vitórias: &7%santmc-commons_BedWars_wins%'
+   - '&e&lCLIQUE DIREITO'
+  play:
+   solo:
+    hologram:
+    - '&bSolo'
+    - '&a{players} Jogadores'
+    skin:
+     value: 'ewogICJ0aW1lc3RhbXAiIDogMTYxMzgzNzQyNTQzOSwKICAicHJvZmlsZUlkIiA6ICJmMGIzYmRkMjEwNDg0Y2VlYjZhNTQyYmZiOGEyNTdiMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJBbm9uaW1ZVFQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWY0MWU0MjAyYjhhMWExMzNmMGJiNWVlYWEzYjJlMDY2YmJlZjM5NmU1OTExNWQ4ODY5OWJlMTk1OWRjYzcxNyIKICAgIH0KICB9Cn0='
+     signature: 'GtBDGii9AuQ7OSmXolWAWwt9AVsxFkvq0LEg/8Fvdj9WkMSy6qOqIfpWmAdvWmgv/bQ/Xy55x1sb7+O8ktoIqFmqLcxqYBrS6wvjI+rLXTe+ceT9RfeIuS0h8nInDjuWljppOGI40A+NXnBEXSR/OSPCimGRE3Na0xDkjDAUGr0MkT++QwE43QjJcmgToKvk2dJwD0BPmTfgvqqzpsHOXb6yMR0eveXGm1sqwUO4ekRl1vmD1N/Ey3GpTmfeU7uydYMhYeh4LIFnzdvYEG0kbAbqYBQwrbXVdxC8wtlMwt8U6ph6XNyxvMdNYakh0quXmTKI80YY2VTlSGqF4IgBY17MV5rUoUJEiXEFw/pTB1qeDE5V98MSPesf3rumoD0XqGk6hdqGKaFIRVaLZiQfN8WCSIRbsw4uzI2BWgjTBU8ERCsYPVbtrUdB99ur3LME5ch0+br1j2xmCsG/QMvBHDbe6hDCaHJeBHFu0hGyOD63FwB7EhiyAWWsU4rVmjJPWek4YaW1WtoQqmXnDZM9zlToIKcNZhi55exwo8F0+Kkkkp/YYJQc4f1zchY8bbzrzXBa+DTL1/N6oQjpMIQATNYH+UCuovyFd94U1QxFAlv2uoLFwDaWn4Bu8Id2cyh2dTwYabNtfrbG6KDPul9+IN9oUibtGcFDFwUdJjWzLEw='
+   dupla:
+    hologram:
+    - '&bDuplas'
+    - '&a{players} Jogadores'
+    skin:
+     value: 'ewogICJ0aW1lc3RhbXAiIDogMTYxODI1NDE0MzA3MywKICAicHJvZmlsZUlkIiA6ICIxNzhmMTJkYWMzNTQ0ZjRhYjExNzkyZDc1MDkzY2JmYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJzaWxlbnRkZXRydWN0aW9uIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2RhMjRlODIyNWYyN2Q0YWFlYTg5OTRiYzE2Y2M1MzYxMzI4OWVhYzMwNGE1NmI1ZjQyODFiY2UxYWRkYjM0ZjYiCiAgICB9CiAgfQp9'
+     signature: 'mQf4H8hTwV60kZzMvQlR9CNxblfUAwZdBr7tA73nwLZxc2t90zO19skZVwOKiKisgcdrQyG6hjfUvGLSVMUXXyNIWAmwZTKh0/Lv8/NZtV7T7Af/alwbJ/tj4pIWVHM9654U3VKKKQ99WY1h1pyDcaMhCwsi5+XPGov0qQjliQ537ET9MBM/BaZoGo21MO8IutHk1mpGLUmi0wZg9l75LYlZZbnBOBrS3b+HvkAd5dQP04PYAVcevsQXqrQ+CqxhKRcQsHe+QU/sECv4RAJbWPFOHKwRIgAEPEGXHeG7C10Pli6zwvh/F/Gf2oZsjfUMDoqXdmARY+7wI3Iecjb/p8YI/+2doVWSE8psQioSOWymf9tv/lQGcPBoJU7T6NjttrvUzs3h67rWfw83Xkp7GtSHA3HpDVyDac+xGOBfUYpy8f1k45OLWw6nEuYJCx3yCzsrRpozGHL9W7bAnJ8dXtuGMIUOyOHCFQ8S41EdbIeI+mxEw/I+JElQ9gEsRDAazk1Jy0/yspJWZsnjZZAKOt5WuxPNcDLCluqJnE69UIwThMvFxICOCIgPJobxEI7srPujnFzU1pZGljXPoo1vzJ/IcS0Qy2kQa4ZRvsEef8lknl87f29dAXnTn4xJx/pi+T2ho4FzbeNWfOj+kLSnJzWymwkYqrg77XPBdUOShWE='
+   quinteto:
+    hologram:
+    - '&bQuinteto'
+    - '&a{players} Jogadores'
+    skin:
+     value: 'ewogICJ0aW1lc3RhbXAiIDogMTYxODI1NDE0MzA3MywKICAicHJvZmlsZUlkIiA6ICIxNzhmMTJkYWMzNTQ0ZjRhYjExNzkyZDc1MDkzY2JmYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJzaWxlbnRkZXRydWN0aW9uIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2RhMjRlODIyNWYyN2Q0YWFlYTg5OTRiYzE2Y2M1MzYxMzI4OWVhYzMwNGE1NmI1ZjQyODFiY2UxYWRkYjM0ZjYiCiAgICB9CiAgfQp9'
+     signature: 'mQf4H8hTwV60kZzMvQlR9CNxblfUAwZdBr7tA73nwLZxc2t90zO19skZVwOKiKisgcdrQyG6hjfUvGLSVMUXXyNIWAmwZTKh0/Lv8/NZtV7T7Af/alwbJ/tj4pIWVHM9654U3VKKKQ99WY1h1pyDcaMhCwsi5+XPGov0qQjliQ537ET9MBM/BaZoGo21MO8IutHk1mpGLUmi0wZg9l75LYlZZbnBOBrS3b+HvkAd5dQP04PYAVcevsQXqrQ+CqxhKRcQsHe+QU/sECv4RAJbWPFOHKwRIgAEPEGXHeG7C10Pli6zwvh/F/Gf2oZsjfUMDoqXdmARY+7wI3Iecjb/p8YI/+2doVWSE8psQioSOWymf9tv/lQGcPBoJU7T6NjttrvUzs3h67rWfw83Xkp7GtSHA3HpDVyDac+xGOBfUYpy8f1k45OLWw6nEuYJCx3yCzsrRpozGHL9W7bAnJ8dXtuGMIUOyOHCFQ8S41EdbIeI+mxEw/I+JElQ9gEsRDAazk1Jy0/yspJWZsnjZZAKOt5WuxPNcDLCluqJnE69UIwThMvFxICOCIgPJobxEI7srPujnFzU1pZGljXPoo1vzJ/IcS0Qy2kQa4ZRvsEef8lknl87f29dAXnTn4xJx/pi+T2ho4FzbeNWfOj+kLSnJzWymwkYqrg77XPBdUOShWE='
+   trio:
+    hologram:
+    - '&b&lTRIO'
+    - '&a{players} Jogadores'
+    skin:
+     value: 'ewogICJ0aW1lc3RhbXAiIDogMTYxMzgzNzQyNTQzOSwKICAicHJvZmlsZUlkIiA6ICJmMGIzYmRkMjEwNDg0Y2VlYjZhNTQyYmZiOGEyNTdiMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJBbm9uaW1ZVFQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWY0MWU0MjAyYjhhMWExMzNmMGJiNWVlYWEzYjJlMDY2YmJlZjM5NmU1OTExNWQ4ODY5OWJlMTk1OWRjYzcxNyIKICAgIH0KICB9Cn0='
+     signature: 'GtBDGii9AuQ7OSmXolWAWwt9AVsxFkvq0LEg/8Fvdj9WkMSy6qOqIfpWmAdvWmgv/bQ/Xy55x1sb7+O8ktoIqFmqLcxqYBrS6wvjI+rLXTe+ceT9RfeIuS0h8nInDjuWljppOGI40A+NXnBEXSR/OSPCimGRE3Na0xDkjDAUGr0MkT++QwE43QjJcmgToKvk2dJwD0BPmTfgvqqzpsHOXb6yMR0eveXGm1sqwUO4ekRl1vmD1N/Ey3GpTmfeU7uydYMhYeh4LIFnzdvYEG0kbAbqYBQwrbXVdxC8wtlMwt8U6ph6XNyxvMdNYakh0quXmTKI80YY2VTlSGqF4IgBY17MV5rUoUJEiXEFw/pTB1qeDE5V98MSPesf3rumoD0XqGk6hdqGKaFIRVaLZiQfN8WCSIRbsw4uzI2BWgjTBU8ERCsYPVbtrUdB99ur3LME5ch0+br1j2xmCsG/QMvBHDbe6hDCaHJeBHFu0hGyOD63FwB7EhiyAWWsU4rVmjJPWek4YaW1WtoQqmXnDZM9zlToIKcNZhi55exwo8F0+Kkkkp/YYJQc4f1zchY8bbzrzXBa+DTL1/N6oQjpMIQATNYH+UCuovyFd94U1QxFAlv2uoLFwDaWn4Bu8Id2cyh2dTwYabNtfrbG6KDPul9+IN9oUibtGcFDFwUdJjWzLEw='
+   duels2v2:
+    hologram:
+    - '&b&lDuels &7[2v2]'
+    - '&a{players} Jogadores'
+    skin:
+     value: 'ewogICJ0aW1lc3RhbXAiIDogMTYxNjU3NTMwMzk1OCwKICAicHJvZmlsZUlkIiA6ICJhYTZhNDA5NjU4YTk0MDIwYmU3OGQwN2JkMzVlNTg5MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJiejE0IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2QxYmZiOTFlYTdlN2E4MjBiYjNkOWU4ZWVlODljMDM2MzRkZWE0NDg5YmM5ZjljNjdjNmMxOGE2YjY4NmRlMSIKICAgIH0KICB9Cn0='
+     signature: 'A2tDRwdQXbgAZLf0zVa+WcFUL3UHoAsOhokg8Cin0bFrlanZk3hnXar0vG95bAEWg3wlpOU6wuashu1boVdAetbGYluW+lDmAkax3eh8LcdXr6CnnSwFzLhpBneva7TmNHXFMJ+ofeXwCecaNgHcOb1uQcsoZZTIlhMEp7+2i8LWKIGlIXoJgSbd3yfgEcoNOm3W6UTaYtFZfpgm8yhR3XephkEXhFHbxxW6ApLzrdWuRM0aKOj6395bWBoo/TVrm9Kh7mOXUWUj4J1aC1icSnfqtIx6coGvXOGL7tCJ/s18M/p5hXEIxPc/vgl0N56tA+x5EQFeLODPlCmGXSshJ6eMn38bAUpRxJpJ90uPuMBpjE7HGiqF5lUZ+Nf102v+RUIk+kw8BX/Yl/e96MSudwXoG3fUiCHRaMZDLX5UKz0UgD/j+ejRnWVg45fK/+xJAQ9qY6zOBOYgx5UJe/zBamYOzbQQX2Csb3dyFytXJ4Rhm4KVeVUVHBjq+HhP8RObVjDNiBgtytBpz+xTDzKudLcEsxOhCa0h/4OHVR69zvqmxF7oODVL9tDV2fPmx01V9fsd3itd6lbA8IBbyXqrA4dm/lLlX2yQN/MxWBz9ycxL6eEdJnVOFyTy2I71xH/JURLURniWQX139Uk3MwngoCBn620tTzblsBKLM4zZURc='
+   quarteto:
+    hologram:
+    - '&bQuartetos'
+    - '&a{players} Jogadores'
+    skin:
+     value: 'ewogICJ0aW1lc3RhbXAiIDogMTYyNjE4MzQ4NTk3MiwKICAicHJvZmlsZUlkIiA6ICIzZjM4YmViZGYwMWQ0MjNkYWI4MjczZjUwNGFiNGEyNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJjazM0Nzk0MjM1NzUzNzMxIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2JkY2U5M2JmZjQ5MzY2OGI1NjZlMjdlODRmOTk2MDI5MjkwMzRjNzkzMDY1OTZjN2M5Njg5Nzc4ODVmZDEyZjciCiAgICB9CiAgfQp9'
+     signature: 'naPCizjlaHcYO6rX0he6fdpuAdW+t63tDRwjEWJZN0JEewH9Vv5gZkJWxO7uCMITKmMmFCF/wQI4O7ufslNXwk6FQ4eHy9+8lBSiP/EDTQIi/ezph2t+PYOC5Bwb+KaLqeDgiMfNUBOJFu6dRNpOuICj0tECQBBpvTa1HZWgtfPgKEnfzGsE1jwAVmmaoAFyR0lAG8uk2P9LrfctUW7eQOwcCXxApL8+MFVnW7XgizlZZ1yyXvDu5jOsjogK4CKJ+ahUqMuLfU4LL7mSJNXZMZPZ/q1o5DOsenpb+mc+evWxH+amF6gKtVntbJiEk6Ns3mf5GsCpXGrXVuUbqWA448Q6haDT3INsDk8B0mJ/C5pIorAuHJB9hXvOjrZcVWez5Berr2Ru3ICOE5AxAQ250C5afRoNSl82eOtk/KEil4+J8zWJNhbHY5zeXvaWRQqF+Bo/9m3l/bZXLS9lUcK2PCQAdyOPLyU7g+GnjYMzbNG1HelowsjRpI+5J7026nkilpFkaJj0au9FBtfPN3Rh9zy0aevJTI0Fpk0/gzt1VzmSGO0AkOmrmFCm6UUDlSPZ/OpyAE03fBfaAOai4h0ZSLpIpghFVMDKvUWf0+AmdruH7bqEZEqe4p7JW4u2uKnTw8djZGGlQlfokvfFTMJBmzJ9ap0AkCtxeAaoVFZhFCM='
+   duels:
+    hologram:
+    - '&b&lDuels &7[1v1]'
+    - '&a{players} Jogadores'
+    skin:
+     value: 'ewogICJ0aW1lc3RhbXAiIDogMTYxNjU3NTMwMzk1OCwKICAicHJvZmlsZUlkIiA6ICJhYTZhNDA5NjU4YTk0MDIwYmU3OGQwN2JkMzVlNTg5MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJiejE0IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2QxYmZiOTFlYTdlN2E4MjBiYjNkOWU4ZWVlODljMDM2MzRkZWE0NDg5YmM5ZjljNjdjNmMxOGE2YjY4NmRlMSIKICAgIH0KICB9Cn0='
+     signature: 'A2tDRwdQXbgAZLf0zVa+WcFUL3UHoAsOhokg8Cin0bFrlanZk3hnXar0vG95bAEWg3wlpOU6wuashu1boVdAetbGYluW+lDmAkax3eh8LcdXr6CnnSwFzLhpBneva7TmNHXFMJ+ofeXwCecaNgHcOb1uQcsoZZTIlhMEp7+2i8LWKIGlIXoJgSbd3yfgEcoNOm3W6UTaYtFZfpgm8yhR3XephkEXhFHbxxW6ApLzrdWuRM0aKOj6395bWBoo/TVrm9Kh7mOXUWUj4J1aC1icSnfqtIx6coGvXOGL7tCJ/s18M/p5hXEIxPc/vgl0N56tA+x5EQFeLODPlCmGXSshJ6eMn38bAUpRxJpJ90uPuMBpjE7HGiqF5lUZ+Nf102v+RUIk+kw8BX/Yl/e96MSudwXoG3fUiCHRaMZDLX5UKz0UgD/j+ejRnWVg45fK/+xJAQ9qY6zOBOYgx5UJe/zBamYOzbQQX2Csb3dyFytXJ4Rhm4KVeVUVHBjq+HhP8RObVjDNiBgtytBpz+xTDzKudLcEsxOhCa0h/4OHVR69zvqmxF7oODVL9tDV2fPmx01V9fsd3itd6lbA8IBbyXqrA4dm/lLlX2yQN/MxWBz9ycxL6eEdJnVOFyTy2I71xH/JURLURniWQX139Uk3MwngoCBn620tTzblsBKLM4zZURc='
+   connect: '&aConectando...'
+   menu:
+    info:
+     item: 'PAPER : 1 : nome>&aInformações : desc>{desc}'
+     desc-limit: '&fLimite Diário: &7{limit}\n \n&7Jogadores que possuem o grupo &aVIP &7ou\n&7superior, podem escolher o mapa sem\n&7limite algum.\n \n&7www.sanntmc.com/loja'
+     desc-not-limit: '&7Você não possui limite diário de seleções.'
+ achievement: ' \n&aVocê completou o desafio &f{name}\n '
+ broadcast: '{player} &6entrou no lobby!'
+ tab:
+  enabled: true
+  header: ' \n&b&lSANT MC\n  &fwww.santmc.com\n '
+  footer: ' \n   &eDiscord: &bdc.santmc.com  \n &eSite: &bloja.santmc.com \n &eForúm: &bforum.santmc.com \n'
+ leaderboard:
+  minutes: 30
+  empty: '&7Ninguém'
+  wins:
+   hologram:
+   - '{monthly_color}Mensal {total_color}Total'
+   - '&6&lClique para alternar!'
+   - '&a10. {name_10} &7- &a{stats_10}'
+   - '&a9. {name_9} &7- &a{stats_9}'
+   - '&a8. {name_8} &7- &a{stats_8}'
+   - '&a7. {name_7} &7- &a{stats_7}'
+   - '&a6. {name_6} &7- &a{stats_6}'
+   - '&a5. {name_5} &7- &a{stats_5}'
+   - '&a4. {name_4} &7- &a{stats_4}'
+   - '&a3. {name_3} &7- &a{stats_3}'
+   - '&a2. {name_2} &7- &a{stats_2}'
+   - '&a1. {name_1} &7- &a{stats_1}'
+   - ''
+   - '&7Ranking de Vitórias'
+   - '&f&lTodos os Modos'
+  kills:
+   hologram:
+   - '{monthly_color}Mensal {total_color}Total'
+   - '&6&lClique para alternar!'
+   - '&a10. {name_10} &7- &a{stats_10}'
+   - '&a9. {name_9} &7- &a{stats_9}'
+   - '&a8. {name_8} &7- &a{stats_8}'
+   - '&a7. {name_7} &7- &a{stats_7}'
+   - '&a6. {name_6} &7- &a{stats_6}'
+   - '&a5. {name_5} &7- &a{stats_5}'
+   - '&a4. {name_4} &7- &a{stats_4}'
+   - '&a3. {name_3} &7- &a{stats_3}'
+   - '&a2. {name_2} &7- &a{stats_2}'
+   - '&a1. {name_1} &7- &a{stats_1}'
+   - ''
+   - '&7Ranking de Abates Finais'
+   - '&f&lTodos os Modos'
+  levels:
+   hologram:
+   - '&a10. {levelplayer_10}'
+   - '&a9. {levelplayer_9}'
+   - '&a8. {levelplayer_8}'
+   - '&a7. {levelplayer_7}'
+   - '&a6. {levelplayer_6}'
+   - '&a5. {levelplayer_5}'
+   - '&a4. {levelplayer_4}'
+   - '&a3. {levelplayer_3}'
+   - '&a2. {levelplayer_2}'
+   - '&a1. {levelplayer_1}'
+   - ''
+   - '&7Ranking de Níveis'
+   - '&f&lTodos os Modos'
+  beds:
+   hologram:
+   - '{monthly_color}Mensal {total_color}Total'
+   - '&6&lClique para alternar!'
+   - '&a10. {name_10} &7- &a{stats_10}'
+   - '&a9. {name_9} &7- &a{stats_9}'
+   - '&a8. {name_8} &7- &a{stats_8}'
+   - '&a7. {name_7} &7- &a{stats_7}'
+   - '&a6. {name_6} &7- &a{stats_6}'
+   - '&a5. {name_5} &7- &a{stats_5}'
+   - '&a4. {name_4} &7- &a{stats_4}'
+   - '&a3. {name_3} &7- &a{stats_3}'
+   - '&a2. {name_2} &7- &a{stats_2}'
+   - '&a1. {name_1} &7- &a{stats_1}'
+   - ''
+   - '&7Ranking de Camas Destruídas'
+   - '&f&lTodos os Modos'
+chat:
+ format:
+  ingame:
+   team: '{team} {level} {player}{color}: {message}'
+   global: '{team} {level} {player}{color}: {message}'
+  lobby: '{medal}{level} {player}{color}: {message}'
+  spectator: '&8[E] {player}{color}: {message}'
+ delay: '&cAguarde mais {time}s para falar novamente.'
+ color:
+  default: '&7'
+  custom: '&f'
+cosmetics:
+ color:
+  locked: '&a'
+  canbuy: '&e'
+  unlocked: '&a'
+  selected: '&6'
+ icon:
+  perm-desc:
+   common: '&cVocê não possui permissão.'
+   role: '&7Exclusivo para {role} &7ou superior.'
+  buy-desc:
+   enough: '&cVocê não possui saldo suficiente.'
+   click-to-buy: '&eClique para comprar!'
+  has-desc:
+   select: '&eClique para selecionar!'
+   selected: '&eClique para deselecionar!'
+ sprays:
+  icon:
+   perm-desc:
+    start: '\n&6Clique direito para ver!\n \n \n&fRaridade: {rarity}\n \n{perm_desc_status}'
+   buy-desc:
+    start: '\n&6Clique direito para ver!\n \n&fRaridade: {rarity}\n&fCusto: &6{coins} Coins &7ou &b{cash} Cash\n \n{buy_desc_status}'
+   has-desc:
+    start: '\n&6Clique direito para ver!\n \n&fRaridade: {rarity}\n \n{has_desc_status}'
+ kill-effect:
+  icon:
+   perm-desc:
+    start: '\n \n&6Clique direito para ver!\n \n&fRaridade: {rarity}\n \n{perm_desc_status}'
+   buy-desc:
+    start: '\n \n&6Clique direito para ver!\n \n&fRaridade: {rarity}\n&fCusto: &6{coins} Coins &7ou &b{cash} Cash\n \n{buy_desc_status}'
+   has-desc:
+    start: '\n \n&6Clique direito para ver!\n \n&fRaridade: {rarity}\n \n{has_desc_status}'
+ shopkeeperskin:
+  icon:
+   perm-desc:
+    start: '&7Altera a skin da Loja para {name}\n&7durante a partida.\n  \n&fRaridade: {rarity}\n \n{perm_desc_status}'
+   buy-desc:
+    start: '&7Altera a skin da Loja para {name}\n&7durante a partida.\n \n&fRaridade: {rarity}\n&fCusto: &6{coins} Coins &7ou &b{cash} Cash\n \n{buy_desc_status}'
+   has-desc:
+    start: '&7Altera a skin da Loja para {name}\n&7durante a partida.\n \n&fRaridade: {rarity}\n \n{has_desc_status}'
+ break-effect:
+  icon:
+   perm-desc:
+    start: '&7Quando você quebrar uma cama\n&7sairá partículas de {name}.\n \n&fRaridade: {rarity}\n \n{perm_desc_status}'
+   buy-desc:
+    start: '&7Quando você quebrar uma cama\n&7sairá partículas de {name}.\n \n&fRaridade: {rarity}\n&fCusto: &6{coins} Coins &7ou &b{cash} Cash\n \n{buy_desc_status}'
+   has-desc:
+    start: '&7Quando você quebrar uma cama\n&7sairá partículas de {name}.\n \n&fRaridade: {rarity}\n \n{has_desc_status}'
+ deathcry:
+  icon:
+   perm-desc:
+    start: '&7Quando você morrer tocará\n&7o grito de morte {name}.\n \n&6Clique direito para escutar!\n  \n&fRaridade: {rarity}\n \n{perm_desc_status}'
+   buy-desc:
+    start: '&7Quando você morrer tocará\n&7o grito de morte {name}.\n \n&fRaridade: {rarity}\n&fCusto: &6{coins} Coins &7ou &b{cash} Cash\n \n&6Clique direito para escutar!\n \n{buy_desc_status}'
+   has-desc:
+    start: '&7Quando você morrer tocará\n&7o grito de morte {name}.\n \n&6Clique direito para escutar!\n \n&fRaridade: {rarity}\n \n{has_desc_status}'
+ fall-effect:
+  icon:
+   perm-desc:
+    start: '&7Quando você levar dano de queda\n&7sairá partículas de {name}.\n \n&fRaridade: {rarity}\n \n{perm_desc_status}'
+   buy-desc:
+    start: '&7Quando você levar dano de queda\n&7sairá partículas de {name}.\n \n&fRaridade: {rarity}\n&fCusto: &6{coins} Coins &7ou &b{cash} Cash\n \n{buy_desc_status}'
+   has-desc:
+    start: '&7Quando você levar dano de queda\n&7sairá partículas de {name}.\n \n&fRaridade: {rarity}\n \n{has_desc_status}'
+ wood-types:
+  icon:
+   perm-desc:
+    start: '&7Costumizar a madeira do \n&7Vendedor para {name}.\n \n&fRaridade: {rarity}\n \n{perm_desc_status}'
+   buy-desc:
+    start: '&7Costumizar a madeira do \n&7Vendedor para {name}.\n \n&fRaridade: {rarity}\n&fCusto: &6{coins} Coins &7ou &b{cash} Cash\n \n{buy_desc_status}'
+   has-desc:
+    start: '&7Costumizar a madeira do \n&7Vendedor para {name}.\n \n&fRaridade: {rarity}\n \n{has_desc_status}'
+ death-message:
+  icon:
+   perm-desc:
+    start: '\n&6Clique direito para ver!\n \n \n&fRaridade: {rarity}\n \n{perm_desc_status}'
+   buy-desc:
+    start: '\n&6Clique direito para ver!\n \n&fRaridade: {rarity}\n&fCusto: &6{coins} Coins &7ou &b{cash} Cash\n \n{buy_desc_status}'
+   has-desc:
+    start: '\n&6Clique direito para ver!\n \n&fRaridade: {rarity}\n \n{has_desc_status}'
+ cage:
+  icon:
+   perm-desc:
+    start: '&7Altere sua jaula para {name}.\n \n&6Clique direito para ver!\n \n&fRaridade: {rarity}\n \n{perm_desc_status}'
+   buy-desc:
+    start: '&7Altere sua jaula para {name}.\n \n&6Clique direito para ver!\n \n&fRaridade: {rarity}\n&fCusto: &6{coins} Coins\n \n{buy_desc_status}'
+   has-desc:
+    start: '&7Altere sua jaula para {name}.\n \n&6Clique direito para ver!\n \n&fRaridade: {rarity}\n \n{has_desc_status}'
+ balloon:
+  icon:
+   perm-desc:
+    start: '&7Altera o balão decorativo da ilha\n&7para {name}.\n \n&fRaridade: {rarity}\n \n{perm_desc_status}'
+   buy-desc:
+    start: '&7Altera o balão decorativo da ilha\n&7para {name}.\n \n&fRaridade: {rarity}\n&fCusto: &6{coins} Coins &7ou &b{cash} Cash\n \n{buy_desc_status}'
+   has-desc:
+    start: '&7Altera o balão decorativo da ilha\n&7para {name}.\n \n&fRaridade: {rarity}\n \n{has_desc_status}'
+ win-animation:
+  icon:
+   perm-desc:
+    start: '\n \n&fRaridade: {rarity}\n \n{perm_desc_status}'
+   buy-desc:
+    start: '\n \n&fRaridade: {rarity}\n&fCusto: &6{coins} Coins &7ou &b{cash} Cash\n \n{buy_desc_status}'
+   has-desc:
+    start: '\n \n&fRaridade: {rarity}\n \n{has_desc_status}'
+ingame:
+ generators:
+  hologram:
+  - '&eNível &c{tier}'
+  - '{type}'
+  - '&eGera em &c{time} &esegundo{s}'
+ npc:
+  shop:
+   item:
+    hologram:
+    - 'LOJA'
+    - '&7Clique para ver mais.'
+   upgrade:
+    hologram:
+    - 'MELHORIAS'
+    - '&7Clique para ver mais.'
+ broadcast:
+  join: '{player} &eentrou na partida! &a({players}/{max_players})'
+  leave: '{player} &csaiu da partida! &a({players}/{max_players})'
+  starting: '&aO jogo começa em &f{time} &asegundo{s}.'
+  suicide: '{name} &amorreu sozinho.'
+  killed: '{name} &afoi abatido por {killer}'
+  generator-upgrade:
+   diamond: '&eOs geradores de &b&lDiamante &eforam aprimorados para o nivel &b&l{tier}&e!'
+   emerald: '&eOs geradores de &2&lEsmeralda &eforam aprimorados para o nivel &b&l{tier}&e!'
+  team-eliminated: '\n &f&lTIME ELIMINADO > &cO time {team} &cfoi eliminado!\n '
+  bed-destroyself: '\n &f&lCAMA DESTRUIDA > &7A sua cama foi destruída por {name}\n '
+  bed-destroy: '\n &f&lCAMA DESTRUIDA > &7A cama do time {team}&7 foi destruída por {name}\n '
+  double-kill: '&a. &e&lDOUBLE KILL'
+  triple-kill: '&a. &b&lTRIPLE KILL'
+  quadra-kill: '&a. &6&lQUADRA KILL'
+  monster-kill: '&a. &c&lMONSTER KILL'
+  end: ' \n&aO tempo acabou, não houve ganhadores.\n '
+  win:
+   solo: ' \n{name} &avenceu a partida!\n '
+   dupla: ' \n{name} &avenceram a partida!\n '
+ titles:
+  death:
+   header: '&c&lVOCE MORREU'
+   footer: '&7Você agora é um espectador'
+  win:
+   header: '&a&lVITÓRIA'
+   footer: '&7Seu time venceu!'
+  beddestroy-self:
+   header: '&c&lCAMA DESTRUIDA'
+   footer: '&7Você não renascerá mais.'
+  lose:
+   header: '&c&lFIM DE JOGO'
+   footer: '&7Você não foi vitorioso dessa vez'
+ messages:
+  bow:
+   hit: '{name} &aestá com &c{hp} &ade HP.'
+  coins:
+   base: ' \n  &a{coins} coins ganhos nesta partida:\n {coins_win}{coins_beds}{coins_kills}\n '
+   win: '\n       &a+{coins} &fpor vencer o jogo'
+   beds: '\n       &a+{coins} &fpor destruir &c{beds} &fcama{s}'
+   kills: '\n       &a+{coins} &fpor realizar &c{kills} &fabate{s}'

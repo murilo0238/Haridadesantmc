@@ -1,0 +1,51 @@
+corações:
+  id: 1
+  coins: 5000.0
+  gold: 25
+  rarity: RARO
+  permission: ''
+  name: Corações
+  icon: '38 : 1'
+  particle: HEART
+  item: false
+  bloc: DIRT
+chamas:
+  id: 2
+  coins: 10000.0
+  gold: 35
+  rarity: EPICO
+  permission: ''
+  name: Chamas
+  icon: 'BLAZE_POWDER : 1'
+  particle: FLAME
+fumaça:
+  id: 3
+  coins: 15000.0
+  gold: 75
+  rarity: DIVINO
+  permission: ''
+  name: Fumaça
+  icon: '259 : 1'
+  particle: SMOKE_NORMAL
+terra:
+  id: 4
+  coins: 10000.0
+  gold: 35
+  rarity: DIVINO
+  permission: ''
+  name: Terra
+  icon: 'DIRT : 1'
+  particle: SMOKE_NORMAL
+  item: true
+  block: DIRT
+ouro:
+  id: 5
+  coins: 10000.0
+  gold: 35
+  rarity: DIVINO
+  permission: ''
+  name: Barras de ouro
+  icon: '266 : 1'
+  particle: SMOKE_NORMAL
+  item: true
+  block: '266'

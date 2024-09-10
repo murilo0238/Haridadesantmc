@@ -1,0 +1,48 @@
+battlepass:
+  icon:
+    no_premium: 'STAINED_GLASS_PANE ; 14'
+  messages:
+    reward_colleted: '&aRecompensa coletada!'
+    rewarded: '&cVocê já coletou essa recompensa!'
+    has_premium: '&cVocê já possui o premium.'
+    received_premium: '&aAgora você possui o premium!'
+    not_premium: '&cEssa recompensa só está disponível no premium!'
+    not_level: '&cVocê precisa do level {level} para obter essa recompensa!'
+
+
+#Tipos de Recompensas:
+#CASH:QUANTIDADE
+#COINS:QUANTIDADE
+#WIN_ANIMATION:ID
+#KIT:ID
+#PRIVATE_BOOSTER:MULTIPLIER:QUANTIDADE
+missoes_level:
+  1:
+    name: 'cash_50'
+    icon: 'EMERALD : 1 : nome>&b50 de cash'
+    reward: 'CASH:50'
+    requer_level: '1'
+    requer_premium: false
+  2:
+    name: 'winanimation_dragon'
+    icon: 'DRAGON_EGG : 1 : nome>&bComemoração Dragão'
+    reward: 'WIN_ANIMATION:1'
+    requer_level: '2'
+    requer_premium: false
+
+levels:
+  1:
+    level: 1
+    exp: 0
+  2:
+    level: 2
+    exp: 1000
+  3:
+    level: 3
+    exp: 2000
+  4:
+    level: 4
+    exp: 3000
+  5:
+    level: 5
+    exp: 4000

@@ -1,0 +1,130 @@
+monsterparty:
+  # ID único, não utilize IDs repetidos.
+  id: 1
+  name: 'Festa Monstro'
+  rarity: EPICO
+  permission: ''
+  icon: 'SKULL_ITEM:3 : 1 : desc>&7Todos os monstros em um só lugar! : skin>eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGVkZDQxMTc3ZmViZmRkN2UxNDRiYjc4OTYzNjIyMmM2ODMzMDkwMGEyMGQwZGEyYTg1ZDQyMzA0MzE3NzZiMCJ9fX0=9'
+  coins: 10000.0
+  cash: 25
+  url: 'https://i.imgur.com/ujO8GS8.png'
+ggwp:
+  # ID único, não utilize IDs repetidos.
+  id: 2
+  name: 'GGWP'
+  rarity: EPICO
+  permission: ''
+  icon: '415 : 1 : desc>&7GGWP!'
+  coins: 10000.0
+  cash: 25
+  url: 'https://i.imgur.com/BQF52BC.png'
+fogos:
+  # ID único, não utilize IDs repetidos.
+  id: 3
+  name: 'Fogos!'
+  rarity: EPICO
+  permission: ''
+  icon: '401 : 1 : desc>&7Comemore sua vitória com fogos!'
+  coins: 10000.0
+  cash: 25
+  url: 'https://i.imgur.com/W0If9wj.png'
+boo:
+  # ID único, não utilize IDs repetidos.
+  id: 4
+  name: 'Boo!'
+  rarity: EPICO
+  permission: ''
+  icon: 'SKULL_ITEM:3 : 1 : desc>&7Boo! : skin>eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmMyYjcxMTdkZGRlZTU3ZTMyNzU2MThmYjc0YTk0ZmYyMzg4ZGZjOTk5MjQzNjEwMTlkZmY5ODM0ZTI3NzEifX19'
+  coins: 10000.0
+  cash: 25
+  url: 'https://i.imgur.com/yBAEVRk.png'
+byebye:
+  # ID único, não utilize IDs repetidos.
+  id: 5
+  name: 'Tchau Tchau!'
+  rarity: EPICO
+  permission: ''
+  icon: 'SKULL_ITEM:3 : 1 : desc>&7Tchau Tchau! : skin>eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjBjMjYzZmZjZTZmZjBkMTk2MjA4MjY2YjcwYWY0NzdkYjVlNDkyYWYxMmIxMmYyMmQ3YmEzYzdmYmVlZjY2NSJ9fX0='
+  coins: 10000.0
+  cash: 25
+  url: 'https://i.imgur.com/icDcldg.png'
+snipernatalino:
+  # ID único, não utilize IDs repetidos.
+  id: 6
+  name: 'Sniper Natalino!'
+  rarity: EPICO
+  permission: ''
+  icon: 'SKULL_ITEM:3 : 1 : desc>&7Sniper Natalino! : skin>eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMThmMzRhNWE2YjZhOTRlNzI4MjNkNmVkNGJmYTBiMmIzMmU4M2Y4N2VjZjg2MmNkN2ZkZTE4NzA5ZmJhZjc3NCJ9fX0='
+  coins: 10000.0
+  cash: 25
+  url: 'https://i.imgur.com/z2MJDpa.png'
+ownnn:
+  # ID único, não utilize IDs repetidos.
+  id: 7
+  name: 'Coelhinho'
+  rarity: EPICO
+  permission: ''
+  icon: 'SKULL_ITEM:3 : 1 : desc>&7Coelhinho! : skin>eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDZiZDM1Njg4MzU4ZTMxZDVkY2M2YzhmYzYzZTc4MjE4Y2M0ZjliYTQ1YWUyMDRkZjJiMWJmMWNiYWQ0N2E5YSJ9fX0='
+  coins: 10000.0
+  cash: 25
+  url: 'https://i.imgur.com/ukwPhXk.png'
+hunterbed:
+  # ID único, não utilize IDs repetidos.
+  id: 8
+  name: 'Caçador de Camas'
+  rarity: EPICO
+  permission: ''
+  icon: 'BED : 1 : desc>&7Caçador de Camas!'
+  coins: 10000.0
+  cash: 25
+  url: 'https://i.imgur.com/hWmN4TP.png'
+jason:
+  # ID único, não utilize IDs repetidos.
+  id: 9
+  name: 'Assassino!'
+  rarity: EPICO
+  permission: ''
+  icon: 'SKULL_ITEM:3 : 1 : desc>&7Assassino! : skin>eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWZlZmExOWY5ZDZlNzU3YmYwZGYxNWI0ZGIyNzgzZGFiMzg0MzNiMWVlOWEyZjFjZWYzZWFhMzhjYTY4NmIifX19'
+  coins: 10000.0
+  cash: 25
+  url: 'https://i.imgur.com/6I87zwY.png'
+irongolem:
+  # ID único, não utilize IDs repetidos
+  id: 10
+  name: 'Passeio com Golem!'
+  rarity: EPICO
+  permission: ''
+  icon: 'SKULL_ITEM:3 : 1 : desc>&7Passeio com Golem! : skin>eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTEzZjM0MjI3MjgzNzk2YmMwMTcyNDRjYjQ2NTU3ZDY0YmQ1NjJmYTlkYWIwZTEyYWY1ZDIzYWQ2OTljZjY5NyJ9fX0='
+  coins: 10000.0
+  cash: 25
+  url: 'https://i.imgur.com/ydC90kU.png'
+snowballspammer:
+  # ID único, não utilize IDs repetidos.
+  id: 11
+  name: 'Espamador de Bola de Neve!'
+  rarity: EPICO
+  permission: ''
+  icon: 'SNOW_BALL : 1 : desc>&7Isso é pra um cara que gosta\n&7de espammar bola de neve!'
+  coins: 10000.0
+  cash: 25
+  url: 'https://i.imgur.com/YYavOyK.png'
+euadoroneve:
+  # ID único, não utilize IDs repetidos.
+  id: 12
+  name: 'Anjinho de neve'
+  rarity: EPICO
+  permission: ''
+  icon: 'SKULL_ITEM:3 : 1 : desc>&7Anjinho de Neve : skin>eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmM2MTQxN2Y5ZGQ0YTQzZjQ1MjQ2MDg0MGUzZDI3MWI3Nzk3MGEyMGIxNWIyYzNkMWU3YTU3OGMyZmU0ZDFhZiJ9fX0='
+  coins: 10000.0
+  cash: 25
+  url: 'https://i.imgur.com/4qbIqWg.png'
+ladraodeovokkk:
+  # ID único, não utilize IDs repetidos.
+  id: 13
+  name: 'Corre olha as galinha!'
+  rarity: EPICO
+  permission: ''
+  icon: 'EGG : 1 : desc>&7Corre das galinha!!'
+  coins: 10000.0
+  cash: 25
+  url: 'https://i.imgur.com/uqgHxcN.png'

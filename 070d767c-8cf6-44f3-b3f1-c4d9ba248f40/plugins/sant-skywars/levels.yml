@@ -1,0 +1,607 @@
+levels:
+  0:
+    tag: '&7{name}{symbol}'
+    name: '✫'
+    symbol: '✫'
+    level: 0
+    exp: 0
+  1:
+    tag: '&7{name}{symbol}'
+    name: '✫'
+    symbol: '✫'
+    level: 1
+    exp: 120
+  2:
+    tag: '&7{name}{symbol}'
+    name: '✫'
+    symbol: '✫'
+    level: 2
+    exp: 150
+  3:
+    tag: '&7{name}{symbol}'
+    name: '✫'
+    symbol: '✫'
+    level: 3
+    exp: 1000
+  4:
+    tag: '&7{name}{symbol}'
+    name: '✫'
+    symbol: '✫'
+    level: 4
+    exp: 1000
+  5:
+    tag: '&7{name}{symbol}'
+    name: '✫'
+    symbol: '✫'
+    level: 5
+    exp: 1000
+  6:
+    tag: '&7{name}{symbol}'
+    name: '✫'
+    symbol: '✫'
+    level: 6
+    exp: 1000
+  7:
+    tag: '&7{name}{symbol}'
+    name: '✫'
+    symbol: '✫'
+    level: 7
+    exp: 1000
+  8:
+    tag: '&7{name}{symbol}'
+    name: '✫'
+    symbol: '✫'
+    level: 8
+    exp: 1000
+  9:
+    tag: '&7{name}{symbol}'
+    name: '✫'
+    symbol: '✫'
+    level: 9
+    exp: 2000
+  10:
+    tag: '&a{name}{symbol}'
+    name: '✶'
+    symbol: '✶'
+    level: 10
+    exp: 2000
+  11:
+    tag: '&a{name}{symbol}'
+    name: '✶'
+    symbol: '✶'
+    level: 11
+    exp: 2000
+  12:
+    tag: '&a{name}{symbol}'
+    name: '✶'
+    symbol: '✶'
+    level: 12
+    exp: 2000
+  13:
+    tag: '&a{name}{symbol}'
+    name: '✶'
+    symbol: '✶'
+    level: 13
+    exp: 2000
+  14:
+    tag: '&a{name}{symbol}'
+    name: '✶'
+    symbol: '✶'
+    level: 14
+    exp: 2000
+  15:
+    tag: '&a{name}{symbol}'
+    name: '✶'
+    symbol: '✶'
+    level: 15
+    exp: 2000
+  16:
+    tag: '&a{name}{symbol}'
+    name: '✶'
+    symbol: '✶'
+    level: 16
+    exp: 2000
+  17:
+    tag: '&a{name}{symbol}'
+    name: '✶'
+    symbol: '✶'
+    level: 17
+    exp: 2000
+  18:
+    tag: '&a{name}{symbol}'
+    name: '✶'
+    symbol: '✶'
+    level: 18
+    exp: 2000
+  19:
+    tag: '&a{name}{symbol}'
+    name: '✶'
+    symbol: '✶'
+    level: 19
+    exp: 2000
+  20:
+    tag: '&b{name}{symbol}'
+    name: '❃'
+    symbol: '❃'
+    level: 20
+    exp: 2000
+  21:
+    tag: '&b{name}{symbol}'
+    name: '❃'
+    symbol: '❃'
+    level: 20
+    exp: 2000
+  22:
+    tag: '&b{name}{symbol}'
+    name: '❃'
+    symbol: '❃'
+    level: 22
+    exp: 2000
+  23:
+    tag: '&b{name}{symbol}'
+    name: '❃'
+    symbol: '❃'
+    level: 23
+    exp: 2000
+  24:
+    tag: '&b{name}{symbol}'
+    name: '❃'
+    symbol: '❃'
+    level: 24
+    exp: 2000
+  25:
+    tag: '&b{name}{symbol}'
+    name: '❃'
+    symbol: '❃'
+    level: 25
+    exp: 2000
+  26:
+    tag: '&b{name}{symbol}'
+    name: '❃'
+    symbol: '❃'
+    level: 26
+    exp: 2000
+  27:
+    tag: '&b{name}{symbol}'
+    name: '❃'
+    symbol: '❃'
+    level: 27
+    exp: 2000
+  28:
+    tag: '&b{name}{symbol}'
+    name: '❃'
+    symbol: '❃'
+    level: 28
+    exp: 2000
+  29:
+    tag: '&b{name}{symbol}'
+    name: '❃'
+    symbol: '❃'
+    level: 29
+    exp: 2000
+  30:
+    tag: '&d{name}{symbol}'
+    name: '✸'
+    symbol: '✸'
+    level: 30
+    exp: 2000
+  31:
+    tag: '&d{name}{symbol}'
+    name: '✸'
+    symbol: '✸'
+    level: 31
+    exp: 2000
+  32:
+    tag: '&d{name}{symbol}'
+    name: '✸'
+    symbol: '✸'
+    level: 32
+    exp: 2000
+  33:
+    tag: '&d{name}{symbol}'
+    name: '✸'
+    symbol: '✸'
+    level: 33
+    exp: 2000
+  34:
+    tag: '&d{name}{symbol}'
+    name: '✸'
+    symbol: '✸'
+    level: 34
+    exp: 2000
+  35:
+    tag: '&d{name}{symbol}'
+    name: '✸'
+    symbol: '✸'
+    level: 35
+    exp: 2000
+  36:
+    tag: '&d{name}{symbol}'
+    name: '✸'
+    symbol: '✸'
+    level: 36
+    exp: 2000
+  37:
+    tag: '&d{name}{symbol}'
+    name: '✸'
+    symbol: '✸'
+    level: 37
+    exp: 2000
+  38:
+    tag: '&d{name}{symbol}'
+    name: '✸'
+    symbol: '✸'
+    level: 38
+    exp: 2000
+  39:
+    tag: '&d{name}{symbol}'
+    name: '✸'
+    symbol: '✸'
+    level: 39
+    exp: 2000
+  40:
+    tag: '&e{name}{symbol}'
+    name: '❄'
+    symbol: '❄'
+    level: 40
+    exp: 2000
+  41:
+    tag: '&e{name}{symbol}'
+    name: '❄'
+    symbol: '❄'
+    level: 41
+    exp: 2000
+  42:
+    tag: '&e{name}{symbol}'
+    name: '❄'
+    symbol: '❄'
+    level: 42
+    exp: 2000
+  43:
+    tag: '&e{name}{symbol}'
+    name: '❄'
+    symbol: '❄'
+    level: 43
+    exp: 2000
+  44:
+    tag: '&e{name}{symbol}'
+    name: '❄'
+    symbol: '❄'
+    level: 44
+    exp: 2000
+  45:
+    tag: '&e{name}{symbol}'
+    name: '❄'
+    symbol: '❄'
+    level: 45
+    exp: 2000
+  46:
+    tag: '&e{name}{symbol}'
+    name: '❄'
+    symbol: '❄'
+    level: 46
+    exp: 2000
+  47:
+    tag: '&e{name}{symbol}'
+    name: '❄'
+    symbol: '❄'
+    level: 47
+    exp: 2000
+  48:
+    tag: '&e{name}{symbol}'
+    name: '❄'
+    symbol: '❄'
+    level: 48
+    exp: 2000
+  49:
+    tag: '&e{name}{symbol}'
+    name: '❄'
+    symbol: '❄'
+    level: 49
+    exp: 2000
+  50:
+    tag: '&e{name}{symbol}'
+    name: '✺'
+    symbol: '✺'
+    level: 50
+    exp: 2000
+  51:
+    tag: '&6{name}{symbol}'
+    name: '✺'
+    symbol: '✺'
+    level: 51
+    exp: 2000
+  52:
+    tag: '&6{name}{symbol}'
+    name: '✺'
+    symbol: '✺'
+    level: 52
+    exp: 2000
+  53:
+    tag: '&6{name}{symbol}'
+    name: '✺'
+    symbol: '✺'
+    level: 53
+    exp: 2000
+  54:
+    tag: '&6{name}{symbol}'
+    name: '✺'
+    symbol: '✺'
+    level: 54
+    exp: 2000
+  55:
+    tag: '&6{name}{symbol}'
+    name: '✺'
+    symbol: '✺'
+    level: 55
+    exp: 2000
+  56:
+    tag: '&6{name}{symbol}'
+    name: '✺'
+    symbol: '✺'
+    level: 56
+    exp: 2000
+  57:
+    tag: '&6{name}{symbol}'
+    name: '✺'
+    symbol: '✺'
+    level: 57
+    exp: 2000
+  58:
+    tag: '&6{name}{symbol}'
+    name: '✺'
+    symbol: '✺'
+    level: 58
+    exp: 2000
+  59:
+    tag: '&6{name}{symbol}'
+    name: '✺'
+    symbol: '✺'
+    level: 59
+    exp: 2000
+  60:
+    tag: '&5{name}{symbol}'
+    name: '✩'
+    symbol: '✩'
+    level: 60
+    exp: 2000
+  61:
+    tag: '&5{name}{symbol}'
+    name: '✩'
+    symbol: '✩'
+    level: 61
+    exp: 2000
+  62:
+    tag: '&5{name}{symbol}'
+    name: '✩'
+    symbol: '✩'
+    level: 62
+    exp: 2000
+  63:
+    tag: '&5{name}{symbol}'
+    name: '✩'
+    symbol: '✩'
+    level: 63
+    exp: 2000
+  64:
+    tag: '&5{name}{symbol}'
+    name: '✩'
+    symbol: '✩'
+    level: 64
+    exp: 2000
+  65:
+    tag: '&5{name}{symbol}'
+    name: '✩'
+    symbol: '✩'
+    level: 65
+    exp: 2000
+  66:
+    tag: '&5{name}{symbol}'
+    name: '✩'
+    symbol: '✩'
+    level: 66
+    exp: 2000
+  67:
+    tag: '&5{name}{symbol}'
+    name: '✩'
+    symbol: '✩'
+    level: 67
+    exp: 2000
+  68:
+    tag: '&5{name}{symbol}'
+    name: '✩'
+    symbol: '✩'
+    level: 68
+    exp: 2000
+  69:
+    tag: '&5{name}{symbol}'
+    name: '✩'
+    symbol: '✩'
+    level: 69
+    exp: 2000
+  70:
+    tag: '&9{name}{symbol}'
+    name: '❣'
+    symbol: '❣'
+    level: 70
+    exp: 2000
+  71:
+    tag: '&9{name}{symbol}'
+    name: '❣'
+    symbol: '❣'
+    level: 71
+    exp: 2000
+  72:
+    tag: '&9{name}{symbol}'
+    name: '❣'
+    symbol: '❣'
+    level: 71
+    exp: 2000
+  73:
+    tag: '&9{name}{symbol}'
+    name: '❣'
+    symbol: '❣'
+    level: 73
+    exp: 2000
+  74:
+    tag: '&9{name}{symbol}'
+    name: '❣'
+    symbol: '❣'
+    level: 74
+    exp: 2000
+  75:
+    tag: '&9{name}{symbol}'
+    name: '❣'
+    symbol: '❣'
+    level: 75
+    exp: 2000
+  76:
+    tag: '&9{name}{symbol}'
+    name: '❣'
+    symbol: '❣'
+    level: 76
+    exp: 2000
+  77:
+    tag: '&9{name}{symbol}'
+    name: '❣'
+    symbol: '❣'
+    level: 77
+    exp: 2000
+  78:
+    tag: '&9{name}{symbol}'
+    name: '❣'
+    symbol: '❣'
+    level: 78
+    exp: 2000
+  79:
+    tag: '&9{name}{symbol}'
+    name: '❣'
+    symbol: '❣'
+    level: 79
+    exp: 2000
+  80:
+    tag: '&b{name}{symbol}'
+    name: '✚'
+    symbol: '✚'
+    level: 80
+    exp: 2000
+  81:
+    tag: '&b{name}{symbol}'
+    name: '✚'
+    symbol: '✚'
+    level: 81
+    exp: 2000
+  82:
+    tag: '&b{name}{symbol}'
+    name: '✚'
+    symbol: '✚'
+    level: 82
+    exp: 2000
+  83:
+    tag: '&b{name}{symbol}'
+    name: '✚'
+    symbol: '✚'
+    level: 83
+    exp: 2000
+  84:
+    tag: '&b{name}{symbol}'
+    name: '✚'
+    symbol: '✚'
+    level: 84
+    exp: 2000
+  85:
+    tag: '&b{name}{symbol}'
+    name: '✚'
+    symbol: '✚'
+    level: 85
+    exp: 2000
+  86:
+    tag: '&b{name}{symbol}'
+    name: '✚'
+    symbol: '✚'
+    level: 86
+    exp: 2000
+  87:
+    tag: '&b{name}{symbol}'
+    name: '✚'
+    symbol: '✚'
+    level: 87
+    exp: 2000
+  88:
+    tag: '&b{name}{symbol}'
+    name: '✚'
+    symbol: '✚'
+    level: 88
+    exp: 2000
+  89:
+    tag: '&b{name}{symbol}'
+    name: '✚'
+    symbol: '✚'
+    level: 89
+    exp: 2000
+  90:
+    tag: '&c{symbol}&4{name}'
+    name: '☣'
+    symbol: '☣'
+    level: 90
+    exp: 2000
+  91:
+    tag: '&c{symbol}&4{name}'
+    name: '☣'
+    symbol: '☣'
+    level: 91
+    exp: 2000
+  92:
+    tag: '&c{symbol}&4{name}'
+    name: '☣'
+    symbol: '☣'
+    level: 92
+    exp: 2000
+  93:
+    tag: '&c{symbol}&4{name}'
+    name: '☣'
+    symbol: '☣'
+    level: 93
+    exp: 2000
+  94:
+    tag: '&c{symbol}&4{name}'
+    name: '☣'
+    symbol: '☣'
+    level: 94
+    exp: 2000
+  95:
+    tag: '&c{symbol}&4{name}'
+    name: '☣'
+    symbol: '☣'
+    level: 95
+    exp: 2000
+  96:
+    tag: '&c{symbol}&4{name}'
+    name: '☣'
+    symbol: '☣'
+    level: 96
+    exp: 2000
+  97:
+    tag: '&c{symbol}&4{name}'
+    name: '☣'
+    symbol: '☣'
+    level: 97
+    exp: 2000
+  98:
+    tag: '&c{symbol}&4{name}'
+    name: '☣'
+    symbol: '☣'
+    level: 98
+    exp: 2000
+  99:
+    tag: '&c{symbol}&4{name}'
+    name: '☣'
+    symbol: '☣'
+    level: 99
+    exp: 2000
+  100:
+    tag: '&4{name}{symbol}'
+    name: '❦'
+    symbol: '❦'
+    level: 100
+    exp: 2000

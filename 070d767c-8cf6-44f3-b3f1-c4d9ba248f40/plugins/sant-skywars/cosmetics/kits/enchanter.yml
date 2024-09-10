@@ -1,0 +1,44 @@
+# ID único, não utilize IDs repetidos.
+id: 2
+name: 'Encantador'
+rarity: RARO
+permission: ''
+# Lista de slots que irão ser os padrões dos itens.
+slots: [1, 2, 3]
+icon: 'BOOKSHELF : 1 : desc>&7Realize rituais mágicos para melhorar\n&7os atributos de seus itens tornando-os\n&7armas letais para abater seus inimigos.\n \n&eItens:\n{items}'
+levels:
+  # Esse número representa o nível do kit
+  1:
+    name: 'Encantador I'
+    coins: 5000.0
+    cash: 50
+    items:
+      - 'ENCHANTMENT_TABLE : 1'
+      - 'EXP_BOTTLE : 3'
+    description: '&71 Mesa de Encantamento\n&73 Frascos de Experiência'
+  2:
+    name: 'Encantador II'
+    coins: 10000.0
+    cash: 50
+    items:
+      - 'ENCHANTMENT_TABLE : 1'
+      - 'EXP_BOTTLE : 6'
+    description: '&71 Mesa de Encantamento\n&76 Frascos de Experiência'
+  3:
+    name: 'Encantador III'
+    coins: 10000.0
+    cash: 50
+    items:
+      - 'ENCHANTMENT_TABLE : 1'
+      - 'EXP_BOTTLE : 12'
+      - 'ANVIL : 1'
+    description: '&71 Mesa de Encantamento\n&712 Frascos de Experiência\n&71 Bigorna'
+  4:
+    name: 'Encantador IV'
+    coins: 10000.0
+    cash: 50
+    items:
+      - 'ENCHANTMENT_TABLE : 1'
+      - 'EXP_BOTTLE : 24'
+      - 'ANVIL : 1'
+    description: '&71 Mesa de Encantamento\n&724 Frascos de Experiência\n&71 Bigorna'
