@@ -1,0 +1,40 @@
+{
+    "ownerId": "none",
+    "channels": {
+        "channelLogsPrivId": "1283849809928786005",
+        "channelLogsPublicId": "1208508528717733959",
+        "categoryCartsId": "1283849728810811392"
+    },
+    "roles": {
+        "roleCustomerId": "1283849875351666800"
+    },
+    "images": {
+        "bannerUrl": "none",
+        "thumbUrl": "none"
+    },
+    "embeds": {
+        "color": "none"
+    },
+    "payments": {
+        "mpAcessToken": "none",
+        "paymentsOptions": {
+            "pix": false,
+            "balance": false,
+            "site": false,
+            "semiAuto": true
+        }
+    },
+    "balance": {
+        "bonusDeposit": 0,
+        "minimumDeposit": 0
+    },
+    "semiAuto": {
+        "pix": {
+            "key": "94df63ea-8c54-46a4-9385-a4f3d97aa2b3",
+            "keyType": "Aleatória"
+        },
+        "qrCode": "https://i.ibb.co/zZXXH0v/26b94f6e-baa1-4212-a2ba-f36db36e7618.jpg"
+    },
+    "termsPurchase": "dsadsasad\nDsadsa\nDsa",
+    "newSales": true
+}

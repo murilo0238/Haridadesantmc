@@ -1,0 +1,8 @@
+token: "MTI4MTc4MDkxMzk5NDIwMzI4OQ.GgLy0o.F7JibdNpITcJ4IOO68jhlR1RgzdtyncBgKGr7s"
+prefix: "ss!"
+status:
+  playing: "Jogadores da SantMC!"
+  streaming: "https://twitch.tv/seu_canal"
+  listening: "música no servidor"
+  watching: "jogadores online"
+embedColor: "00FF00"  # Cor dos embeds

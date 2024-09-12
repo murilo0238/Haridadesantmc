@@ -11,9 +11,6 @@
 # Forums: http://www.spigotmc.org/
 
 config-version: 8
-stats:
-  disable-saving: false
-  forced-stats: {}
 settings:
   save-user-cache-on-stop-only: true
   bungeecord: true
@@ -55,31 +52,29 @@ messages:
   outdated-client: Outdated client! Please use {0}
   outdated-server: Outdated server! I'm still on {0}
   restart: Server is restarting
+stats:
+  disable-saving: false
+  forced-stats: {}
 world-settings:
   default:
     verbose: true
     mob-spawn-range: 4
-    anti-xray:
-      enabled: true
-      engine-mode: 1
-      hide-blocks:
-      - 14
-      - 15
-      - 16
-      - 21
-      - 48
-      - 49
-      - 54
-      - 56
-      - 73
-      - 74
-      - 82
-      - 129
-      - 130
-      replace-blocks:
-      - 1
-      - 5
-    nerf-spawner-mobs: true
+    random-light-updates: false
+    save-structure-info: false
+    max-bulk-chunks: 5
+    max-entity-collisions: 2
+    dragon-death-sound-radius: 0
+    seed-village: 10387312
+    seed-feature: 14357617
+    hunger:
+      walk-exhaustion: 0.2
+      sprint-exhaustion: 0.8
+      combat-exhaustion: 0.3
+      regen-exhaustion: 3.0
+    max-tnt-per-tick: 10
+    max-tick-time:
+      tile: 50
+      entity: 50
     growth:
       cactus-modifier: 100
       cane-modifier: 100
@@ -103,30 +98,35 @@ world-settings:
       hopper-transfer: 24
       hopper-check: 24
     hopper-amount: 1
-    random-light-updates: false
-    save-structure-info: false
-    max-bulk-chunks: 5
-    max-entity-collisions: 2
-    dragon-death-sound-radius: 0
-    seed-village: 10387312
-    seed-feature: 14357617
-    hunger:
-      walk-exhaustion: 0.2
-      sprint-exhaustion: 0.8
-      combat-exhaustion: 0.3
-      regen-exhaustion: 3.0
-    max-tnt-per-tick: 10
-    max-tick-time:
-      tile: 50
-      entity: 50
+    anti-xray:
+      enabled: true
+      engine-mode: 1
+      hide-blocks:
+      - 14
+      - 15
+      - 16
+      - 21
+      - 48
+      - 49
+      - 54
+      - 56
+      - 73
+      - 74
+      - 82
+      - 129
+      - 130
+      replace-blocks:
+      - 1
+      - 5
+    nerf-spawner-mobs: true
     item-despawn-rate: 3000
     merge-radius:
       item: 3.5
       exp: 6.0
     arrow-despawn-rate: 600
+    enable-zombie-pigmen-portal-spawns: false
     wither-spawn-sound-radius: 0
     view-distance: 6
-    enable-zombie-pigmen-portal-spawns: false
     hanging-tick-frequency: 100
     zombie-aggressive-towards-villager: false
     chunks-per-tick: 300

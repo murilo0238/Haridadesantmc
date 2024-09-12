@@ -1,287 +1,302 @@
-[00:04:12] [Server thread/INFO]: Starting minecraft server version 1.8.8
-[00:04:12] [Server thread/INFO]: Loading properties
-[00:04:12] [Server thread/INFO]: Default game type: SURVIVAL
-[00:04:12] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-db6de12-18fbb24 (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
-[00:04:12] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[00:04:12] [Server thread/INFO]: Using 4 threads for Netty based IO
-[00:04:12] [Server thread/INFO]: Debug logging is disabled
-[00:04:12] [Server thread/INFO]: Generating keypair
-[00:04:12] [Server thread/INFO]: Starting Minecraft server on 0.0.0.0:25567
-[00:04:12] [Server thread/INFO]: Using epoll channel type
-[00:04:12] [Server thread/INFO]: Set PluginClassLoader as parallel capable
-[00:04:12] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.4.141
-[00:04:13] [Server thread/INFO]: [Skript] Loading Skript v2.2-dev36
-[00:04:13] [Server thread/INFO]: [PlaceholderAPI] Loading PlaceholderAPI v2.10.5
-[00:04:13] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v4.5.1
-[00:04:13] [Server thread/INFO]: [0;32;1m[santmc-commons] Loading santmc-commons v1.0[m
-[00:04:13] [Server thread/INFO]: [0;32;1m[sant-lobby] Loading sant-lobby v1.0[m
-[00:04:13] [Server thread/INFO]: [BungeeGuard] Loading BungeeGuard v1.4.5
-[00:04:13] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.141
-[00:04:13] [Server thread/INFO]: [0;36;1m       [0;36;22m __    [m
-[00:04:13] [Server thread/INFO]: [0;36;1m  |    [0;36;22m|__)   [0;32;22mLuckPerms[m [0;36;1mv5.4.141[m
-[00:04:13] [Server thread/INFO]: [0;36;1m  |___ [0;36;22m|      [0;30;1mRunning on Bukkit - CraftBukkit[m
-[00:04:13] [Server thread/INFO]: [m
-[00:04:13] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[00:04:14] [Server thread/INFO]: [LuckPerms] Loading storage provider... [MYSQL]
-[00:04:14] [Server thread/WARN]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
-[00:04:14] [Server thread/WARN]: SLF4J: Defaulting to no-operation (NOP) logger implementation
-[00:04:14] [Server thread/WARN]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
-[00:04:14] [Server thread/INFO]: [LuckPerms] Loading messaging service... [SQL]
-[00:04:15] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[00:04:15] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[00:04:15] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 2390ms)
-[00:04:15] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v4.5.1
-[00:04:15] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
-[00:04:15] [Server thread/INFO]: [BungeeGuard] Enabling BungeeGuard v1.4.5
-[00:04:15] [Server thread/INFO]: [BungeeGuard] Using ProtocolLib to listen for connections.
-[00:04:15] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:04:15] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:04:15] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
-[00:04:15] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
-[00:04:15] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:04:15] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
-[00:04:15] [Server thread/INFO]: Preparing level "world"
-[00:04:15] [Server thread/INFO]: -------- World Settings For [world] --------
-[00:04:15] [Server thread/INFO]: Mob Spawn Range: 4
-[00:04:15] [Server thread/INFO]: Anti X-Ray: true
-[00:04:15] [Server thread/INFO]: 	Engine Mode: 1
-[00:04:15] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
-[00:04:15] [Server thread/INFO]: 	Replace Blocks: [1, 5]
-[00:04:15] [Server thread/INFO]: Nerfing mobs spawned from spawners: true
-[00:04:15] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[00:04:15] [Server thread/INFO]: Cane Growth Modifier: 100%
-[00:04:15] [Server thread/INFO]: Melon Growth Modifier: 100%
-[00:04:15] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[00:04:15] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[00:04:15] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[00:04:15] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[00:04:15] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[00:04:15] [Server thread/INFO]: Entity Activation Range: An 0 / Mo 0 / Mi 8
-[00:04:15] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 0 / Mo 0 / Mi 16 / Other 64
-[00:04:15] [Server thread/INFO]: Hopper Transfer: 24 Hopper Check: 24 Hopper Amount: 1
-[00:04:15] [Server thread/INFO]: Random Lighting Updates: false
-[00:04:15] [Server thread/INFO]: Structure Info Saving: false
-[00:04:15] [Server thread/INFO]: *** WARNING *** You have selected to NOT save structure info. This may cause structures such as fortresses to not spawn mobs!
-[00:04:15] [Server thread/INFO]: *** WARNING *** Please use this option with caution, SpigotMC is not responsible for any issues this option may cause in the future!
-[00:04:15] [Server thread/INFO]: Sending up to 5 chunks per packet
-[00:04:15] [Server thread/INFO]: Max Entity Collisions: 2
-[00:04:15] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[00:04:15] [Server thread/INFO]: Max TNT Explosions: 10
-[00:04:15] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[00:04:15] [Server thread/INFO]: Item Despawn Rate: 3000
-[00:04:15] [Server thread/INFO]: Item Merge Radius: 3.5
-[00:04:15] [Server thread/INFO]: Arrow Despawn Rate: 600
-[00:04:15] [Server thread/INFO]: View Distance: 6
-[00:04:15] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: false
-[00:04:15] [Server thread/INFO]: Zombie Aggressive Towards Villager: false
-[00:04:15] [Server thread/INFO]: Chunks to Grow per Tick: 300
-[00:04:15] [Server thread/INFO]: Clear tick list: false
-[00:04:15] [Server thread/INFO]: Experience Merge Radius: 6.0
-[00:04:16] [Server thread/INFO]: Preparing start region for level 0 (Seed: -32340700986740138)
-[00:04:17] [Server thread/INFO]: Preparing spawn area: 39%
-[00:04:17] [Server thread/INFO]: [Skript] Enabling Skript v2.2-dev36
-[00:04:17] [Server thread/WARN]: [Skript] Using this version of Skript on 1.8 is highly discouraged.
-[00:04:17] [Server thread/WARN]: [Skript] Some features have been disabled; use older Skript to restore them.
-[00:04:17] [Server thread/WARN]: [Skript] Also, there are probably bugs. And since 1.8 is not supported, they will not be fixed
-[00:04:17] [Server thread/INFO]: [Skript] Starting updater thread
-[00:04:17] [Server thread/ERROR]: [Skript] Could not find the english aliases file aliases-english.sk
-[00:04:17] [Server thread/ERROR]: [Skript] Could not load the english aliases config: plugins/Skript/aliases-english.sk (No such file or directory)
-[00:04:17] [Server thread/INFO]: [Skript]  ~ created by & © Peter Güttinger aka Njol ~
-[00:04:17] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.10.5
-[00:04:17] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
-[00:04:17] [Server thread/INFO]: [0;32;1m[santmc-commons] Enabling santmc-commons v1.0[m
-[00:04:19] [Server thread/INFO]: [0;32;1m[santmc-commons] Conectado ao MySQL![m
-[00:04:19] [Server thread/INFO]: [0;32;1m[santmc-commons] O plugin foi ativado.[m
-[00:04:19] [Server thread/INFO]: [0;32;1m[sant-lobby] Enabling sant-lobby v1.0[m
-[00:04:19] [Server thread/WARN]: Could not register alias icanhasbukkit because it contains commands that do not exist: version $1-
-[00:04:19] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[00:04:19] [Server thread/INFO]: Done (3.576s)! For help, type "help" or "?"
-[00:04:19] [Server thread/INFO]: [Skript] Loading variables...
-[00:04:19] [Server thread/INFO]: [Skript] Loaded 0 variables in 0.0 seconds
-[00:04:19] [Server thread/ERROR]: [Skript] A command with the name /plugins is already defined in Bloqueio_maximo_2.5.5Alpha.sk
-[00:04:19] [Server thread/ERROR]: [Skript] A command with the name /me is already defined in Bloqueio_maximo_2.5.5Alpha.sk
-[00:04:19] [Server thread/INFO]: [Skript] Loaded 1 script with a total of 0 triggers and 23 commands in 0.04 seconds
-[00:04:19] [Server thread/INFO]: [Skript] Finished loading.
-[00:04:19] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
-[00:04:19] [Craft Scheduler Thread - 1/INFO]: [PlaceholderAPI] 151 placeholder expansions are available on the cloud.
-[00:04:19] [Craft Scheduler Thread - 2/INFO]: [0;37;22m[[0;33;22mSkript[0;37;22m][m You're currently running custom Skript version. No updates will be automatically installed.[m
-[00:04:56] [luckperms-worker-7/INFO]: [0;37;22m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m][m [0;36;22mLOG[m [0;36;22m[21m>[m [0;30;1m([0;33;1mConsole[0;30;1m)[m [0;30;1m[[0;32;1mU[0;30;1m][m [0;30;1m([0;36;1mharidadegang[0;30;1m)[m
-[00:04:56] [luckperms-worker-7/INFO]: [0;37;22m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m][m [0;36;22mLOG[m [0;36;22m[21m>[m [0;37;1mclear[m
-[00:05:00] [luckperms-worker-7/INFO]: [0;37;22m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m][m [0;36;22mLOG[m [0;36;22m[21m>[m [0;30;1m([0;33;1mConsole[0;30;1m)[m [0;30;1m[[0;32;1mU[0;30;1m][m [0;30;1m([0;36;1mharidadegang[0;30;1m)[m
-[00:05:00] [luckperms-worker-7/INFO]: [0;37;22m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m][m [0;36;22mLOG[m [0;36;22m[21m>[m [0;37;1mparent set partner[m
-[00:05:08] [Thread-14/INFO]: UUID of player HaridadeGANG is 943d65a7-69fb-3e36-a36d-92534e337b4a
-[00:05:08] [Server thread/INFO]: HaridadeGANG[/177.223.19.30:39703] logged in with entity id 23 at ([world]-30.5, 100.0, 0.5)
-[00:05:13] [Server thread/INFO]: HaridadeGANG issued server command: /tag
-[00:05:16] [Server thread/INFO]: HaridadeGANG issued server command: /deop HaridadeGANG
-[00:05:16] [Server thread/INFO]: [HaridadeGANG: De-opped HaridadeGANG]
-[00:05:17] [Server thread/INFO]: HaridadeGANG issued server command: /tag
-[00:05:20] [Server thread/INFO]: HaridadeGANG issued server command: /tag Partner
-[00:06:57] [Thread-15/INFO]: UUID of player 0xsyntaxx is 4f35c9ea-d602-4aff-888d-52fb09c34a7f
-[00:06:57] [Server thread/INFO]: 0xsyntaxx[/131.255.144.144:50881] logged in with entity id 26 at ([world]-30.5, 100.0, 0.5)
-[00:07:04] [Server thread/INFO]: 0xsyntaxx lost connection: Disconnected
-[00:07:09] [Thread-16/INFO]: UUID of player yuunahh is 6bccbd13-231c-4e36-90f3-b4d72819b7b1
-[00:07:09] [Server thread/INFO]: yuunahh[/189.34.145.23:57803] logged in with entity id 27 at ([world]-30.5, 100.0, 0.5)
-[00:07:52] [Server thread/INFO]: yuunahh lost connection: Disconnected
-[00:07:54] [luckperms-worker-7/INFO]: [0;37;22m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m][m [0;36;22mLOG[m [0;36;22m[21m>[m [0;30;1m([0;33;1mConsole[0;30;1m)[m [0;30;1m[[0;32;1mU[0;30;1m][m [0;30;1m([0;36;1mharidadegang[0;30;1m)[m
-[00:07:54] [luckperms-worker-7/INFO]: [0;37;22m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m][m [0;36;22mLOG[m [0;36;22m[21m>[m [0;37;1mparent set diretor[m
-[00:07:54] [luckperms-worker-7/INFO]: [LuckPerms] [Messaging] Received user update ping for 'haridadegang' with id: d11eb853-5614-4373-81ae-154b6286af9c
-[00:07:57] [Server thread/INFO]: HaridadeGANG issued server command: /op HaridadeGANG
-[00:07:57] [Server thread/INFO]: [HaridadeGANG: Opped HaridadeGANG]
-[00:07:59] [Server thread/INFO]: HaridadeGANG lost connection: Disconnected
-[00:22:13] [Thread-18/INFO]: UUID of player streypc is 9306c6b9-2020-374f-a476-b78643549f02
-[00:22:13] [Server thread/INFO]: streypc[/170.254.73.206:56729] logged in with entity id 29 at ([world]-30.5, 100.0, 0.5)
-[00:22:23] [Server thread/INFO]: streypc issued server command: /tay
-[00:22:27] [Server thread/INFO]: streypc issued server command: /tag
-[00:22:36] [Server thread/INFO]: streypc issued server command: /permissão
-[00:22:43] [Server thread/INFO]: streypc issued server command: /fly
-[00:24:03] [Server thread/INFO]: streypc lost connection: Disconnected
-[01:32:22] [Server thread/INFO]: [0;33;1m[ProtocolLib] The updater found an update: 5.2.0 (Running 4.5.1). Download at https://www.spigotmc.org/resources/protocollib.1997/[m
-[03:16:16] [Thread-26/INFO]: UUID of player Estimada_ is 887de53e-e7e1-43d0-b925-26131aae2ad7
-[03:16:16] [Server thread/INFO]: Estimada_[/186.224.143.241:38977] logged in with entity id 30 at ([world]-30.5, 100.0, 0.5)
-[03:16:37] [Server thread/INFO]: Estimada_ lost connection: Disconnected
-[12:04:20] [Craft Scheduler Thread - 188/INFO]: [0;37;22m[[0;33;22mSkript[0;37;22m][m You're currently running custom Skript version. No updates will be automatically installed.[m
-[12:09:51] [pool-10-thread-10/INFO]: [0;32;1m[santmc-commons] Reconectado ao MySQL![m
-[12:09:51] [Thread-45/INFO]: UUID of player streypc is 9306c6b9-2020-374f-a476-b78643549f02
-[12:09:51] [Server thread/INFO]: streypc[/190.111.150.250:48697] logged in with entity id 31 at ([world]-30.5, 100.0, 0.5)
-[12:10:05] [Server thread/INFO]: streypc issued server command: /fly
-[12:10:09] [Server thread/INFO]: streypc issued server command: /fly
-[12:11:44] [Server thread/INFO]: streypc issued server command: /tag
-[12:12:00] [Server thread/INFO]: streypc issued server command: /skin resgatado
-[12:15:10] [Server thread/INFO]: streypc lost connection: Disconnected
-[13:15:24] [Thread-48/INFO]: UUID of player flix_pojav is b38efd00-b581-39f4-9dbd-fe1b1bd8045f
-[13:15:24] [Server thread/INFO]: flix_pojav[/177.203.166.39:58899] logged in with entity id 32 at ([world]-30.5, 100.0, 0.5)
-[13:15:37] [Server thread/INFO]: flix_pojav lost connection: Disconnected
-[13:15:45] [Thread-49/INFO]: UUID of player flix_pojav is b38efd00-b581-39f4-9dbd-fe1b1bd8045f
-[13:15:45] [Server thread/INFO]: flix_pojav[/177.203.166.39:52779] logged in with entity id 33 at ([world]-30.5, 100.0, 0.5)
-[13:17:25] [Server thread/INFO]: flix_pojav lost connection: Disconnected
-[13:19:30] [Thread-50/INFO]: UUID of player _Zrax is a5047cec-410e-350d-8c2f-f6138f975671
-[13:19:30] [Server thread/INFO]: _Zrax[/45.167.81.65:56421] logged in with entity id 34 at ([world]-30.5, 100.0, 0.5)
-[13:19:42] [Server thread/INFO]: _Zrax lost connection: Disconnected
-[13:23:58] [Thread-51/INFO]: UUID of player flix_pojav is b38efd00-b581-39f4-9dbd-fe1b1bd8045f
-[13:23:58] [Server thread/INFO]: flix_pojav[/177.203.166.39:46157] logged in with entity id 35 at ([world]-30.5, 100.0, 0.5)
-[13:24:06] [Server thread/INFO]: flix_pojav lost connection: Disconnected
-[13:31:21] [Thread-52/INFO]: UUID of player Leo_1v1 is 8186b329-5a86-388a-95fa-b8914b28b774
-[13:31:21] [Server thread/INFO]: Leo_1v1[/38.43.101.224:44601] logged in with entity id 36 at ([world]-30.5, 100.0, 0.5)
-[13:31:24] [Server thread/INFO]: Leo_1v1 lost connection: Disconnected
-[13:32:23] [Server thread/INFO]: [0;33;1m[ProtocolLib] The updater found an update: 5.2.0 (Running 4.5.1). Download at https://www.spigotmc.org/resources/protocollib.1997/[m
-[13:39:15] [Thread-54/INFO]: UUID of player Kiinquis is 2efeee7a-0ff4-3960-a25c-fa3ee61e9212
-[13:39:15] [Server thread/INFO]: Kiinquis[/189.121.203.178:50659] logged in with entity id 37 at ([world]-30.5, 100.0, 0.5)
-[13:39:21] [Server thread/INFO]: Kiinquis lost connection: Disconnected
-[13:43:48] [Thread-56/INFO]: UUID of player swqzzl is b1b6d5c6-6931-477e-bf10-b3aa1a136208
-[13:43:48] [Server thread/INFO]: swqzzl[/186.230.122.250:42633] logged in with entity id 38 at ([world]-30.5, 100.0, 0.5)
-[13:43:54] [Server thread/INFO]: swqzzl lost connection: Disconnected
-[13:57:11] [Thread-57/INFO]: UUID of player AmorSocial is ecf83631-fcc1-4dac-a01b-0b4cf2efc9cc
-[13:57:11] [Server thread/INFO]: AmorSocial[/189.70.235.86:48855] logged in with entity id 39 at ([world]-30.5, 100.0, 0.5)
-[13:57:17] [Server thread/INFO]: AmorSocial lost connection: Disconnected
-[13:59:00] [Thread-58/INFO]: UUID of player Leo_1v1 is 8186b329-5a86-388a-95fa-b8914b28b774
-[13:59:00] [Server thread/INFO]: Leo_1v1[/38.43.101.224:39497] logged in with entity id 40 at ([world]-30.5, 100.0, 0.5)
-[13:59:04] [Server thread/INFO]: Leo_1v1 lost connection: Disconnected
-[14:06:30] [Thread-59/INFO]: UUID of player Leo_1v1 is 8186b329-5a86-388a-95fa-b8914b28b774
-[14:06:30] [Server thread/INFO]: Leo_1v1[/38.43.101.224:49465] logged in with entity id 41 at ([world]-30.5, 100.0, 0.5)
-[14:06:33] [Server thread/INFO]: Leo_1v1 lost connection: Disconnected
-[14:08:54] [Thread-60/INFO]: UUID of player augustoYT is f333426e-0a81-3625-86c3-d8ec263df338
-[14:08:54] [Server thread/INFO]: augustoYT[/45.186.88.108:44265] logged in with entity id 42 at ([world]-30.5, 100.0, 0.5)
-[14:08:57] [Server thread/INFO]: augustoYT lost connection: Disconnected
-[14:13:24] [Thread-62/INFO]: UUID of player Leo_1v1 is 8186b329-5a86-388a-95fa-b8914b28b774
-[14:13:24] [Server thread/INFO]: Leo_1v1[/38.43.101.224:52049] logged in with entity id 43 at ([world]-30.5, 100.0, 0.5)
-[14:13:26] [Server thread/INFO]: Leo_1v1 lost connection: Disconnected
-[14:22:37] [Thread-63/INFO]: UUID of player MuriloDR is 2765220a-da1f-395e-8ee6-1fcc0ac11b3b
-[14:22:37] [Server thread/INFO]: MuriloDR[/138.36.251.155:34193] logged in with entity id 44 at ([world]-30.5, 100.0, 0.5)
-[14:22:42] [Server thread/INFO]: MuriloDR lost connection: Disconnected
-[14:23:30] [Thread-64/INFO]: UUID of player MuriloDR is 2765220a-da1f-395e-8ee6-1fcc0ac11b3b
-[14:23:30] [Server thread/INFO]: MuriloDR[/138.36.251.155:35263] logged in with entity id 45 at ([world]-30.5, 100.0, 0.5)
-[14:24:09] [Server thread/INFO]: MuriloDR issued server command: /TAG
-[14:24:14] [Server thread/INFO]: MuriloDR issued server command: /lp
-[14:24:24] [Server thread/INFO]: MuriloDR lost connection: Disconnected
-[15:09:14] [Thread-66/INFO]: UUID of player streypc is 9306c6b9-2020-374f-a476-b78643549f02
-[15:09:14] [Server thread/INFO]: streypc[/190.111.150.250:39595] logged in with entity id 46 at ([world]-30.5, 100.0, 0.5)
-[15:09:25] [Server thread/INFO]: streypc issued server command: /fly
-[15:09:30] [Server thread/INFO]: streypc issued server command: /fly
-[15:10:04] [Server thread/INFO]: streypc lost connection: Disconnected
-[15:25:45] [Thread-68/INFO]: UUID of player unknoy is 0475a377-41de-3861-b989-0deedd2ce47a
-[15:25:45] [Server thread/INFO]: unknoy[/186.204.61.163:48485] logged in with entity id 47 at ([world]-30.5, 100.0, 0.5)
-[15:30:24] [Server thread/INFO]: unknoy lost connection: Disconnected
-[16:11:10] [Thread-71/INFO]: UUID of player MuriloDR is 2765220a-da1f-395e-8ee6-1fcc0ac11b3b
-[16:11:10] [Server thread/INFO]: MuriloDR[/138.36.251.155:50155] logged in with entity id 48 at ([world]-30.5, 100.0, 0.5)
-[16:11:16] [Server thread/INFO]: MuriloDR lost connection: Disconnected
-[16:12:07] [Thread-72/INFO]: UUID of player MuriloDR is 2765220a-da1f-395e-8ee6-1fcc0ac11b3b
-[16:12:07] [Server thread/INFO]: MuriloDR[/138.36.251.155:41637] logged in with entity id 49 at ([world]-30.5, 100.0, 0.5)
-[16:12:10] [Server thread/INFO]: MuriloDR lost connection: Disconnected
-[16:12:18] [Thread-73/INFO]: UUID of player TurTur321 is 4f186a3f-8cdc-439a-abae-0ce4dc02ad54
-[16:12:18] [Server thread/INFO]: TurTur321[/179.247.230.82:47471] logged in with entity id 50 at ([world]-30.5, 100.0, 0.5)
-[16:12:40] [Server thread/INFO]: TurTur321 lost connection: Disconnected
-[16:46:25] [Thread-75/INFO]: UUID of player Lckq is 1d334030-1dbd-4e88-b76c-ad50c27d064a
-[16:46:25] [Server thread/INFO]: Lckq[/177.81.84.202:60897] logged in with entity id 51 at ([world]-30.5, 100.0, 0.5)
-[16:46:37] [Server thread/INFO]: Lckq issued server command: /skin atualizar
-[16:46:39] [Server thread/INFO]: Lckq lost connection: Disconnected
-[17:17:29] [Thread-77/INFO]: UUID of player Volantgamer_13 is 6d476f68-6869-3950-8b85-88b33f365435
-[17:17:29] [Server thread/INFO]: Volantgamer_13[/179.117.15.97:48547] logged in with entity id 52 at ([world]-30.5, 100.0, 0.5)
-[17:17:34] [Server thread/INFO]: Volantgamer_13 lost connection: Disconnected
-[18:43:37] [Thread-81/INFO]: UUID of player KITKET_Z is c9eb7f3d-30a5-3f10-bcca-8eaff0031f8b
-[18:43:37] [Server thread/INFO]: KITKET_Z[/191.223.6.97:36111] logged in with entity id 53 at ([world]-30.5, 100.0, 0.5)
-[18:43:44] [Server thread/INFO]: KITKET_Z issued server command: /skin rooides
-[18:43:48] [Server thread/INFO]: KITKET_Z lost connection: Disconnected
-[18:43:51] [Thread-82/INFO]: UUID of player KITKET_Z is c9eb7f3d-30a5-3f10-bcca-8eaff0031f8b
-[18:43:51] [Server thread/INFO]: KITKET_Z[/191.223.6.97:33365] logged in with entity id 54 at ([world]-30.5, 100.0, 0.5)
-[18:44:01] [Server thread/INFO]: KITKET_Z lost connection: Disconnected
-[20:54:28] [Thread-87/INFO]: UUID of player endsopie is e84cc5d4-7552-3269-a2e8-e3c1c972e7ad
-[20:54:28] [Server thread/INFO]: endsopie[/179.0.118.12:56981] logged in with entity id 55 at ([world]-30.5, 100.0, 0.5)
-[20:55:17] [Server thread/INFO]: endsopie issued server command: /skin atualizar
-[20:55:53] [Server thread/INFO]: endsopie lost connection: Disconnected
-[21:10:41] [Thread-89/INFO]: UUID of player HaridadeGANG is 943d65a7-69fb-3e36-a36d-92534e337b4a
-[21:10:41] [Server thread/INFO]: HaridadeGANG[/138.219.242.27:57413] logged in with entity id 56 at ([world]-30.5, 100.0, 0.5)
-[21:10:53] [Server thread/INFO]: HaridadeGANG issued server command: /lp user MuriloDR infio
-[21:10:54] [Server thread/INFO]: HaridadeGANG issued server command: /lp user MuriloDR infio
-[21:10:55] [Server thread/INFO]: HaridadeGANG issued server command: /lp user MuriloDR info
-[21:20:09] [Thread-90/INFO]: UUID of player Breno801 is d869a43b-2d5c-46c5-bc0b-289068f8d5c0
-[21:20:09] [Server thread/INFO]: Breno801[/179.0.90.104:33975] logged in with entity id 58 at ([world]-30.5, 100.0, 0.5)
-[21:23:03] [Server thread/INFO]: Breno801 issued server command: /tag
-[21:23:19] [Server thread/INFO]: Breno801 issued server command: /tag
-[21:23:25] [Server thread/INFO]: Breno801 lost connection: Disconnected
-[21:23:26] [Server thread/INFO]: HaridadeGANG issued server command: /lp user Breno801 parent set Partner
-[21:23:26] [luckperms-worker-9/INFO]: [LuckPerms] [Messaging] Sending log with id: d5510c3b-aa93-454e-9b83-8d0fff96f247
-[21:23:26] [luckperms-command-executor/INFO]: [0;37;22m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m][m [0;36;22mLOG[m [0;36;22m[21m>[m [0;30;1m([0;33;1mHaridadeGANG[0;30;1m)[m [0;30;1m[[0;32;1mU[0;30;1m][m [0;30;1m([0;36;1mbreno801[0;30;1m)[m
-[21:23:26] [luckperms-command-executor/INFO]: [0;37;22m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m][m [0;36;22mLOG[m [0;36;22m[21m>[m [0;37;1mparent set partner[m
-[21:23:26] [luckperms-worker-7/INFO]: [LuckPerms] [Messaging] Sending user ping for 'breno801' with id: 01946cb8-b33a-4c71-9d79-145af9f60882
-[21:24:02] [Thread-91/INFO]: UUID of player Breno801 is d869a43b-2d5c-46c5-bc0b-289068f8d5c0
-[21:24:02] [Server thread/INFO]: Breno801[/179.0.90.104:49607] logged in with entity id 59 at ([world]-30.5, 100.0, 0.5)
-[21:24:04] [Server thread/INFO]: Breno801 issued server command: /tag
-[21:24:08] [Server thread/INFO]: Breno801 issued server command: /tag Partner
-[21:24:11] [Server thread/INFO]: HaridadeGANG issued server command: /tag
-[21:24:12] [Server thread/INFO]: HaridadeGANG issued server command: /tag Direção
-[21:24:13] [Server thread/INFO]: Breno801 issued server command: /gm1
-[21:24:15] [Server thread/INFO]: Breno801 issued server command: /gm 1
-[21:24:34] [Server thread/INFO]: Breno801 lost connection: Disconnected
-[21:24:37] [Thread-92/INFO]: UUID of player Breno801 is d869a43b-2d5c-46c5-bc0b-289068f8d5c0
-[21:24:37] [Server thread/INFO]: Breno801[/179.0.90.104:42067] logged in with entity id 60 at ([world]-30.5, 100.0, 0.5)
-[21:24:44] [Server thread/INFO]: Breno801 issued server command: /skin breno801
-[21:25:02] [Server thread/INFO]: Breno801 lost connection: Disconnected
-[21:25:04] [Thread-93/INFO]: UUID of player Breno801 is d869a43b-2d5c-46c5-bc0b-289068f8d5c0
-[21:25:04] [Server thread/INFO]: Breno801[/179.0.90.104:49717] logged in with entity id 61 at ([world]-30.5, 100.0, 0.5)
-[21:25:12] [Server thread/INFO]: Breno801 issued server command: /fly
-[21:25:45] [Server thread/INFO]: Breno801 lost connection: Disconnected
-[21:27:07] [Thread-94/INFO]: UUID of player Breno801 is d869a43b-2d5c-46c5-bc0b-289068f8d5c0
-[21:27:07] [Server thread/INFO]: Breno801[/179.0.90.104:36407] logged in with entity id 62 at ([world]-30.5, 100.0, 0.5)
-[21:27:25] [Server thread/INFO]: Breno801 issued server command: /gamemode
-[21:27:26] [Server thread/INFO]: Breno801 issued server command: /gamemode 1
-[21:27:29] [Server thread/INFO]: Breno801 issued server command: /gamemode 0
-[21:28:01] [Server thread/WARN]: HaridadeGANG moved wrongly!
-[21:29:36] [Server thread/INFO]: Breno801 issued server command: /fly
-[21:29:38] [Server thread/INFO]: Breno801 issued server command: /fly
-[21:29:51] [Thread-95/INFO]: UUID of player MAO01BW is 9412e0e4-c948-33a8-b32f-32e7aafd6900
-[21:29:51] [Server thread/INFO]: MAO01BW[/177.20.216.165:44917] logged in with entity id 63 at ([world]-30.5, 100.0, 0.5)
-[21:29:56] [Server thread/INFO]: MAO01BW lost connection: Disconnected
-[21:30:00] [Thread-96/INFO]: UUID of player MAO01BW is 9412e0e4-c948-33a8-b32f-32e7aafd6900
-[21:30:00] [Server thread/INFO]: MAO01BW[/177.20.216.165:60329] logged in with entity id 64 at ([world]-30.5, 100.0, 0.5)
-[21:30:54] [Server thread/INFO]: Breno801 issued server command: /medal
-[21:31:07] [Server thread/INFO]: Breno801 lost connection: Disconnected
-[21:33:46] [Server thread/WARN]: MAO01BW was kicked for floating too long!
-[21:33:46] [Server thread/INFO]: MAO01BW lost connection: Flying is not enabled on this server
-[21:33:46] [Server thread/WARN]: handleDisconnection() called twice
-[21:33:48] [Thread-97/INFO]: UUID of player MAO01BW is 9412e0e4-c948-33a8-b32f-32e7aafd6900
-[21:33:48] [Server thread/INFO]: MAO01BW[/177.20.216.165:44653] logged in with entity id 65 at ([world]-30.5, 100.0, 0.5)
-[21:34:58] [Server thread/WARN]: MAO01BW moved wrongly!
-[21:35:56] [Server thread/WARN]: MAO01BW was kicked for floating too long!
-[21:35:56] [Server thread/INFO]: MAO01BW lost connection: Flying is not enabled on this server
-[21:35:56] [Server thread/WARN]: handleDisconnection() called twice
-[21:43:25] [Server thread/INFO]: HaridadeGANG lost connection: Disconnected
+[15:10:46] [Server thread/INFO]: Starting minecraft server version 1.8.8
+[15:10:46] [Server thread/INFO]: Loading properties
+[15:10:46] [Server thread/INFO]: Default game type: SURVIVAL
+[15:10:46] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-db6de12-18fbb24 (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
+[15:10:46] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[15:10:46] [Server thread/INFO]: Using 4 threads for Netty based IO
+[15:10:46] [Server thread/INFO]: Debug logging is disabled
+[15:10:46] [Server thread/INFO]: Generating keypair
+[15:10:46] [Server thread/INFO]: Starting Minecraft server on 0.0.0.0:25567
+[15:10:46] [Server thread/INFO]: Using epoll channel type
+[15:10:46] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[15:10:47] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.4.141
+[15:10:47] [Server thread/INFO]: [Skript] Loading Skript v2.2-dev36
+[15:10:47] [Server thread/INFO]: [PlaceholderAPI] Loading PlaceholderAPI v2.10.5
+[15:10:47] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v4.5.1
+[15:10:47] [Server thread/INFO]: [0;32;1m[santmc-commons] Loading santmc-commons v1.0[m
+[15:10:47] [Server thread/INFO]: [0;32;1m[sant-lobby] Loading sant-lobby v1.0[m
+[15:10:47] [Server thread/INFO]: [BungeeGuard] Loading BungeeGuard v1.4.5
+[15:10:47] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.141
+[15:10:47] [Server thread/INFO]: [0;36;1m       [0;36;22m __    [m
+[15:10:47] [Server thread/INFO]: [0;36;1m  |    [0;36;22m|__)   [0;32;22mLuckPerms[m [0;36;1mv5.4.141[m
+[15:10:47] [Server thread/INFO]: [0;36;1m  |___ [0;36;22m|      [0;30;1mRunning on Bukkit - CraftBukkit[m
+[15:10:47] [Server thread/INFO]: [m
+[15:10:47] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[15:10:48] [Server thread/INFO]: [LuckPerms] Loading storage provider... [MYSQL]
+[15:10:48] [Server thread/WARN]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+[15:10:48] [Server thread/WARN]: SLF4J: Defaulting to no-operation (NOP) logger implementation
+[15:10:48] [Server thread/WARN]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[15:10:49] [Server thread/INFO]: [LuckPerms] Loading messaging service... [SQL]
+[15:10:49] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[15:10:49] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[15:10:50] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 2785ms)
+[15:10:50] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v4.5.1
+[15:10:50] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[15:10:50] [Server thread/INFO]: [BungeeGuard] Enabling BungeeGuard v1.4.5
+[15:10:50] [Server thread/INFO]: [BungeeGuard] Using ProtocolLib to listen for connections.
+[15:10:50] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:10:50] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:10:50] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
+[15:10:50] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
+[15:10:50] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:10:50] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[15:10:50] [Server thread/INFO]: Preparing level "world"
+[15:10:50] [Server thread/INFO]: -------- World Settings For [world] --------
+[15:10:50] [Server thread/INFO]: Mob Spawn Range: 4
+[15:10:50] [Server thread/INFO]: Random Lighting Updates: false
+[15:10:50] [Server thread/INFO]: Structure Info Saving: false
+[15:10:50] [Server thread/INFO]: *** WARNING *** You have selected to NOT save structure info. This may cause structures such as fortresses to not spawn mobs!
+[15:10:50] [Server thread/INFO]: *** WARNING *** Please use this option with caution, SpigotMC is not responsible for any issues this option may cause in the future!
+[15:10:50] [Server thread/INFO]: Sending up to 5 chunks per packet
+[15:10:50] [Server thread/INFO]: Max Entity Collisions: 2
+[15:10:50] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[15:10:50] [Server thread/INFO]: Max TNT Explosions: 10
+[15:10:50] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:10:50] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:10:50] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:10:50] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:10:50] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:10:50] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:10:50] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:10:50] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:10:50] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:10:50] [Server thread/INFO]: Entity Activation Range: An 0 / Mo 0 / Mi 8
+[15:10:50] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 0 / Mo 0 / Mi 16 / Other 64
+[15:10:50] [Server thread/INFO]: Hopper Transfer: 24 Hopper Check: 24 Hopper Amount: 1
+[15:10:50] [Server thread/INFO]: Anti X-Ray: true
+[15:10:50] [Server thread/INFO]: 	Engine Mode: 1
+[15:10:50] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[15:10:50] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[15:10:50] [Server thread/INFO]: Nerfing mobs spawned from spawners: true
+[15:10:50] [Server thread/INFO]: Item Despawn Rate: 3000
+[15:10:50] [Server thread/INFO]: Item Merge Radius: 3.5
+[15:10:50] [Server thread/INFO]: Arrow Despawn Rate: 600
+[15:10:50] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: false
+[15:10:50] [Server thread/INFO]: View Distance: 6
+[15:10:50] [Server thread/INFO]: Zombie Aggressive Towards Villager: false
+[15:10:50] [Server thread/INFO]: Chunks to Grow per Tick: 300
+[15:10:50] [Server thread/INFO]: Clear tick list: false
+[15:10:50] [Server thread/INFO]: Experience Merge Radius: 6.0
+[15:10:50] [Server thread/INFO]: Preparing start region for level 0 (Seed: -32340700986740138)
+[15:10:51] [Server thread/INFO]: Preparing spawn area: 45%
+[15:10:51] [Server thread/INFO]: [Skript] Enabling Skript v2.2-dev36
+[15:10:52] [Server thread/WARN]: [Skript] Using this version of Skript on 1.8 is highly discouraged.
+[15:10:52] [Server thread/WARN]: [Skript] Some features have been disabled; use older Skript to restore them.
+[15:10:52] [Server thread/WARN]: [Skript] Also, there are probably bugs. And since 1.8 is not supported, they will not be fixed
+[15:10:52] [Server thread/INFO]: [Skript] Starting updater thread
+[15:10:52] [Server thread/ERROR]: [Skript] Could not find the english aliases file aliases-english.sk
+[15:10:52] [Server thread/ERROR]: [Skript] Could not load the english aliases config: plugins/Skript/aliases-english.sk (No such file or directory)
+[15:10:52] [Server thread/INFO]: [Skript]  ~ created by & © Peter Güttinger aka Njol ~
+[15:10:52] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.10.5
+[15:10:52] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[15:10:52] [Server thread/INFO]: [0;32;1m[santmc-commons] Enabling santmc-commons v1.0[m
+[15:10:53] [Server thread/INFO]: [0;32;1m[santmc-commons] Conectado ao MySQL![m
+[15:10:53] [Server thread/INFO]: [0;32;1m[santmc-commons] O plugin foi ativado.[m
+[15:10:53] [Server thread/INFO]: [0;32;1m[sant-lobby] Enabling sant-lobby v1.0[m
+[15:10:53] [Server thread/WARN]: Could not register alias icanhasbukkit because it contains commands that do not exist: version $1-
+[15:10:53] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:10:53] [Server thread/INFO]: Done (3.373s)! For help, type "help" or "?"
+[15:10:53] [Server thread/INFO]: [Skript] Loading variables...
+[15:10:53] [Server thread/INFO]: [Skript] Loaded 0 variables in 0.0 seconds
+[15:10:53] [Server thread/ERROR]: [Skript] A command with the name /plugins is already defined in Bloqueio_maximo_2.5.5Alpha.sk
+[15:10:53] [Server thread/ERROR]: [Skript] A command with the name /me is already defined in Bloqueio_maximo_2.5.5Alpha.sk
+[15:10:53] [Server thread/INFO]: [Skript] Loaded 1 script with a total of 0 triggers and 23 commands in 0.03 seconds
+[15:10:53] [Server thread/INFO]: [Skript] Finished loading.
+[15:10:53] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[15:10:54] [Craft Scheduler Thread - 2/INFO]: [0;37;22m[[0;33;22mSkript[0;37;22m][m You're currently running custom Skript version. No updates will be automatically installed.[m
+[15:10:54] [Craft Scheduler Thread - 1/INFO]: [PlaceholderAPI] 151 placeholder expansions are available on the cloud.
+[15:11:03] [Thread-14/INFO]: UUID of player HaridadeGANG is 943d65a7-69fb-3e36-a36d-92534e337b4a
+[15:11:03] [Server thread/INFO]: HaridadeGANG[/138.219.240.158:58859] logged in with entity id 23 at ([world]-30.5, 100.0, 0.5)
+[15:11:06] [Server thread/INFO]: HaridadeGANG lost connection: Disconnected
+[15:13:02] [Thread-15/INFO]: UUID of player HaridadeGANG is 943d65a7-69fb-3e36-a36d-92534e337b4a
+[15:13:02] [Server thread/INFO]: HaridadeGANG[/138.219.240.158:35109] logged in with entity id 26 at ([world]-30.5, 100.0, 0.5)
+[15:13:16] [Server thread/INFO]: HaridadeGANG lost connection: Disconnected
+[15:15:54] [Thread-17/INFO]: UUID of player HaridadeGANG is 943d65a7-69fb-3e36-a36d-92534e337b4a
+[15:15:54] [Server thread/INFO]: HaridadeGANG[/138.219.240.158:60055] logged in with entity id 28 at ([world]-30.5, 100.0, 0.5)
+[15:16:14] [Server thread/INFO]: HaridadeGANG lost connection: Disconnected
+[15:17:57] [Thread-18/INFO]: UUID of player HaridadeGANG is 943d65a7-69fb-3e36-a36d-92534e337b4a
+[15:17:57] [Server thread/INFO]: HaridadeGANG[/138.219.240.158:45059] logged in with entity id 30 at ([world]-30.5, 100.0, 0.5)
+[15:18:14] [Server thread/INFO]: HaridadeGANG lost connection: Disconnected
+[15:41:10] [Thread-19/INFO]: UUID of player toshiba01 is eabaf615-c150-4ed6-8b9f-cee20521a08e
+[15:41:10] [Server thread/INFO]: toshiba01[/187.21.139.23:42765] logged in with entity id 32 at ([world]-30.5, 100.0, 0.5)
+[15:41:24] [Server thread/INFO]: toshiba01 lost connection: Disconnected
+[16:12:54] [Thread-21/INFO]: UUID of player macninja296 is 9b436495-5cd4-3238-b4c5-0f30533a62d8
+[16:12:54] [Server thread/INFO]: macninja296[/177.37.133.34:41839] logged in with entity id 33 at ([world]-30.5, 100.0, 0.5)
+[16:13:04] [Server thread/INFO]: macninja296 lost connection: Disconnected
+[16:57:41] [Thread-24/INFO]: UUID of player HaridadeGANG is 943d65a7-69fb-3e36-a36d-92534e337b4a
+[16:57:41] [Server thread/INFO]: HaridadeGANG[/138.219.240.158:45463] logged in with entity id 34 at ([world]-30.5, 100.0, 0.5)
+[16:57:43] [Server thread/INFO]: HaridadeGANG lost connection: Disconnected
+[17:00:07] [Thread-25/INFO]: UUID of player Volantgamer is e59b87e8-19e2-4694-9349-5937635dbcea
+[17:00:07] [Server thread/INFO]: Volantgamer[/179.117.15.97:48475] logged in with entity id 36 at ([world]-30.5, 100.0, 0.5)
+[17:00:10] [Server thread/INFO]: Volantgamer lost connection: Disconnected
+[17:11:54] [luckperms-worker-5/INFO]: [0;37;22m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m][m [0;36;22mLOG[m [0;36;22m[21m>[m [0;30;1m([0;33;1mHaridadeGANG[0;30;1m)[m [0;30;1m[[0;32;1mU[0;30;1m][m [0;30;1m([0;36;1mvolantgamer[0;30;1m)[m
+[17:11:54] [luckperms-worker-5/INFO]: [0;37;22m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m][m [0;36;22mLOG[m [0;36;22m[21m>[m [0;37;1mparent addtemp beta 4w 2d[m
+[17:11:56] [Thread-26/INFO]: UUID of player HaridadeGANG is 943d65a7-69fb-3e36-a36d-92534e337b4a
+[17:11:56] [Server thread/INFO]: HaridadeGANG[/138.219.240.158:50041] logged in with entity id 37 at ([world]-30.5, 100.0, 0.5)
+[17:11:58] [Server thread/INFO]: HaridadeGANG lost connection: Disconnected
+[17:13:53] [Thread-27/INFO]: UUID of player KITKET_Z is c9eb7f3d-30a5-3f10-bcca-8eaff0031f8b
+[17:13:53] [Server thread/INFO]: KITKET_Z[/201.41.76.142:55417] logged in with entity id 39 at ([world]-30.5, 100.0, 0.5)
+[17:13:58] [Server thread/INFO]: KITKET_Z lost connection: Disconnected
+[17:21:49] [Thread-29/INFO]: UUID of player Volantgamer is e59b87e8-19e2-4694-9349-5937635dbcea
+[17:21:49] [Server thread/INFO]: Volantgamer[/179.117.15.97:48247] logged in with entity id 40 at ([world]-30.5, 100.0, 0.5)
+[17:21:53] [Server thread/INFO]: Volantgamer issued server command: /fly
+[17:21:53] [Server thread/INFO]: Volantgamer issued server command: /fly
+[17:21:54] [Server thread/INFO]: Volantgamer issued server command: /fly
+[17:21:56] [Server thread/INFO]: Volantgamer issued server command: /tag
+[17:21:57] [Server thread/INFO]: Volantgamer issued server command: /tag 2025
+[17:22:01] [Server thread/INFO]: Volantgamer lost connection: Disconnected
+[18:02:02] [Thread-31/INFO]: UUID of player Deletando is afd4bf45-35a7-4a9a-8bda-8d10130659c3
+[18:02:02] [Server thread/INFO]: Deletando[/179.106.174.230:52401] logged in with entity id 41 at ([world]-30.5, 100.0, 0.5)
+[18:02:05] [Server thread/INFO]: Deletando issued server command: /tag
+[18:02:14] [Server thread/INFO]: Deletando issued server command: /skin atualizar
+[18:02:17] [Server thread/INFO]: Deletando lost connection: Disconnected
+[18:02:21] [Thread-32/INFO]: UUID of player Deletando is afd4bf45-35a7-4a9a-8bda-8d10130659c3
+[18:02:21] [Server thread/INFO]: Deletando[/179.106.174.230:47025] logged in with entity id 42 at ([world]-30.5, 100.0, 0.5)
+[18:03:52] [Server thread/INFO]: Deletando lost connection: Disconnected
+[18:04:55] [Thread-33/INFO]: UUID of player Deletando is afd4bf45-35a7-4a9a-8bda-8d10130659c3
+[18:04:55] [Server thread/INFO]: Deletando[/179.106.174.230:59849] logged in with entity id 43 at ([world]-30.5, 100.0, 0.5)
+[18:05:00] [Server thread/INFO]: Deletando issued server command: /tag
+[18:05:09] [Server thread/INFO]: Deletando lost connection: Disconnected
+[18:36:15] [Thread-35/INFO]: UUID of player Rexgaatado is 327bfbb6-1d97-312e-909f-f5b2fdceb36b
+[18:36:15] [Server thread/INFO]: Rexgaatado[/179.107.215.56:51415] logged in with entity id 44 at ([world]-30.5, 100.0, 0.5)
+[18:36:17] [Server thread/INFO]: Rexgaatado issued server command: /tag
+[18:36:34] [Server thread/INFO]: Rexgaatado issued server command: /dis
+[18:37:06] [Server thread/INFO]: Rexgaatado issued server command: /tag
+[18:37:43] [Server thread/INFO]: Rexgaatado issued server command: /tag
+[18:38:21] [Server thread/INFO]: Rexgaatado issued server command: /ta
+[18:38:22] [Server thread/INFO]: Rexgaatado issued server command: /tag
+[18:38:59] [Thread-36/INFO]: UUID of player Finott is f50a66cd-f36a-4f13-9f96-b169018eaa1e
+[18:38:59] [Server thread/INFO]: Finott[/186.250.8.192:49675] logged in with entity id 45 at ([world]-30.5, 100.0, 0.5)
+[18:39:19] [Server thread/INFO]: Finott issued server command: /lp user Rexgaatado parent set tiktok
+[18:39:19] [luckperms-worker-8/INFO]: [LuckPerms] [Messaging] Sending log with id: 05779eac-bbb1-48e7-9bab-383e8e2ad225
+[18:39:19] [luckperms-command-executor/INFO]: [0;37;22m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m][m [0;36;22mLOG[m [0;36;22m[21m>[m [0;30;1m([0;33;1mFinott[0;30;1m)[m [0;30;1m[[0;32;1mU[0;30;1m][m [0;30;1m([0;36;1mrexgaatado[0;30;1m)[m
+[18:39:19] [luckperms-command-executor/INFO]: [0;37;22m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m][m [0;36;22mLOG[m [0;36;22m[21m>[m [0;37;1mparent set tiktok[m
+[18:39:19] [luckperms-worker-7/INFO]: [LuckPerms] [Messaging] Sending user ping for 'rexgaatado' with id: 179e9641-0b3e-4537-a7a4-617b4f291412
+[18:39:45] [Server thread/INFO]: Rexgaatado issued server command: /tag
+[18:40:18] [Server thread/INFO]: Rexgaatado lost connection: Disconnected
+[18:40:28] [Thread-37/INFO]: UUID of player Rexgaatado is 327bfbb6-1d97-312e-909f-f5b2fdceb36b
+[18:40:28] [Server thread/INFO]: Rexgaatado[/179.107.215.56:47729] logged in with entity id 46 at ([world]-30.5, 100.0, 0.5)
+[18:40:47] [Thread-38/INFO]: UUID of player _l1pe is ccf7629f-e9ee-4162-a61e-532ae191a089
+[18:40:47] [Server thread/INFO]: _l1pe[/148.69.189.50:34783] logged in with entity id 47 at ([world]-30.5, 100.0, 0.5)
+[18:40:54] [Server thread/INFO]: _l1pe issued server command: /skin reset
+[18:40:57] [Server thread/INFO]: _l1pe lost connection: Disconnected
+[18:40:58] [Server thread/INFO]: Finott lost connection: Disconnected
+[18:41:00] [Thread-39/INFO]: UUID of player _l1pe is ccf7629f-e9ee-4162-a61e-532ae191a089
+[18:41:00] [Server thread/INFO]: _l1pe[/148.69.189.50:53749] logged in with entity id 48 at ([world]-30.5, 100.0, 0.5)
+[18:41:00] [Server thread/INFO]: Rexgaatado issued server command: /tag
+[18:41:12] [Server thread/INFO]: _l1pe issued server command: /skin clear
+[18:41:15] [Server thread/INFO]: _l1pe lost connection: Disconnected
+[18:41:16] [Server thread/INFO]: Rexgaatado issued server command: /skin clear
+[18:41:17] [Thread-40/INFO]: UUID of player _l1pe is ccf7629f-e9ee-4162-a61e-532ae191a089
+[18:41:17] [Server thread/INFO]: _l1pe[/148.69.189.50:43289] logged in with entity id 49 at ([world]-30.5, 100.0, 0.5)
+[18:41:24] [Server thread/INFO]: Rexgaatado issued server command: /skin
+[18:41:25] [Server thread/INFO]: _l1pe issued server command: /skin atualizar
+[18:41:29] [Server thread/INFO]: _l1pe lost connection: Disconnected
+[18:41:31] [Thread-41/INFO]: UUID of player _l1pe is ccf7629f-e9ee-4162-a61e-532ae191a089
+[18:41:31] [Server thread/INFO]: _l1pe[/148.69.189.50:43205] logged in with entity id 50 at ([world]-30.5, 100.0, 0.5)
+[18:41:41] [Server thread/INFO]: Rexgaatado issued server command: /skin atualizar
+[18:41:44] [Server thread/INFO]: Rexgaatado lost connection: Disconnected
+[18:41:47] [Thread-42/INFO]: UUID of player Rexgaatado is 327bfbb6-1d97-312e-909f-f5b2fdceb36b
+[18:41:47] [Server thread/INFO]: Rexgaatado[/179.107.215.56:33227] logged in with entity id 51 at ([world]-30.5, 100.0, 0.5)
+[18:41:59] [Server thread/INFO]: Rexgaatado issued server command: /skin _l1pe
+[18:42:03] [Server thread/INFO]: Rexgaatado issued server command: /tag
+[18:42:04] [Server thread/INFO]: Rexgaatado issued server command: /tag VIP
+[18:42:06] [Server thread/INFO]: Rexgaatado issued server command: /skin _l1pe
+[18:42:08] [Server thread/INFO]: _l1pe issued server command: /tag
+[18:42:13] [Server thread/INFO]: Rexgaatado issued server command: /tag Tropical
+[18:42:16] [Server thread/INFO]: Rexgaatado issued server command: /tag Sunset
+[18:42:23] [Server thread/INFO]: Rexgaatado issued server command: /tag 2025
+[18:42:33] [Server thread/INFO]: Rexgaatado issued server command: /tag 2025
+[18:42:38] [Server thread/INFO]: Rexgaatado issued server command: /tag 2025
+[18:42:42] [Server thread/INFO]: Rexgaatado issued server command: /tag TikTok
+[18:43:25] [Server thread/INFO]: _l1pe issued server command: /tag
+[18:43:29] [Server thread/INFO]: _l1pe lost connection: Disconnected
+[18:43:33] [Server thread/INFO]: Rexgaatado lost connection: Disconnected
+[18:51:23] [Thread-44/INFO]: UUID of player Finott is f50a66cd-f36a-4f13-9f96-b169018eaa1e
+[18:51:23] [Server thread/INFO]: Finott[/186.250.8.192:38507] logged in with entity id 52 at ([world]-30.5, 100.0, 0.5)
+[18:51:31] [Server thread/INFO]: Finott lost connection: Disconnected
+[19:15:20] [Thread-45/INFO]: UUID of player KoynTzuu is 3b9bc6af-6fc1-3868-9b52-8fd1fd9237c5
+[19:15:20] [Server thread/INFO]: KoynTzuu[/179.191.223.57:36363] logged in with entity id 53 at ([world]-30.5, 100.0, 0.5)
+[19:15:34] [Thread-46/INFO]: UUID of player Finott is f50a66cd-f36a-4f13-9f96-b169018eaa1e
+[19:15:34] [Server thread/INFO]: Finott[/186.250.8.192:34565] logged in with entity id 54 at ([world]-30.5, 100.0, 0.5)
+[19:15:45] [Server thread/INFO]: Finott issued server command: /lp user KoynTzuu parent set builder
+[19:15:45] [luckperms-worker-5/INFO]: [LuckPerms] [Messaging] Sending log with id: ae5f79bc-bf61-4084-b317-f3c7a4cd7a09
+[19:15:45] [luckperms-command-executor/INFO]: [0;37;22m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m][m [0;36;22mLOG[m [0;36;22m[21m>[m [0;30;1m([0;33;1mFinott[0;30;1m)[m [0;30;1m[[0;32;1mU[0;30;1m][m [0;30;1m([0;36;1mkoyntzuu[0;30;1m)[m
+[19:15:45] [luckperms-command-executor/INFO]: [0;37;22m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m][m [0;36;22mLOG[m [0;36;22m[21m>[m [0;37;1mparent set builder[m
+[19:15:45] [luckperms-worker-7/INFO]: [LuckPerms] [Messaging] Sending user ping for 'koyntzuu' with id: 35d2d63d-62df-4df6-8ff3-3b917ac3e377
+[19:15:54] [Server thread/INFO]: KoynTzuu issued server command: /tag
+[19:15:56] [Server thread/INFO]: KoynTzuu issued server command: /tag Builder
+[19:16:00] [Server thread/INFO]: KoynTzuu issued server command: /fly
+[19:16:46] [Server thread/INFO]: KoynTzuu issued server command: /gamemode creative
+[19:16:48] [Server thread/INFO]: KoynTzuu issued server command: /help
+[19:16:48] [Server thread/INFO]: KoynTzuu [3b9bc6af-6fc1-3868-9b52-8fd1fd9237c5]: /help
+[19:16:51] [Server thread/INFO]: KoynTzuu issued server command: /comandos
+[19:16:53] [Server thread/INFO]: KoynTzuu issued server command: /help
+[19:16:53] [Server thread/INFO]: KoynTzuu [3b9bc6af-6fc1-3868-9b52-8fd1fd9237c5]: /help
+[19:16:55] [Server thread/INFO]: KoynTzuu issued server command: /commands
+[19:17:53] [Server thread/INFO]: KoynTzuu issued server command: /skin iKaatzo_
+[19:17:59] [Server thread/INFO]: KoynTzuu issued server command: /skin atualizar
+[19:18:02] [Server thread/INFO]: KoynTzuu lost connection: Disconnected
+[19:18:05] [Thread-48/INFO]: UUID of player KoynTzuu is 3b9bc6af-6fc1-3868-9b52-8fd1fd9237c5
+[19:18:05] [Server thread/INFO]: KoynTzuu[/179.191.223.57:46169] logged in with entity id 55 at ([world]-30.5, 100.0, 0.5)
+[19:18:15] [Server thread/INFO]: KoynTzuu issued server command: /fly
+[19:18:17] [Server thread/INFO]: KoynTzuu issued server command: /fly
+[19:19:01] [Server thread/INFO]: KoynTzuu issued server command: /stop
+[19:20:25] [Thread-49/INFO]: UUID of player Rexgaatado is 327bfbb6-1d97-312e-909f-f5b2fdceb36b
+[19:20:25] [Server thread/INFO]: Rexgaatado[/179.107.215.56:55401] logged in with entity id 56 at ([world]-30.5, 100.0, 0.5)
+[19:20:43] [Server thread/INFO]: Rexgaatado issued server command: /tag
+[19:24:35] [Server thread/INFO]: KoynTzuu lost connection: Disconnected
+[19:25:12] [Thread-50/INFO]: UUID of player DanaPirata is 6f33f511-cbf3-3aed-9bcc-f9cb4371e272
+[19:25:12] [Server thread/INFO]: DanaPirata[/177.37.153.165:41081] logged in with entity id 57 at ([world]-30.5, 100.0, 0.5)
+[19:25:33] [Server thread/INFO]: DanaPirata issued server command: /pl
+[19:25:33] [Server thread/INFO]: DanaPirata [6f33f511-cbf3-3aed-9bcc-f9cb4371e272]: /pl
+[19:25:34] [Server thread/INFO]: DanaPirata issued server command: /?
+[19:25:34] [Server thread/INFO]: DanaPirata [6f33f511-cbf3-3aed-9bcc-f9cb4371e272]: /?
+[19:25:43] [Server thread/INFO]: DanaPirata issued server command: /tag
+[19:25:45] [Server thread/INFO]: DanaPirata issued server command: /medal
+[19:26:01] [Server thread/INFO]: DanaPirata lost connection: Disconnected
+[19:29:47] [Thread-51/INFO]: UUID of player cacaushow_br is d4a33f17-6610-44bc-be7e-28c1523fe312
+[19:29:47] [Server thread/INFO]: cacaushow_br[/45.224.27.165:43395] logged in with entity id 58 at ([world]-30.5, 100.0, 0.5)
+[19:31:11] [Server thread/INFO]: cacaushow_br issued server command: /skin cacaushow_br
+[19:31:38] [Server thread/INFO]: cacaushow_br lost connection: Disconnected
+[19:31:40] [Thread-52/INFO]: UUID of player cacaushow_br is d4a33f17-6610-44bc-be7e-28c1523fe312
+[19:31:41] [Server thread/INFO]: cacaushow_br[/45.224.27.165:54205] logged in with entity id 59 at ([world]-30.5, 100.0, 0.5)
+[19:32:22] [Server thread/INFO]: cacaushow_br lost connection: Disconnected
+[19:32:25] [Thread-53/INFO]: UUID of player cacaushow_br is d4a33f17-6610-44bc-be7e-28c1523fe312
+[19:32:25] [Server thread/INFO]: cacaushow_br[/45.224.27.165:43283] logged in with entity id 60 at ([world]-30.5, 100.0, 0.5)
+[19:36:47] [Server thread/INFO]: Finott lost connection: Disconnected
+[19:38:22] [Server thread/INFO]: cacaushow_br lost connection: Disconnected
+[19:40:14] [Thread-54/INFO]: UUID of player HaridadeGANG is 943d65a7-69fb-3e36-a36d-92534e337b4a
+[19:40:14] [Server thread/INFO]: HaridadeGANG[/138.219.240.158:45873] logged in with entity id 61 at ([world]-30.5, 100.0, 0.5)
+[19:43:12] [Thread-55/INFO]: UUID of player Finott is f50a66cd-f36a-4f13-9f96-b169018eaa1e
+[19:43:12] [Server thread/INFO]: Finott[/186.250.8.192:60607] logged in with entity id 63 at ([world]-30.5, 100.0, 0.5)
+[19:43:15] [Server thread/INFO]: Finott issued server command: /ban HaridadeGANG
+[19:43:15] [Server thread/INFO]: HaridadeGANG lost connection: You are banned from this server.
+[19:43:15] [Server thread/INFO]: [Finott: Banned player HaridadeGANG]
+[19:43:15] [Server thread/WARN]: handleDisconnection() called twice
+[19:43:18] [Thread-56/INFO]: UUID of player HaridadeGANG is 943d65a7-69fb-3e36-a36d-92534e337b4a
+[19:43:18] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@3b9d56f9[id=943d65a7-69fb-3e36-a36d-92534e337b4a,name=HaridadeGANG,properties={textures=[com.mojang.authlib.properties.Property@60147d4a]},legacy=false] (/138.219.240.158:53565): You are banned from this server!
+Reason: Banned by an operator.
+[19:43:18] [Server thread/INFO]: com.mojang.authlib.GameProfile@3b9d56f9[id=943d65a7-69fb-3e36-a36d-92534e337b4a,name=HaridadeGANG,properties={textures=[com.mojang.authlib.properties.Property@60147d4a]},legacy=false] (/138.219.240.158:53565) lost connection: You are banned from this server!
+Reason: Banned by an operator.
+[19:43:19] [Thread-57/INFO]: UUID of player HaridadeGANG is 943d65a7-69fb-3e36-a36d-92534e337b4a
+[19:43:19] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@7664c430[id=943d65a7-69fb-3e36-a36d-92534e337b4a,name=HaridadeGANG,properties={textures=[com.mojang.authlib.properties.Property@374c6eb7]},legacy=false] (/138.219.240.158:44355): You are banned from this server!
+Reason: Banned by an operator.
+[19:43:19] [Server thread/INFO]: com.mojang.authlib.GameProfile@7664c430[id=943d65a7-69fb-3e36-a36d-92534e337b4a,name=HaridadeGANG,properties={textures=[com.mojang.authlib.properties.Property@374c6eb7]},legacy=false] (/138.219.240.158:44355) lost connection: You are banned from this server!
+Reason: Banned by an operator.
+[19:43:21] [Server thread/INFO]: Finott issued server command: /pardon HaridadeGANG
+[19:43:21] [Server thread/INFO]: [Finott: Unbanned player HaridadeGANG]
+[19:43:25] [Thread-58/INFO]: UUID of player cacaushow_br is d4a33f17-6610-44bc-be7e-28c1523fe312
+[19:43:25] [Server thread/INFO]: cacaushow_br[/45.224.27.165:57181] logged in with entity id 66 at ([world]-30.5, 100.0, 0.5)
+[19:43:26] [Thread-59/INFO]: UUID of player HaridadeGANG is 943d65a7-69fb-3e36-a36d-92534e337b4a
+[19:43:26] [Server thread/INFO]: HaridadeGANG[/138.219.240.158:47139] logged in with entity id 67 at ([world]-30.5, 100.0, 0.5)
+[19:44:32] [Thread-60/INFO]: UUID of player Volantgamer is e59b87e8-19e2-4694-9349-5937635dbcea
+[19:44:32] [Server thread/INFO]: Volantgamer[/179.117.15.97:36511] logged in with entity id 69 at ([world]-30.5, 100.0, 0.5)
+[19:44:37] [Server thread/INFO]: Volantgamer issued server command: /fly
+[19:44:37] [Server thread/INFO]: Volantgamer issued server command: /fly
+[19:44:38] [Thread-61/INFO]: UUID of player _l1pe is ccf7629f-e9ee-4162-a61e-532ae191a089
+[19:44:38] [Server thread/INFO]: _l1pe[/148.69.189.50:46979] logged in with entity id 70 at ([world]-30.5, 100.0, 0.5)
+[19:45:29] [Server thread/INFO]: Volantgamer issued server command: /tag
+[19:45:34] [Server thread/INFO]: Finott issued server command: /discord
+[19:46:02] [Server thread/INFO]: cacaushow_br lost connection: Disconnected
+[19:46:15] [Server thread/INFO]: HaridadeGANG lost connection: Disconnected

@@ -1,32 +1,41 @@
-const { Client, GatewayIntentBits, EmbedBuilder, ActivityType } = require('discord.js');
-const config = require('./config.json');
+const fs = require('fs');
+const { Client, GatewayIntentBits, Collection } = require('discord.js');
+const yaml = require('js-yaml');
 
-// Criar o cliente do Discord
+// Carregar configuração do config.yml
+const config = yaml.load(fs.readFileSync('./config.yml', 'utf8'));
+
 const client = new Client({
-  intents: [GatewayIntentBits.Guilds, GatewayIntentBits.GuildMessages, GatewayIntentBits.MessageContent]
+  intents: [
+    GatewayIntentBits.Guilds,
+    GatewayIntentBits.GuildMembers,
+    GatewayIntentBits.GuildMessages,
+    GatewayIntentBits.MessageContent
+  ]
 });
 
-// Quando o bot estiver pronto
-client.once('ready', () => {
-  console.log(`Bot logado como ${client.user.tag}`);
+client.commands = new Collection();
+const commandFiles = fs.readdirSync('./commands').filter(file => file.endsWith('.js'));
 
-  // Definir o status do bot como 'streaming'
-  client.user.setActivity('SantMC ao vivo!', { type: ActivityType.Streaming, url: 'https://www.twitch.tv/venixxyx' });
-});
+// Carregar todos os comandos
+for (const file of commandFiles) {
+  const command = require(`./commands/${file}`);
+  client.commands.set(command.name, command);
+}
 
-// Listener para comandos de mensagem
-client.on('messageCreate', (message) => {
-  // Comando de IP
-  if (message.content === '!ip') {
-    const ipEmbed = new EmbedBuilder()
-      .setColor(0x0099ff)
-      .setTitle('IP do Servidor de Minecraft')
-      .setDescription(`O IP do nosso servidor é: **${config.minecraftIP}**`)
-      .setFooter({ text: 'Conecte-se agora e divirta-se!' });
+// Carregar eventos
+const eventFiles = fs.readdirSync('./events').filter(file => file.endsWith('.js'));
 
-    message.channel.send({ embeds: [ipEmbed] });
+for (const file of eventFiles) {
+  const event = require(`./events/${file}`);
+  if (event.once) {
+    client.once(event.name, (...args) => event.execute(...args, config));
+  } else {
+    client.on(event.name, (...args) => event.execute(...args, config));
   }
-});
+}
 
-// Logar o bot
+// Login do bot
 client.login(config.token);
+
+console.log(`Prefixo configurado: ${config.prefix}`);

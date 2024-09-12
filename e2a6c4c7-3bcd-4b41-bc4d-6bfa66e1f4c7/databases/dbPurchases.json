@@ -1,0 +1,28 @@
+{
+    "123498288": {
+        "id": 123498288,
+        "productsIds": [
+            "teste1"
+        ],
+        "productsNames": [
+            "NITRO MENSAL x1"
+        ],
+        "pricePaid": "20.00",
+        "buyer": "913947175803822121",
+        "date": "2024-08-06T20:23:02.435Z",
+        "productsDelivered": "\n📦 | Entrega do Produto: NITRO MENSAL - 1/1\nABRA TICKET\n"
+    },
+    "786511529": {
+        "id": 786511529,
+        "productsIds": [
+            "123"
+        ],
+        "productsNames": [
+            "Não configurado(a). x1"
+        ],
+        "pricePaid": "10.00",
+        "buyer": "1002604103622479884",
+        "date": "2024-03-17T14:08:44.944Z",
+        "productsDelivered": "\n📦 | Entrega do Produto: Não configurado(a). - 1/1\na\n"
+    }
+}

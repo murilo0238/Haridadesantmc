@@ -6,7 +6,7 @@ fakeVersion:
 
 # Motd aleatorio cada vez que o jogador atualizar a lista ira aparecer um
 motds:
-- "             &e&lSANTMC &7↝ &bloja.santmc.com {newline}         &6&l NOVIDADES EM BREVE..."
+- "&b&lSANT MC &7» &ewww.forum.santmc.com{newline}&eBedWars atualizado novos &dmapas &e⇒ &bdsc.gg/santmc"
 
 # Lista de jogadores mostrados quando se passa o mouse em cima dos slots
 playerList:

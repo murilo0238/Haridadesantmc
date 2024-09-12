@@ -10843,3 +10843,1080 @@ Reason: Banned by an operator.
 00:23:00 [INFO] [yNev1s] <-> DownstreamBridge <-> [bedwars] has disconnected
 00:23:08 [INFO] [Pretinho_albino] -> UpstreamBridge has disconnected
 00:23:08 [INFO] [Pretinho_albino] <-> DownstreamBridge <-> [lobby] has disconnected
+00:24:47 [INFO] [yLaas_] -> UpstreamBridge has disconnected
+00:24:47 [INFO] [yLaas_] <-> DownstreamBridge <-> [bedwars] has disconnected
+00:25:32 [INFO] [cacaushow_br] -> UpstreamBridge has disconnected
+00:25:32 [INFO] [cacaushow_br] <-> DownstreamBridge <-> [bedwars] has disconnected
+00:25:54 [INFO] [Breno801] -> UpstreamBridge has disconnected
+00:25:54 [INFO] [Breno801] <-> DownstreamBridge <-> [bedwars] has disconnected
+00:39:01 [INFO] [MuriloDR] -> UpstreamBridge has disconnected
+00:39:01 [INFO] [MuriloDR] <-> DownstreamBridge <-> [bedwars] has disconnected
+00:39:35 [INFO] [cacaushow_br,/45.224.27.165:11201] <-> InitialHandler has connected
+00:39:36 [INFO] [cacaushow_br] <-> ServerConnector [lobby] has connected
+00:39:36 [INFO] [nLogin] O usuário cacaushow_br logou automaticamente (conta original)
+00:39:47 [INFO] [cacaushow_br] <-> ServerConnector [bedwars] has connected
+00:39:47 [INFO] [cacaushow_br] <-> DownstreamBridge <-> [lobby] has disconnected
+00:41:30 [INFO] [cacaushow_br] -> UpstreamBridge has disconnected
+00:41:30 [INFO] [cacaushow_br] <-> DownstreamBridge <-> [bedwars] has disconnected
+01:17:44 [INFO] [MuriloDR,/45.134.141.133:57903] <-> InitialHandler has connected
+01:17:45 [INFO] [MuriloDR] <-> ServerConnector [lobby] has connected
+01:17:45 [INFO] [nLogin] O usuário MuriloDR logou automaticamente (conta original)
+01:18:36 [INFO] [MuriloDR] disconnected with: §fServidor reniciando!
+01:18:36 [INFO] [MuriloDR] -> UpstreamBridge has disconnected
+01:18:36 [INFO] [MuriloDR] <-> DownstreamBridge <-> [lobby] has disconnected
+01:19:07 [INFO] [MuriloDR,/45.134.141.133:58338] <-> InitialHandler has connected
+01:19:08 [INFO] [MuriloDR] <-> ServerConnector [lobby] has connected
+01:19:08 [INFO] [nLogin] O usuário MuriloDR logou automaticamente (conta original)
+01:19:35 [INFO] [MuriloDR] disconnected with: §fServidor reniciando!
+01:19:35 [INFO] [MuriloDR] -> UpstreamBridge has disconnected
+01:19:35 [INFO] [MuriloDR] <-> DownstreamBridge <-> [lobby] has disconnected
+01:19:52 [INFO] [MuriloDR,/45.134.141.133:58581] <-> InitialHandler has connected
+01:19:53 [INFO] [MuriloDR] <-> ServerConnector [lobby] has connected
+01:19:53 [INFO] [nLogin] O usuário MuriloDR logou automaticamente (conta original)
+01:20:41 [INFO] [MuriloDR] disconnected with: §fServidor reniciando!
+01:20:41 [INFO] [MuriloDR] -> UpstreamBridge has disconnected
+01:20:41 [INFO] [MuriloDR] <-> DownstreamBridge <-> [lobby] has disconnected
+02:35:59 [INFO] [EversonMilZoios,/104.28.199.92:36364] <-> InitialHandler has connected
+02:35:59 [INFO] [EversonMilZoios] <-> ServerConnector [login] has connected
+02:36:13 [INFO] [nLogin] O usuário EversonMilZoios se registrou com sucesso.
+02:36:14 [INFO] [EversonMilZoios] <-> ServerConnector [lobby] has connected
+02:36:14 [INFO] [EversonMilZoios] <-> DownstreamBridge <-> [login] has disconnected
+02:38:23 [INFO] [EversonMilZoios] -> UpstreamBridge has disconnected
+02:38:23 [INFO] [EversonMilZoios] <-> DownstreamBridge <-> [lobby] has disconnected
+02:41:36 [INFO] [SantosPECINHA,/138.186.184.16:58785] <-> InitialHandler has connected
+02:41:36 [INFO] [SantosPECINHA] <-> ServerConnector [login] has connected
+02:41:40 [INFO] [SantosPECINHA] disconnected with: §f§7Para confirmar que você está usando uma §aconta original§7, entre novamente.
+02:41:40 [INFO] [SantosPECINHA] <-> DownstreamBridge <-> [login] has disconnected
+02:41:40 [INFO] [SantosPECINHA] -> UpstreamBridge has disconnected
+02:41:42 [INFO] [SantosPECINHA,/138.186.184.16:59031] <-> InitialHandler has connected
+02:41:42 [WARNING] [LuckPerms] LuckPerms already has data for player 'SantosPECINHA' - but this data is stored under a different UUID.
+02:41:42 [WARNING] [LuckPerms] 'SantosPECINHA' has previously used the unique ids [e3ad3f32-d36f-3643-8d37-03d6d12315de] but is now connecting with '618d4e2c-c7b5-4a6a-96c6-40ea96b2274e'
+02:41:42 [WARNING] [LuckPerms] The UUID the player is connecting with now is Mojang-assigned (type 4). This implies that BungeeCord's IP-Forwarding has not been setup correctly on one (or more) of the backend servers.
+02:41:42 [WARNING] [LuckPerms] The UUID the player is connecting with now is Mojang-assigned (type 4). This implies that one of the other servers in your network is not authenticating correctly.
+02:41:42 [WARNING] [LuckPerms] If you're using BungeeCord/Velocity, please ensure that IP-Forwarding is setup correctly on all of your backend servers!
+02:41:42 [WARNING] [LuckPerms] See here for more info: https://luckperms.net/wiki/Network-Installation#pre-setup
+02:41:42 [INFO] [SantosPECINHA] <-> ServerConnector [lobby] has connected
+02:41:42 [INFO] [nLogin] O usuário SantosPECINHA logou automaticamente (conta original)
+02:41:47 [INFO] [SantosPECINHA] -> UpstreamBridge has disconnected
+02:41:47 [INFO] [SantosPECINHA] <-> DownstreamBridge <-> [lobby] has disconnected
+03:36:24 [WARNING] [/167.94.138.50:39946] <-> InitialHandler - NativeIoException: recvAddress(..) failed: Connection reset by peer
+13:06:03 [WARNING] [/105.172.23.201:61844] <-> InitialHandler - NativeIoException: recvAddress(..) failed: Connection reset by peer
+13:09:30 [INFO] [Otavio_Joga,/45.169.35.228:44483] <-> InitialHandler has connected
+13:09:30 [INFO] [Otavio_Joga] <-> ServerConnector [login] has connected
+13:09:30 [INFO] [Otavio_Joga] <-> ServerConnector [login] has disconnected
+13:09:51 [WARNING] [LiteAnnouncer] An error occured while sending auto-message to players!
+13:09:51 [SEVERE] java.lang.NullPointerException
+13:09:51 [SEVERE] 	at me.litefine.announcer.managers.AnnounceTask.lambda$sendMessage$1(AnnounceTask.java:50)
+13:09:51 [SEVERE] 	at java.lang.Iterable.forEach(Iterable.java:75)
+13:09:51 [SEVERE] 	at java.util.Collections$UnmodifiableCollection.forEach(Collections.java:1082)
+13:09:51 [SEVERE] 	at me.litefine.announcer.managers.AnnounceTask.sendMessage(AnnounceTask.java:49)
+13:09:51 [SEVERE] 	at me.litefine.announcer.managers.AnnounceTask.run(AnnounceTask.java:34)
+13:09:51 [SEVERE] 	at net.md_5.bungee.scheduler.BungeeTask.run(BungeeTask.java:63)
+13:09:51 [SEVERE] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+13:09:51 [SEVERE] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+13:09:51 [SEVERE] 	at java.lang.Thread.run(Thread.java:748)
+13:10:00 [WARNING] [Otavio_Joga] -> UpstreamBridge - read timed out
+13:10:00 [INFO] [Otavio_Joga] disconnected with: §f§fReadTimeoutException : null
+13:10:00 [INFO] [Otavio_Joga] -> UpstreamBridge has disconnected
+13:10:09 [INFO] [Otavio_Joga,/45.169.35.228:44064] <-> InitialHandler has connected
+13:10:09 [INFO] [Otavio_Joga] <-> ServerConnector [login] has connected
+13:10:09 [WARNING] [Otavio_Joga] <-> ServerConnector [login] - NativeIoException: recvAddress(..) failed: Connection reset by peer
+13:10:09 [INFO] [Otavio_Joga] <-> ServerConnector [login] has disconnected
+13:10:39 [WARNING] [Otavio_Joga] -> UpstreamBridge - read timed out
+13:10:39 [INFO] [Otavio_Joga] disconnected with: §f§fReadTimeoutException : null
+13:10:39 [INFO] [Otavio_Joga] -> UpstreamBridge has disconnected
+14:06:23 [INFO] [cacaushow_br,/45.224.27.165:11312] <-> InitialHandler has connected
+14:06:24 [INFO] [cacaushow_br] <-> ServerConnector [lobby] has connected
+14:06:24 [INFO] [santmc-commons] Reconectado ao MySQL!
+14:06:24 [INFO] [nLogin] O usuário cacaushow_br logou automaticamente (conta original)
+14:06:37 [INFO] [cacaushow_br] -> UpstreamBridge has disconnected
+14:06:37 [INFO] [cacaushow_br] <-> DownstreamBridge <-> [lobby] has disconnected
+14:06:37 [INFO] [cacaushow_br,/45.224.27.165:11746] <-> InitialHandler has connected
+14:06:38 [INFO] [cacaushow_br] <-> ServerConnector [lobby] has connected
+14:06:38 [INFO] [nLogin] O usuário cacaushow_br logou automaticamente (conta original)
+14:06:43 [INFO] [cacaushow_br] <-> ServerConnector [bedwars] has connected
+14:06:43 [INFO] [cacaushow_br] <-> DownstreamBridge <-> [lobby] has disconnected
+14:07:09 [INFO] [cacaushow_br] -> UpstreamBridge has disconnected
+14:07:09 [INFO] [cacaushow_br] <-> DownstreamBridge <-> [bedwars] has disconnected
+14:26:56 [INFO] Closing listener [id: 0xebb61451, L:/0:0:0:0:0:0:0:0%0:25565]
+14:26:56 [INFO] Closing pending connections
+14:26:56 [INFO] Disconnecting 0 connections
+14:26:56 [INFO] Saving reconnect locations
+14:26:56 [INFO] Disabling plugins
+14:26:56 [INFO] [santmc-commons] O plugin foi desativado.
+14:26:56 [INFO] [nAntiBot] Successful plugin core shutdown (took 0.00s)
+14:26:56 [INFO] [nAntiBot] Disconnecting from remote server...
+14:26:58 [INFO] [nLogin] Successful plugin core shutdown (took 0.00s)
+14:26:58 [SEVERE] [Shutdown Thread] INFO com.nickuc.login.lib.hikari.HikariDataSource - nlogin-hikaricp - Shutdown initiated...
+14:26:58 [SEVERE] [Shutdown Thread] INFO com.nickuc.login.lib.hikari.HikariDataSource - nlogin-hikaricp - Shutdown completed.
+14:26:58 [INFO] [LuckPerms] Starting shutdown process...
+14:26:58 [INFO] [LuckPerms] Closing messaging service...
+14:26:58 [INFO] [LuckPerms] Closing storage...
+14:26:58 [INFO] luckperms-hikari - Shutdown initiated...
+14:26:58 [INFO] luckperms-hikari - Shutdown completed.
+14:26:58 [INFO] [LuckPerms] Goodbye!
+14:26:58 [INFO] [LiteAnnouncer] Plugin disabled!
+14:26:58 [INFO] Closing IO threads
+14:26:58 [INFO] Thank you and goodbye
+14:27:01 [INFO] Using mbed TLS based native cipher.
+14:27:01 [INFO] Using zlib based native compressor.
+14:27:01 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.21-R0.1-SNAPSHOT:84ac7ab:1864
+14:27:01 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+14:27:01 [INFO] Epoll is working, utilising it!
+14:27:02 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+14:27:02 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+14:27:02 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+14:27:02 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+14:27:02 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+14:27:02 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+14:27:02 [INFO] Loaded plugin LiteAnnouncer version 6.3.1 by LITEFINE
+14:27:02 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:84ac7ab:1864 by SpigotMC
+14:27:02 [INFO] Loaded plugin LuckPerms version 5.3.71 by Luck
+14:27:03 [INFO] Loaded plugin nLogin version 10.2.7 by NickUC
+14:27:06 [INFO] Loaded plugin nAntiBot version 6.1.24 by NickUC
+14:27:06 [INFO] Loaded plugin Maintenance version 3.0.5 by KennyTV
+14:27:06 [INFO] Loaded plugin BungeeGuard version 1.3-SNAPSHOT by Luck
+14:27:06 [INFO] Loaded plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:84ac7ab:1864 by SpigotMC
+14:27:06 [INFO] Loaded plugin santmc-commons version 1.0 by isSync_
+14:27:06 [INFO] Loaded plugin MoveMeNow version 1.2-CUSTOMBUILD by roblabla
+14:27:06 [INFO] Loaded plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:84ac7ab:1864 by SpigotMC
+14:27:06 [INFO] Loaded plugin Lobbysystem version 2.4-SNAPSHOT by ObedMz
+14:27:06 [INFO] Loaded plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:84ac7ab:1864 by SpigotMC
+14:27:06 [INFO] Loaded plugin JH_Motd version 1.2 by JH3Y50N
+14:27:06 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:84ac7ab:1864 by SpigotMC
+14:27:06 [INFO] Loaded plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:84ac7ab:1864 by SpigotMC
+14:27:06 [INFO] [LiteAnnouncer] Plugin enabled. Version: 6.3.1. Made by LITEFINE.
+14:27:06 [INFO] Enabled plugin LiteAnnouncer version 6.3.1 by LITEFINE
+14:27:06 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:84ac7ab:1864 by SpigotMC
+14:27:07 [INFO] §b       §3 __    
+14:27:07 [INFO] §b  |    §3|__)   §2LuckPerms§r §bv5.3.71
+14:27:07 [INFO] §b  |___ §3|      §8Running on BungeeCord - BungeeCord
+14:27:07 [INFO] 
+14:27:07 [INFO] [LuckPerms] Loading configuration...
+14:27:07 [INFO] [LuckPerms] Loading storage provider... [MYSQL]
+14:27:07 [INFO] luckperms-hikari - Starting...
+14:27:08 [INFO] luckperms-hikari - Start completed.
+14:27:09 [INFO] [LuckPerms] Loading messaging service... [SQL]
+14:27:09 [INFO] [LuckPerms] Loading internal permission managers...
+14:27:09 [INFO] [LuckPerms] Performing initial data load...
+14:27:09 [INFO] [LuckPerms] Successfully enabled. (took 3064ms)
+14:27:09 [INFO] Enabled plugin LuckPerms version 5.3.71 by Luck
+14:27:10 [INFO] [nLogin] Successful plugin core start (took 0.31s)
+14:27:10 [INFO] §9          __             _       
+14:27:10 [INFO] §9  _ __   / /  ___   __ _(_)_ __  
+14:27:10 [INFO] §9 | '_ \ / /  / _ \ / _` | | '_ \ 
+14:27:10 [INFO] §9 | | | / /__| (_) | (_| | | | | |
+14:27:10 [INFO] §9 |_| |_\____/\___/ \__, |_|_| |_|
+14:27:10 [INFO] §9                  |___/            
+14:27:10 [INFO] §9 By: §9www.nickuc.com§9 - V 10.2.7 DEVELOPMENT
+14:27:10 [INFO] §9 
+14:27:11 [SEVERE] SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+14:27:11 [SEVERE] SLF4J: Defaulting to no-operation (NOP) logger implementation
+14:27:11 [SEVERE] SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+14:27:11 [SEVERE] SLF4J: Failed to load class "org.slf4j.impl.StaticMDCBinder".
+14:27:11 [SEVERE] SLF4J: Defaulting to no-operation MDCAdapter implementation.
+14:27:11 [SEVERE] SLF4J: See http://www.slf4j.org/codes.html#no_static_mdc_binder for further details.
+14:27:12 [SEVERE] [main] INFO JDA - Login Successful!
+14:27:12 [SEVERE] [JDA MainWS-ReadThread] INFO WebSocketClient - Connected to WebSocket
+14:27:13 [SEVERE] [JDA MainWS-ReadThread] INFO JDA - Finished Loading!
+14:27:13 [INFO] [nLogin] §a[Discord] Conexão com o Discord foi realizada com sucesso!
+14:27:13 [SEVERE] [main] INFO com.nickuc.login.lib.hikari.HikariDataSource - nlogin-hikaricp - Starting...
+14:27:14 [SEVERE] [main] INFO com.nickuc.login.lib.hikari.HikariDataSource - nlogin-hikaricp - Start completed.
+14:27:15 [INFO] Enabled plugin nLogin version 10.2.7 by NickUC
+14:27:15 [INFO] [nAntiBot] Successful plugin core start (took 0.20s)
+14:27:15 [INFO] §c          _         _   _   ___       _   
+14:27:15 [INFO] §c  _ __   /_\  _ __ | |_(_) / __\ ___ | |_ 
+14:27:15 [INFO] §c | '_ \ //_\\| '_ \| __| |/__\/// _ \| __|
+14:27:15 [INFO] §c | | | /  _  \ | | | |_| / \/  \ (_) | |_ 
+14:27:15 [INFO] §c |_| |_\_/ \_/_| |_|\__|_\_____/\___/ \__|
+14:27:15 [INFO] §c                                         
+14:27:15 [INFO] §c By: §cwww.nickuc.com§c - V 6.1.24
+14:27:15 [INFO] §f
+14:27:18 [INFO] [nAntiBot] §aConnecting to the remote server antibot.nickuc.com...
+14:27:18 [INFO] Enabled plugin nAntiBot version 6.1.24 by NickUC
+14:27:19 [INFO] [Maintenance] Trying to open database connection... (also, you can simply ignore the SLF4J soft-warning if it shows up)
+14:27:19 [WARNING] [Maintenance] Error while trying do open database connection!
+14:27:19 [SEVERE] SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+14:27:19 [SEVERE] SLF4J: Defaulting to no-operation (NOP) logger implementation
+14:27:19 [SEVERE] SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+14:27:19 [SEVERE] java.lang.RuntimeException: java.lang.ClassNotFoundException: com.mysql.jdbc.jdbc2.optional.MysqlDataSource
+14:27:19 [SEVERE] 	at eu.kennytv.lib.hikari.util.UtilityElf.createInstance(UtilityElf.java:102)
+14:27:19 [SEVERE] 	at eu.kennytv.lib.hikari.pool.PoolBase.initializeDataSource(PoolBase.java:317)
+14:27:19 [SEVERE] 	at eu.kennytv.lib.hikari.pool.PoolBase.<init>(PoolBase.java:110)
+14:27:19 [SEVERE] 	at eu.kennytv.lib.hikari.pool.HikariPool.<init>(HikariPool.java:108)
+14:27:19 [SEVERE] 	at eu.kennytv.lib.hikari.HikariDataSource.<init>(HikariDataSource.java:81)
+14:27:19 [SEVERE] 	at eu.kennytv.maintenance.core.proxy.mysql.MySQL.<init>(MySQL.java:53)
+14:27:19 [SEVERE] 	at eu.kennytv.maintenance.core.proxy.SettingsProxy.setupMySQL(SettingsProxy.java:69)
+14:27:19 [SEVERE] 	at eu.kennytv.maintenance.core.proxy.SettingsProxy.loadExtraSettings(SettingsProxy.java:86)
+14:27:19 [SEVERE] 	at eu.kennytv.maintenance.core.Settings.loadSettings(Settings.java:205)
+14:27:19 [SEVERE] 	at eu.kennytv.maintenance.core.Settings.reloadConfigs(Settings.java:91)
+14:27:19 [SEVERE] 	at eu.kennytv.maintenance.core.Settings.<init>(Settings.java:76)
+14:27:19 [SEVERE] 	at eu.kennytv.maintenance.core.proxy.SettingsProxy.<init>(SettingsProxy.java:51)
+14:27:19 [SEVERE] 	at eu.kennytv.maintenance.bungee.MaintenanceBungeePlugin.<init>(MaintenanceBungeePlugin.java:75)
+14:27:19 [SEVERE] 	at eu.kennytv.maintenance.bungee.MaintenanceBungeeBase.onEnable(MaintenanceBungeeBase.java:32)
+14:27:19 [SEVERE] 	at net.md_5.bungee.api.plugin.PluginManager.enablePlugins(PluginManager.java:266)
+14:27:19 [SEVERE] 	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:298)
+14:27:19 [SEVERE] 	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:67)
+14:27:19 [SEVERE] 	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+14:27:19 [SEVERE] Caused by: java.lang.ClassNotFoundException: com.mysql.jdbc.jdbc2.optional.MysqlDataSource
+14:27:19 [SEVERE] 	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass0(PluginClassloader.java:103)
+14:27:19 [SEVERE] 	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass(PluginClassloader.java:59)
+14:27:19 [INFO] [Maintenance] Plugin by KennyTV
+14:27:19 [SEVERE] 	at java.lang.ClassLoader.loadClass(ClassLoader.java:351)
+14:27:19 [SEVERE] 	at eu.kennytv.lib.hikari.util.UtilityElf.createInstance(UtilityElf.java:89)
+14:27:19 [SEVERE] 	... 17 more
+14:27:19 [INFO] Enabled plugin Maintenance version 3.0.5 by KennyTV
+14:27:19 [INFO] Enabled plugin BungeeGuard version 1.3-SNAPSHOT by Luck
+14:27:19 [INFO] Enabled plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:84ac7ab:1864 by SpigotMC
+14:27:19 [SEVERE] Loading class `com.mysql.jdbc.Driver'. This is deprecated. The new driver class is `com.mysql.cj.jdbc.Driver'. The driver is automatically registered via the SPI and manual loading of the driver class is generally unnecessary.
+14:27:20 [INFO] [Maintenance] §cNewest version available: §aVersion 4.2.1§c, you're on §a3.0.5
+14:27:21 [INFO] [santmc-commons] Conectado ao MySQL!
+14:27:23 [INFO] [santmc-commons] O plugin foi ativado.
+14:27:24 [INFO] Enabled plugin santmc-commons version 1.0 by isSync_
+14:27:24 [INFO] Enabled plugin MoveMeNow version 1.2-CUSTOMBUILD by roblabla
+14:27:24 [INFO] Enabled plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:84ac7ab:1864 by SpigotMC
+14:27:24 [INFO] §a[Lobby System] loaded correctly.
+14:27:24 [INFO] §a[Lobby System] 1 lobbys has been added.
+14:27:24 [INFO] Enabled plugin Lobbysystem version 2.4-SNAPSHOT by ObedMz
+14:27:24 [INFO] Enabled plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:84ac7ab:1864 by SpigotMC
+14:27:24 [INFO] §aIniciando JH_Motd...
+14:27:24 [INFO] §aPlugin JH_Motd iniciado.
+14:27:24 [INFO] Enabled plugin JH_Motd version 1.2 by JH3Y50N
+14:27:24 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:84ac7ab:1864 by SpigotMC
+14:27:24 [INFO] Enabled plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:84ac7ab:1864 by SpigotMC
+14:27:24 [INFO] Listening on /0.0.0.0:25565
+14:27:33 [INFO] [nAntiBot] [Captcha] Captchas generated successfully. (RAM usage ≃ 7.9 MB [static only], total = 500, protocol count = 43, threads = 8, took 17.21s)
+15:01:50 [WARNING] [/105.172.23.201:65295] <-> InitialHandler - NativeIoException: recvAddress(..) failed: Connection reset by peer
+15:25:17 [INFO] [/138.204.129.236:56637] <-> InitialHandler has connected
+15:25:18 [INFO] [zPract] <-> ServerConnector [lobby] has connected
+15:25:18 [INFO] [nLogin] O usuário zPract logou automaticamente (conta original)
+15:25:18 [INFO] [/189.84.181.51:4899] <-> InitialHandler has connected
+15:25:18 [INFO] [Shawtn] <-> ServerConnector [login] has connected
+15:25:23 [INFO] [Shawtn] disconnected with: §f§7Para confirmar que você está usando uma §aconta original§7, entre novamente.
+15:25:23 [INFO] [Shawtn] -> UpstreamBridge has disconnected
+15:25:23 [INFO] [Shawtn] <-> DownstreamBridge <-> [login] has disconnected
+15:25:24 [INFO] [Shawtn,/189.84.181.51:4555] <-> InitialHandler has connected
+15:25:24 [WARNING] [LuckPerms] LuckPerms already has data for player 'Shawtn' - but this data is stored under a different UUID.
+15:25:24 [WARNING] [LuckPerms] 'Shawtn' has previously used the unique ids [2b063e1b-4cb7-362e-8859-7cd219e7bf32] but is now connecting with '20e4f0e6-0b62-44e5-9ac8-1b9fbc532ddd'
+15:25:24 [WARNING] [LuckPerms] The UUID the player is connecting with now is Mojang-assigned (type 4). This implies that BungeeCord's IP-Forwarding has not been setup correctly on one (or more) of the backend servers.
+15:25:24 [WARNING] [LuckPerms] The UUID the player is connecting with now is Mojang-assigned (type 4). This implies that one of the other servers in your network is not authenticating correctly.
+15:25:24 [WARNING] [LuckPerms] If you're using BungeeCord/Velocity, please ensure that IP-Forwarding is setup correctly on all of your backend servers!
+15:25:24 [WARNING] [LuckPerms] See here for more info: https://luckperms.net/wiki/Network-Installation#pre-setup
+15:25:24 [INFO] [Shawtn] <-> ServerConnector [lobby] has connected
+15:25:24 [INFO] [nLogin] O usuário Shawtn logou automaticamente (conta original)
+15:25:40 [INFO] [Shawtn] -> UpstreamBridge has disconnected
+15:25:40 [INFO] [Shawtn] <-> DownstreamBridge <-> [lobby] has disconnected
+15:25:42 [INFO] [Shawtn,/189.84.181.51:4855] <-> InitialHandler has connected
+15:25:43 [INFO] [Shawtn] <-> ServerConnector [lobby] has connected
+15:25:43 [INFO] [nLogin] O usuário Shawtn logou automaticamente (conta original)
+15:25:51 [INFO] [Shawtn] -> UpstreamBridge has disconnected
+15:25:51 [INFO] [Shawtn] <-> DownstreamBridge <-> [lobby] has disconnected
+15:25:55 [INFO] [Shawtn,/189.84.181.51:4976] <-> InitialHandler has connected
+15:25:55 [INFO] [Shawtn] <-> ServerConnector [lobby] has connected
+15:25:55 [INFO] [nLogin] O usuário Shawtn logou automaticamente (conta original)
+15:26:07 [INFO] [zPract] <-> ServerConnector [bedwars] has connected
+15:26:07 [INFO] [zPract] <-> DownstreamBridge <-> [lobby] has disconnected
+15:26:10 [INFO] [Shawtn] <-> ServerConnector [bedwars] has connected
+15:26:10 [INFO] [Shawtn] <-> DownstreamBridge <-> [lobby] has disconnected
+15:29:03 [INFO] [HaridadeGANG,/177.223.21.32:28706] <-> InitialHandler has connected
+15:29:04 [INFO] [HaridadeGANG] <-> ServerConnector [lobby] has connected
+15:29:04 [INFO] [nLogin] O usuário HaridadeGANG logou automaticamente (conta original)
+15:29:10 [INFO] [HaridadeGANG] <-> ServerConnector [bedwars] has connected
+15:29:10 [INFO] [HaridadeGANG] <-> DownstreamBridge <-> [lobby] has disconnected
+15:30:14 [INFO] [HaridadeGANG] <-> ServerConnector [lobby] has connected
+15:30:14 [INFO] [HaridadeGANG] <-> DownstreamBridge <-> [bedwars] has disconnected
+15:30:22 [WARNING] [HaridadeGANG] -> UpstreamBridge - NativeIoException: recvAddress(..) failed: Connection reset by peer
+15:30:22 [INFO] [HaridadeGANG] disconnected with: §f§fNativeIoException : recvAddress(..) failed: Connection reset by peer
+15:30:22 [INFO] [HaridadeGANG] <-> DownstreamBridge <-> [lobby] has disconnected
+15:30:22 [INFO] [HaridadeGANG] -> UpstreamBridge has disconnected
+15:32:53 [WARNING] [Shawtn] <-> DownstreamBridge <-> [bedwars] - read timed out
+15:32:53 [INFO] [Shawtn] <-> DownstreamBridge <-> [bedwars] has disconnected
+15:32:53 [INFO] [Shawtn] <-> ServerConnector [lobby] has connected
+15:33:07 [INFO] [zPract] <-> ServerConnector [lobby] has connected
+15:33:07 [INFO] [zPract] <-> DownstreamBridge <-> [bedwars] has disconnected
+15:33:08 [INFO] [Shawtn] -> UpstreamBridge has disconnected
+15:33:08 [INFO] [Shawtn] <-> DownstreamBridge <-> [lobby] has disconnected
+15:33:11 [INFO] [zPract] -> UpstreamBridge has disconnected
+15:33:11 [INFO] [zPract] <-> DownstreamBridge <-> [lobby] has disconnected
+15:44:55 [INFO] §aConfiguração recarregada com sucesso!
+15:44:58 [INFO] §f
+15:44:58 [INFO] §f §8⋆ §7Autenticado: §cnão
+15:44:58 [INFO] §f §8⋆ §7Tipo: §6premium
+15:44:58 [INFO] §f
+15:44:58 [INFO] §f §8⋆ §7Último login: §fhá 19m §b(11/09/2024 às 15:25:18)
+15:44:58 [INFO] §f §8⋆ §7Tempo de registro: §f3d 23h 36m §b(07/09/2024 às 16:08:49)
+15:44:58 [INFO] §f
+15:44:58 [INFO] §f §eDados:
+15:44:58 [INFO] §f  §8⋆ §7Contas: §f[zPract]
+15:44:58 [INFO] §f  §8⋆ §7UUID: §fb6d33c1ecf4848a28de100db253c031f §a(mojang)
+15:44:58 [INFO] §f  §8⋆ §7Último IP: §f138.204.129.236
+15:44:58 [INFO] §f
+15:44:58 [INFO] §f §e⚑ Esta operação foi processada em §f11.79ms§e.
+16:26:46 [WARNING] [/167.94.138.57:60844] <-> InitialHandler - NativeIoException: recvAddress(..) failed: Connection reset by peer
+17:39:46 [INFO] [hopped,/138.185.151.40:9691] <-> InitialHandler has connected
+17:39:46 [INFO] [hopped] <-> ServerConnector [login] has connected
+17:40:17 [INFO] [nLogin] O usuário hopped se registrou com sucesso.
+17:40:17 [INFO] [hopped] <-> ServerConnector [lobby] has connected
+17:40:17 [INFO] [hopped] <-> DownstreamBridge <-> [login] has disconnected
+17:51:25 [INFO] [lonalo_sx,/131.108.127.82:26235] <-> InitialHandler has connected
+17:51:25 [INFO] [lonalo_sx] <-> ServerConnector [login] has connected
+17:51:48 [INFO] [lonalo_sx] -> UpstreamBridge has disconnected
+17:51:48 [INFO] [lonalo_sx] <-> DownstreamBridge <-> [login] has disconnected
+17:51:50 [INFO] [lonalo_sx,/131.108.127.82:26708] <-> InitialHandler has connected
+17:51:50 [INFO] [lonalo_sx] <-> ServerConnector [login] has connected
+17:51:55 [INFO] [lonalo_sx] disconnected with: §f§7Para confirmar que você está usando uma §aconta original§7, entre novamente.
+17:51:55 [INFO] [lonalo_sx] <-> DownstreamBridge <-> [login] has disconnected
+17:51:55 [INFO] [lonalo_sx] -> UpstreamBridge has disconnected
+17:51:56 [INFO] [lonalo_sx,/131.108.127.82:26844] <-> InitialHandler has connected
+17:51:57 [WARNING] [LuckPerms] LuckPerms already has data for player 'lonalo_sx' - but this data is stored under a different UUID.
+17:51:57 [WARNING] [LuckPerms] 'lonalo_sx' has previously used the unique ids [02b5a14d-eeaa-30ad-83db-a76e6744265a] but is now connecting with 'b82f6610-ea6e-432f-8cd9-8fe0faef6dfc'
+17:51:57 [WARNING] [LuckPerms] The UUID the player is connecting with now is Mojang-assigned (type 4). This implies that BungeeCord's IP-Forwarding has not been setup correctly on one (or more) of the backend servers.
+17:51:57 [WARNING] [LuckPerms] The UUID the player is connecting with now is Mojang-assigned (type 4). This implies that one of the other servers in your network is not authenticating correctly.
+17:51:57 [WARNING] [LuckPerms] If you're using BungeeCord/Velocity, please ensure that IP-Forwarding is setup correctly on all of your backend servers!
+17:51:57 [WARNING] [LuckPerms] See here for more info: https://luckperms.net/wiki/Network-Installation#pre-setup
+17:51:57 [INFO] [lonalo_sx] <-> ServerConnector [lobby] has connected
+17:51:57 [INFO] [nLogin] O usuário lonalo_sx logou automaticamente (conta original)
+17:53:36 [INFO] [lonalo_sx] -> UpstreamBridge has disconnected
+17:53:36 [INFO] [lonalo_sx] <-> DownstreamBridge <-> [lobby] has disconnected
+17:59:42 [INFO] [gokualenda01,/179.108.90.179:33823] <-> InitialHandler has connected
+17:59:42 [INFO] [gokualenda01] <-> ServerConnector [login] has connected
+18:00:00 [INFO] [nLogin] O usuário gokualenda01 se registrou com sucesso.
+18:00:01 [INFO] [gokualenda01] <-> ServerConnector [lobby] has connected
+18:00:01 [INFO] [gokualenda01] <-> DownstreamBridge <-> [login] has disconnected
+18:00:37 [WARNING] [gokualenda01] -> UpstreamBridge - read timed out
+18:00:37 [INFO] [gokualenda01] disconnected with: §f§fReadTimeoutException : null
+18:00:37 [INFO] [gokualenda01] -> UpstreamBridge has disconnected
+18:00:37 [INFO] [gokualenda01] <-> DownstreamBridge <-> [lobby] has disconnected
+18:00:48 [INFO] [gokualenda01,/179.108.90.179:33936] <-> InitialHandler has connected
+18:00:48 [INFO] [gokualenda01] <-> ServerConnector [lobby] has connected
+18:01:50 [WARNING] [gokualenda01] -> UpstreamBridge - read timed out
+18:01:50 [INFO] [gokualenda01] disconnected with: §f§fReadTimeoutException : null
+18:01:50 [INFO] [gokualenda01] -> UpstreamBridge has disconnected
+18:01:50 [INFO] [gokualenda01] <-> DownstreamBridge <-> [lobby] has disconnected
+18:05:29 [INFO] [MuriloGR23,/45.134.141.131:64760] <-> InitialHandler has connected
+18:05:29 [INFO] [MuriloGR23] <-> ServerConnector [login] has connected
+18:05:36 [INFO] [nLogin] O usuário MuriloGR23 se registrou com sucesso.
+18:05:36 [INFO] [MuriloGR23] <-> ServerConnector [lobby] has connected
+18:05:36 [INFO] [MuriloGR23] <-> DownstreamBridge <-> [login] has disconnected
+18:05:39 [INFO] [MuriloGR23] <-> ServerConnector [bedwars] has connected
+18:05:39 [INFO] [MuriloGR23] <-> DownstreamBridge <-> [lobby] has disconnected
+18:05:53 [INFO] [MuriloGR23] -> UpstreamBridge has disconnected
+18:05:53 [INFO] [MuriloGR23] <-> DownstreamBridge <-> [bedwars] has disconnected
+18:06:11 [INFO] [MuriloDR,/45.134.141.131:64788] <-> InitialHandler has connected
+18:06:14 [INFO] [MuriloDR,/45.134.141.131:64791] <-> InitialHandler has connected
+18:06:17 [INFO] [MuriloDR,/45.134.141.131:64792] <-> InitialHandler has connected
+18:06:21 [INFO] [MuriloDR,/45.134.141.131:64799] <-> InitialHandler has connected
+18:06:27 [INFO] [MuriloDR,/45.134.141.131:64805] <-> InitialHandler has connected
+18:42:16 [WARNING] [hopped] -> UpstreamBridge - NativeIoException: recvAddress(..) failed: Connection reset by peer
+18:42:16 [INFO] [hopped] disconnected with: §f§fNativeIoException : recvAddress(..) failed: Connection reset by peer
+18:42:16 [INFO] [hopped] <-> DownstreamBridge <-> [lobby] has disconnected
+18:42:16 [INFO] [hopped] -> UpstreamBridge has disconnected
+18:49:34 [INFO] [Volantgamer_13,/179.117.15.97:59463] <-> InitialHandler has connected
+18:49:34 [INFO] [Volantgamer_13] <-> ServerConnector [login] has connected
+18:49:38 [INFO] [nLogin] O usuário Volantgamer_13 se autenticou com sucesso.
+18:49:39 [INFO] [Volantgamer_13] <-> ServerConnector [lobby] has connected
+18:49:39 [INFO] [Volantgamer_13] <-> DownstreamBridge <-> [login] has disconnected
+18:49:44 [INFO] [Volantgamer_13] <-> ServerConnector [bedwars] has connected
+18:49:44 [INFO] [Volantgamer_13] <-> DownstreamBridge <-> [lobby] has disconnected
+19:22:19 [INFO] [yLaas_,/138.185.151.40:9307] <-> InitialHandler has connected
+19:22:20 [INFO] [yLaas_] <-> ServerConnector [lobby] has connected
+19:22:20 [INFO] [nLogin] O usuário yLaas_ logou automaticamente (conta original)
+19:22:26 [INFO] [yLaas_] <-> ServerConnector [bedwars] has connected
+19:22:26 [INFO] [yLaas_] <-> DownstreamBridge <-> [lobby] has disconnected
+19:32:34 [INFO] [yLaas_] -> UpstreamBridge has disconnected
+19:32:34 [INFO] [yLaas_] <-> DownstreamBridge <-> [bedwars] has disconnected
+19:46:38 [INFO] [Volantgamer_13] -> UpstreamBridge has disconnected
+19:46:38 [INFO] [Volantgamer_13] <-> DownstreamBridge <-> [bedwars] has disconnected
+19:58:39 [INFO] [Volantgamer,/179.117.15.97:60808] <-> InitialHandler has connected
+19:58:39 [INFO] [Volantgamer] <-> ServerConnector [lobby] has connected
+19:58:40 [INFO] [nLogin] O usuário Volantgamer logou automaticamente (conta original)
+19:58:59 [INFO] [Volantgamer] <-> ServerConnector [bedwars] has connected
+19:58:59 [INFO] [Volantgamer] <-> DownstreamBridge <-> [lobby] has disconnected
+20:02:50 [INFO] [Volantgamer] -> UpstreamBridge has disconnected
+20:02:50 [INFO] [Volantgamer] <-> DownstreamBridge <-> [bedwars] has disconnected
+20:40:21 [INFO] [Volantgamer,/179.117.15.97:61667] <-> InitialHandler has connected
+20:40:22 [INFO] [Volantgamer] <-> ServerConnector [lobby] has connected
+20:40:22 [INFO] [nLogin] O usuário Volantgamer logou automaticamente (conta original)
+20:40:36 [INFO] [Volantgamer] <-> ServerConnector [bedwars] has connected
+20:40:36 [INFO] [Volantgamer] <-> DownstreamBridge <-> [lobby] has disconnected
+20:45:46 [INFO] [Volantgamer] -> UpstreamBridge has disconnected
+20:45:46 [INFO] [Volantgamer] <-> DownstreamBridge <-> [bedwars] has disconnected
+20:45:51 [INFO] [Volantgamer,/179.117.15.97:61753] <-> InitialHandler has connected
+20:45:52 [INFO] [Volantgamer] <-> ServerConnector [lobby] has connected
+20:45:52 [INFO] [nLogin] O usuário Volantgamer logou automaticamente (conta original)
+20:46:10 [INFO] [Volantgamer] <-> ServerConnector [bedwars] has connected
+20:46:10 [INFO] [Volantgamer] <-> DownstreamBridge <-> [lobby] has disconnected
+20:47:57 [INFO] [Saturday__,/45.226.85.11:61961] <-> InitialHandler has connected
+20:47:57 [INFO] [Saturday__] <-> ServerConnector [login] has connected
+20:48:02 [INFO] [Saturday__] disconnected with: §f§7Para confirmar que você está usando uma §aconta original§7, entre novamente.
+20:48:02 [INFO] [Saturday__] <-> DownstreamBridge <-> [login] has disconnected
+20:48:02 [INFO] [Saturday__] -> UpstreamBridge has disconnected
+20:48:09 [INFO] [Saturday__,/45.226.85.11:61969] <-> InitialHandler has connected
+20:48:10 [WARNING] [LuckPerms] LuckPerms already has data for player 'Saturday__' - but this data is stored under a different UUID.
+20:48:10 [WARNING] [LuckPerms] 'Saturday__' has previously used the unique ids [5049bebc-a877-39dc-86e4-c68c6ffed480] but is now connecting with '354a91ae-93a1-4cff-9d10-e9885a355a12'
+20:48:10 [WARNING] [LuckPerms] The UUID the player is connecting with now is Mojang-assigned (type 4). This implies that BungeeCord's IP-Forwarding has not been setup correctly on one (or more) of the backend servers.
+20:48:10 [WARNING] [LuckPerms] The UUID the player is connecting with now is Mojang-assigned (type 4). This implies that one of the other servers in your network is not authenticating correctly.
+20:48:10 [WARNING] [LuckPerms] If you're using BungeeCord/Velocity, please ensure that IP-Forwarding is setup correctly on all of your backend servers!
+20:48:10 [WARNING] [LuckPerms] See here for more info: https://luckperms.net/wiki/Network-Installation#pre-setup
+20:48:10 [INFO] [Saturday__] <-> ServerConnector [lobby] has connected
+20:48:10 [INFO] [nLogin] O usuário Saturday__ logou automaticamente (conta original)
+20:48:15 [INFO] [Saturday__] <-> ServerConnector [bedwars] has connected
+20:48:16 [INFO] [Saturday__] <-> DownstreamBridge <-> [lobby] has disconnected
+20:48:46 [INFO] [Volantgamer] -> UpstreamBridge has disconnected
+20:48:46 [INFO] [Volantgamer] <-> DownstreamBridge <-> [bedwars] has disconnected
+20:48:53 [INFO] [Saturday__] -> UpstreamBridge has disconnected
+20:48:53 [INFO] [Saturday__] <-> DownstreamBridge <-> [bedwars] has disconnected
+22:33:17 [INFO] [DanaPirata,/177.37.153.165:45475] <-> InitialHandler has connected
+22:33:17 [INFO] [DanaPirata] <-> ServerConnector [login] has connected
+22:34:00 [INFO] [nLogin] O usuário DanaPirata se autenticou com sucesso.
+22:34:01 [INFO] [DanaPirata] <-> ServerConnector [lobby] has connected
+22:34:01 [INFO] [DanaPirata] <-> DownstreamBridge <-> [login] has disconnected
+22:34:05 [INFO] [DanaPirata] <-> ServerConnector [bedwars] has connected
+22:34:05 [INFO] [DanaPirata] <-> DownstreamBridge <-> [lobby] has disconnected
+22:34:23 [INFO] [DanaPirata,/177.37.153.165:45139] <-> InitialHandler has connected
+22:34:23 [INFO] [DanaPirata] disconnected with: §cEste jogador já está online.
+22:34:23 [INFO] [DanaPirata] <-> DownstreamBridge <-> [bedwars] has disconnected
+22:34:24 [INFO] [DanaPirata] -> UpstreamBridge has disconnected
+22:34:26 [INFO] [DanaPirata,/177.37.153.165:45295] <-> InitialHandler has connected
+22:34:26 [INFO] [DanaPirata] <-> ServerConnector [lobby] has connected
+22:34:26 [INFO] [nLogin] O usuário DanaPirata logou automaticamente (sessão de login)
+22:34:30 [INFO] [DanaPirata] <-> ServerConnector [bedwars] has connected
+22:34:30 [INFO] [DanaPirata] <-> DownstreamBridge <-> [lobby] has disconnected
+22:36:29 [INFO] [DanaPirata] -> UpstreamBridge has disconnected
+22:36:29 [INFO] [DanaPirata] <-> DownstreamBridge <-> [bedwars] has disconnected
+22:48:15 [INFO] [zPract,/138.204.129.240:57641] <-> InitialHandler has connected
+22:48:21 [INFO] [zPract] <-> ServerConnector [lobby] has connected
+22:48:21 [INFO] [nLogin] O usuário zPract logou automaticamente (conta original)
+22:51:05 [INFO] [zPract] -> UpstreamBridge has disconnected
+22:51:05 [INFO] [zPract] <-> DownstreamBridge <-> [lobby] has disconnected
+22:51:20 [INFO] [Saturday__,/45.226.85.11:61622] <-> InitialHandler has connected
+22:51:20 [INFO] [Saturday__] <-> ServerConnector [lobby] has connected
+22:51:20 [INFO] [nLogin] O usuário Saturday__ logou automaticamente (conta original)
+22:51:33 [INFO] [Saturday__] <-> ServerConnector [bedwars] has connected
+22:51:33 [INFO] [Saturday__] <-> DownstreamBridge <-> [lobby] has disconnected
+22:52:32 [INFO] [Saturday__] -> UpstreamBridge has disconnected
+22:52:32 [INFO] [Saturday__] <-> DownstreamBridge <-> [bedwars] has disconnected
+23:00:13 [INFO] [kaikhg_zin,/189.5.179.200:15384] <-> InitialHandler has connected
+23:00:13 [INFO] [kaikhg_zin] <-> ServerConnector [login] has connected
+23:00:22 [INFO] [nLogin] O usuário kaikhg_zin se registrou com sucesso.
+23:00:22 [INFO] [kaikhg_zin] <-> ServerConnector [lobby] has connected
+23:00:23 [INFO] [kaikhg_zin] <-> DownstreamBridge <-> [login] has disconnected
+23:00:30 [INFO] [kaikhg_zin] <-> ServerConnector [bedwars] has connected
+23:00:30 [INFO] [kaikhg_zin] <-> DownstreamBridge <-> [lobby] has disconnected
+23:01:27 [INFO] [kaikhg_zin] -> UpstreamBridge has disconnected
+23:01:27 [INFO] [kaikhg_zin] <-> DownstreamBridge <-> [bedwars] has disconnected
+23:18:14 [INFO] [HaridadeGANG,/177.223.21.32:29235] <-> InitialHandler has connected
+23:18:15 [INFO] [HaridadeGANG] <-> ServerConnector [lobby] has connected
+23:18:15 [INFO] [nLogin] O usuário HaridadeGANG logou automaticamente (conta original)
+23:18:18 [INFO] [HaridadeGANG] <-> ServerConnector [bedwars] has connected
+23:18:18 [INFO] [HaridadeGANG] <-> DownstreamBridge <-> [lobby] has disconnected
+23:19:16 [WARNING] [HaridadeGANG] -> UpstreamBridge - NativeIoException: recvAddress(..) failed: Connection reset by peer
+23:19:16 [INFO] [HaridadeGANG] disconnected with: §f§fNativeIoException : recvAddress(..) failed: Connection reset by peer
+23:19:16 [INFO] [HaridadeGANG] <-> DownstreamBridge <-> [bedwars] has disconnected
+23:19:16 [INFO] [HaridadeGANG] -> UpstreamBridge has disconnected
+23:37:37 [INFO] [/45.169.35.228:44262] <-> InitialHandler has connected
+23:37:37 [INFO] [Otavio_Joga] <-> ServerConnector [login] has connected
+23:37:37 [INFO] [Otavio_Joga] <-> ServerConnector [login] has disconnected
+23:38:07 [WARNING] [Otavio_Joga] -> UpstreamBridge - read timed out
+23:38:07 [INFO] [Otavio_Joga] disconnected with: §f§fReadTimeoutException : null
+23:38:07 [INFO] [Otavio_Joga] -> UpstreamBridge has disconnected
+23:38:12 [INFO] [Otavio_Joga,/45.169.35.228:44339] <-> InitialHandler has connected
+23:38:12 [INFO] [Otavio_Joga] <-> ServerConnector [login] has connected
+23:38:12 [INFO] [Otavio_Joga] <-> ServerConnector [login] has disconnected
+23:38:42 [WARNING] [Otavio_Joga] -> UpstreamBridge - read timed out
+23:38:42 [INFO] [Otavio_Joga] disconnected with: §f§fReadTimeoutException : null
+23:38:42 [INFO] [Otavio_Joga] -> UpstreamBridge has disconnected
+23:38:50 [INFO] [Yukizkkj,/186.224.143.241:45612] <-> InitialHandler has connected
+23:38:50 [INFO] [Yukizkkj] <-> ServerConnector [login] has connected
+23:38:52 [INFO] [Yukizkkj] disconnected with: §f§7Para confirmar que você está usando uma §aconta original§7, entre novamente.
+23:38:52 [INFO] [Yukizkkj] <-> DownstreamBridge <-> [login] has disconnected
+23:38:52 [INFO] [Yukizkkj] -> UpstreamBridge has disconnected
+23:38:53 [INFO] [Yukizkkj,/186.224.143.241:46098] <-> InitialHandler has connected
+23:38:54 [INFO] [nLogin] The premium name Estimada_ has been changed to Yukizkkj, migrating UUID if possible...
+23:38:54 [WARNING] [LuckPerms] LuckPerms already has data for player 'Yukizkkj' - but this data is stored under a different UUID.
+23:38:54 [WARNING] [LuckPerms] 'Yukizkkj' has previously used the unique ids [ad08bf54-c3c6-3d21-a79d-daf9da4dea27] but is now connecting with '887de53e-e7e1-43d0-b925-26131aae2ad7'
+23:38:54 [WARNING] [LuckPerms] The UUID the player is connecting with now is Mojang-assigned (type 4). This implies that BungeeCord's IP-Forwarding has not been setup correctly on one (or more) of the backend servers.
+23:38:54 [WARNING] [LuckPerms] The UUID the player is connecting with now is Mojang-assigned (type 4). This implies that one of the other servers in your network is not authenticating correctly.
+23:38:54 [WARNING] [LuckPerms] If you're using BungeeCord/Velocity, please ensure that IP-Forwarding is setup correctly on all of your backend servers!
+23:38:54 [WARNING] [LuckPerms] See here for more info: https://luckperms.net/wiki/Network-Installation#pre-setup
+23:38:54 [INFO] [Yukizkkj] <-> ServerConnector [lobby] has connected
+23:38:54 [INFO] [nLogin] O usuário Yukizkkj logou automaticamente (conta original)
+23:39:01 [INFO] [Yukizkkj] <-> ServerConnector [bedwars] has connected
+23:39:01 [INFO] [Yukizkkj] <-> DownstreamBridge <-> [lobby] has disconnected
+23:40:50 [INFO] [Yukizkkj] -> UpstreamBridge has disconnected
+23:40:50 [INFO] [Yukizkkj] <-> DownstreamBridge <-> [bedwars] has disconnected
+01:07:35 [WARNING] [/186.233.26.185:59358] <-> InitialHandler - NativeIoException: recvAddress(..) failed: Connection reset by peer
+01:38:10 [INFO] [Rexgaatado,/179.107.215.56:7142] <-> InitialHandler has connected
+01:38:10 [INFO] [Rexgaatado] <-> ServerConnector [login] has connected
+01:38:17 [INFO] [Rexgaatado] disconnected with: §cVocê inseriu a senha incorreta.
+01:38:17 [INFO] [Rexgaatado] <-> DownstreamBridge <-> [login] has disconnected
+01:38:17 [INFO] [Rexgaatado] -> UpstreamBridge has disconnected
+01:38:18 [INFO] [Rexgaatado,/179.107.215.56:7682] <-> InitialHandler has connected
+01:38:18 [INFO] [Rexgaatado] <-> ServerConnector [login] has connected
+01:38:20 [INFO] [nLogin] O usuário Rexgaatado se autenticou com sucesso.
+01:38:21 [INFO] [Rexgaatado] <-> ServerConnector [lobby] has connected
+01:38:21 [INFO] [Rexgaatado] <-> DownstreamBridge <-> [login] has disconnected
+01:38:30 [INFO] [Rexgaatado] <-> ServerConnector [bedwars] has connected
+01:38:30 [INFO] [Rexgaatado] <-> DownstreamBridge <-> [lobby] has disconnected
+01:42:02 [INFO] [Rexgaatado] -> UpstreamBridge has disconnected
+01:42:02 [INFO] [Rexgaatado] <-> DownstreamBridge <-> [bedwars] has disconnected
+06:43:42 [INFO] [nAntiBot] §aConnection re-established with remote server
+12:47:33 [INFO] [cacaushow_br,/45.224.27.165:11378] <-> InitialHandler has connected
+12:47:34 [INFO] [cacaushow_br] <-> ServerConnector [lobby] has connected
+12:47:34 [INFO] [santmc-commons] Reconectado ao MySQL!
+12:47:34 [INFO] [nLogin] O usuário cacaushow_br logou automaticamente (conta original)
+12:47:43 [INFO] [cacaushow_br] <-> ServerConnector [bedwars] has connected
+12:47:43 [INFO] [cacaushow_br] <-> DownstreamBridge <-> [lobby] has disconnected
+14:10:08 [INFO] [Ricardore,/177.44.178.181:61842] <-> InitialHandler has connected
+14:10:09 [INFO] [Ricardore] <-> ServerConnector [lobby] has connected
+14:10:09 [INFO] [nLogin] O usuário Ricardore logou automaticamente (conta original)
+14:10:15 [INFO] [Ricardore] <-> ServerConnector [bedwars] has connected
+14:10:15 [INFO] [Ricardore] <-> DownstreamBridge <-> [lobby] has disconnected
+14:10:53 [INFO] [Ricardore] -> UpstreamBridge has disconnected
+14:10:53 [INFO] [Ricardore] <-> DownstreamBridge <-> [bedwars] has disconnected
+14:21:30 [INFO] [/45.169.35.228:44245] <-> InitialHandler has connected
+14:21:30 [INFO] [Otavio_Joga] <-> ServerConnector [login] has connected
+14:21:30 [INFO] [Otavio_Joga] <-> ServerConnector [login] has disconnected
+14:22:00 [WARNING] [Otavio_Joga] -> UpstreamBridge - read timed out
+14:22:00 [INFO] [Otavio_Joga] disconnected with: §f§fReadTimeoutException : null
+14:22:00 [INFO] [Otavio_Joga] -> UpstreamBridge has disconnected
+14:22:03 [INFO] [/45.169.35.228:44350] <-> InitialHandler has connected
+14:22:03 [INFO] [Otavio_Joga] <-> ServerConnector [login] has connected
+14:22:03 [WARNING] [Otavio_Joga] <-> ServerConnector [login] - NativeIoException: recvAddress(..) failed: Connection reset by peer
+14:22:03 [INFO] [Otavio_Joga] <-> ServerConnector [login] has disconnected
+14:22:12 [WARNING] [LiteAnnouncer] An error occured while sending auto-message to players!
+14:22:12 [SEVERE] java.lang.NullPointerException
+14:22:12 [SEVERE] 	at me.litefine.announcer.managers.AnnounceTask.lambda$sendMessage$1(AnnounceTask.java:50)
+14:22:12 [SEVERE] 	at java.lang.Iterable.forEach(Iterable.java:75)
+14:22:12 [SEVERE] 	at java.util.Collections$UnmodifiableCollection.forEach(Collections.java:1082)
+14:22:12 [SEVERE] 	at me.litefine.announcer.managers.AnnounceTask.sendMessage(AnnounceTask.java:49)
+14:22:12 [SEVERE] 	at me.litefine.announcer.managers.AnnounceTask.run(AnnounceTask.java:34)
+14:22:12 [SEVERE] 	at net.md_5.bungee.scheduler.BungeeTask.run(BungeeTask.java:63)
+14:22:12 [SEVERE] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+14:22:12 [SEVERE] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+14:22:12 [SEVERE] 	at java.lang.Thread.run(Thread.java:748)
+14:22:33 [WARNING] [Otavio_Joga] -> UpstreamBridge - read timed out
+14:22:33 [INFO] [Otavio_Joga] disconnected with: §f§fReadTimeoutException : null
+14:22:33 [INFO] [Otavio_Joga] -> UpstreamBridge has disconnected
+14:30:25 [INFO] [HaridadeGANG,/138.219.240.158:25664] <-> InitialHandler has connected
+14:30:25 [INFO] [HaridadeGANG] <-> ServerConnector [lobby] has connected
+14:30:26 [INFO] [nLogin] O usuário HaridadeGANG logou automaticamente (conta original)
+14:30:34 [INFO] [HaridadeGANG] disconnected with: §fCannot interact with self!
+14:30:34 [INFO] [HaridadeGANG] -> UpstreamBridge has disconnected
+14:30:34 [INFO] [HaridadeGANG] <-> DownstreamBridge <-> [lobby] has disconnected
+14:30:43 [INFO] [HaridadeGANG,/138.219.240.158:25604] <-> InitialHandler has connected
+14:30:43 [INFO] [HaridadeGANG] <-> ServerConnector [lobby] has connected
+14:30:43 [INFO] [nLogin] O usuário HaridadeGANG logou automaticamente (conta original)
+14:30:49 [INFO] [HaridadeGANG] disconnected with: §fCannot interact with self!
+14:30:49 [INFO] [HaridadeGANG] -> UpstreamBridge has disconnected
+14:30:49 [INFO] [HaridadeGANG] <-> DownstreamBridge <-> [lobby] has disconnected
+14:31:03 [INFO] [HaridadeGANG,/138.219.240.158:25380] <-> InitialHandler has connected
+14:31:03 [INFO] [HaridadeGANG] <-> ServerConnector [lobby] has connected
+14:31:03 [INFO] [nLogin] O usuário HaridadeGANG logou automaticamente (conta original)
+14:32:33 [INFO] [HaridadeGANG] <-> ServerConnector [bedwars] has connected
+14:32:33 [INFO] [HaridadeGANG] <-> DownstreamBridge <-> [lobby] has disconnected
+14:32:50 [INFO] [HaridadeGANG] <-> ServerConnector [lobby] has connected
+14:32:50 [INFO] [HaridadeGANG] <-> DownstreamBridge <-> [bedwars] has disconnected
+14:34:32 [INFO] [HaridadeGANG] disconnected with: §fServidor reniciando!
+14:34:32 [INFO] [HaridadeGANG] -> UpstreamBridge has disconnected
+14:34:32 [INFO] [HaridadeGANG] <-> DownstreamBridge <-> [lobby] has disconnected
+14:34:47 [INFO] [HaridadeGANG,/138.219.240.158:25950] <-> InitialHandler has connected
+14:34:47 [INFO] [HaridadeGANG] <-> ServerConnector [lobby] has connected
+14:34:47 [INFO] [nLogin] O usuário HaridadeGANG logou automaticamente (conta original)
+14:35:05 [INFO] [HaridadeGANG] -> UpstreamBridge has disconnected
+14:35:05 [INFO] [HaridadeGANG] <-> DownstreamBridge <-> [lobby] has disconnected
+14:35:06 [INFO] [HaridadeGANG,/138.219.240.158:25320] <-> InitialHandler has connected
+14:35:07 [INFO] [HaridadeGANG] <-> ServerConnector [lobby] has connected
+14:35:07 [INFO] [nLogin] O usuário HaridadeGANG logou automaticamente (conta original)
+14:35:13 [INFO] [HaridadeGANG] -> UpstreamBridge has disconnected
+14:35:13 [INFO] [HaridadeGANG] <-> DownstreamBridge <-> [lobby] has disconnected
+14:35:14 [INFO] [HaridadeGANG,/138.219.240.158:26198] <-> InitialHandler has connected
+14:35:15 [INFO] [HaridadeGANG] <-> ServerConnector [lobby] has connected
+14:35:15 [INFO] [nLogin] O usuário HaridadeGANG logou automaticamente (conta original)
+14:37:14 [INFO] [cacaushow_br] <-> ServerConnector [lobby] has connected
+14:37:14 [INFO] [cacaushow_br] <-> DownstreamBridge <-> [bedwars] has disconnected
+14:38:40 [INFO] [cacaushow_br] -> UpstreamBridge has disconnected
+14:38:40 [INFO] [cacaushow_br] <-> DownstreamBridge <-> [lobby] has disconnected
+14:39:55 [INFO] [HaridadeGANG] -> UpstreamBridge has disconnected
+14:39:55 [INFO] [HaridadeGANG] <-> DownstreamBridge <-> [lobby] has disconnected
+14:46:50 [INFO] §aConfiguração recarregada com sucesso!
+14:47:09 [INFO] Closing listener [id: 0x03e2894d, L:/0:0:0:0:0:0:0:0%0:25565]
+14:47:09 [INFO] Closing pending connections
+14:47:09 [INFO] Disconnecting 0 connections
+14:47:09 [INFO] Saving reconnect locations
+14:47:09 [INFO] Disabling plugins
+14:47:09 [INFO] [santmc-commons] O plugin foi desativado.
+14:47:09 [INFO] [nAntiBot] Successful plugin core shutdown (took 0.00s)
+14:47:09 [INFO] [nAntiBot] Disconnecting from remote server...
+14:47:11 [INFO] [nLogin] Successful plugin core shutdown (took 0.00s)
+14:47:11 [SEVERE] [Shutdown Thread] INFO com.nickuc.login.lib.hikari.HikariDataSource - nlogin-hikaricp - Shutdown initiated...
+14:47:11 [SEVERE] [Shutdown Thread] INFO com.nickuc.login.lib.hikari.HikariDataSource - nlogin-hikaricp - Shutdown completed.
+14:47:11 [INFO] [LuckPerms] Starting shutdown process...
+14:47:11 [INFO] [LuckPerms] Closing messaging service...
+14:47:11 [INFO] [LuckPerms] Closing storage...
+14:47:11 [INFO] luckperms-hikari - Shutdown initiated...
+14:47:11 [INFO] luckperms-hikari - Shutdown completed.
+14:47:11 [INFO] [LuckPerms] Goodbye!
+14:47:11 [INFO] [LiteAnnouncer] Plugin disabled!
+14:47:11 [INFO] Closing IO threads
+14:47:11 [INFO] Thank you and goodbye
+14:47:14 [INFO] Using mbed TLS based native cipher.
+14:47:14 [INFO] Using zlib based native compressor.
+14:47:14 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.21-R0.1-SNAPSHOT:84ac7ab:1864
+14:47:14 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+14:47:14 [INFO] Epoll is working, utilising it!
+14:47:14 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+14:47:14 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+14:47:14 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+14:47:14 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+14:47:14 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+14:47:14 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+14:47:14 [INFO] Loaded plugin LiteAnnouncer version 6.3.1 by LITEFINE
+14:47:14 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:84ac7ab:1864 by SpigotMC
+14:47:15 [INFO] Loaded plugin LuckPerms version 5.3.71 by Luck
+14:47:16 [INFO] Loaded plugin nLogin version 10.2.7 by NickUC
+14:47:18 [INFO] Loaded plugin nAntiBot version 6.1.24 by NickUC
+14:47:18 [INFO] Loaded plugin Maintenance version 3.0.5 by KennyTV
+14:47:18 [INFO] Loaded plugin BungeeGuard version 1.3-SNAPSHOT by Luck
+14:47:18 [INFO] Loaded plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:84ac7ab:1864 by SpigotMC
+14:47:18 [INFO] Loaded plugin santmc-commons version 1.0 by isSync_
+14:47:18 [INFO] Loaded plugin MoveMeNow version 1.2-CUSTOMBUILD by roblabla
+14:47:18 [INFO] Loaded plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:84ac7ab:1864 by SpigotMC
+14:47:18 [INFO] Loaded plugin Lobbysystem version 2.4-SNAPSHOT by ObedMz
+14:47:18 [INFO] Loaded plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:84ac7ab:1864 by SpigotMC
+14:47:18 [INFO] Loaded plugin JH_Motd version 1.2 by JH3Y50N
+14:47:18 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:84ac7ab:1864 by SpigotMC
+14:47:18 [INFO] Loaded plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:84ac7ab:1864 by SpigotMC
+14:47:18 [INFO] [LiteAnnouncer] Plugin enabled. Version: 6.3.1. Made by LITEFINE.
+14:47:18 [INFO] Enabled plugin LiteAnnouncer version 6.3.1 by LITEFINE
+14:47:18 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:84ac7ab:1864 by SpigotMC
+14:47:19 [INFO] §b       §3 __    
+14:47:19 [INFO] §b  |    §3|__)   §2LuckPerms§r §bv5.3.71
+14:47:19 [INFO] §b  |___ §3|      §8Running on BungeeCord - BungeeCord
+14:47:19 [INFO] 
+14:47:19 [INFO] [LuckPerms] Loading configuration...
+14:47:19 [INFO] [LuckPerms] Loading storage provider... [MYSQL]
+14:47:19 [INFO] luckperms-hikari - Starting...
+14:47:19 [INFO] luckperms-hikari - Start completed.
+14:47:21 [INFO] [LuckPerms] Loading messaging service... [SQL]
+14:47:21 [INFO] [LuckPerms] Loading internal permission managers...
+14:47:21 [INFO] [LuckPerms] Performing initial data load...
+14:47:21 [INFO] [LuckPerms] Successfully enabled. (took 3286ms)
+14:47:21 [INFO] Enabled plugin LuckPerms version 5.3.71 by Luck
+14:47:22 [INFO] [nLogin] Successful plugin core start (took 0.29s)
+14:47:22 [INFO] §9          __             _       
+14:47:22 [INFO] §9  _ __   / /  ___   __ _(_)_ __  
+14:47:22 [INFO] §9 | '_ \ / /  / _ \ / _` | | '_ \ 
+14:47:22 [INFO] §9 | | | / /__| (_) | (_| | | | | |
+14:47:22 [INFO] §9 |_| |_\____/\___/ \__, |_|_| |_|
+14:47:22 [INFO] §9                  |___/            
+14:47:22 [INFO] §9 By: §9www.nickuc.com§9 - V 10.2.7 DEVELOPMENT
+14:47:22 [INFO] §9 
+14:47:23 [SEVERE] SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+14:47:23 [SEVERE] SLF4J: Defaulting to no-operation (NOP) logger implementation
+14:47:23 [SEVERE] SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+14:47:23 [SEVERE] SLF4J: Failed to load class "org.slf4j.impl.StaticMDCBinder".
+14:47:23 [SEVERE] SLF4J: Defaulting to no-operation MDCAdapter implementation.
+14:47:23 [SEVERE] SLF4J: See http://www.slf4j.org/codes.html#no_static_mdc_binder for further details.
+14:47:24 [SEVERE] [main] INFO JDA - Login Successful!
+14:47:24 [SEVERE] [JDA MainWS-ReadThread] INFO WebSocketClient - Connected to WebSocket
+14:47:25 [SEVERE] [JDA MainWS-ReadThread] INFO JDA - Finished Loading!
+14:47:25 [INFO] [nLogin] §a[Discord] Conexão com o Discord foi realizada com sucesso!
+14:47:25 [SEVERE] [main] INFO com.nickuc.login.lib.hikari.HikariDataSource - nlogin-hikaricp - Starting...
+14:47:26 [SEVERE] [main] INFO com.nickuc.login.lib.hikari.HikariDataSource - nlogin-hikaricp - Start completed.
+14:47:26 [INFO] Enabled plugin nLogin version 10.2.7 by NickUC
+14:47:27 [INFO] [nAntiBot] Successful plugin core start (took 0.20s)
+14:47:27 [INFO] §c          _         _   _   ___       _   
+14:47:27 [INFO] §c  _ __   /_\  _ __ | |_(_) / __\ ___ | |_ 
+14:47:27 [INFO] §c | '_ \ //_\\| '_ \| __| |/__\/// _ \| __|
+14:47:27 [INFO] §c | | | /  _  \ | | | |_| / \/  \ (_) | |_ 
+14:47:27 [INFO] §c |_| |_\_/ \_/_| |_|\__|_\_____/\___/ \__|
+14:47:27 [INFO] §c                                         
+14:47:27 [INFO] §c By: §cwww.nickuc.com§c - V 6.1.24
+14:47:27 [INFO] §f
+14:47:29 [INFO] [nAntiBot] §aConnecting to the remote server antibot.nickuc.com...
+14:47:29 [INFO] Enabled plugin nAntiBot version 6.1.24 by NickUC
+14:47:30 [INFO] [Maintenance] Trying to open database connection... (also, you can simply ignore the SLF4J soft-warning if it shows up)
+14:47:30 [SEVERE] SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+14:47:30 [SEVERE] SLF4J: Defaulting to no-operation (NOP) logger implementation
+14:47:30 [SEVERE] SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+14:47:30 [WARNING] [Maintenance] Error while trying do open database connection!
+14:47:30 [SEVERE] java.lang.RuntimeException: java.lang.ClassNotFoundException: com.mysql.jdbc.jdbc2.optional.MysqlDataSource
+14:47:30 [SEVERE] 	at eu.kennytv.lib.hikari.util.UtilityElf.createInstance(UtilityElf.java:102)
+14:47:30 [SEVERE] 	at eu.kennytv.lib.hikari.pool.PoolBase.initializeDataSource(PoolBase.java:317)
+14:47:30 [SEVERE] 	at eu.kennytv.lib.hikari.pool.PoolBase.<init>(PoolBase.java:110)
+14:47:30 [SEVERE] 	at eu.kennytv.lib.hikari.pool.HikariPool.<init>(HikariPool.java:108)
+14:47:30 [SEVERE] 	at eu.kennytv.lib.hikari.HikariDataSource.<init>(HikariDataSource.java:81)
+14:47:30 [SEVERE] 	at eu.kennytv.maintenance.core.proxy.mysql.MySQL.<init>(MySQL.java:53)
+14:47:30 [SEVERE] 	at eu.kennytv.maintenance.core.proxy.SettingsProxy.setupMySQL(SettingsProxy.java:69)
+14:47:30 [SEVERE] 	at eu.kennytv.maintenance.core.proxy.SettingsProxy.loadExtraSettings(SettingsProxy.java:86)
+14:47:30 [SEVERE] 	at eu.kennytv.maintenance.core.Settings.loadSettings(Settings.java:205)
+14:47:30 [SEVERE] 	at eu.kennytv.maintenance.core.Settings.reloadConfigs(Settings.java:91)
+14:47:30 [SEVERE] 	at eu.kennytv.maintenance.core.Settings.<init>(Settings.java:76)
+14:47:30 [SEVERE] 	at eu.kennytv.maintenance.core.proxy.SettingsProxy.<init>(SettingsProxy.java:51)
+14:47:30 [SEVERE] 	at eu.kennytv.maintenance.bungee.MaintenanceBungeePlugin.<init>(MaintenanceBungeePlugin.java:75)
+14:47:30 [SEVERE] 	at eu.kennytv.maintenance.bungee.MaintenanceBungeeBase.onEnable(MaintenanceBungeeBase.java:32)
+14:47:30 [SEVERE] 	at net.md_5.bungee.api.plugin.PluginManager.enablePlugins(PluginManager.java:266)
+14:47:30 [SEVERE] 	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:298)
+14:47:30 [SEVERE] 	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:67)
+14:47:30 [SEVERE] 	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+14:47:30 [SEVERE] Caused by: java.lang.ClassNotFoundException: com.mysql.jdbc.jdbc2.optional.MysqlDataSource
+14:47:30 [SEVERE] 	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass0(PluginClassloader.java:103)
+14:47:30 [SEVERE] 	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass(PluginClassloader.java:59)
+14:47:30 [SEVERE] 	at java.lang.ClassLoader.loadClass(ClassLoader.java:351)
+14:47:30 [SEVERE] 	at eu.kennytv.lib.hikari.util.UtilityElf.createInstance(UtilityElf.java:89)
+14:47:30 [SEVERE] 	... 17 more
+14:47:30 [INFO] [Maintenance] Plugin by KennyTV
+14:47:30 [INFO] Enabled plugin Maintenance version 3.0.5 by KennyTV
+14:47:30 [INFO] Enabled plugin BungeeGuard version 1.3-SNAPSHOT by Luck
+14:47:30 [INFO] Enabled plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:84ac7ab:1864 by SpigotMC
+14:47:30 [SEVERE] Loading class `com.mysql.jdbc.Driver'. This is deprecated. The new driver class is `com.mysql.cj.jdbc.Driver'. The driver is automatically registered via the SPI and manual loading of the driver class is generally unnecessary.
+14:47:31 [INFO] [Maintenance] §cNewest version available: §aVersion 4.2.1§c, you're on §a3.0.5
+14:47:33 [INFO] [santmc-commons] Conectado ao MySQL!
+14:47:35 [INFO] [santmc-commons] O plugin foi ativado.
+14:47:35 [INFO] Enabled plugin santmc-commons version 1.0 by isSync_
+14:47:35 [INFO] Enabled plugin MoveMeNow version 1.2-CUSTOMBUILD by roblabla
+14:47:35 [INFO] Enabled plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:84ac7ab:1864 by SpigotMC
+14:47:35 [INFO] §a[Lobby System] loaded correctly.
+14:47:35 [INFO] §a[Lobby System] 1 lobbys has been added.
+14:47:35 [INFO] Enabled plugin Lobbysystem version 2.4-SNAPSHOT by ObedMz
+14:47:35 [INFO] Enabled plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:84ac7ab:1864 by SpigotMC
+14:47:35 [INFO] §aIniciando JH_Motd...
+14:47:35 [INFO] §aPlugin JH_Motd iniciado.
+14:47:35 [INFO] Enabled plugin JH_Motd version 1.2 by JH3Y50N
+14:47:35 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:84ac7ab:1864 by SpigotMC
+14:47:35 [INFO] Enabled plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:84ac7ab:1864 by SpigotMC
+14:47:35 [INFO] Listening on /0.0.0.0:25565
+14:47:44 [INFO] [nAntiBot] [Captcha] Captchas generated successfully. (RAM usage ≃ 7.9 MB [static only], total = 500, protocol count = 43, threads = 8, took 17.29s)
+14:53:59 [INFO] [/138.219.240.158:25226] <-> InitialHandler has connected
+14:54:00 [INFO] [HaridadeGANG] <-> ServerConnector [lobby] has connected
+14:54:00 [INFO] [nLogin] O usuário HaridadeGANG logou automaticamente (conta original)
+14:54:15 [INFO] [HaridadeGANG] disconnected with: §fCannot interact with self!
+14:54:15 [INFO] [HaridadeGANG] -> UpstreamBridge has disconnected
+14:54:15 [INFO] [HaridadeGANG] <-> DownstreamBridge <-> [lobby] has disconnected
+14:55:17 [INFO] [HaridadeGANG,/138.219.240.158:26135] <-> InitialHandler has connected
+14:55:18 [INFO] [HaridadeGANG] <-> ServerConnector [lobby] has connected
+14:55:18 [INFO] [nLogin] O usuário HaridadeGANG logou automaticamente (conta original)
+14:58:37 [INFO] [HaridadeGANG] disconnected with: §fServidor reniciando!
+14:58:37 [INFO] [HaridadeGANG] -> UpstreamBridge has disconnected
+14:58:37 [INFO] [HaridadeGANG] <-> DownstreamBridge <-> [lobby] has disconnected
+14:59:10 [INFO] [HaridadeGANG,/138.219.240.158:25992] <-> InitialHandler has connected
+14:59:11 [INFO] [HaridadeGANG] <-> ServerConnector [lobby] has connected
+14:59:11 [INFO] [nLogin] O usuário HaridadeGANG logou automaticamente (conta original)
+14:59:26 [INFO] [HaridadeGANG] -> UpstreamBridge has disconnected
+14:59:26 [INFO] [HaridadeGANG] <-> DownstreamBridge <-> [lobby] has disconnected
+14:59:27 [INFO] [HaridadeGANG,/138.219.240.158:25509] <-> InitialHandler has connected
+14:59:27 [INFO] [HaridadeGANG] <-> ServerConnector [lobby] has connected
+14:59:27 [INFO] [nLogin] O usuário HaridadeGANG logou automaticamente (conta original)
+15:01:48 [INFO] [HaridadeGANG] disconnected with: §fServidor reniciando!
+15:01:48 [INFO] [HaridadeGANG] -> UpstreamBridge has disconnected
+15:01:48 [INFO] [HaridadeGANG] <-> DownstreamBridge <-> [lobby] has disconnected
+15:02:14 [INFO] [HaridadeGANG,/138.219.240.158:25895] <-> InitialHandler has connected
+15:02:14 [INFO] [HaridadeGANG] <-> ServerConnector [lobby] has connected
+15:02:14 [INFO] [nLogin] O usuário HaridadeGANG logou automaticamente (conta original)
+15:02:30 [INFO] [HaridadeGANG] disconnected with: §fCannot interact with self!
+15:02:30 [INFO] [HaridadeGANG] -> UpstreamBridge has disconnected
+15:02:30 [INFO] [HaridadeGANG] <-> DownstreamBridge <-> [lobby] has disconnected
+15:02:39 [INFO] [HaridadeGANG,/138.219.240.158:25388] <-> InitialHandler has connected
+15:02:40 [INFO] [HaridadeGANG] <-> ServerConnector [lobby] has connected
+15:02:40 [INFO] [nLogin] O usuário HaridadeGANG logou automaticamente (conta original)
+15:03:15 [INFO] [HaridadeGANG] disconnected with: §fServidor reniciando!
+15:03:15 [INFO] [HaridadeGANG] -> UpstreamBridge has disconnected
+15:03:15 [INFO] [HaridadeGANG] <-> DownstreamBridge <-> [lobby] has disconnected
+15:03:29 [INFO] [HaridadeGANG,/138.219.240.158:25491] <-> InitialHandler has connected
+15:03:29 [INFO] [HaridadeGANG] <-> ServerConnector [lobby] has connected
+15:03:29 [INFO] [nLogin] O usuário HaridadeGANG logou automaticamente (conta original)
+15:03:34 [INFO] [HaridadeGANG] disconnected with: §fCannot interact with self!
+15:03:34 [INFO] [HaridadeGANG] -> UpstreamBridge has disconnected
+15:03:34 [INFO] [HaridadeGANG] <-> DownstreamBridge <-> [lobby] has disconnected
+15:06:13 [INFO] [HaridadeGANG,/138.219.240.158:25742] <-> InitialHandler has connected
+15:06:14 [INFO] [HaridadeGANG] <-> ServerConnector [lobby] has connected
+15:06:14 [INFO] [nLogin] O usuário HaridadeGANG logou automaticamente (conta original)
+15:06:23 [INFO] [HaridadeGANG] -> UpstreamBridge has disconnected
+15:06:23 [INFO] [HaridadeGANG] <-> DownstreamBridge <-> [lobby] has disconnected
+15:06:24 [INFO] [HaridadeGANG,/138.219.240.158:25369] <-> InitialHandler has connected
+15:06:24 [INFO] [HaridadeGANG] <-> ServerConnector [lobby] has connected
+15:06:24 [INFO] [nLogin] O usuário HaridadeGANG logou automaticamente (conta original)
+15:10:40 [INFO] [HaridadeGANG] disconnected with: §fServidor reniciando!
+15:10:40 [INFO] [HaridadeGANG] -> UpstreamBridge has disconnected
+15:10:40 [INFO] [HaridadeGANG] <-> DownstreamBridge <-> [lobby] has disconnected
+15:11:02 [INFO] [HaridadeGANG,/138.219.240.158:25759] <-> InitialHandler has connected
+15:11:03 [INFO] [HaridadeGANG] <-> ServerConnector [lobby] has connected
+15:11:03 [INFO] [nLogin] O usuário HaridadeGANG logou automaticamente (conta original)
+15:11:05 [INFO] [HaridadeGANG] <-> ServerConnector [skywars] has connected
+15:11:06 [INFO] [HaridadeGANG] <-> DownstreamBridge <-> [lobby] has disconnected
+15:11:30 [INFO] [HaridadeGANG] disconnected with: §fServer closed
+15:11:30 [INFO] [HaridadeGANG] -> UpstreamBridge has disconnected
+15:11:30 [INFO] [HaridadeGANG] <-> DownstreamBridge <-> [skywars] has disconnected
+15:13:01 [INFO] [HaridadeGANG,/138.219.240.158:25431] <-> InitialHandler has connected
+15:13:02 [INFO] [HaridadeGANG] <-> ServerConnector [lobby] has connected
+15:13:02 [INFO] [nLogin] O usuário HaridadeGANG logou automaticamente (conta original)
+15:13:16 [INFO] [HaridadeGANG] -> UpstreamBridge has disconnected
+15:13:16 [INFO] [HaridadeGANG] <-> DownstreamBridge <-> [lobby] has disconnected
+15:15:53 [INFO] [HaridadeGANG,/138.219.240.158:25971] <-> InitialHandler has connected
+15:15:54 [INFO] [HaridadeGANG] <-> ServerConnector [lobby] has connected
+15:15:54 [INFO] [nLogin] O usuário HaridadeGANG logou automaticamente (conta original)
+15:16:14 [INFO] [HaridadeGANG] -> UpstreamBridge has disconnected
+15:16:14 [INFO] [HaridadeGANG] <-> DownstreamBridge <-> [lobby] has disconnected
+15:17:56 [INFO] [HaridadeGANG,/138.219.240.158:25796] <-> InitialHandler has connected
+15:17:57 [INFO] [HaridadeGANG] <-> ServerConnector [lobby] has connected
+15:17:57 [INFO] [nLogin] O usuário HaridadeGANG logou automaticamente (conta original)
+15:18:14 [INFO] [HaridadeGANG] -> UpstreamBridge has disconnected
+15:18:14 [INFO] [HaridadeGANG] <-> DownstreamBridge <-> [lobby] has disconnected
+15:41:09 [INFO] [toshiba01,/187.21.139.23:6216] <-> InitialHandler has connected
+15:41:10 [INFO] [toshiba01] <-> ServerConnector [lobby] has connected
+15:41:10 [INFO] [nLogin] O usuário toshiba01 logou automaticamente (conta original)
+15:41:24 [INFO] [toshiba01] <-> ServerConnector [bedwars] has connected
+15:41:24 [INFO] [toshiba01] <-> DownstreamBridge <-> [lobby] has disconnected
+15:42:12 [WARNING] [toshiba01] -> UpstreamBridge - NativeIoException: recvAddress(..) failed: Connection reset by peer
+15:42:12 [INFO] [toshiba01] disconnected with: §f§fNativeIoException : recvAddress(..) failed: Connection reset by peer
+15:42:12 [INFO] [toshiba01] <-> DownstreamBridge <-> [bedwars] has disconnected
+15:42:12 [INFO] [toshiba01] -> UpstreamBridge has disconnected
+16:12:39 [INFO] [macninja296,/177.37.133.34:10010] <-> InitialHandler has connected
+16:12:39 [INFO] [macninja296] <-> ServerConnector [login] has connected
+16:12:54 [INFO] [nLogin] O usuário macninja296 se registrou com sucesso.
+16:12:54 [INFO] [macninja296] <-> ServerConnector [lobby] has connected
+16:12:54 [INFO] [macninja296] <-> DownstreamBridge <-> [login] has disconnected
+16:13:04 [INFO] [macninja296] <-> ServerConnector [bedwars] has connected
+16:13:04 [INFO] [macninja296] <-> DownstreamBridge <-> [lobby] has disconnected
+16:15:41 [INFO] [macninja296] -> UpstreamBridge has disconnected
+16:15:41 [INFO] [macninja296] <-> DownstreamBridge <-> [bedwars] has disconnected
+16:39:49 [INFO] [jajajosjoa,/89.214.146.40:26770] <-> InitialHandler has connected
+16:39:49 [INFO] [jajajosjoa] <-> ServerConnector [login] has connected
+16:39:49 [INFO] [jajajosjoa] <-> ServerConnector [login] has disconnected
+16:40:01 [INFO] [jajajosjoa] -> UpstreamBridge has disconnected
+16:40:11 [INFO] [jajajosjoa,/89.214.146.40:26864] <-> InitialHandler has connected
+16:40:11 [INFO] [jajajosjoa] <-> ServerConnector [login] has connected
+16:40:11 [INFO] [jajajosjoa] <-> ServerConnector [login] has disconnected
+16:40:23 [WARNING] [LiteAnnouncer] An error occured while sending auto-message to players!
+16:40:23 [SEVERE] java.lang.NullPointerException
+16:40:23 [SEVERE] 	at me.litefine.announcer.managers.AnnounceTask.lambda$sendMessage$1(AnnounceTask.java:50)
+16:40:23 [SEVERE] 	at java.lang.Iterable.forEach(Iterable.java:75)
+16:40:23 [SEVERE] 	at java.util.Collections$UnmodifiableCollection.forEach(Collections.java:1082)
+16:40:23 [SEVERE] 	at me.litefine.announcer.managers.AnnounceTask.sendMessage(AnnounceTask.java:49)
+16:40:23 [SEVERE] 	at me.litefine.announcer.managers.AnnounceTask.run(AnnounceTask.java:34)
+16:40:23 [SEVERE] 	at net.md_5.bungee.scheduler.BungeeTask.run(BungeeTask.java:63)
+16:40:23 [SEVERE] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+16:40:23 [SEVERE] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+16:40:23 [SEVERE] 	at java.lang.Thread.run(Thread.java:748)
+16:40:41 [WARNING] [jajajosjoa] -> UpstreamBridge - read timed out
+16:40:41 [INFO] [jajajosjoa] disconnected with: §f§fReadTimeoutException : null
+16:40:41 [INFO] [jajajosjoa] -> UpstreamBridge has disconnected
+16:41:24 [INFO] [jajajosjoa,/89.214.146.40:26754] <-> InitialHandler has connected
+16:41:24 [INFO] [jajajosjoa] <-> ServerConnector [login] has connected
+16:41:24 [INFO] [jajajosjoa] <-> ServerConnector [login] has disconnected
+16:41:43 [INFO] [jajajosjoa] -> UpstreamBridge has disconnected
+16:57:40 [INFO] [HaridadeGANG,/138.219.240.158:25423] <-> InitialHandler has connected
+16:57:41 [INFO] [HaridadeGANG] <-> ServerConnector [lobby] has connected
+16:57:41 [INFO] [nLogin] O usuário HaridadeGANG logou automaticamente (conta original)
+16:57:43 [INFO] [HaridadeGANG] <-> ServerConnector [bedwars] has connected
+16:57:43 [INFO] [HaridadeGANG] <-> DownstreamBridge <-> [lobby] has disconnected
+17:00:06 [INFO] [Volantgamer,/179.117.15.97:61776] <-> InitialHandler has connected
+17:00:07 [INFO] [Volantgamer] <-> ServerConnector [lobby] has connected
+17:00:07 [INFO] [nLogin] O usuário Volantgamer logou automaticamente (conta original)
+17:00:10 [INFO] [Volantgamer] <-> ServerConnector [bedwars] has connected
+17:00:10 [INFO] [Volantgamer] <-> DownstreamBridge <-> [lobby] has disconnected
+17:11:55 [INFO] [LuckPerms] [Messaging] Received user update ping for 'volantgamer' with id: 12a0bc02-5cb9-4282-af4b-d04cffe72243
+17:11:56 [INFO] [HaridadeGANG] <-> ServerConnector [lobby] has connected
+17:11:56 [INFO] [HaridadeGANG] <-> DownstreamBridge <-> [bedwars] has disconnected
+17:11:58 [INFO] [HaridadeGANG] <-> ServerConnector [bedwars] has connected
+17:11:58 [INFO] [HaridadeGANG] <-> DownstreamBridge <-> [lobby] has disconnected
+17:13:02 [WARNING] [HaridadeGANG] -> UpstreamBridge - NativeIoException: recvAddress(..) failed: Connection reset by peer
+17:13:02 [INFO] [HaridadeGANG] disconnected with: §f§fNativeIoException : recvAddress(..) failed: Connection reset by peer
+17:13:02 [INFO] [HaridadeGANG] <-> DownstreamBridge <-> [bedwars] has disconnected
+17:13:02 [INFO] [HaridadeGANG] -> UpstreamBridge has disconnected
+17:13:29 [INFO] [Volantgamer] -> UpstreamBridge has disconnected
+17:13:29 [INFO] [Volantgamer] <-> DownstreamBridge <-> [bedwars] has disconnected
+17:13:43 [INFO] [KITKET_Z,/201.41.76.142:58444] <-> InitialHandler has connected
+17:13:43 [INFO] [KITKET_Z] <-> ServerConnector [login] has connected
+17:13:53 [INFO] [nLogin] O usuário KITKET_Z se autenticou com sucesso.
+17:13:53 [INFO] [KITKET_Z] <-> ServerConnector [lobby] has connected
+17:13:53 [INFO] [KITKET_Z] <-> DownstreamBridge <-> [login] has disconnected
+17:13:58 [INFO] [KITKET_Z] <-> ServerConnector [bedwars] has connected
+17:13:58 [INFO] [KITKET_Z] <-> DownstreamBridge <-> [lobby] has disconnected
+17:16:33 [INFO] [KITKET_Z] -> UpstreamBridge has disconnected
+17:16:33 [INFO] [KITKET_Z] <-> DownstreamBridge <-> [bedwars] has disconnected
+17:21:49 [INFO] [Volantgamer,/179.117.15.97:62212] <-> InitialHandler has connected
+17:21:49 [INFO] [Volantgamer] <-> ServerConnector [lobby] has connected
+17:21:49 [INFO] [nLogin] O usuário Volantgamer logou automaticamente (conta original)
+17:22:01 [INFO] [Volantgamer] <-> ServerConnector [bedwars] has connected
+17:22:01 [INFO] [Volantgamer] <-> DownstreamBridge <-> [lobby] has disconnected
+17:31:57 [WARNING] [Volantgamer] -> UpstreamBridge - NativeIoException: recvAddress(..) failed: Connection reset by peer
+17:31:57 [INFO] [Volantgamer] disconnected with: §f§fNativeIoException : recvAddress(..) failed: Connection reset by peer
+17:31:57 [INFO] [Volantgamer] <-> DownstreamBridge <-> [bedwars] has disconnected
+17:31:57 [INFO] [Volantgamer] -> UpstreamBridge has disconnected
+18:01:57 [INFO] [Deletando,/179.106.174.230:6360] <-> InitialHandler has connected
+18:01:57 [INFO] [Deletando] <-> ServerConnector [login] has connected
+18:02:00 [INFO] [Deletando] disconnected with: §f§7Para confirmar que você está usando uma §aconta original§7, entre novamente.
+18:02:00 [INFO] [Deletando] -> UpstreamBridge has disconnected
+18:02:00 [INFO] [Deletando] <-> DownstreamBridge <-> [login] has disconnected
+18:02:01 [INFO] [Deletando,/179.106.174.230:6333] <-> InitialHandler has connected
+18:02:02 [WARNING] [LuckPerms] LuckPerms already has data for player 'Deletando' - but this data is stored under a different UUID.
+18:02:02 [WARNING] [LuckPerms] 'Deletando' has previously used the unique ids [94991a37-c790-344b-8915-d09656f8de9b] but is now connecting with 'afd4bf45-35a7-4a9a-8bda-8d10130659c3'
+18:02:02 [WARNING] [LuckPerms] The UUID the player is connecting with now is Mojang-assigned (type 4). This implies that BungeeCord's IP-Forwarding has not been setup correctly on one (or more) of the backend servers.
+18:02:02 [WARNING] [LuckPerms] The UUID the player is connecting with now is Mojang-assigned (type 4). This implies that one of the other servers in your network is not authenticating correctly.
+18:02:02 [WARNING] [LuckPerms] If you're using BungeeCord/Velocity, please ensure that IP-Forwarding is setup correctly on all of your backend servers!
+18:02:02 [WARNING] [LuckPerms] See here for more info: https://luckperms.net/wiki/Network-Installation#pre-setup
+18:02:02 [INFO] [Deletando] <-> ServerConnector [lobby] has connected
+18:02:02 [INFO] [nLogin] O usuário Deletando logou automaticamente (conta original)
+18:02:17 [INFO] [Deletando] -> UpstreamBridge has disconnected
+18:02:17 [INFO] [Deletando] <-> DownstreamBridge <-> [lobby] has disconnected
+18:02:20 [INFO] [Deletando,/179.106.174.230:6379] <-> InitialHandler has connected
+18:02:21 [INFO] [Deletando] <-> ServerConnector [lobby] has connected
+18:02:21 [INFO] [nLogin] O usuário Deletando logou automaticamente (conta original)
+18:03:52 [INFO] [Deletando] <-> ServerConnector [bedwars] has connected
+18:03:52 [INFO] [Deletando] <-> DownstreamBridge <-> [lobby] has disconnected
+18:04:25 [INFO] [Deletando] -> UpstreamBridge has disconnected
+18:04:25 [INFO] [Deletando] <-> DownstreamBridge <-> [bedwars] has disconnected
+18:04:54 [INFO] [Deletando,/179.106.174.230:6378] <-> InitialHandler has connected
+18:04:55 [INFO] [Deletando] <-> ServerConnector [lobby] has connected
+18:04:55 [INFO] [nLogin] O usuário Deletando logou automaticamente (conta original)
+18:05:09 [INFO] [Deletando] -> UpstreamBridge has disconnected
+18:05:09 [INFO] [Deletando] <-> DownstreamBridge <-> [lobby] has disconnected
+18:36:10 [INFO] [Rexgaatado,/179.107.215.56:8063] <-> InitialHandler has connected
+18:36:10 [INFO] [Rexgaatado] <-> ServerConnector [login] has connected
+18:36:15 [INFO] [nLogin] O usuário Rexgaatado se autenticou com sucesso.
+18:36:15 [INFO] [Rexgaatado] <-> ServerConnector [lobby] has connected
+18:36:15 [INFO] [Rexgaatado] <-> DownstreamBridge <-> [login] has disconnected
+18:38:59 [INFO] [Finott,/186.250.8.192:55397] <-> InitialHandler has connected
+18:38:59 [INFO] [Finott] <-> ServerConnector [lobby] has connected
+18:38:59 [INFO] [nLogin] O usuário Finott logou automaticamente (conta original)
+18:39:19 [INFO] [LuckPerms] [Messaging] Received user update ping for 'rexgaatado' with id: 179e9641-0b3e-4537-a7a4-617b4f291412
+18:40:18 [INFO] [Rexgaatado] -> UpstreamBridge has disconnected
+18:40:18 [INFO] [Rexgaatado] <-> DownstreamBridge <-> [lobby] has disconnected
+18:40:28 [INFO] [Rexgaatado,/179.107.215.56:7427] <-> InitialHandler has connected
+18:40:28 [INFO] [Rexgaatado] <-> ServerConnector [lobby] has connected
+18:40:28 [INFO] [nLogin] O usuário Rexgaatado logou automaticamente (sessão de login)
+18:40:40 [INFO] [_l1pe,/148.69.189.50:50856] <-> InitialHandler has connected
+18:40:40 [INFO] [_l1pe] <-> ServerConnector [login] has connected
+18:40:44 [INFO] [_l1pe] disconnected with: §f§7Para confirmar que você está usando uma §aconta original§7, entre novamente.
+18:40:44 [INFO] [_l1pe] <-> DownstreamBridge <-> [login] has disconnected
+18:40:44 [INFO] [_l1pe] -> UpstreamBridge has disconnected
+18:40:46 [INFO] [_l1pe,/148.69.189.50:29481] <-> InitialHandler has connected
+18:40:47 [WARNING] [LuckPerms] LuckPerms already has data for player '_l1pe' - but this data is stored under a different UUID.
+18:40:47 [WARNING] [LuckPerms] '_l1pe' has previously used the unique ids [46e52871-2903-3e75-bc09-eed61c654c78] but is now connecting with 'ccf7629f-e9ee-4162-a61e-532ae191a089'
+18:40:47 [WARNING] [LuckPerms] The UUID the player is connecting with now is Mojang-assigned (type 4). This implies that BungeeCord's IP-Forwarding has not been setup correctly on one (or more) of the backend servers.
+18:40:47 [WARNING] [LuckPerms] The UUID the player is connecting with now is Mojang-assigned (type 4). This implies that one of the other servers in your network is not authenticating correctly.
+18:40:47 [WARNING] [LuckPerms] If you're using BungeeCord/Velocity, please ensure that IP-Forwarding is setup correctly on all of your backend servers!
+18:40:47 [WARNING] [LuckPerms] See here for more info: https://luckperms.net/wiki/Network-Installation#pre-setup
+18:40:47 [INFO] [_l1pe] <-> ServerConnector [lobby] has connected
+18:40:47 [INFO] [nLogin] O usuário _l1pe logou automaticamente (conta original)
+18:40:57 [INFO] [_l1pe] -> UpstreamBridge has disconnected
+18:40:57 [INFO] [_l1pe] <-> DownstreamBridge <-> [lobby] has disconnected
+18:40:58 [INFO] [Finott] -> UpstreamBridge has disconnected
+18:40:58 [INFO] [Finott] <-> DownstreamBridge <-> [lobby] has disconnected
+18:41:00 [INFO] [_l1pe,/148.69.189.50:29521] <-> InitialHandler has connected
+18:41:00 [INFO] [_l1pe] <-> ServerConnector [lobby] has connected
+18:41:00 [INFO] [nLogin] O usuário _l1pe logou automaticamente (conta original)
+18:41:15 [INFO] [_l1pe] -> UpstreamBridge has disconnected
+18:41:15 [INFO] [_l1pe] <-> DownstreamBridge <-> [lobby] has disconnected
+18:41:17 [INFO] [_l1pe,/148.69.189.50:29555] <-> InitialHandler has connected
+18:41:17 [INFO] [_l1pe] <-> ServerConnector [lobby] has connected
+18:41:17 [INFO] [nLogin] O usuário _l1pe logou automaticamente (conta original)
+18:41:29 [INFO] [_l1pe] -> UpstreamBridge has disconnected
+18:41:29 [INFO] [_l1pe] <-> DownstreamBridge <-> [lobby] has disconnected
+18:41:30 [INFO] [_l1pe,/148.69.189.50:29589] <-> InitialHandler has connected
+18:41:31 [INFO] [_l1pe] <-> ServerConnector [lobby] has connected
+18:41:31 [INFO] [nLogin] O usuário _l1pe logou automaticamente (conta original)
+18:41:44 [INFO] [Rexgaatado] -> UpstreamBridge has disconnected
+18:41:44 [INFO] [Rexgaatado] <-> DownstreamBridge <-> [lobby] has disconnected
+18:41:47 [INFO] [Rexgaatado,/179.107.215.56:8245] <-> InitialHandler has connected
+18:41:47 [INFO] [Rexgaatado] <-> ServerConnector [lobby] has connected
+18:41:47 [INFO] [nLogin] O usuário Rexgaatado logou automaticamente (sessão de login)
+18:43:29 [INFO] [_l1pe] <-> ServerConnector [bedwars] has connected
+18:43:29 [INFO] [_l1pe] <-> DownstreamBridge <-> [lobby] has disconnected
+18:43:32 [INFO] [Rexgaatado] <-> ServerConnector [bedwars] has connected
+18:43:33 [INFO] [Rexgaatado] <-> DownstreamBridge <-> [lobby] has disconnected
+18:51:22 [INFO] [Finott,/186.250.8.192:55678] <-> InitialHandler has connected
+18:51:23 [INFO] [Finott] <-> ServerConnector [lobby] has connected
+18:51:23 [INFO] [nLogin] O usuário Finott logou automaticamente (conta original)
+18:51:31 [INFO] [Finott] <-> ServerConnector [bedwars] has connected
+18:51:31 [INFO] [Finott] <-> DownstreamBridge <-> [lobby] has disconnected
+19:15:07 [INFO] [KoynTzuu,/179.191.223.57:56214] <-> InitialHandler has connected
+19:15:07 [INFO] [KoynTzuu] <-> ServerConnector [login] has connected
+19:15:19 [INFO] [nLogin] O usuário KoynTzuu se registrou com sucesso.
+19:15:20 [INFO] [KoynTzuu] <-> ServerConnector [lobby] has connected
+19:15:20 [INFO] [KoynTzuu] <-> DownstreamBridge <-> [login] has disconnected
+19:15:34 [INFO] [Finott] <-> ServerConnector [lobby] has connected
+19:15:34 [INFO] [Finott] <-> DownstreamBridge <-> [bedwars] has disconnected
+19:15:45 [INFO] [LuckPerms] [Messaging] Received user update ping for 'koyntzuu' with id: 35d2d63d-62df-4df6-8ff3-3b917ac3e377
+19:16:41 [WARNING] [Rexgaatado] -> UpstreamBridge - read timed out
+19:16:41 [INFO] [Rexgaatado] disconnected with: §f§fReadTimeoutException : null
+19:16:41 [INFO] [Rexgaatado] <-> DownstreamBridge <-> [bedwars] has disconnected
+19:16:41 [INFO] [Rexgaatado] -> UpstreamBridge has disconnected
+19:18:02 [INFO] [KoynTzuu] -> UpstreamBridge has disconnected
+19:18:02 [INFO] [KoynTzuu] <-> DownstreamBridge <-> [lobby] has disconnected
+19:18:05 [INFO] [KoynTzuu,/179.191.223.57:56353] <-> InitialHandler has connected
+19:18:05 [INFO] [KoynTzuu] <-> ServerConnector [lobby] has connected
+19:18:08 [INFO] [nLogin] O usuário KoynTzuu logou automaticamente (sessão de login)
+19:20:21 [INFO] [Rexgaatado,/179.107.215.56:8056] <-> InitialHandler has connected
+19:20:21 [INFO] [Rexgaatado] <-> ServerConnector [login] has connected
+19:20:24 [INFO] [nLogin] O usuário Rexgaatado se autenticou com sucesso.
+19:20:25 [INFO] [Rexgaatado] <-> ServerConnector [lobby] has connected
+19:20:25 [INFO] [Rexgaatado] <-> DownstreamBridge <-> [login] has disconnected
+19:24:35 [INFO] [KoynTzuu] -> UpstreamBridge has disconnected
+19:24:35 [INFO] [KoynTzuu] <-> DownstreamBridge <-> [lobby] has disconnected
+19:25:09 [INFO] [DanaPirata,/177.37.153.165:45441] <-> InitialHandler has connected
+19:25:09 [INFO] [DanaPirata] <-> ServerConnector [login] has connected
+19:25:12 [INFO] [nLogin] O usuário DanaPirata se autenticou com sucesso.
+19:25:12 [INFO] [DanaPirata] <-> ServerConnector [lobby] has connected
+19:25:12 [INFO] [DanaPirata] <-> DownstreamBridge <-> [login] has disconnected
+19:26:01 [INFO] [DanaPirata] -> UpstreamBridge has disconnected
+19:26:01 [INFO] [DanaPirata] <-> DownstreamBridge <-> [lobby] has disconnected
+19:29:46 [INFO] [cacaushow_br,/45.224.27.165:12728] <-> InitialHandler has connected
+19:29:47 [INFO] [cacaushow_br] <-> ServerConnector [lobby] has connected
+19:29:47 [INFO] [nLogin] O usuário cacaushow_br logou automaticamente (conta original)
+19:31:38 [INFO] [cacaushow_br] -> UpstreamBridge has disconnected
+19:31:38 [INFO] [cacaushow_br] <-> DownstreamBridge <-> [lobby] has disconnected
+19:31:40 [INFO] [cacaushow_br,/45.224.27.165:13004] <-> InitialHandler has connected
+19:31:40 [INFO] [cacaushow_br] <-> ServerConnector [lobby] has connected
+19:31:41 [INFO] [nLogin] O usuário cacaushow_br logou automaticamente (conta original)
+19:32:22 [INFO] [cacaushow_br] <-> ServerConnector [bedwars] has connected
+19:32:22 [INFO] [cacaushow_br] <-> DownstreamBridge <-> [lobby] has disconnected
+19:32:25 [INFO] [cacaushow_br] <-> ServerConnector [lobby] has connected
+19:32:25 [INFO] [cacaushow_br] <-> DownstreamBridge <-> [bedwars] has disconnected
+19:36:30 [INFO] [HaridadeGANG,/138.219.240.158:25792] <-> InitialHandler has connected
+19:36:32 [INFO] [HaridadeGANG] <-> ServerConnector [lobby] has connected
+19:36:32 [INFO] [HaridadeGANG] disconnected with: §f§cKicked whilst connecting to lobby: §fOutdated server! Im still on {0}
+19:36:32 [INFO] [HaridadeGANG] -> UpstreamBridge has disconnected
+19:36:32 [INFO] [HaridadeGANG] <-> ServerConnector [lobby] has disconnected
+19:36:47 [INFO] [Finott] <-> ServerConnector [bedwars] has connected
+19:36:47 [INFO] [Finott] <-> DownstreamBridge <-> [lobby] has disconnected
+19:38:22 [INFO] [cacaushow_br] <-> ServerConnector [bedwars] has connected
+19:38:22 [INFO] [cacaushow_br] <-> DownstreamBridge <-> [lobby] has disconnected
+19:40:14 [INFO] [HaridadeGANG,/138.219.240.158:26046] <-> InitialHandler has connected
+19:40:14 [INFO] [HaridadeGANG] <-> ServerConnector [lobby] has connected
+19:40:14 [INFO] [nLogin] O usuário HaridadeGANG logou automaticamente (conta original)
+19:43:12 [INFO] [Finott] <-> ServerConnector [lobby] has connected
+19:43:12 [INFO] [Finott] <-> DownstreamBridge <-> [bedwars] has disconnected
+19:43:15 [INFO] [HaridadeGANG] disconnected with: §fYou are banned from this server.
+19:43:15 [INFO] [HaridadeGANG] -> UpstreamBridge has disconnected
+19:43:15 [INFO] [HaridadeGANG] <-> DownstreamBridge <-> [lobby] has disconnected
+19:43:16 [INFO] [HaridadeGANG,/138.219.240.158:25500] <-> InitialHandler has connected
+19:43:18 [INFO] [HaridadeGANG] <-> ServerConnector [lobby] has connected
+19:43:18 [INFO] [HaridadeGANG] disconnected with: §f§cKicked whilst connecting to lobby: §fYou are banned from this server!
+Reason: Banned by an operator.
+19:43:18 [INFO] [HaridadeGANG] -> UpstreamBridge has disconnected
+19:43:18 [INFO] [HaridadeGANG] <-> ServerConnector [lobby] has disconnected
+19:43:19 [INFO] [HaridadeGANG,/138.219.240.158:25912] <-> InitialHandler has connected
+19:43:19 [INFO] [HaridadeGANG] <-> ServerConnector [lobby] has connected
+19:43:19 [INFO] [HaridadeGANG] disconnected with: §f§cKicked whilst connecting to lobby: §fYou are banned from this server!
+Reason: Banned by an operator.
+19:43:19 [INFO] [HaridadeGANG] -> UpstreamBridge has disconnected
+19:43:19 [INFO] [HaridadeGANG] <-> ServerConnector [lobby] has disconnected
+19:43:25 [INFO] [cacaushow_br] <-> ServerConnector [lobby] has connected
+19:43:25 [INFO] [cacaushow_br] <-> DownstreamBridge <-> [bedwars] has disconnected
+19:43:25 [INFO] [HaridadeGANG,/138.219.240.158:25642] <-> InitialHandler has connected
+19:43:26 [INFO] [HaridadeGANG] <-> ServerConnector [lobby] has connected
+19:43:26 [INFO] [nLogin] O usuário HaridadeGANG logou automaticamente (conta original)
+19:44:31 [INFO] [Volantgamer,/179.117.15.97:49572] <-> InitialHandler has connected
+19:44:32 [INFO] [Volantgamer] <-> ServerConnector [lobby] has connected
+19:44:32 [INFO] [nLogin] O usuário Volantgamer logou automaticamente (conta original)
+19:44:38 [INFO] [_l1pe] <-> ServerConnector [lobby] has connected
+19:44:38 [INFO] [_l1pe] <-> DownstreamBridge <-> [bedwars] has disconnected
+19:46:02 [INFO] [cacaushow_br] -> UpstreamBridge has disconnected
+19:46:02 [INFO] [cacaushow_br] <-> DownstreamBridge <-> [lobby] has disconnected
+19:46:15 [WARNING] [HaridadeGANG] -> UpstreamBridge - NativeIoException: recvAddress(..) failed: Connection reset by peer
+19:46:15 [INFO] [HaridadeGANG] disconnected with: §f§fNativeIoException : recvAddress(..) failed: Connection reset by peer
+19:46:15 [INFO] [HaridadeGANG] <-> DownstreamBridge <-> [lobby] has disconnected
+19:46:15 [INFO] [HaridadeGANG] -> UpstreamBridge has disconnected

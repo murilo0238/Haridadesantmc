@@ -1,0 +1,121 @@
+{
+    "1": {
+        "id": "1",
+        "name": "Não configurado(a).",
+        "description": "Não configurado(a).",
+        "thumbUrl": "none",
+        "bannerUrl": "none",
+        "color": "none",
+        "price": "10.00",
+        "role": "none",
+        "useCoupon": true,
+        "stock": [],
+        "notificationUsers": {},
+        "creationData": "2024-09-12T17:59:58.559Z",
+        "msgLocalization": {
+            "channelId": "1282888173030080606",
+            "messageId": "1283849605313986621"
+        }
+    },
+    "2": {
+        "id": "2",
+        "name": "Null BedWars v1.0",
+        "description": "Null Bedwars é o plugin definitivo para transformar a sua experiência de Bedwars no Minecraft! Com um design otimizado e recursos inovadores, o Null Bedwars oferece uma jogabilidade emocionante e personalizada que você e seus jogadores vão adorar.",
+        "thumbUrl": "none",
+        "bannerUrl": "none",
+        "color": "none",
+        "price": "30",
+        "role": "none",
+        "useCoupon": true,
+        "stock": [],
+        "notificationUsers": {},
+        "creationData": "2024-09-12T18:05:38.228Z",
+        "msgLocalization": {
+            "channelId": "1282888173030080606",
+            "messageId": "1283851029863071765"
+        }
+    },
+    "123": {
+        "id": "123",
+        "name": "Não configurado(a).",
+        "description": "Não configurado(a).",
+        "thumbUrl": "none",
+        "bannerUrl": "https://cdn.discordapp.com/attachments/1216141282695708702/1218300310402105435/Barrinha.png?ex=66072994&is=65f4b494&hm=db6f9ce608da983495994a2c4fc49d18ead74fe8aacd8bd4e57edce96e02a392&",
+        "color": "none",
+        "price": "10.00",
+        "role": "none",
+        "useCoupon": true,
+        "stock": [
+            "a",
+            "a"
+        ],
+        "notificationUsers": {},
+        "creationData": "2024-03-17T14:05:13.089Z",
+        "msgLocalization": {
+            "channelId": "1208508528717733959",
+            "messageId": "1218923101627220028"
+        },
+        "incomeTotal": 10,
+        "sellsTotal": 1
+    },
+    "teste": {
+        "id": "teste",
+        "name": "Não configurado(a).",
+        "description": "Não configurado(a).",
+        "thumbUrl": "none",
+        "bannerUrl": "none",
+        "color": "none",
+        "price": "10.00",
+        "role": "none",
+        "useCoupon": true,
+        "stock": [
+            "dsdad",
+            "Dsada"
+        ],
+        "notificationUsers": {},
+        "creationData": "2024-08-06T18:13:31.655Z",
+        "msgLocalization": {
+            "channelId": "1269756300774866954",
+            "messageId": "1270444664318591058"
+        }
+    },
+    "teste1": {
+        "id": "teste1",
+        "name": "NITRO MENSAL",
+        "description": "dadsa\nDsad\nDsasd\nDsa",
+        "thumbUrl": "none",
+        "bannerUrl": "none",
+        "color": "none",
+        "price": "20",
+        "role": "none",
+        "useCoupon": true,
+        "stock": [
+            "ABRA TICKET",
+            "ABRA TICKET",
+            "ABRA TICKET",
+            "ABRA TICKET",
+            "ABRA TICKET",
+            "ABRA TICKET",
+            "ABRA TICKET",
+            "ABRA TICKET",
+            "ABRA TICKET",
+            "ABRA TICKET",
+            "ABRA TICKET",
+            "ABRA TICKET",
+            "ABRA TICKET",
+            "ABRA TICKET",
+            "ABRA TICKET",
+            "ABRA TICKET",
+            "ABRA TICKET",
+            "ABRA TICKET"
+        ],
+        "notificationUsers": {},
+        "creationData": "2024-08-06T20:20:48.426Z",
+        "msgLocalization": {
+            "channelId": "1260060385067798639",
+            "messageId": "1270477034677862504"
+        },
+        "incomeTotal": 20,
+        "sellsTotal": 1
+    }
+}

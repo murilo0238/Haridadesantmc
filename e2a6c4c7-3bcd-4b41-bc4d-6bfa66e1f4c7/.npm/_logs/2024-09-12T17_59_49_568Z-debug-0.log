@@ -1,0 +1,119 @@
+0 verbose cli /usr/local/bin/node /usr/local/bin/npm
+1 info using npm@10.8.3
+2 info using node@v21.7.3
+3 silly config load:file:/usr/local/lib/node_modules/npm/npmrc
+4 silly config load:file:/home/container/.npmrc
+5 silly config load:file:/usr/local/etc/npmrc
+6 verbose title npm install discord.js yaml axios mercadopago moment wio.db
+7 verbose argv "install" "discord.js" "yaml" "axios" "mercadopago" "moment" "wio.db"
+8 verbose logfile logs-max:10 dir:/home/container/.npm/_logs/2024-09-12T17_59_49_568Z-
+9 verbose logfile /home/container/.npm/_logs/2024-09-12T17_59_49_568Z-debug-0.log
+10 silly packumentCache heap:307232768 maxSize:76808192 maxEntrySize:38404096
+11 silly logfile start cleaning logs, removing 1 files
+12 silly logfile done cleaning log files
+13 silly idealTree buildDeps
+14 silly fetch manifest axios@^1.7.7
+15 silly packumentCache full:https://registry.npmjs.org/axios cache-miss
+16 http fetch GET 200 https://registry.npmjs.org/axios 20ms (cache hit)
+17 silly packumentCache full:https://registry.npmjs.org/axios set size:585045 disposed:false
+18 silly fetch manifest discord.js@^14.16.2
+19 silly packumentCache full:https://registry.npmjs.org/discord.js cache-miss
+20 http fetch GET 200 https://registry.npmjs.org/discord.js 18ms (cache hit)
+21 silly packumentCache full:https://registry.npmjs.org/discord.js set size:6981015 disposed:false
+22 silly fetch manifest mercadopago@^2.0.15
+23 silly packumentCache full:https://registry.npmjs.org/mercadopago cache-miss
+24 http fetch GET 200 https://registry.npmjs.org/mercadopago 3ms (cache hit)
+25 silly packumentCache full:https://registry.npmjs.org/mercadopago set size:224179 disposed:false
+26 silly fetch manifest moment@^2.30.1
+27 silly packumentCache full:https://registry.npmjs.org/moment cache-miss
+28 http fetch GET 200 https://registry.npmjs.org/moment 2ms (cache hit)
+29 silly packumentCache full:https://registry.npmjs.org/moment set size:241533 disposed:false
+30 silly fetch manifest wio.db@^4.0.22
+31 silly packumentCache full:https://registry.npmjs.org/wio.db cache-miss
+32 http fetch GET 200 https://registry.npmjs.org/wio.db 2ms (cache hit)
+33 silly packumentCache full:https://registry.npmjs.org/wio.db set size:96779 disposed:false
+34 silly fetch manifest yaml@^2.5.1
+35 silly packumentCache full:https://registry.npmjs.org/yaml cache-miss
+36 http fetch GET 200 https://registry.npmjs.org/yaml 2ms (cache hit)
+37 silly packumentCache full:https://registry.npmjs.org/yaml set size:338803 disposed:false
+38 silly placeDep ROOT axios@1.7.7 REPLACE for:  want: ^1.7.7
+39 silly placeDep ROOT discord.js@14.16.2 REPLACE for:  want: ^14.16.2
+40 silly placeDep ROOT mercadopago@2.0.15 REPLACE for:  want: ^2.0.15
+41 silly placeDep ROOT moment@2.30.1 REPLACE for:  want: ^2.30.1
+42 silly placeDep ROOT wio.db@4.0.22 REPLACE for:  want: ^4.0.22
+43 silly placeDep ROOT yaml@2.5.1 REPLACE for:  want: ^2.5.1
+44 silly reify moves {}
+45 silly audit bulk request {
+45 silly audit   '@discordjs/builders': [ '1.9.0' ],
+45 silly audit   'discord-api-types': [ '0.37.97', '0.37.83', '0.37.61' ],
+45 silly audit   '@discordjs/collection': [ '1.5.3', '2.1.1' ],
+45 silly audit   '@discordjs/formatters': [ '0.5.0' ],
+45 silly audit   '@discordjs/rest': [ '2.4.0' ],
+45 silly audit   '@discordjs/util': [ '1.1.1' ],
+45 silly audit   '@discordjs/voice': [ '0.16.1' ],
+45 silly audit   '@discordjs/ws': [ '1.1.1' ],
+45 silly audit   '@sapphire/async-queue': [ '1.5.3' ],
+45 silly audit   '@sapphire/shapeshift': [ '4.0.0' ],
+45 silly audit   '@sapphire/snowflake': [ '3.5.3' ],
+45 silly audit   '@types/node': [ '20.11.28' ],
+45 silly audit   '@types/ws': [ '8.5.10' ],
+45 silly audit   '@vladfrangu/async_event_emitter': [ '2.4.6' ],
+45 silly audit   asynckit: [ '0.4.0' ],
+45 silly audit   'combined-stream': [ '1.0.8' ],
+45 silly audit   'delayed-stream': [ '1.0.0' ],
+45 silly audit   'fast-deep-equal': [ '3.1.3' ],
+45 silly audit   'follow-redirects': [ '1.15.6' ],
+45 silly audit   'form-data': [ '4.0.0' ],
+45 silly audit   lodash: [ '4.17.21' ],
+45 silly audit   'lodash.snakecase': [ '4.1.1' ],
+45 silly audit   'magic-bytes.js': [ '1.10.0' ],
+45 silly audit   'mime-db': [ '1.52.0' ],
+45 silly audit   'mime-types': [ '2.1.35' ],
+45 silly audit   'node-fetch': [ '2.7.0' ],
+45 silly audit   'prism-media': [ '1.3.5' ],
+45 silly audit   'proxy-from-env': [ '1.1.0' ],
+45 silly audit   tr46: [ '0.0.3' ],
+45 silly audit   'ts-mixer': [ '6.0.4' ],
+45 silly audit   tslib: [ '2.7.0' ],
+45 silly audit   undici: [ '6.19.8' ],
+45 silly audit   'undici-types': [ '5.26.5' ],
+45 silly audit   uuid: [ '9.0.1' ],
+45 silly audit   'webidl-conversions': [ '3.0.1' ],
+45 silly audit   'whatwg-url': [ '5.0.0' ],
+45 silly audit   yaml: [ '1.10.2', '2.5.1' ],
+45 silly audit   ws: [ '8.16.0' ],
+45 silly audit   axios: [ '1.7.7' ],
+45 silly audit   'discord.js': [ '14.16.2' ],
+45 silly audit   mercadopago: [ '2.0.15' ],
+45 silly audit   moment: [ '2.30.1' ],
+45 silly audit   'wio.db': [ '4.0.22' ]
+45 silly audit }
+46 http fetch POST 200 https://registry.npmjs.org/-/npm/v1/security/advisories/bulk 305ms
+47 silly audit report {
+47 silly audit report   ws: [
+47 silly audit report     {
+47 silly audit report       id: 1098392,
+47 silly audit report       url: 'https://github.com/advisories/GHSA-3h5v-q93c-6h6q',
+47 silly audit report       title: 'ws affected by a DoS when handling a request with many HTTP headers',
+47 silly audit report       severity: 'high',
+47 silly audit report       vulnerable_versions: '>=8.0.0 <8.17.1',
+47 silly audit report       cwe: [Array],
+47 silly audit report       cvss: [Object]
+47 silly audit report     }
+47 silly audit report   ]
+47 silly audit report }
+48 silly packumentCache corgi:https://registry.npmjs.org/ws cache-miss
+49 http fetch GET 200 https://registry.npmjs.org/ws 3ms (cache hit)
+50 silly packumentCache corgi:https://registry.npmjs.org/ws set size:190597 disposed:false
+51 silly packumentCache corgi:https://registry.npmjs.org/@discordjs%2fvoice cache-miss
+52 silly packumentCache corgi:https://registry.npmjs.org/@discordjs%2fws cache-miss
+53 http fetch GET 200 https://registry.npmjs.org/@discordjs%2fws 10ms (cache hit)
+54 silly packumentCache corgi:https://registry.npmjs.org/@discordjs%2fws set size:2105165 disposed:false
+55 http fetch GET 200 https://registry.npmjs.org/@discordjs%2fvoice 38ms (cache hit)
+56 silly packumentCache corgi:https://registry.npmjs.org/@discordjs%2fvoice set size:2383661 disposed:false
+57 verbose cwd /home/container
+58 verbose os Linux 6.5.0-1027-oracle
+59 verbose node v21.7.3
+60 verbose npm  v10.8.3
+61 verbose exit 0
+62 info ok
