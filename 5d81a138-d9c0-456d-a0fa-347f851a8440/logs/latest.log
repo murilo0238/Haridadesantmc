@@ -90,3 +90,69 @@
 [14:43:38] [Thread-154/INFO]: UUID of player vct06705 is d6003c1f-426a-3390-b2d2-77941f70d0ba
 [14:43:39] [Server thread/INFO]: vct06705[/170.245.24.58:36207] logged in with entity id 122 at ([world]-30.5, 100.0, 0.5)
 [14:43:42] [Server thread/INFO]: vct06705 lost connection: Disconnected
+[15:10:59] [Craft Scheduler Thread - 412/INFO]: [0;37;22m[[0;33;22mSkript[0;37;22m][m You're currently running custom Skript version. No updates will be automatically installed.[m
+[16:06:14] [Thread-158/INFO]: UUID of player _Pdrr is 4f186a3f-8cdc-439a-abae-0ce4dc02ad54
+[16:06:14] [Server thread/INFO]: _Pdrr[/189.32.83.109:37047] logged in with entity id 123 at ([world]-30.5, 100.0, 0.5)
+[16:06:35] [Server thread/INFO]: _Pdrr lost connection: Disconnected
+[16:07:43] [Thread-159/INFO]: UUID of player eomuhzin is d3e25979-1a77-4cbe-b991-c56808a09de7
+[16:07:43] [Server thread/INFO]: eomuhzin[/177.181.6.180:55811] logged in with entity id 124 at ([world]-30.5, 100.0, 0.5)
+[16:10:19] [Server thread/INFO]: eomuhzin lost connection: Disconnected
+[17:36:32] [Thread-163/INFO]: UUID of player UltraDoPix is 29bc9af4-00b1-4ec4-9e70-eeec2eea5aca
+[17:36:32] [Server thread/INFO]: UltraDoPix[/186.192.248.211:46205] logged in with entity id 125 at ([world]-30.5, 100.0, 0.5)
+[17:36:42] [Server thread/INFO]: UltraDoPix lost connection: Disconnected
+[17:39:07] [Thread-164/INFO]: UUID of player Volantgamer_13 is 6d476f68-6869-3950-8b85-88b33f365435
+[17:39:07] [Server thread/INFO]: Volantgamer_13[/45.230.106.97:59261] logged in with entity id 126 at ([world]-30.5, 100.0, 0.5)
+[17:39:11] [Server thread/INFO]: Volantgamer_13 lost connection: Disconnected
+[17:41:32] [Thread-165/INFO]: UUID of player _Pdrr is 4f186a3f-8cdc-439a-abae-0ce4dc02ad54
+[17:41:32] [Server thread/INFO]: _Pdrr[/189.32.83.109:54049] logged in with entity id 127 at ([world]-30.5, 100.0, 0.5)
+[17:49:19] [Server thread/INFO]: _Pdrr lost connection: Disconnected
+[17:53:50] [Thread-167/INFO]: UUID of player _l1pe is ccf7629f-e9ee-4162-a61e-532ae191a089
+[17:53:50] [Server thread/INFO]: _l1pe[/148.69.189.50:49055] logged in with entity id 128 at ([world]-30.5, 100.0, 0.5)
+[17:53:55] [Server thread/INFO]: _l1pe issued server command: /skin atualizar
+[17:53:57] [Server thread/INFO]: _l1pe lost connection: Disconnected
+[17:54:07] [Thread-168/INFO]: UUID of player _l1pe is ccf7629f-e9ee-4162-a61e-532ae191a089
+[17:54:07] [Server thread/INFO]: _l1pe[/148.69.189.50:56113] logged in with entity id 129 at ([world]-30.5, 100.0, 0.5)
+[17:54:13] [Server thread/INFO]: _l1pe issued server command: /tag
+[17:54:15] [Server thread/INFO]: _l1pe issued server command: /tag Membro
+[17:55:51] [Thread-169/INFO]: UUID of player Volantgamer_13 is 6d476f68-6869-3950-8b85-88b33f365435
+[17:55:51] [Server thread/INFO]: Volantgamer_13[/45.230.106.97:37271] logged in with entity id 130 at ([world]-30.5, 100.0, 0.5)
+[17:56:23] [Server thread/INFO]: _l1pe lost connection: Disconnected
+[17:56:29] [Thread-170/INFO]: UUID of player _l1pe is ccf7629f-e9ee-4162-a61e-532ae191a089
+[17:56:29] [Server thread/INFO]: _l1pe[/148.69.189.50:43101] logged in with entity id 131 at ([world]-30.5, 100.0, 0.5)
+[17:56:32] [Server thread/INFO]: _l1pe issued server command: /skin atualizar
+[17:56:34] [Server thread/INFO]: _l1pe lost connection: Disconnected
+[17:56:40] [Thread-171/INFO]: UUID of player _l1pe is ccf7629f-e9ee-4162-a61e-532ae191a089
+[17:56:40] [Server thread/INFO]: _l1pe[/148.69.189.50:57043] logged in with entity id 132 at ([world]-30.5, 100.0, 0.5)
+[17:56:40] [Server thread/INFO]: Volantgamer_13 lost connection: Disconnected
+[17:57:03] [Server thread/INFO]: _l1pe issued server command: /ping
+[17:57:42] [Thread-172/INFO]: UUID of player Yukizkkj is 887de53e-e7e1-43d0-b925-26131aae2ad7
+[17:57:42] [Server thread/INFO]: Yukizkkj[/186.224.143.241:45305] logged in with entity id 133 at ([world]-30.5, 100.0, 0.5)
+[17:57:56] [Server thread/INFO]: Yukizkkj lost connection: Disconnected
+[17:59:16] [Server thread/INFO]: _l1pe lost connection: Disconnected
+[18:02:11] [Thread-173/INFO]: UUID of player _Pdrr is 4f186a3f-8cdc-439a-abae-0ce4dc02ad54
+[18:02:11] [Server thread/INFO]: _Pdrr[/189.32.83.109:57235] logged in with entity id 134 at ([world]-30.5, 100.0, 0.5)
+[18:03:29] [Server thread/INFO]: _Pdrr lost connection: Disconnected
+[18:31:03] [Thread-175/INFO]: UUID of player _l1pe is ccf7629f-e9ee-4162-a61e-532ae191a089
+[18:31:03] [Server thread/INFO]: _l1pe[/148.69.189.50:44837] logged in with entity id 135 at ([world]-30.5, 100.0, 0.5)
+[18:34:30] [Server thread/INFO]: _l1pe lost connection: Internal Exception: java.io.IOException: Error while read(...): Connection reset by peer
+[19:24:44] [Thread-178/INFO]: UUID of player _Pdrr is 4f186a3f-8cdc-439a-abae-0ce4dc02ad54
+[19:24:44] [Server thread/INFO]: _Pdrr[/189.32.83.109:47721] logged in with entity id 136 at ([world]-30.5, 100.0, 0.5)
+[19:24:52] [Server thread/INFO]: _Pdrr lost connection: Disconnected
+[19:41:19] [Thread-179/INFO]: UUID of player _Pdrr is 4f186a3f-8cdc-439a-abae-0ce4dc02ad54
+[19:41:19] [Server thread/INFO]: _Pdrr[/189.32.83.109:45811] logged in with entity id 137 at ([world]-30.5, 100.0, 0.5)
+[19:50:08] [Server thread/INFO]: _Pdrr lost connection: Disconnected
+[21:08:10] [Thread-183/INFO]: UUID of player ninjax762 is b4290109-26d0-34e2-9531-8f1a65aded17
+[21:08:10] [Server thread/INFO]: ninjax762[/209.14.228.218:58163] logged in with entity id 138 at ([world]-30.5, 100.0, 0.5)
+[21:08:17] [Server thread/INFO]: ninjax762 lost connection: Disconnected
+[22:35:44] [Thread-187/INFO]: UUID of player _Pdrr is 4f186a3f-8cdc-439a-abae-0ce4dc02ad54
+[22:35:44] [Server thread/INFO]: _Pdrr[/189.32.83.109:46079] logged in with entity id 139 at ([world]-30.5, 100.0, 0.5)
+[22:35:47] [Server thread/INFO]: _Pdrr lost connection: Disconnected
+[22:50:46] [Thread-189/INFO]: UUID of player Breno801 is d869a43b-2d5c-46c5-bc0b-289068f8d5c0
+[22:50:46] [Server thread/INFO]: Breno801[/179.0.90.104:57389] logged in with entity id 140 at ([world]-30.5, 100.0, 0.5)
+[22:52:20] [Server thread/INFO]: Breno801 lost connection: Disconnected
+[23:03:00] [Thread-190/INFO]: UUID of player Breno801 is d869a43b-2d5c-46c5-bc0b-289068f8d5c0
+[23:03:00] [Server thread/INFO]: Breno801[/179.0.90.104:41273] logged in with entity id 141 at ([world]-30.5, 100.0, 0.5)
+[23:03:27] [Server thread/INFO]: Breno801 lost connection: Disconnected
+[23:06:34] [Thread-191/INFO]: UUID of player Ricardore is fecb0da3-4154-4c1d-8598-b746d86323d0
+[23:06:34] [Server thread/INFO]: Ricardore[/177.44.178.181:53477] logged in with entity id 142 at ([world]-30.5, 100.0, 0.5)
+[23:06:43] [Server thread/INFO]: Ricardore lost connection: Disconnected

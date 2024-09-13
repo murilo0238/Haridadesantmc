@@ -494,3 +494,35 @@ Caused by: java.lang.NullPointerException
 [14:49:51] [Server thread/INFO]: Clear tick list: false
 [14:49:51] [Server thread/INFO]: Experience Merge Radius: 3.0
 [14:49:51] [Server thread/INFO]: Preparing start region for level 5 (Seed: -4216530450634206070)
+[14:53:09] [Server thread/INFO]: litergames lost connection: Disconnected
+[14:54:59] [Server thread/INFO]: vct06705 lost connection: Internal Exception: java.io.IOException: Error while read(...): Connection reset by peer
+[17:36:42] [Thread-29/INFO]: UUID of player UltraDoPix is 29bc9af4-00b1-4ec4-9e70-eeec2eea5aca
+[17:36:42] [Server thread/INFO]: UltraDoPix[/186.192.248.211:48735] logged in with entity id 1458 at ([world]387.5, 113.0, 1375.5)
+[17:36:47] [Server thread/INFO]: UltraDoPix lost connection: Disconnected
+[17:39:11] [Thread-30/INFO]: UUID of player Volantgamer_13 is 6d476f68-6869-3950-8b85-88b33f365435
+[17:39:11] [Server thread/INFO]: Volantgamer_13[/45.230.106.97:59205] logged in with entity id 1459 at ([world]387.5, 113.0, 1375.5)
+[17:39:17] [Server thread/INFO]: Volantgamer_13 lost connection: Disconnected
+[18:03:29] [Thread-32/INFO]: UUID of player _Pdrr is 4f186a3f-8cdc-439a-abae-0ce4dc02ad54
+[18:03:29] [Server thread/INFO]: _Pdrr[/189.32.83.109:37297] logged in with entity id 1460 at ([world]387.5, 113.0, 1375.5)
+[18:04:51] [Server thread/INFO]: _Pdrr lost connection: Internal Exception: java.io.IOException: Error while read(...): Connection reset by peer
+[18:34:30] [Thread-34/INFO]: UUID of player _l1pe is ccf7629f-e9ee-4162-a61e-532ae191a089
+[18:34:30] [Server thread/INFO]: _l1pe[/148.69.189.50:54755] logged in with entity id 1461 at ([world]387.5, 113.0, 1375.5)
+[18:35:06] [Server thread/INFO]: _l1pe lost connection: Disconnected
+[19:24:52] [Thread-37/INFO]: UUID of player _Pdrr is 4f186a3f-8cdc-439a-abae-0ce4dc02ad54
+[19:24:52] [Server thread/INFO]: _Pdrr[/189.32.83.109:33149] logged in with entity id 1462 at ([world]387.5, 113.0, 1375.5)
+[19:26:21] [Server thread/INFO]: _Pdrr issued server command: /op _Pdrr
+[19:26:21] [Server thread/INFO]: [_Pdrr: Opped _Pdrr]
+[19:26:27] [Server thread/INFO]: _Pdrr lost connection: Disconnected
+[21:08:17] [Thread-41/INFO]: UUID of player ninjax762 is b4290109-26d0-34e2-9531-8f1a65aded17
+[21:08:17] [Server thread/INFO]: ninjax762[/209.14.228.218:48499] logged in with entity id 1463 at ([world]387.5, 113.0, 1375.5)
+[21:08:53] [Server thread/INFO]: ninjax762 lost connection: Internal Exception: java.io.IOException: Error while read(...): Connection reset by peer
+[22:35:46] [Thread-45/INFO]: UUID of player _Pdrr is 4f186a3f-8cdc-439a-abae-0ce4dc02ad54
+[22:35:46] [Server thread/INFO]: _Pdrr[/189.32.83.109:41181] logged in with entity id 1464 at ([world]387.5, 113.0, 1375.5)
+[22:36:20] [Server thread/INFO]: _Pdrr lost connection: Disconnected
+[22:52:20] [Thread-47/INFO]: UUID of player Breno801 is d869a43b-2d5c-46c5-bc0b-289068f8d5c0
+[22:52:20] [Server thread/INFO]: Breno801[/179.0.90.104:55811] logged in with entity id 1465 at ([world]387.5, 113.0, 1375.5)
+[22:52:23] [Server thread/INFO]: Breno801 issued server command: /tag
+[23:03:00] [Server thread/INFO]: Breno801 lost connection: Disconnected
+[23:06:43] [Thread-48/INFO]: UUID of player Ricardore is fecb0da3-4154-4c1d-8598-b746d86323d0
+[23:06:43] [Server thread/INFO]: Ricardore[/177.44.178.181:46277] logged in with entity id 1466 at ([world]387.5, 113.0, 1375.5)
+[23:07:06] [Server thread/INFO]: Ricardore lost connection: Disconnected

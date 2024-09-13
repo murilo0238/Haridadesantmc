@@ -12463,3 +12463,146 @@ java.lang.IllegalArgumentException: Team T2 already exists in this scoreboard
 14:48:55 [INFO] [zCry__] <-> DownstreamBridge <-> [bedwars] has disconnected
 14:49:48 [INFO] [MuriloDR] -> UpstreamBridge has disconnected
 14:49:48 [INFO] [MuriloDR] <-> DownstreamBridge <-> [bedwars] has disconnected
+14:53:09 [INFO] [litergames] -> UpstreamBridge has disconnected
+14:53:09 [INFO] [litergames] <-> DownstreamBridge <-> [bedwars] has disconnected
+14:54:59 [INFO] [vct06705] -> UpstreamBridge has disconnected
+14:54:59 [INFO] [vct06705] <-> DownstreamBridge <-> [bedwars] has disconnected
+16:06:12 [INFO] [_Pdrr,/189.32.83.109:56560] <-> InitialHandler has connected
+16:06:14 [INFO] [_Pdrr] <-> ServerConnector [lobby] has connected
+16:06:14 [INFO] [nLogin] O usuário _Pdrr logou automaticamente (conta original)
+16:06:35 [INFO] [_Pdrr] -> UpstreamBridge has disconnected
+16:06:35 [INFO] [_Pdrr] <-> DownstreamBridge <-> [lobby] has disconnected
+16:07:43 [INFO] [eomuhzin,/177.181.6.180:27797] <-> InitialHandler has connected
+16:07:43 [INFO] [eomuhzin] <-> ServerConnector [lobby] has connected
+16:07:43 [INFO] [nLogin] O usuário eomuhzin logou automaticamente (conta original)
+16:10:19 [INFO] [eomuhzin] -> UpstreamBridge has disconnected
+16:10:19 [INFO] [eomuhzin] <-> DownstreamBridge <-> [lobby] has disconnected
+17:36:32 [INFO] [UltraDoPix,/186.192.248.211:26256] <-> InitialHandler has connected
+17:36:32 [INFO] [UltraDoPix] <-> ServerConnector [lobby] has connected
+17:36:32 [INFO] [nLogin] O usuário UltraDoPix logou automaticamente (conta original)
+17:36:42 [INFO] [UltraDoPix] <-> ServerConnector [bedwars] has connected
+17:36:42 [INFO] [UltraDoPix] <-> DownstreamBridge <-> [lobby] has disconnected
+17:36:47 [INFO] [UltraDoPix] -> UpstreamBridge has disconnected
+17:36:47 [INFO] [UltraDoPix] <-> DownstreamBridge <-> [bedwars] has disconnected
+17:39:01 [INFO] [Volantgamer_13,/45.230.106.97:8884] <-> InitialHandler has connected
+17:39:01 [INFO] [Volantgamer_13] <-> ServerConnector [login] has connected
+17:39:06 [INFO] [nLogin] O usuário Volantgamer_13 se autenticou com sucesso.
+17:39:07 [INFO] [Volantgamer_13] <-> ServerConnector [lobby] has connected
+17:39:07 [INFO] [Volantgamer_13] <-> DownstreamBridge <-> [login] has disconnected
+17:39:11 [INFO] [Volantgamer_13] <-> ServerConnector [bedwars] has connected
+17:39:11 [INFO] [Volantgamer_13] <-> DownstreamBridge <-> [lobby] has disconnected
+17:39:17 [INFO] [Volantgamer_13] -> UpstreamBridge has disconnected
+17:39:17 [INFO] [Volantgamer_13] <-> DownstreamBridge <-> [bedwars] has disconnected
+17:41:31 [INFO] [_Pdrr,/189.32.83.109:58229] <-> InitialHandler has connected
+17:41:32 [INFO] [_Pdrr] <-> ServerConnector [lobby] has connected
+17:41:32 [INFO] [nLogin] O usuário _Pdrr logou automaticamente (conta original)
+17:49:19 [WARNING] [_Pdrr] -> UpstreamBridge - NativeIoException: recvAddress(..) failed: Connection reset by peer
+17:49:19 [INFO] [_Pdrr] disconnected with: §f§fNativeIoException : recvAddress(..) failed: Connection reset by peer
+17:49:19 [INFO] [_Pdrr] <-> DownstreamBridge <-> [lobby] has disconnected
+17:49:19 [INFO] [_Pdrr] -> UpstreamBridge has disconnected
+17:53:49 [INFO] [_l1pe,/148.69.189.50:60263] <-> InitialHandler has connected
+17:53:50 [INFO] [_l1pe] <-> ServerConnector [lobby] has connected
+17:53:50 [INFO] [nLogin] O usuário _l1pe logou automaticamente (conta original)
+17:53:57 [INFO] [_l1pe] -> UpstreamBridge has disconnected
+17:53:57 [INFO] [_l1pe] <-> DownstreamBridge <-> [lobby] has disconnected
+17:54:06 [INFO] [_l1pe,/148.69.189.50:60309] <-> InitialHandler has connected
+17:54:07 [INFO] [_l1pe] <-> ServerConnector [lobby] has connected
+17:54:07 [INFO] [nLogin] O usuário _l1pe logou automaticamente (conta original)
+17:55:47 [INFO] [Volantgamer_13,/45.230.106.97:8895] <-> InitialHandler has connected
+17:55:47 [INFO] [Volantgamer_13] <-> ServerConnector [login] has connected
+17:55:50 [INFO] [nLogin] O usuário Volantgamer_13 se autenticou com sucesso.
+17:55:51 [INFO] [Volantgamer_13] <-> ServerConnector [lobby] has connected
+17:55:51 [INFO] [Volantgamer_13] <-> DownstreamBridge <-> [login] has disconnected
+17:56:23 [INFO] [_l1pe] -> UpstreamBridge has disconnected
+17:56:23 [INFO] [_l1pe] <-> DownstreamBridge <-> [lobby] has disconnected
+17:56:28 [INFO] [_l1pe,/148.69.189.50:64332] <-> InitialHandler has connected
+17:56:29 [INFO] [_l1pe] <-> ServerConnector [lobby] has connected
+17:56:29 [INFO] [nLogin] O usuário _l1pe logou automaticamente (conta original)
+17:56:34 [INFO] [_l1pe] -> UpstreamBridge has disconnected
+17:56:34 [INFO] [_l1pe] <-> DownstreamBridge <-> [lobby] has disconnected
+17:56:38 [INFO] [_l1pe,/148.69.189.50:60661] <-> InitialHandler has connected
+17:56:40 [INFO] [_l1pe] <-> ServerConnector [lobby] has connected
+17:56:40 [INFO] [nLogin] O usuário _l1pe logou automaticamente (conta original)
+17:56:40 [INFO] [Volantgamer_13] -> UpstreamBridge has disconnected
+17:56:40 [INFO] [Volantgamer_13] <-> DownstreamBridge <-> [lobby] has disconnected
+17:57:41 [INFO] [Yukizkkj,/186.224.143.241:45486] <-> InitialHandler has connected
+17:57:42 [INFO] [Yukizkkj] <-> ServerConnector [lobby] has connected
+17:57:42 [INFO] [nLogin] O usuário Yukizkkj logou automaticamente (conta original)
+17:57:56 [INFO] [Yukizkkj] -> UpstreamBridge has disconnected
+17:57:56 [INFO] [Yukizkkj] <-> DownstreamBridge <-> [lobby] has disconnected
+17:59:16 [INFO] [_l1pe] -> UpstreamBridge has disconnected
+17:59:16 [INFO] [_l1pe] <-> DownstreamBridge <-> [lobby] has disconnected
+18:00:55 [WARNING] [/38.50.157.92:60821] <-> InitialHandler - NativeIoException: recvAddress(..) failed: Connection reset by peer
+18:02:09 [INFO] [_Pdrr,/189.32.83.109:58716] <-> InitialHandler has connected
+18:02:11 [INFO] [_Pdrr] <-> ServerConnector [lobby] has connected
+18:02:11 [INFO] [nLogin] O usuário _Pdrr logou automaticamente (conta original)
+18:03:29 [INFO] [_Pdrr] <-> ServerConnector [bedwars] has connected
+18:03:29 [INFO] [_Pdrr] <-> DownstreamBridge <-> [lobby] has disconnected
+18:04:51 [INFO] [_Pdrr] -> UpstreamBridge has disconnected
+18:04:51 [INFO] [_Pdrr] <-> DownstreamBridge <-> [bedwars] has disconnected
+18:31:02 [INFO] [_l1pe,/148.69.189.50:61313] <-> InitialHandler has connected
+18:31:03 [INFO] [_l1pe] <-> ServerConnector [lobby] has connected
+18:31:03 [INFO] [nLogin] O usuário _l1pe logou automaticamente (conta original)
+18:34:30 [INFO] [_l1pe] <-> ServerConnector [bedwars] has connected
+18:34:30 [INFO] [_l1pe] <-> DownstreamBridge <-> [lobby] has disconnected
+18:35:06 [INFO] [_l1pe] -> UpstreamBridge has disconnected
+18:35:06 [INFO] [_l1pe] <-> DownstreamBridge <-> [bedwars] has disconnected
+19:24:43 [INFO] [_Pdrr,/189.32.83.109:60233] <-> InitialHandler has connected
+19:24:44 [INFO] [_Pdrr] <-> ServerConnector [lobby] has connected
+19:24:44 [INFO] [nLogin] O usuário _Pdrr logou automaticamente (conta original)
+19:24:52 [INFO] [_Pdrr] <-> ServerConnector [bedwars] has connected
+19:24:52 [INFO] [_Pdrr] <-> DownstreamBridge <-> [lobby] has disconnected
+19:26:27 [INFO] [_Pdrr] -> UpstreamBridge has disconnected
+19:26:27 [INFO] [_Pdrr] <-> DownstreamBridge <-> [bedwars] has disconnected
+19:41:18 [INFO] [_Pdrr,/189.32.83.109:60536] <-> InitialHandler has connected
+19:41:19 [INFO] [_Pdrr] <-> ServerConnector [lobby] has connected
+19:41:19 [INFO] [nLogin] O usuário _Pdrr logou automaticamente (conta original)
+19:50:08 [WARNING] [_Pdrr] -> UpstreamBridge - NativeIoException: recvAddress(..) failed: Connection reset by peer
+19:50:08 [INFO] [_Pdrr] disconnected with: §f§fNativeIoException : recvAddress(..) failed: Connection reset by peer
+19:50:08 [INFO] [_Pdrr] <-> DownstreamBridge <-> [lobby] has disconnected
+19:50:08 [INFO] [_Pdrr] -> UpstreamBridge has disconnected
+19:50:20 [INFO] §f
+19:50:20 [INFO] §f §8⋆ §7Autenticado: §cnão
+19:50:20 [INFO] §f §8⋆ §7Tipo: §6premium
+19:50:20 [INFO] §f
+19:50:20 [INFO] §f §8⋆ §7Último login: §fhá 6d 10h 3m §b(07/09/2024 às 09:46:24)
+19:50:20 [INFO] §f §8⋆ §7Tempo de registro: §f6d 10h 6m §b(07/09/2024 às 09:43:49)
+19:50:20 [INFO] §f
+19:50:20 [INFO] §f §eDados:
+19:50:20 [INFO] §f  §8⋆ §7Contas: §f[JoaoGomezs, NesquikDeveloper]
+19:50:20 [INFO] §f  §8⋆ §7UUID: §f6053260e1e8e4e9e81d5832e9f862533 §a(mojang)
+19:50:20 [INFO] §f  §8⋆ §7Último IP: §f45.168.153.192
+19:50:20 [INFO] §f
+19:50:20 [INFO] §f §e⚑ Esta operação foi processada em §f10.68ms§e.
+21:07:52 [INFO] [ninjax762,/209.14.228.218:62152] <-> InitialHandler has connected
+21:07:52 [INFO] [ninjax762] <-> ServerConnector [login] has connected
+21:08:10 [INFO] [nLogin] O usuário ninjax762 se registrou com sucesso.
+21:08:10 [INFO] [ninjax762] <-> ServerConnector [lobby] has connected
+21:08:10 [INFO] [ninjax762] <-> DownstreamBridge <-> [login] has disconnected
+21:08:17 [INFO] [ninjax762] <-> ServerConnector [bedwars] has connected
+21:08:17 [INFO] [ninjax762] <-> DownstreamBridge <-> [lobby] has disconnected
+21:08:53 [INFO] [ninjax762] -> UpstreamBridge has disconnected
+21:08:53 [INFO] [ninjax762] <-> DownstreamBridge <-> [bedwars] has disconnected
+22:35:44 [INFO] [_Pdrr,/189.32.83.109:61731] <-> InitialHandler has connected
+22:35:44 [INFO] [_Pdrr] <-> ServerConnector [lobby] has connected
+22:35:44 [INFO] [nLogin] O usuário _Pdrr logou automaticamente (conta original)
+22:35:46 [INFO] [_Pdrr] <-> ServerConnector [bedwars] has connected
+22:35:46 [INFO] [_Pdrr] <-> DownstreamBridge <-> [lobby] has disconnected
+22:36:20 [INFO] [_Pdrr] -> UpstreamBridge has disconnected
+22:36:20 [INFO] [_Pdrr] <-> DownstreamBridge <-> [bedwars] has disconnected
+22:50:45 [INFO] [Breno801,/179.0.90.104:52882] <-> InitialHandler has connected
+22:50:46 [INFO] [Breno801] <-> ServerConnector [lobby] has connected
+22:50:46 [INFO] [nLogin] O usuário Breno801 logou automaticamente (conta original)
+22:52:20 [INFO] [Breno801] <-> ServerConnector [bedwars] has connected
+22:52:20 [INFO] [Breno801] <-> DownstreamBridge <-> [lobby] has disconnected
+23:03:00 [INFO] [Breno801] <-> ServerConnector [lobby] has connected
+23:03:00 [INFO] [Breno801] <-> DownstreamBridge <-> [bedwars] has disconnected
+23:03:27 [INFO] [Breno801] -> UpstreamBridge has disconnected
+23:03:27 [INFO] [Breno801] <-> DownstreamBridge <-> [lobby] has disconnected
+23:06:33 [INFO] [Ricardore,/177.44.178.181:62979] <-> InitialHandler has connected
+23:06:34 [INFO] [Ricardore] <-> ServerConnector [lobby] has connected
+23:06:34 [INFO] [nLogin] O usuário Ricardore logou automaticamente (conta original)
+23:06:43 [INFO] [Ricardore] <-> ServerConnector [bedwars] has connected
+23:06:43 [INFO] [Ricardore] <-> DownstreamBridge <-> [lobby] has disconnected
+23:07:05 [INFO] [Ricardore] -> UpstreamBridge has disconnected
+23:07:05 [INFO] [Ricardore] <-> DownstreamBridge <-> [bedwars] has disconnected
