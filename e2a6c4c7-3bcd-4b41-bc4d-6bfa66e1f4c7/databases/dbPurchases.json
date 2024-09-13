@@ -24,5 +24,18 @@
         "buyer": "1002604103622479884",
         "date": "2024-03-17T14:08:44.944Z",
         "productsDelivered": "\n📦 | Entrega do Produto: Não configurado(a). - 1/1\na\n"
+    },
+    "884169163": {
+        "id": 884169163,
+        "productsIds": [
+            "1"
+        ],
+        "productsNames": [
+            "Dust | BOT Vendas v1 x1"
+        ],
+        "pricePaid": "19.99",
+        "buyer": "1133575154539167745",
+        "date": "2024-09-12T20:02:29.992Z",
+        "productsDelivered": "\n📦 | Entrega do Produto: Dust | BOT Vendas v1 - 1/1\nDustBOT1\n"
     }
 }

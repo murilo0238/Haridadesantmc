@@ -16,7 +16,7 @@ module.exports = {
         console.log(`[LOG] ${client.user.username} is ready!`);
 
         // bot status
-        const textStatus = `Vendas Automáticas`;
+        const textStatus = `dsc.gg/duststore`;
         client.user.setActivity(textStatus, {
             type: ActivityType.Custom
         });

@@ -11920,3 +11920,546 @@ Reason: Banned by an operator.
 19:46:15 [INFO] [HaridadeGANG] disconnected with: §f§fNativeIoException : recvAddress(..) failed: Connection reset by peer
 19:46:15 [INFO] [HaridadeGANG] <-> DownstreamBridge <-> [lobby] has disconnected
 19:46:15 [INFO] [HaridadeGANG] -> UpstreamBridge has disconnected
+19:48:04 [INFO] [MuriloDR,/45.181.73.181:29263] <-> InitialHandler has connected
+19:48:05 [INFO] [MuriloDR] <-> ServerConnector [lobby] has connected
+19:48:05 [INFO] [nLogin] O usuário MuriloDR logou automaticamente (conta original)
+19:50:10 [INFO] [_l1pe] <-> ServerConnector [bedwars] has connected
+19:50:10 [INFO] [_l1pe] <-> DownstreamBridge <-> [lobby] has disconnected
+19:50:14 [INFO] [_l1pe] <-> ServerConnector [lobby] has connected
+19:50:14 [INFO] [_l1pe] <-> DownstreamBridge <-> [bedwars] has disconnected
+19:50:25 [INFO] [_l1pe] -> UpstreamBridge has disconnected
+19:50:25 [INFO] [_l1pe] <-> DownstreamBridge <-> [lobby] has disconnected
+19:50:27 [INFO] [_l1pe,/148.69.189.50:31355] <-> InitialHandler has connected
+19:50:27 [INFO] [_l1pe] <-> ServerConnector [lobby] has connected
+19:50:27 [INFO] [nLogin] O usuário _l1pe logou automaticamente (conta original)
+19:50:58 [INFO] [_l1pe] -> UpstreamBridge has disconnected
+19:50:58 [INFO] [_l1pe] <-> DownstreamBridge <-> [lobby] has disconnected
+19:51:00 [INFO] [_l1pe,/148.69.189.50:31393] <-> InitialHandler has connected
+19:51:00 [INFO] [_l1pe] <-> ServerConnector [lobby] has connected
+19:51:00 [INFO] [nLogin] O usuário _l1pe logou automaticamente (conta original)
+19:51:06 [INFO] [_l1pe] -> UpstreamBridge has disconnected
+19:51:06 [INFO] [_l1pe] <-> DownstreamBridge <-> [lobby] has disconnected
+19:51:09 [INFO] [_l1pe,/148.69.189.50:31425] <-> InitialHandler has connected
+19:51:10 [INFO] [_l1pe] <-> ServerConnector [lobby] has connected
+19:51:10 [INFO] [nLogin] O usuário _l1pe logou automaticamente (conta original)
+19:51:40 [WARNING] [MuriloDR] -> UpstreamBridge - NativeIoException: recvAddress(..) failed: Connection reset by peer
+19:51:40 [INFO] [MuriloDR] disconnected with: §f§fNativeIoException : recvAddress(..) failed: Connection reset by peer
+19:51:40 [INFO] [MuriloDR] <-> DownstreamBridge <-> [lobby] has disconnected
+19:51:40 [INFO] [MuriloDR] -> UpstreamBridge has disconnected
+19:51:54 [INFO] [_l1pe] -> UpstreamBridge has disconnected
+19:51:54 [INFO] [_l1pe] <-> DownstreamBridge <-> [lobby] has disconnected
+19:52:15 [INFO] [_l1pe,/148.69.189.50:31479] <-> InitialHandler has connected
+19:52:16 [INFO] [_l1pe] <-> ServerConnector [lobby] has connected
+19:52:16 [INFO] [nLogin] O usuário _l1pe logou automaticamente (conta original)
+19:53:56 [INFO] [Volantgamer] <-> ServerConnector [bedwars] has connected
+19:53:56 [INFO] [Volantgamer] <-> DownstreamBridge <-> [lobby] has disconnected
+19:53:57 [INFO] [_l1pe] <-> ServerConnector [bedwars] has connected
+19:53:57 [INFO] [_l1pe] <-> DownstreamBridge <-> [lobby] has disconnected
+19:54:18 [INFO] [Volantgamer] <-> ServerConnector [lobby] has connected
+19:54:18 [INFO] [Volantgamer] <-> DownstreamBridge <-> [bedwars] has disconnected
+19:54:41 [INFO] [_l1pe] <-> ServerConnector [lobby] has connected
+19:54:41 [INFO] [_l1pe] <-> DownstreamBridge <-> [bedwars] has disconnected
+19:56:52 [WARNING] [Rexgaatado] -> UpstreamBridge - NativeIoException: recvAddress(..) failed: Connection reset by peer
+19:56:52 [INFO] [Rexgaatado] disconnected with: §f§fNativeIoException : recvAddress(..) failed: Connection reset by peer
+19:56:52 [INFO] [Rexgaatado] <-> DownstreamBridge <-> [lobby] has disconnected
+19:56:52 [INFO] [Rexgaatado] -> UpstreamBridge has disconnected
+19:57:08 [INFO] [cacaushow_br,/45.224.27.165:12281] <-> InitialHandler has connected
+19:57:09 [INFO] [cacaushow_br] <-> ServerConnector [lobby] has connected
+19:57:09 [INFO] [nLogin] O usuário cacaushow_br logou automaticamente (conta original)
+19:57:41 [INFO] [cacaushow_br] -> UpstreamBridge has disconnected
+19:57:41 [INFO] [cacaushow_br] <-> DownstreamBridge <-> [lobby] has disconnected
+20:03:08 [INFO] [_l1pe] -> UpstreamBridge has disconnected
+20:03:08 [INFO] [_l1pe] <-> DownstreamBridge <-> [lobby] has disconnected
+20:12:57 [INFO] [Finott] -> UpstreamBridge has disconnected
+20:12:57 [INFO] [Finott] <-> DownstreamBridge <-> [lobby] has disconnected
+20:17:05 [INFO] [Volantgamer] -> UpstreamBridge has disconnected
+20:17:05 [INFO] [Volantgamer] <-> DownstreamBridge <-> [lobby] has disconnected
+20:29:20 [INFO] [_l1pe,/148.69.189.50:52858] <-> InitialHandler has connected
+20:29:21 [INFO] [_l1pe] <-> ServerConnector [lobby] has connected
+20:29:21 [INFO] [nLogin] O usuário _l1pe logou automaticamente (conta original)
+20:29:26 [INFO] [_l1pe] <-> ServerConnector [bedwars] has connected
+20:29:26 [INFO] [_l1pe] <-> DownstreamBridge <-> [lobby] has disconnected
+20:29:28 [INFO] [_l1pe] -> UpstreamBridge has disconnected
+20:29:28 [INFO] [_l1pe] <-> DownstreamBridge <-> [bedwars] has disconnected
+20:40:02 [INFO] [cacaushow_br,/45.224.27.165:12408] <-> InitialHandler has connected
+20:40:03 [INFO] [cacaushow_br] <-> ServerConnector [lobby] has connected
+20:40:03 [INFO] [nLogin] O usuário cacaushow_br logou automaticamente (conta original)
+20:40:07 [INFO] [cacaushow_br] -> UpstreamBridge has disconnected
+20:40:07 [INFO] [cacaushow_br] <-> DownstreamBridge <-> [lobby] has disconnected
+20:44:48 [INFO] [sujhu,/191.6.98.63:44916] <-> InitialHandler has connected
+20:44:48 [INFO] [sujhu] <-> ServerConnector [lobby] has connected
+20:44:49 [INFO] [nLogin] O usuário sujhu logou automaticamente (conta original)
+20:44:53 [INFO] [sujhu] <-> ServerConnector [bedwars] has connected
+20:44:53 [INFO] [sujhu] <-> DownstreamBridge <-> [lobby] has disconnected
+20:44:58 [INFO] [sujhu] -> UpstreamBridge has disconnected
+20:44:58 [INFO] [sujhu] <-> DownstreamBridge <-> [bedwars] has disconnected
+20:56:14 [INFO] [Otavio_Joga,/45.169.35.228:44149] <-> InitialHandler has connected
+20:56:14 [INFO] [Otavio_Joga] <-> ServerConnector [login] has connected
+20:56:14 [INFO] [Otavio_Joga] <-> ServerConnector [login] has disconnected
+20:56:23 [WARNING] [LiteAnnouncer] An error occured while sending auto-message to players!
+20:56:23 [SEVERE] java.lang.NullPointerException
+20:56:23 [SEVERE] 	at me.litefine.announcer.managers.AnnounceTask.lambda$sendMessage$1(AnnounceTask.java:50)
+20:56:23 [SEVERE] 	at java.lang.Iterable.forEach(Iterable.java:75)
+20:56:23 [SEVERE] 	at java.util.Collections$UnmodifiableCollection.forEach(Collections.java:1082)
+20:56:23 [SEVERE] 	at me.litefine.announcer.managers.AnnounceTask.sendMessage(AnnounceTask.java:49)
+20:56:23 [SEVERE] 	at me.litefine.announcer.managers.AnnounceTask.run(AnnounceTask.java:34)
+20:56:23 [SEVERE] 	at net.md_5.bungee.scheduler.BungeeTask.run(BungeeTask.java:63)
+20:56:23 [SEVERE] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+20:56:23 [SEVERE] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+20:56:23 [SEVERE] 	at java.lang.Thread.run(Thread.java:748)
+20:56:44 [WARNING] [Otavio_Joga] -> UpstreamBridge - read timed out
+20:56:44 [INFO] [Otavio_Joga] disconnected with: §f§fReadTimeoutException : null
+20:56:44 [INFO] [Otavio_Joga] -> UpstreamBridge has disconnected
+21:03:00 [INFO] [raphaszBW,/179.0.49.98:17230] <-> InitialHandler has connected
+21:03:00 [INFO] [raphaszBW] <-> ServerConnector [login] has connected
+21:03:12 [INFO] [nLogin] O usuário raphaszBW se registrou com sucesso.
+21:03:13 [INFO] [raphaszBW] <-> ServerConnector [lobby] has connected
+21:03:13 [INFO] [raphaszBW] <-> DownstreamBridge <-> [login] has disconnected
+21:03:17 [INFO] [raphaszBW] <-> ServerConnector [bedwars] has connected
+21:03:17 [INFO] [raphaszBW] <-> DownstreamBridge <-> [lobby] has disconnected
+21:04:01 [INFO] [raphaszBW] -> UpstreamBridge has disconnected
+21:04:01 [INFO] [raphaszBW] <-> DownstreamBridge <-> [bedwars] has disconnected
+21:06:23 [INFO] [_GuerobaBW,/186.192.111.128:58586] <-> InitialHandler has connected
+21:06:23 [INFO] [_GuerobaBW] <-> ServerConnector [login] has connected
+21:06:32 [INFO] [nLogin] O usuário _GuerobaBW se autenticou com sucesso.
+21:06:33 [INFO] [_GuerobaBW] <-> ServerConnector [lobby] has connected
+21:06:33 [INFO] [_GuerobaBW] <-> DownstreamBridge <-> [login] has disconnected
+21:07:49 [INFO] [_GuerobaBW] <-> ServerConnector [bedwars] has connected
+21:07:49 [INFO] [_GuerobaBW] <-> DownstreamBridge <-> [lobby] has disconnected
+21:10:22 [INFO] [notturnnii,/177.3.67.19:56975] <-> InitialHandler has connected
+21:10:22 [INFO] [notturnnii] <-> ServerConnector [login] has connected
+21:10:42 [INFO] [nLogin] O usuário notturnnii se registrou com sucesso.
+21:10:42 [INFO] [notturnnii] <-> ServerConnector [lobby] has connected
+21:10:42 [INFO] [notturnnii] <-> DownstreamBridge <-> [login] has disconnected
+21:10:45 [INFO] [notturnnii] <-> ServerConnector [bedwars] has connected
+21:10:45 [INFO] [notturnnii] <-> DownstreamBridge <-> [lobby] has disconnected
+21:11:00 [INFO] [Volantgamer_13,/179.117.15.97:52466] <-> InitialHandler has connected
+21:11:00 [INFO] [Volantgamer_13] <-> ServerConnector [login] has connected
+21:11:03 [INFO] [notturnnii] -> UpstreamBridge has disconnected
+21:11:03 [INFO] [notturnnii] <-> DownstreamBridge <-> [bedwars] has disconnected
+21:11:05 [INFO] [nLogin] O usuário Volantgamer_13 se autenticou com sucesso.
+21:11:05 [INFO] [Volantgamer_13] <-> ServerConnector [lobby] has connected
+21:11:05 [INFO] [Volantgamer_13] <-> DownstreamBridge <-> [login] has disconnected
+21:11:07 [INFO] [Volantgamer_13] <-> ServerConnector [bedwars] has connected
+21:11:07 [INFO] [Volantgamer_13] <-> DownstreamBridge <-> [lobby] has disconnected
+21:12:14 [INFO] [Volantgamer_13] -> UpstreamBridge has disconnected
+21:12:14 [INFO] [Volantgamer_13] <-> DownstreamBridge <-> [bedwars] has disconnected
+21:12:41 [INFO] [Volantgamer_13,/179.117.15.97:52541] <-> InitialHandler has connected
+21:12:41 [INFO] [Volantgamer_13] <-> ServerConnector [lobby] has connected
+21:12:41 [INFO] [nLogin] O usuário Volantgamer_13 logou automaticamente (sessão de login)
+21:12:42 [INFO] [Volantgamer_13] <-> ServerConnector [bedwars] has connected
+21:12:42 [INFO] [Volantgamer_13] <-> DownstreamBridge <-> [lobby] has disconnected
+21:12:48 [INFO] [Volantgamer_13] -> UpstreamBridge has disconnected
+21:12:48 [INFO] [Volantgamer_13] <-> DownstreamBridge <-> [bedwars] has disconnected
+21:13:02 [INFO] [sujhu,/191.6.98.63:44871] <-> InitialHandler has connected
+21:13:03 [INFO] [sujhu] <-> ServerConnector [lobby] has connected
+21:13:03 [INFO] [nLogin] O usuário sujhu logou automaticamente (conta original)
+21:13:16 [INFO] [sujhu] <-> ServerConnector [bedwars] has connected
+21:13:16 [INFO] [sujhu] <-> DownstreamBridge <-> [lobby] has disconnected
+21:16:08 [INFO] [sujhu] -> UpstreamBridge has disconnected
+21:16:08 [INFO] [sujhu] <-> DownstreamBridge <-> [bedwars] has disconnected
+21:49:52 [WARNING] [/8.211.52.127:15240] <-> InitialHandler - NativeIoException: recvAddress(..) failed: Connection reset by peer
+22:00:29 [INFO] [Tomiokasama2,/201.79.140.26:59195] <-> InitialHandler has connected
+22:00:29 [INFO] [Tomiokasama2] <-> ServerConnector [login] has connected
+22:00:46 [INFO] [nLogin] O usuário Tomiokasama2 se registrou com sucesso.
+22:00:46 [INFO] [Tomiokasama2] <-> ServerConnector [lobby] has connected
+22:00:46 [INFO] [Tomiokasama2] <-> DownstreamBridge <-> [login] has disconnected
+22:00:57 [INFO] [Tomiokasama2] -> UpstreamBridge has disconnected
+22:00:57 [INFO] [Tomiokasama2] <-> DownstreamBridge <-> [lobby] has disconnected
+22:01:30 [INFO] [Pedrohenry745,/45.226.122.48:7589] <-> InitialHandler has connected
+22:01:30 [INFO] [Pedrohenry745] <-> ServerConnector [login] has connected
+22:01:44 [INFO] [nLogin] O usuário Pedrohenry745 se registrou com sucesso.
+22:01:44 [INFO] [Pedrohenry745] <-> ServerConnector [lobby] has connected
+22:01:45 [INFO] [Pedrohenry745] <-> DownstreamBridge <-> [login] has disconnected
+22:01:50 [INFO] [Pedrohenry745] <-> ServerConnector [bedwars] has connected
+22:01:50 [INFO] [Pedrohenry745] <-> DownstreamBridge <-> [lobby] has disconnected
+22:02:16 [INFO] [Pedrohenry745] -> UpstreamBridge has disconnected
+22:02:16 [INFO] [Pedrohenry745] <-> DownstreamBridge <-> [bedwars] has disconnected
+22:04:45 [INFO] [_GuerobaBW] -> UpstreamBridge has disconnected
+22:04:45 [INFO] [_GuerobaBW] <-> DownstreamBridge <-> [bedwars] has disconnected
+22:25:41 [INFO] [MAO01BW,/177.20.211.2:47944] <-> InitialHandler has connected
+22:25:41 [INFO] [MAO01BW] <-> ServerConnector [login] has connected
+22:25:45 [INFO] [nLogin] O usuário MAO01BW se autenticou com sucesso.
+22:25:46 [INFO] [MAO01BW] <-> ServerConnector [lobby] has connected
+22:25:46 [INFO] [MAO01BW] <-> DownstreamBridge <-> [login] has disconnected
+22:25:50 [INFO] [MAO01BW] <-> ServerConnector [bedwars] has connected
+22:25:50 [INFO] [MAO01BW] <-> DownstreamBridge <-> [lobby] has disconnected
+22:26:00 [INFO] [MAO01BW] disconnected with: §fFlying is not enabled on this server
+22:26:00 [INFO] [MAO01BW] -> UpstreamBridge has disconnected
+22:26:00 [INFO] [MAO01BW] <-> DownstreamBridge <-> [bedwars] has disconnected
+22:37:03 [INFO] [sujhu,/191.6.98.63:44848] <-> InitialHandler has connected
+22:37:04 [INFO] [sujhu] <-> ServerConnector [lobby] has connected
+22:37:04 [INFO] [nLogin] O usuário sujhu logou automaticamente (conta original)
+22:37:09 [INFO] [sujhu] <-> ServerConnector [bedwars] has connected
+22:37:09 [INFO] [sujhu] <-> DownstreamBridge <-> [lobby] has disconnected
+22:37:16 [INFO] [sujhu] -> UpstreamBridge has disconnected
+22:37:16 [INFO] [sujhu] <-> DownstreamBridge <-> [bedwars] has disconnected
+22:45:16 [INFO] [AmorSocial,/189.71.209.24:5648] <-> InitialHandler has connected
+22:45:17 [INFO] [AmorSocial] <-> ServerConnector [lobby] has connected
+22:45:17 [INFO] [nLogin] O usuário AmorSocial logou automaticamente (conta original)
+22:45:22 [INFO] [AmorSocial] <-> ServerConnector [bedwars] has connected
+22:45:22 [INFO] [AmorSocial] <-> DownstreamBridge <-> [lobby] has disconnected
+22:45:55 [INFO] [AmorSocial] -> UpstreamBridge has disconnected
+22:45:55 [INFO] [AmorSocial] <-> DownstreamBridge <-> [bedwars] has disconnected
+23:23:04 [INFO] [streypc,/190.111.150.250:2082] <-> InitialHandler has connected
+23:23:04 [INFO] [streypc] <-> ServerConnector [login] has connected
+23:23:10 [INFO] [nLogin] O usuário streypc se autenticou com sucesso.
+23:23:11 [INFO] [streypc] <-> ServerConnector [lobby] has connected
+23:23:11 [INFO] [streypc] <-> DownstreamBridge <-> [login] has disconnected
+23:23:30 [INFO] [_GuerobaBW,/186.192.111.128:62502] <-> InitialHandler has connected
+23:23:30 [INFO] [_GuerobaBW] <-> ServerConnector [login] has connected
+23:23:38 [INFO] [nLogin] O usuário _GuerobaBW se autenticou com sucesso.
+23:23:38 [INFO] [_GuerobaBW] <-> ServerConnector [lobby] has connected
+23:23:38 [INFO] [_GuerobaBW] <-> DownstreamBridge <-> [login] has disconnected
+23:23:48 [INFO] [_GuerobaBW] <-> ServerConnector [bedwars] has connected
+23:23:48 [INFO] [_GuerobaBW] <-> DownstreamBridge <-> [lobby] has disconnected
+23:24:05 [INFO] [streypc] -> UpstreamBridge has disconnected
+23:24:05 [INFO] [streypc] <-> DownstreamBridge <-> [lobby] has disconnected
+23:24:18 [INFO] [_GuerobaBW] -> UpstreamBridge has disconnected
+23:24:18 [INFO] [_GuerobaBW] <-> DownstreamBridge <-> [bedwars] has disconnected
+23:24:23 [INFO] [_GuerobaBW,/186.192.111.128:62536] <-> InitialHandler has connected
+23:24:23 [INFO] [_GuerobaBW] <-> ServerConnector [lobby] has connected
+23:24:23 [INFO] [nLogin] O usuário _GuerobaBW logou automaticamente (sessão de login)
+23:24:34 [INFO] [_GuerobaBW] -> UpstreamBridge has disconnected
+23:24:34 [INFO] [_GuerobaBW] <-> DownstreamBridge <-> [lobby] has disconnected
+00:15:29 [INFO] [MrMystic274Mage,/186.250.8.192:59169] <-> InitialHandler has connected
+00:15:29 [INFO] [MrMystic274Mage] <-> ServerConnector [login] has connected
+00:15:32 [INFO] [MrMystic274Mage] disconnected with: §f§7Para confirmar que você está usando uma §aconta original§7, entre novamente.
+00:15:32 [INFO] [MrMystic274Mage] <-> DownstreamBridge <-> [login] has disconnected
+00:15:32 [INFO] [MrMystic274Mage] -> UpstreamBridge has disconnected
+00:15:33 [INFO] [MrMystic274Mage,/186.250.8.192:59171] <-> InitialHandler has connected
+00:15:34 [WARNING] [LuckPerms] LuckPerms already has data for player 'MrMystic274Mage' - but this data is stored under a different UUID.
+00:15:34 [WARNING] [LuckPerms] 'MrMystic274Mage' has previously used the unique ids [b5e6b2cb-2f33-3d46-bb61-2f43f0c8f12c] but is now connecting with 'e2f55ed7-d84a-4606-ac10-feed24817cfe'
+00:15:34 [WARNING] [LuckPerms] The UUID the player is connecting with now is Mojang-assigned (type 4). This implies that BungeeCord's IP-Forwarding has not been setup correctly on one (or more) of the backend servers.
+00:15:34 [WARNING] [LuckPerms] The UUID the player is connecting with now is Mojang-assigned (type 4). This implies that one of the other servers in your network is not authenticating correctly.
+00:15:34 [WARNING] [LuckPerms] If you're using BungeeCord/Velocity, please ensure that IP-Forwarding is setup correctly on all of your backend servers!
+00:15:34 [WARNING] [LuckPerms] See here for more info: https://luckperms.net/wiki/Network-Installation#pre-setup
+00:15:34 [INFO] [MrMystic274Mage] <-> ServerConnector [lobby] has connected
+00:15:34 [INFO] [nLogin] O usuário MrMystic274Mage logou automaticamente (conta original)
+00:15:38 [INFO] [MrMystic274Mage] -> UpstreamBridge has disconnected
+00:15:38 [INFO] [MrMystic274Mage] <-> DownstreamBridge <-> [lobby] has disconnected
+00:41:46 [INFO] [gustavo2445678,/179.48.195.216:17229] <-> InitialHandler has connected
+00:41:46 [INFO] [gustavo2445678] <-> ServerConnector [login] has connected
+00:42:12 [INFO] [nLogin] O usuário gustavo2445678 se autenticou com sucesso.
+00:42:12 [INFO] [gustavo2445678] <-> ServerConnector [lobby] has connected
+00:42:12 [INFO] [gustavo2445678] <-> DownstreamBridge <-> [login] has disconnected
+00:42:18 [INFO] [gustavo2445678] <-> ServerConnector [bedwars] has connected
+00:42:18 [INFO] [gustavo2445678] <-> DownstreamBridge <-> [lobby] has disconnected
+00:42:55 [INFO] [gustavo2445678] -> UpstreamBridge has disconnected
+00:42:55 [INFO] [gustavo2445678] <-> DownstreamBridge <-> [bedwars] has disconnected
+01:07:51 [INFO] [xDark1_,/186.224.135.39:60896] <-> InitialHandler has connected
+01:07:51 [INFO] [xDark1_] <-> ServerConnector [login] has connected
+01:07:55 [INFO] [xDark1_] disconnected with: §f§7Para confirmar que você está usando uma §aconta original§7, entre novamente.
+01:07:55 [INFO] [xDark1_] <-> DownstreamBridge <-> [login] has disconnected
+01:07:55 [INFO] [xDark1_] -> UpstreamBridge has disconnected
+01:07:57 [INFO] [xDark1_,/186.224.135.39:60061] <-> InitialHandler has connected
+01:07:57 [WARNING] [LuckPerms] LuckPerms already has data for player 'xDark1_' - but this data is stored under a different UUID.
+01:07:57 [WARNING] [LuckPerms] 'xDark1_' has previously used the unique ids [e8ebceee-63e3-3007-acb4-704c7f17e25b] but is now connecting with 'd47295b0-822d-428c-9248-c597701eef72'
+01:07:57 [WARNING] [LuckPerms] The UUID the player is connecting with now is Mojang-assigned (type 4). This implies that BungeeCord's IP-Forwarding has not been setup correctly on one (or more) of the backend servers.
+01:07:57 [WARNING] [LuckPerms] The UUID the player is connecting with now is Mojang-assigned (type 4). This implies that one of the other servers in your network is not authenticating correctly.
+01:07:57 [WARNING] [LuckPerms] If you're using BungeeCord/Velocity, please ensure that IP-Forwarding is setup correctly on all of your backend servers!
+01:07:57 [WARNING] [LuckPerms] See here for more info: https://luckperms.net/wiki/Network-Installation#pre-setup
+01:07:57 [INFO] [xDark1_] <-> ServerConnector [lobby] has connected
+01:07:57 [INFO] [nLogin] O usuário xDark1_ logou automaticamente (conta original)
+01:08:03 [INFO] [xDark1_] <-> ServerConnector [bedwars] has connected
+01:08:03 [INFO] [xDark1_] <-> DownstreamBridge <-> [lobby] has disconnected
+01:08:29 [INFO] [xDark1_] -> UpstreamBridge has disconnected
+01:08:29 [INFO] [xDark1_] <-> DownstreamBridge <-> [bedwars] has disconnected
+01:08:33 [INFO] [xDark1_,/186.224.135.39:60967] <-> InitialHandler has connected
+01:08:33 [INFO] [xDark1_] <-> ServerConnector [lobby] has connected
+01:08:33 [INFO] [nLogin] O usuário xDark1_ logou automaticamente (conta original)
+01:08:38 [INFO] [xDark1_] <-> ServerConnector [bedwars] has connected
+01:08:38 [INFO] [xDark1_] <-> DownstreamBridge <-> [lobby] has disconnected
+01:08:59 [INFO] [xDark1_] -> UpstreamBridge has disconnected
+01:08:59 [INFO] [xDark1_] <-> DownstreamBridge <-> [bedwars] has disconnected
+01:29:02 [INFO] [xdsa23,/177.228.140.71:7988] <-> InitialHandler has connected
+01:29:02 [INFO] [xdsa23] <-> ServerConnector [login] has connected
+01:29:31 [INFO] [nLogin] O usuário xdsa23 se autenticou com sucesso.
+01:29:31 [INFO] [xdsa23] <-> ServerConnector [lobby] has connected
+01:29:31 [INFO] [xdsa23] <-> DownstreamBridge <-> [login] has disconnected
+01:29:40 [INFO] [xdsa23] <-> ServerConnector [bedwars] has connected
+01:29:40 [INFO] [xdsa23] <-> DownstreamBridge <-> [lobby] has disconnected
+01:30:20 [INFO] [Ricardore,/177.44.178.181:62292] <-> InitialHandler has connected
+01:30:21 [INFO] [Ricardore] <-> ServerConnector [lobby] has connected
+01:30:21 [INFO] [nLogin] O usuário Ricardore logou automaticamente (conta original)
+01:30:23 [INFO] [Ricardore] <-> ServerConnector [bedwars] has connected
+01:30:24 [INFO] [Ricardore] <-> DownstreamBridge <-> [lobby] has disconnected
+01:30:58 [INFO] [Ricardore] -> UpstreamBridge has disconnected
+01:30:58 [INFO] [Ricardore] <-> DownstreamBridge <-> [bedwars] has disconnected
+01:31:24 [INFO] [xdsa23] -> UpstreamBridge has disconnected
+01:31:24 [INFO] [xdsa23] <-> DownstreamBridge <-> [bedwars] has disconnected
+01:31:34 [INFO] [xdsa23,/177.228.140.71:37312] <-> InitialHandler has connected
+01:31:34 [INFO] [xdsa23] <-> ServerConnector [lobby] has connected
+01:31:34 [INFO] [nLogin] O usuário xdsa23 logou automaticamente (sessão de login)
+01:32:59 [INFO] [xdsa23] -> UpstreamBridge has disconnected
+01:32:59 [INFO] [xdsa23] <-> DownstreamBridge <-> [lobby] has disconnected
+01:33:25 [INFO] [xdsa23,/177.228.140.71:52341] <-> InitialHandler has connected
+01:33:25 [INFO] [xdsa23] <-> ServerConnector [lobby] has connected
+01:33:25 [INFO] [nLogin] O usuário xdsa23 logou automaticamente (sessão de login)
+01:33:31 [INFO] [xdsa23] <-> ServerConnector [bedwars] has connected
+01:33:31 [INFO] [xdsa23] <-> DownstreamBridge <-> [lobby] has disconnected
+01:33:46 [INFO] [xdsa23] -> UpstreamBridge has disconnected
+01:33:46 [INFO] [xdsa23] <-> DownstreamBridge <-> [bedwars] has disconnected
+01:44:30 [INFO] [_GuerobaBW,/186.192.111.128:50932] <-> InitialHandler has connected
+01:44:30 [INFO] [_GuerobaBW] <-> ServerConnector [login] has connected
+01:44:54 [INFO] [_GuerobaBW] -> UpstreamBridge has disconnected
+01:44:54 [INFO] [_GuerobaBW] <-> DownstreamBridge <-> [login] has disconnected
+02:40:55 [INFO] [sujhu,/191.6.98.63:43016] <-> InitialHandler has connected
+02:40:56 [INFO] [sujhu] <-> ServerConnector [lobby] has connected
+02:40:56 [INFO] [nLogin] O usuário sujhu logou automaticamente (conta original)
+02:43:55 [INFO] [sujhu] -> UpstreamBridge has disconnected
+02:43:55 [INFO] [sujhu] <-> DownstreamBridge <-> [lobby] has disconnected
+02:44:42 [INFO] [SobeSorrindo,/179.198.115.248:58135] <-> InitialHandler has connected
+02:44:43 [INFO] [SobeSorrindo] <-> ServerConnector [lobby] has connected
+02:44:43 [INFO] [nLogin] O usuário SobeSorrindo logou automaticamente (conta original)
+02:44:57 [INFO] [SobeSorrindo] -> UpstreamBridge has disconnected
+02:44:57 [INFO] [SobeSorrindo] <-> DownstreamBridge <-> [lobby] has disconnected
+02:45:10 [INFO] [sujhu,/191.6.98.63:43457] <-> InitialHandler has connected
+02:45:10 [INFO] [sujhu] <-> ServerConnector [lobby] has connected
+02:45:10 [INFO] [nLogin] O usuário sujhu logou automaticamente (conta original)
+02:45:14 [INFO] [SobeSorrindo,/179.198.115.248:58179] <-> InitialHandler has connected
+02:45:15 [INFO] [SobeSorrindo] <-> ServerConnector [lobby] has connected
+02:45:15 [INFO] [nLogin] O usuário SobeSorrindo logou automaticamente (conta original)
+02:45:23 [INFO] [sujhu] <-> ServerConnector [bedwars] has connected
+02:45:23 [INFO] [sujhu] <-> DownstreamBridge <-> [lobby] has disconnected
+02:45:28 [INFO] [SobeSorrindo] <-> ServerConnector [bedwars] has connected
+02:45:28 [INFO] [SobeSorrindo] <-> DownstreamBridge <-> [lobby] has disconnected
+03:03:48 [INFO] [ArtsBr,/191.220.182.181:51385] <-> InitialHandler has connected
+03:03:48 [INFO] [ArtsBr] <-> ServerConnector [login] has connected
+03:03:51 [INFO] [ArtsBr] disconnected with: §f§7Para confirmar que você está usando uma §aconta original§7, entre novamente.
+03:03:51 [INFO] [ArtsBr] <-> DownstreamBridge <-> [login] has disconnected
+03:03:51 [INFO] [ArtsBr] -> UpstreamBridge has disconnected
+03:03:53 [INFO] [ArtsBr,/191.220.182.181:51387] <-> InitialHandler has connected
+03:03:53 [WARNING] [LuckPerms] LuckPerms already has data for player 'ArtsBr' - but this data is stored under a different UUID.
+03:03:53 [WARNING] [LuckPerms] 'ArtsBr' has previously used the unique ids [82bec1a2-03b2-32ec-8ffb-bcb7a352a7e4] but is now connecting with 'e9b5db5b-b6c2-469c-9a48-0da6cdceed53'
+03:03:53 [WARNING] [LuckPerms] The UUID the player is connecting with now is Mojang-assigned (type 4). This implies that BungeeCord's IP-Forwarding has not been setup correctly on one (or more) of the backend servers.
+03:03:53 [WARNING] [LuckPerms] The UUID the player is connecting with now is Mojang-assigned (type 4). This implies that one of the other servers in your network is not authenticating correctly.
+03:03:53 [WARNING] [LuckPerms] If you're using BungeeCord/Velocity, please ensure that IP-Forwarding is setup correctly on all of your backend servers!
+03:03:53 [WARNING] [LuckPerms] See here for more info: https://luckperms.net/wiki/Network-Installation#pre-setup
+03:03:53 [INFO] [ArtsBr] <-> ServerConnector [lobby] has connected
+03:03:53 [INFO] [nLogin] O usuário ArtsBr logou automaticamente (conta original)
+03:04:04 [INFO] [ArtsBr] <-> ServerConnector [bedwars] has connected
+03:04:04 [INFO] [ArtsBr] <-> DownstreamBridge <-> [lobby] has disconnected
+03:04:20 [INFO] [ArtsBr] -> UpstreamBridge has disconnected
+03:04:20 [INFO] [ArtsBr] <-> DownstreamBridge <-> [bedwars] has disconnected
+03:07:28 [INFO] [xdsa23,/177.228.140.71:62479] <-> InitialHandler has connected
+03:07:28 [INFO] [xdsa23] <-> ServerConnector [login] has connected
+03:07:28 [INFO] [xdsa23] <-> ServerConnector [login] has disconnected
+03:07:31 [INFO] [xdsa23] -> UpstreamBridge has disconnected
+03:08:18 [INFO] [_GuerobaBW,/186.192.111.128:51787] <-> InitialHandler has connected
+03:08:18 [INFO] [_GuerobaBW] <-> ServerConnector [login] has connected
+03:08:18 [INFO] [_GuerobaBW] -> UpstreamBridge has disconnected
+03:08:18 [INFO] [_GuerobaBW] <-> DownstreamBridge <-> [login] has disconnected
+03:11:05 [INFO] [sujhu] -> UpstreamBridge has disconnected
+03:11:05 [INFO] [sujhu] <-> DownstreamBridge <-> [bedwars] has disconnected
+03:11:09 [INFO] [SobeSorrindo] -> UpstreamBridge has disconnected
+03:11:09 [INFO] [SobeSorrindo] <-> DownstreamBridge <-> [bedwars] has disconnected
+05:20:38 [WARNING] [/154.213.187.231:45146] <-> InitialHandler - NativeIoException: recvAddress(..) failed: Connection reset by peer
+09:17:03 [INFO] [_l1pe,/148.69.189.50:42093] <-> InitialHandler has connected
+09:17:04 [INFO] [_l1pe] <-> ServerConnector [lobby] has connected
+09:17:04 [INFO] [nLogin] O usuário _l1pe logou automaticamente (conta original)
+09:17:26 [INFO] [_l1pe] <-> ServerConnector [bedwars] has connected
+09:17:26 [INFO] [_l1pe] <-> DownstreamBridge <-> [lobby] has disconnected
+09:17:50 [INFO] [_l1pe] -> UpstreamBridge has disconnected
+09:17:50 [INFO] [_l1pe] <-> DownstreamBridge <-> [bedwars] has disconnected
+09:25:23 [INFO] [_l1pe,/148.69.189.50:42333] <-> InitialHandler has connected
+09:25:24 [INFO] [_l1pe] <-> ServerConnector [lobby] has connected
+09:25:24 [INFO] [nLogin] O usuário _l1pe logou automaticamente (conta original)
+09:25:46 [INFO] [_l1pe] -> UpstreamBridge has disconnected
+09:25:46 [INFO] [_l1pe] <-> DownstreamBridge <-> [lobby] has disconnected
+10:00:23 [WARNING] [/167.94.138.62:38938] <-> InitialHandler - NativeIoException: recvAddress(..) failed: Connection reset by peer
+12:04:27 [INFO] [Rexgaatado,/179.107.215.56:9062] <-> InitialHandler has connected
+12:04:27 [INFO] [Rexgaatado] <-> ServerConnector [login] has connected
+12:04:32 [INFO] [nLogin] O usuário Rexgaatado se autenticou com sucesso.
+12:04:32 [INFO] [Rexgaatado] <-> ServerConnector [lobby] has connected
+12:04:32 [INFO] [Rexgaatado] <-> DownstreamBridge <-> [login] has disconnected
+12:04:51 [INFO] [Rexgaatado] -> UpstreamBridge has disconnected
+12:04:51 [INFO] [Rexgaatado] <-> DownstreamBridge <-> [lobby] has disconnected
+13:43:16 [INFO] [cacaushow_br,/45.224.27.165:11269] <-> InitialHandler has connected
+13:43:17 [INFO] [cacaushow_br] <-> ServerConnector [lobby] has connected
+13:43:17 [INFO] [nLogin] O usuário cacaushow_br logou automaticamente (conta original)
+13:43:22 [INFO] [cacaushow_br] <-> ServerConnector [bedwars] has connected
+13:43:22 [INFO] [cacaushow_br] <-> DownstreamBridge <-> [lobby] has disconnected
+13:43:25 [INFO] [cacaushow_br] -> UpstreamBridge has disconnected
+13:43:25 [INFO] [cacaushow_br] <-> DownstreamBridge <-> [bedwars] has disconnected
+14:40:11 [INFO] [MuriloDR,/45.181.74.73:51224] <-> InitialHandler has connected
+14:40:12 [INFO] [MuriloDR] <-> ServerConnector [lobby] has connected
+14:40:12 [INFO] [nLogin] O usuário MuriloDR logou automaticamente (conta original)
+14:40:19 [INFO] [MuriloDR] <-> ServerConnector [bedwars] has connected
+14:40:19 [INFO] [MuriloDR] <-> DownstreamBridge <-> [lobby] has disconnected
+14:41:12 [INFO] [LuckPerms] [Messaging] Received user update ping for 'murilodr' with id: 569b2351-a02d-4353-ab24-f3a976e3e96f
+14:41:57 [WARNING] [MuriloDR] <-> DownstreamBridge <-> [bedwars] - NativeIoException: recvAddress(..) failed: Connection reset by peer
+14:41:57 [INFO] [MuriloDR] <-> DownstreamBridge <-> [bedwars] has disconnected
+14:41:57 [INFO] [MuriloDR] <-> ServerConnector [lobby] has connected
+14:42:30 [INFO] [MuriloDR] <-> ServerConnector [bedwars] has connected
+14:42:30 [INFO] [MuriloDR] <-> DownstreamBridge <-> [lobby] has disconnected
+14:42:36 [INFO] [MuriloDR] <-> ServerConnector [lobby] has connected
+14:42:36 [INFO] [MuriloDR] <-> DownstreamBridge <-> [bedwars] has disconnected
+14:42:39 [INFO] [litergames,/85.52.99.115:52079] <-> InitialHandler has connected
+14:42:39 [INFO] [litergames] <-> ServerConnector [login] has connected
+14:42:47 [INFO] [litergames] disconnected with: §f§7Para confirmar que você está usando uma §aconta original§7, entre novamente.
+14:42:47 [INFO] [litergames] <-> DownstreamBridge <-> [login] has disconnected
+14:42:47 [INFO] [litergames] -> UpstreamBridge has disconnected
+14:42:48 [INFO] [litergames,/85.52.99.115:52083] <-> InitialHandler has connected
+14:42:49 [WARNING] [LuckPerms] LuckPerms already has data for player 'litergames' - but this data is stored under a different UUID.
+14:42:49 [WARNING] [LuckPerms] 'litergames' has previously used the unique ids [a8e86c2b-3414-3ff0-ae24-f0164e843bb7] but is now connecting with '983f239c-f841-4343-9bb7-adcee8708fe8'
+14:42:49 [WARNING] [LuckPerms] The UUID the player is connecting with now is Mojang-assigned (type 4). This implies that BungeeCord's IP-Forwarding has not been setup correctly on one (or more) of the backend servers.
+14:42:49 [WARNING] [LuckPerms] The UUID the player is connecting with now is Mojang-assigned (type 4). This implies that one of the other servers in your network is not authenticating correctly.
+14:42:49 [WARNING] [LuckPerms] If you're using BungeeCord/Velocity, please ensure that IP-Forwarding is setup correctly on all of your backend servers!
+14:42:49 [WARNING] [LuckPerms] See here for more info: https://luckperms.net/wiki/Network-Installation#pre-setup
+14:42:49 [INFO] [litergames] <-> ServerConnector [lobby] has connected
+14:42:49 [INFO] [nLogin] O usuário litergames logou automaticamente (conta original)
+14:42:54 [INFO] [litergames] <-> ServerConnector [bedwars] has connected
+14:42:54 [INFO] [litergames] <-> DownstreamBridge <-> [lobby] has disconnected
+14:43:00 [INFO] [zCry__,/189.6.255.193:11687] <-> InitialHandler has connected
+14:43:00 [INFO] [zCry__] <-> ServerConnector [login] has connected
+14:43:02 [INFO] [zCry__] disconnected with: §f§7Para confirmar que você está usando uma §aconta original§7, entre novamente.
+14:43:02 [INFO] [zCry__] <-> DownstreamBridge <-> [login] has disconnected
+14:43:02 [INFO] [zCry__] -> UpstreamBridge has disconnected
+14:43:03 [INFO] [zCry__,/189.6.255.193:11688] <-> InitialHandler has connected
+14:43:04 [INFO] [MuriloDR] <-> ServerConnector [bedwars] has connected
+14:43:04 [INFO] [MuriloDR] <-> DownstreamBridge <-> [lobby] has disconnected
+14:43:04 [WARNING] [LuckPerms] LuckPerms already has data for player 'zCry__' - but this data is stored under a different UUID.
+14:43:04 [WARNING] [LuckPerms] 'zCry__' has previously used the unique ids [e5bb0456-3517-3832-9c02-6c8e7de4a954] but is now connecting with 'd694d292-fff3-4997-8986-d04af955c878'
+14:43:04 [WARNING] [LuckPerms] The UUID the player is connecting with now is Mojang-assigned (type 4). This implies that BungeeCord's IP-Forwarding has not been setup correctly on one (or more) of the backend servers.
+14:43:04 [WARNING] [LuckPerms] The UUID the player is connecting with now is Mojang-assigned (type 4). This implies that one of the other servers in your network is not authenticating correctly.
+14:43:04 [WARNING] [LuckPerms] If you're using BungeeCord/Velocity, please ensure that IP-Forwarding is setup correctly on all of your backend servers!
+14:43:04 [WARNING] [LuckPerms] See here for more info: https://luckperms.net/wiki/Network-Installation#pre-setup
+14:43:04 [INFO] [zCry__] <-> ServerConnector [lobby] has connected
+14:43:04 [INFO] [nLogin] O usuário zCry__ logou automaticamente (conta original)
+14:43:12 [INFO] [zCry__] <-> ServerConnector [bedwars] has connected
+14:43:12 [INFO] [zCry__] <-> DownstreamBridge <-> [lobby] has disconnected
+14:43:15 [SEVERE] [litergames] <-> DownstreamBridge <-> [bedwars] - encountered exception
+java.lang.IllegalArgumentException: Team T2 already exists in this scoreboard
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:218)
+	at net.md_5.bungee.api.score.Scoreboard.addTeam(Scoreboard.java:73)
+	at net.md_5.bungee.connection.DownstreamBridge.handle(DownstreamBridge.java:272)
+	at net.md_5.bungee.protocol.packet.Team.handle(Team.java:129)
+	at net.md_5.bungee.netty.HandlerBoss.channelRead(HandlerBoss.java:128)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:289)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:442)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:103)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:103)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:346)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:318)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1407)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:440)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:918)
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:799)
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:501)
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:399)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:994)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.lang.Thread.run(Thread.java:748)
+14:43:15 [SEVERE] [MuriloDR] <-> DownstreamBridge <-> [bedwars] - encountered exception
+java.lang.IllegalArgumentException: Team T2 already exists in this scoreboard
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:218)
+	at net.md_5.bungee.api.score.Scoreboard.addTeam(Scoreboard.java:73)
+	at net.md_5.bungee.connection.DownstreamBridge.handle(DownstreamBridge.java:272)
+	at net.md_5.bungee.protocol.packet.Team.handle(Team.java:129)
+	at net.md_5.bungee.netty.HandlerBoss.channelRead(HandlerBoss.java:128)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:289)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:442)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:103)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:103)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:346)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:318)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1407)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:440)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:918)
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:799)
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:501)
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:399)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:994)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.lang.Thread.run(Thread.java:748)
+14:43:15 [SEVERE] [zCry__] <-> DownstreamBridge <-> [bedwars] - encountered exception
+java.lang.IllegalArgumentException: Team T2 already exists in this scoreboard
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:218)
+	at net.md_5.bungee.api.score.Scoreboard.addTeam(Scoreboard.java:73)
+	at net.md_5.bungee.connection.DownstreamBridge.handle(DownstreamBridge.java:272)
+	at net.md_5.bungee.protocol.packet.Team.handle(Team.java:129)
+	at net.md_5.bungee.netty.HandlerBoss.channelRead(HandlerBoss.java:128)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:289)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:442)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:103)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:103)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:346)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:318)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1407)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:440)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:918)
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:799)
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:501)
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:399)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:994)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.lang.Thread.run(Thread.java:748)
+14:43:15 [INFO] [zCry__] <-> DownstreamBridge <-> [bedwars] has disconnected
+14:43:15 [INFO] [litergames] <-> DownstreamBridge <-> [bedwars] has disconnected
+14:43:15 [INFO] [MuriloDR] <-> DownstreamBridge <-> [bedwars] has disconnected
+14:43:15 [INFO] [zCry__] <-> ServerConnector [lobby] has connected
+14:43:15 [INFO] [litergames] <-> ServerConnector [lobby] has connected
+14:43:15 [INFO] [MuriloDR] <-> ServerConnector [lobby] has connected
+14:43:18 [INFO] [vct06705,/170.245.24.58:34862] <-> InitialHandler has connected
+14:43:18 [INFO] [vct06705] <-> ServerConnector [login] has connected
+14:43:20 [INFO] [MuriloDR] <-> ServerConnector [bedwars] has connected
+14:43:20 [INFO] [MuriloDR] <-> DownstreamBridge <-> [lobby] has disconnected
+14:43:22 [INFO] [zCry__] <-> ServerConnector [bedwars] has connected
+14:43:22 [INFO] [zCry__] <-> DownstreamBridge <-> [lobby] has disconnected
+14:43:23 [INFO] [litergames] <-> ServerConnector [bedwars] has connected
+14:43:23 [INFO] [litergames] <-> DownstreamBridge <-> [lobby] has disconnected
+14:43:38 [INFO] [nLogin] O usuário vct06705 se registrou com sucesso.
+14:43:38 [INFO] [vct06705] <-> ServerConnector [lobby] has connected
+14:43:39 [INFO] [vct06705] <-> DownstreamBridge <-> [login] has disconnected
+14:43:42 [INFO] [vct06705] <-> ServerConnector [bedwars] has connected
+14:43:42 [INFO] [vct06705] <-> DownstreamBridge <-> [lobby] has disconnected
+14:48:55 [INFO] [zCry__] -> UpstreamBridge has disconnected
+14:48:55 [INFO] [zCry__] <-> DownstreamBridge <-> [bedwars] has disconnected
+14:49:48 [INFO] [MuriloDR] -> UpstreamBridge has disconnected
+14:49:48 [INFO] [MuriloDR] <-> DownstreamBridge <-> [bedwars] has disconnected
